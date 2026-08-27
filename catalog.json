@@ -1,5 +1,5 @@
 {
- "version": 5,
+ "version": 6,
  "books": [
   {
    "id": "cerulean",
@@ -2612,6 +2612,443 @@
    "genres": [
     "Nonfiction",
     "Mystery & Thriller"
+   ],
+   "contentFlags": []
+  },
+  {
+   "id": "ol17346803w",
+   "title": "Aurora",
+   "author": "Kim Stanley Robinson",
+   "isbn": "9780316098106",
+   "cover": "c1",
+   "blurb": "A generation ship finally reaches its new world, and discovers the hard part was never the journey.",
+   "aside": "The starry-eyed colonisation dream, audited line by line by someone who actually did the maths.",
+   "pace": "Slow burn",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 466,
+   "popularity": 86,
+   "tags": [
+    {
+     "text": "generation ship",
+     "accent": "rose"
+    },
+    {
+     "text": "hard science",
+     "accent": "gold"
+    },
+    {
+     "text": "cold equations",
+     "accent": "sage"
+    },
+    {
+     "text": "466 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Science Fiction"
+   ],
+   "contentFlags": []
+  },
+  {
+   "id": "ol26522636w",
+   "title": "Some Desperate Glory",
+   "author": "Emily Tesh",
+   "isbn": "9780356517179",
+   "cover": "c2",
+   "blurb": "Raised to avenge a murdered Earth, a soldier discovers the war story she was taught is a lie.",
+   "aside": "A Hugo winner that opens like boot camp and ends somewhere you will not see coming.",
+   "pace": "Fast-paced",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Closed door",
+   "pageCount": 464,
+   "popularity": 28,
+   "tags": [
+    {
+     "text": "revenge quest",
+     "accent": "rose"
+    },
+    {
+     "text": "queer cast",
+     "accent": "gold"
+    },
+    {
+     "text": "indoctrination",
+     "accent": "sage"
+    },
+    {
+     "text": "464 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Science Fiction"
+   ],
+   "contentFlags": []
+  },
+  {
+   "id": "ol19721977w",
+   "title": "An unkindness of ghosts",
+   "author": "Rivers Solomon",
+   "isbn": "9781617755880",
+   "cover": "c4",
+   "blurb": "On a generation ship run like a plantation, a brilliant outcast starts asking dangerous questions.",
+   "aside": "Furious, strange and beautifully written. Bring a notebook and something warm to drink.",
+   "pace": "Slow burn",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Closed door",
+   "pageCount": 282,
+   "popularity": 63,
+   "tags": [
+    {
+     "text": "shipboard caste",
+     "accent": "rose"
+    },
+    {
+     "text": "queer lead",
+     "accent": "gold"
+    },
+    {
+     "text": "quiet rebellion",
+     "accent": "sage"
+    },
+    {
+     "text": "282 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Science Fiction",
+    "Literary Fiction"
+   ],
+   "contentFlags": []
+  },
+  {
+   "id": "ol20448973w",
+   "title": "The Light Brigade",
+   "author": "Kameron Hurley",
+   "isbn": "9781481447966",
+   "cover": "c3",
+   "blurb": "Soldiers are beamed to the Mars front as light, and one grunt keeps landing in the wrong war.",
+   "aside": "A time-scrambled war novel that trusts you to keep up, and rewards you for it.",
+   "pace": "Fast-paced",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 360,
+   "popularity": 32,
+   "tags": [
+    {
+     "text": "military sf",
+     "accent": "rose"
+    },
+    {
+     "text": "time loops",
+     "accent": "gold"
+    },
+    {
+     "text": "corporate dystopia",
+     "accent": "sage"
+    },
+    {
+     "text": "360 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Science Fiction"
+   ],
+   "contentFlags": []
+  },
+  {
+   "id": "ol19741544w",
+   "title": "Space Opera",
+   "author": "Catherynne M. Valente",
+   "isbn": "9781681689166",
+   "cover": "c5",
+   "blurb": "Humanity must prove its sentience at a galactic song contest, and sends a washed-up glam rocker.",
+   "aside": "Eurovision in space, written at maximum volume. You will either adore it or bounce hard.",
+   "pace": "Fast-paced",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Fade to black",
+   "pageCount": 299,
+   "popularity": 49,
+   "tags": [
+    {
+     "text": "glam rock",
+     "accent": "rose"
+    },
+    {
+     "text": "absurdist",
+     "accent": "gold"
+    },
+    {
+     "text": "alien contest",
+     "accent": "sage"
+    },
+    {
+     "text": "299 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Science Fiction"
+   ],
+   "contentFlags": []
+  },
+  {
+   "id": "ol17857694w",
+   "title": "Revenger",
+   "author": "Alastair Reynolds",
+   "isbn": "9780316555562",
+   "cover": "c1",
+   "blurb": "Two sisters sign onto a treasure-hunting crew, and only one of them comes back unchanged.",
+   "aside": "Space pirates cracking open booby-trapped worlds, with real teeth under the adventure.",
+   "pace": "Fast-paced",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 214,
+   "popularity": 33,
+   "tags": [
+    {
+     "text": "space pirates",
+     "accent": "rose"
+    },
+    {
+     "text": "sisters",
+     "accent": "gold"
+    },
+    {
+     "text": "lost civilisations",
+     "accent": "sage"
+    },
+    {
+     "text": "214 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Science Fiction"
+   ],
+   "contentFlags": []
+  },
+  {
+   "id": "ol20861787w",
+   "title": "To Sleep in a Sea of Stars",
+   "author": "Christopher Paolini",
+   "isbn": "9781250790507",
+   "cover": "c2",
+   "blurb": "A xenobiologist touches an alien relic on a routine survey and wakes an interstellar war.",
+   "aside": "Eight hundred pages of first contact. Clear your weekend, then clear the one after it.",
+   "pace": "Steady",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Fade to black",
+   "pageCount": 880,
+   "popularity": 171,
+   "tags": [
+    {
+     "text": "first contact",
+     "accent": "rose"
+    },
+    {
+     "text": "space opera",
+     "accent": "gold"
+    },
+    {
+     "text": "symbiosis",
+     "accent": "sage"
+    },
+    {
+     "text": "880 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Science Fiction"
+   ],
+   "contentFlags": []
+  },
+  {
+   "id": "ol19792034w",
+   "title": "QualityLand",
+   "author": "Marc-Uwe Kling",
+   "isbn": "9781538732984",
+   "cover": "c3",
+   "blurb": "In an algorithm-run society, a machine scrapper tries to return a product the system insists he wants.",
+   "aside": "Bleakly funny satire about the shop that knows you better than you do. Sound familiar?",
+   "pace": "Steady",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Closed door",
+   "pageCount": 371,
+   "popularity": 70,
+   "tags": [
+    {
+     "text": "satire",
+     "accent": "rose"
+    },
+    {
+     "text": "algorithms",
+     "accent": "gold"
+    },
+    {
+     "text": "robot misfits",
+     "accent": "sage"
+    },
+    {
+     "text": "371 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Science Fiction"
+   ],
+   "contentFlags": []
+  },
+  {
+   "id": "ol17849707w",
+   "title": "The Water Knife",
+   "author": "Paolo Bacigalupi",
+   "isbn": "9781628996463",
+   "cover": "c4",
+   "blurb": "In a drought-shattered Southwest, an enforcer for Las Vegas hunts the water rights that could save it.",
+   "aside": "Noir with dust in its teeth, and a near future that gets more plausible every summer.",
+   "pace": "Fast-paced",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Fade to black",
+   "pageCount": 384,
+   "popularity": 93,
+   "tags": [
+    {
+     "text": "climate collapse",
+     "accent": "rose"
+    },
+    {
+     "text": "desert noir",
+     "accent": "gold"
+    },
+    {
+     "text": "water wars",
+     "accent": "sage"
+    },
+    {
+     "text": "384 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Science Fiction",
+    "Mystery & Thriller"
+   ],
+   "contentFlags": []
+  },
+  {
+   "id": "ol17762236w",
+   "title": "Borne",
+   "author": "Jeff VanderMeer",
+   "isbn": "9781443449120",
+   "cover": "c5",
+   "blurb": "A scavenger in a ruined city adopts a strange creature she found on a giant bear.",
+   "aside": "Yes, the bear is real, and it is the least odd thing here. Go with it.",
+   "pace": "Steady",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Closed door",
+   "pageCount": 330,
+   "popularity": 80,
+   "tags": [
+    {
+     "text": "biotech ruins",
+     "accent": "rose"
+    },
+    {
+     "text": "strange creature",
+     "accent": "gold"
+    },
+    {
+     "text": "found family",
+     "accent": "sage"
+    },
+    {
+     "text": "330 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Science Fiction",
+    "Literary Fiction"
+   ],
+   "contentFlags": []
+  },
+  {
+   "id": "ol19762884w",
+   "title": "Moon of the Crusted Snow",
+   "author": "Waubgeshig Rice",
+   "isbn": "9781773052458",
+   "cover": "c1",
+   "blurb": "A northern Anishinaabe community loses power in winter, then loses contact with the world below.",
+   "aside": "The apocalypse told by a people who have already survived one. Quiet and devastating.",
+   "pace": "Slow burn",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 224,
+   "popularity": 163,
+   "tags": [
+    {
+     "text": "post-apocalyptic",
+     "accent": "rose"
+    },
+    {
+     "text": "indigenous voices",
+     "accent": "gold"
+    },
+    {
+     "text": "long winter",
+     "accent": "sage"
+    },
+    {
+     "text": "224 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Science Fiction",
+    "Literary Fiction"
+   ],
+   "contentFlags": []
+  },
+  {
+   "id": "ol20639876w",
+   "title": "The Seep",
+   "author": "Chana Porter",
+   "isbn": "9781641292153",
+   "cover": "c3",
+   "blurb": "A gentle alien invasion makes anything possible, and costs one woman the wife she loved.",
+   "aside": "A utopia with a grief-shaped hole in it, and it is over in an afternoon.",
+   "pace": "Steady",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Closed door",
+   "pageCount": 210,
+   "popularity": 17,
+   "tags": [
+    {
+     "text": "soft invasion",
+     "accent": "rose"
+    },
+    {
+     "text": "trans lead",
+     "accent": "gold"
+    },
+    {
+     "text": "grief",
+     "accent": "sage"
+    },
+    {
+     "text": "210 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Science Fiction",
+    "Literary Fiction"
    ],
    "contentFlags": []
   }
