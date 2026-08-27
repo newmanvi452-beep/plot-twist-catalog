@@ -1,1634 +1,2619 @@
 {
-  "version": 4,
-  "books": [
+ "version": 5,
+ "books": [
+  {
+   "id": "cerulean",
+   "title": "The House in the Cerulean Sea",
+   "author": "TJ Klune",
+   "isbn": "9781250217288",
+   "cover": "c5",
+   "blurb": "A caseworker is sent to a seaside orphanage of magical children \u2014 and starts wondering whose side he's on.",
+   "aside": "Softer than your usual. Do it anyway.",
+   "pace": "Slow burn",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Closed door",
+   "pageCount": 398,
+   "tags": [
     {
-      "id": "cerulean",
-      "title": "The House in the Cerulean Sea",
-      "author": "TJ Klune",
-      "isbn": "9781250217288",
-      "cover": "c5",
-      "blurb": "A caseworker is sent to a seaside orphanage of magical children — and starts wondering whose side he's on.",
-      "aside": "Softer than your usual. Do it anyway.",
-      "pace": "Slow burn",
-      "romanceLevel": "A little is nice",
-      "spiceLevel": "Closed door",
-      "pageCount": 398,
-      "tags": [
-        {
-          "text": "found family",
-          "accent": "sage"
-        },
-        {
-          "text": "slow burn",
-          "accent": "rose"
-        },
-        {
-          "text": "cozy magic",
-          "accent": "gold"
-        },
-        {
-          "text": "398 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "genres": [
-        "Fantasy",
-        "Contemporary"
-      ],
-      "contentFlags": [],
-      "popularity": 380
+     "text": "found family",
+     "accent": "sage"
     },
     {
-      "id": "piranesi",
-      "title": "Piranesi",
-      "author": "Susanna Clarke",
-      "isbn": "9781635575637",
-      "cover": "c4",
-      "blurb": "A man lives alone in an infinite house of statues and tides. His journal doesn't quite add up.",
-      "aside": "Short, strange, perfect. Trust me on this one.",
-      "pace": "Slow burn",
-      "romanceLevel": "Not really my thing",
-      "spiceLevel": "Closed door",
-      "pageCount": 245,
-      "tags": [
-        {
-          "text": "unreliable narrator",
-          "accent": "rose"
-        },
-        {
-          "text": "strange house",
-          "accent": "gold"
-        },
-        {
-          "text": "245 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "genres": [
-        "Fantasy",
-        "Literary Fiction"
-      ],
-      "contentFlags": [],
-      "popularity": 484
+     "text": "slow burn",
+     "accent": "rose"
     },
     {
-      "id": "castle",
-      "title": "We Have Always Lived in the Castle",
-      "author": "Shirley Jackson",
-      "isbn": "9780143039976",
-      "cover": "c1",
-      "blurb": "Merricat, her sister, and the arsenic that made the whole village hate them.",
-      "aside": "Nobody in this one is okay. You'll love it.",
-      "pace": "Slow burn",
-      "romanceLevel": "Not really my thing",
-      "spiceLevel": "Closed door",
-      "pageCount": 146,
-      "tags": [
-        {
-          "text": "unreliable narrator",
-          "accent": "rose"
-        },
-        {
-          "text": "gothic",
-          "accent": "sage"
-        },
-        {
-          "text": "146 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "genres": [
-        "Horror",
-        "Literary Fiction"
-      ],
-      "contentFlags": [],
-      "popularity": 581
+     "text": "cozy magic",
+     "accent": "gold"
     },
     {
-      "id": "ancillary",
-      "title": "Ancillary Justice",
-      "author": "Ann Leckie",
-      "isbn": "9780316246620",
-      "cover": "c2",
-      "blurb": "A warship's AI, stranded in a single human body, sets out to settle a very old score.",
-      "aside": "Space opera, but make it a grudge.",
-      "pace": "Steady",
-      "romanceLevel": "Not really my thing",
-      "spiceLevel": "Closed door",
-      "pageCount": 386,
-      "tags": [
-        {
-          "text": "revenge arc",
-          "accent": "rose"
-        },
-        {
-          "text": "hive mind",
-          "accent": "gold"
-        },
-        {
-          "text": "386 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "genres": [
-        "Science Fiction"
-      ],
-      "contentFlags": [],
-      "popularity": 234
-    },
-    {
-      "id": "tranquility",
-      "title": "Sea of Tranquility",
-      "author": "Emily St. J. Mandel",
-      "isbn": "9780593321447",
-      "cover": "c2",
-      "blurb": "A time loop threads a moon colony, a pandemic, and a forest in 1912.",
-      "aside": "You'll finish it in two sittings. I've seen your pace.",
-      "pace": "Steady",
-      "romanceLevel": "A little is nice",
-      "spiceLevel": "Closed door",
-      "pageCount": 255,
-      "tags": [
-        {
-          "text": "time loop",
-          "accent": "gold"
-        },
-        {
-          "text": "quiet apocalypse",
-          "accent": "sage"
-        },
-        {
-          "text": "255 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "genres": [
-        "Science Fiction",
-        "Literary Fiction"
-      ],
-      "contentFlags": [
-        "multiple POVs"
-      ],
-      "popularity": 195
-    },
-    {
-      "id": "neverletmego",
-      "title": "Never Let Me Go",
-      "author": "Kazuo Ishiguro",
-      "isbn": "9781400078776",
-      "cover": "c5",
-      "blurb": "Boarding-school children slowly work out what they were raised for.",
-      "aside": "It will hurt. Politely. In the best way.",
-      "pace": "Slow burn",
-      "romanceLevel": "A little is nice",
-      "spiceLevel": "Fade to black",
-      "pageCount": 288,
-      "tags": [
-        {
-          "text": "slow dread",
-          "accent": "smoke"
-        },
-        {
-          "text": "doomed love",
-          "accent": "rose"
-        },
-        {
-          "text": "288 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "genres": [
-        "Literary Fiction",
-        "Science Fiction"
-      ],
-      "contentFlags": [
-        "love triangles"
-      ],
-      "popularity": 983
-    },
-    {
-      "id": "littlefriend",
-      "title": "The Little Friend",
-      "author": "Donna Tartt",
-      "isbn": "9781400031696",
-      "cover": "c3",
-      "blurb": "A girl in Mississippi decides to solve her brother's murder herself.",
-      "aside": "Because you loved The Secret History. Obviously.",
-      "pace": "Slow burn",
-      "romanceLevel": "Not really my thing",
-      "spiceLevel": "Closed door",
-      "pageCount": 640,
-      "tags": [
-        {
-          "text": "morally grey",
-          "accent": "rose"
-        },
-        {
-          "text": "southern gothic",
-          "accent": "sage"
-        },
-        {
-          "text": "640 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "genres": [
-        "Literary Fiction",
-        "Mystery & Thriller"
-      ],
-      "contentFlags": [],
-      "popularity": 107
-    },
-    {
-      "id": "villains",
-      "title": "If We Were Villains",
-      "author": "M. L. Rio",
-      "isbn": "9781250095282",
-      "cover": "c1",
-      "blurb": "Seven Shakespearean actors, one dead classmate, and a decade of silence about what really happened.",
-      "aside": "Dark academia with a body count. Your exact brand.",
-      "pace": "Steady",
-      "romanceLevel": "A little is nice",
-      "spiceLevel": "Fade to black",
-      "pageCount": 354,
-      "tags": [
-        {
-          "text": "morally grey",
-          "accent": "rose"
-        },
-        {
-          "text": "doomed love",
-          "accent": "gold"
-        },
-        {
-          "text": "354 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "genres": [
-        "Mystery & Thriller",
-        "Literary Fiction"
-      ],
-      "contentFlags": [],
-      "popularity": 848
-    },
-    {
-      "id": "babel",
-      "title": "Babel",
-      "author": "R. F. Kuang",
-      "isbn": "9780063021426",
-      "cover": "c2",
-      "blurb": "An Oxford translator learns that language is the empire's real weapon — and he's been holding the knife.",
-      "aside": "It's angry. Let it be angry.",
-      "pace": "Slow burn",
-      "romanceLevel": "Not really my thing",
-      "spiceLevel": "Closed door",
-      "pageCount": 546,
-      "tags": [
-        {
-          "text": "morally grey",
-          "accent": "rose"
-        },
-        {
-          "text": "revenge arc",
-          "accent": "gold"
-        },
-        {
-          "text": "546 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "genres": [
-        "Fantasy",
-        "Historical Fiction"
-      ],
-      "contentFlags": [],
-      "popularity": 484
-    },
-    {
-      "id": "atlas",
-      "title": "The Atlas Six",
-      "author": "Olivie Blake",
-      "isbn": "9781250854544",
-      "cover": "c5",
-      "blurb": "Six magicians are recruited into a secret society. Only five will survive initiation.",
-      "aside": "Everyone's insufferable. That's the point.",
-      "pace": "Slow burn",
-      "romanceLevel": "A little is nice",
-      "spiceLevel": "Open door",
-      "pageCount": 383,
-      "tags": [
-        {
-          "text": "morally grey",
-          "accent": "rose"
-        },
-        {
-          "text": "enemies to lovers",
-          "accent": "gold"
-        },
-        {
-          "text": "383 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "genres": [
-        "Fantasy"
-      ],
-      "contentFlags": [
-        "multiple POVs",
-        "cliffhangers for sequels"
-      ],
-      "popularity": 313
-    },
-    {
-      "id": "secret",
-      "title": "The Secret History",
-      "author": "Donna Tartt",
-      "isbn": "9781400031702",
-      "cover": "c1",
-      "blurb": "A tight-knit group of classics students commits murder — the mystery is why, not who.",
-      "aside": "You already know. You've read it twice.",
-      "pace": "Slow burn",
-      "romanceLevel": "Not really my thing",
-      "spiceLevel": "Fade to black",
-      "pageCount": 559,
-      "tags": [
-        {
-          "text": "morally grey",
-          "accent": "rose"
-        },
-        {
-          "text": "unreliable narrator",
-          "accent": "gold"
-        },
-        {
-          "text": "559 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "genres": [
-        "Literary Fiction",
-        "Mystery & Thriller"
-      ],
-      "contentFlags": [],
-      "popularity": 1986
-    },
-    {
-      "id": "circe",
-      "title": "Circe",
-      "author": "Madeline Miller",
-      "isbn": "9780316556347",
-      "cover": "c5",
-      "blurb": "A minor goddess is exiled to a lonely island and becomes, slowly, someone to fear.",
-      "aside": "She was never the side character.",
-      "pace": "Steady",
-      "romanceLevel": "A little is nice",
-      "spiceLevel": "Fade to black",
-      "pageCount": 393,
-      "tags": [
-        {
-          "text": "morally grey",
-          "accent": "rose"
-        },
-        {
-          "text": "revenge arc",
-          "accent": "gold"
-        },
-        {
-          "text": "393 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "genres": [
-        "Fantasy",
-        "Historical Fiction",
-        "Literary Fiction"
-      ],
-      "contentFlags": [],
-      "popularity": 1090
-    },
-    {
-      "id": "achilles",
-      "title": "The Song of Achilles",
-      "author": "Madeline Miller",
-      "isbn": "9780062060624",
-      "cover": "c3",
-      "blurb": "Achilles and Patroclus, before the war made them a legend.",
-      "aside": "You know how it ends. Read it anyway.",
-      "pace": "Steady",
-      "romanceLevel": "Bring it on",
-      "spiceLevel": "Fade to black",
-      "pageCount": 378,
-      "tags": [
-        {
-          "text": "doomed love",
-          "accent": "rose"
-        },
-        {
-          "text": "slow burn",
-          "accent": "gold"
-        },
-        {
-          "text": "378 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "genres": [
-        "Historical Fiction",
-        "Romance",
-        "Literary Fiction"
-      ],
-      "contentFlags": [],
-      "popularity": 3698
-    },
-    {
-      "id": "annihilation",
-      "title": "Annihilation",
-      "author": "Jeff VanderMeer",
-      "isbn": "9780374104092",
-      "cover": "c2",
-      "blurb": "Four women enter Area X. The wilderness changes what it means to come back.",
-      "aside": "Don't expect answers. Expect atmosphere.",
-      "pace": "Steady",
-      "romanceLevel": "Not really my thing",
-      "spiceLevel": "Closed door",
-      "pageCount": 195,
-      "tags": [
-        {
-          "text": "unreliable narrator",
-          "accent": "rose"
-        },
-        {
-          "text": "slow dread",
-          "accent": "smoke"
-        },
-        {
-          "text": "195 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "genres": [
-        "Science Fiction",
-        "Horror"
-      ],
-      "contentFlags": [],
-      "popularity": 563
-    },
-    {
-      "id": "starless",
-      "title": "The Starless Sea",
-      "author": "Erin Morgenstern",
-      "isbn": "9780385541213",
-      "cover": "c2",
-      "blurb": "A door with no walls leads to a library beneath the world, and a book with his name in it.",
-      "aside": "More a place than a plot. Go anyway.",
-      "pace": "Slow burn",
-      "romanceLevel": "A little is nice",
-      "spiceLevel": "Fade to black",
-      "pageCount": 498,
-      "tags": [
-        {
-          "text": "cozy magic",
-          "accent": "gold"
-        },
-        {
-          "text": "strange house",
-          "accent": "sage"
-        },
-        {
-          "text": "498 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "genres": [
-        "Fantasy"
-      ],
-      "contentFlags": [
-        "multiple POVs"
-      ],
-      "popularity": 253
-    },
-    {
-      "id": "mexgothic",
-      "title": "Mexican Gothic",
-      "author": "Silvia Moreno-Garcia",
-      "isbn": "9780525620785",
-      "cover": "c1",
-      "blurb": "A young socialite visits her cousin's new husband's crumbling estate — and the house doesn't want her to leave.",
-      "aside": "The house is a character. An unwell one.",
-      "pace": "Steady",
-      "romanceLevel": "A little is nice",
-      "spiceLevel": "Fade to black",
-      "pageCount": 301,
-      "tags": [
-        {
-          "text": "gothic",
-          "accent": "sage"
-        },
-        {
-          "text": "strange house",
-          "accent": "gold"
-        },
-        {
-          "text": "301 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "genres": [
-        "Horror",
-        "Historical Fiction"
-      ],
-      "contentFlags": [],
-      "popularity": 330
-    },
-    {
-      "id": "shadowwind",
-      "title": "The Shadow of the Wind",
-      "author": "Carlos Ruiz Zafón",
-      "isbn": "9780143034902",
-      "cover": "c3",
-      "blurb": "A boy finds one forgotten book and pulls on the thread of everyone who ever tried to destroy it.",
-      "aside": "A book about loving books. On the nose, and lovely.",
-      "pace": "Steady",
-      "romanceLevel": "A little is nice",
-      "spiceLevel": "Fade to black",
-      "pageCount": 487,
-      "tags": [
-        {
-          "text": "gothic",
-          "accent": "sage"
-        },
-        {
-          "text": "doomed love",
-          "accent": "rose"
-        },
-        {
-          "text": "487 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "genres": [
-        "Mystery & Thriller",
-        "Historical Fiction",
-        "Literary Fiction"
-      ],
-      "contentFlags": [],
-      "popularity": 939
-    },
-    {
-      "id": "rebecca",
-      "title": "Rebecca",
-      "author": "Daphne du Maurier",
-      "isbn": "9780380730407",
-      "cover": "c4",
-      "blurb": "A second wife moves into a great house still entirely run by the first one — who's been dead for a year.",
-      "aside": "The dead woman wins every scene she isn't in.",
-      "pace": "Slow burn",
-      "romanceLevel": "A little is nice",
-      "spiceLevel": "Closed door",
-      "pageCount": 380,
-      "tags": [
-        {
-          "text": "unreliable narrator",
-          "accent": "rose"
-        },
-        {
-          "text": "gothic",
-          "accent": "sage"
-        },
-        {
-          "text": "380 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "genres": [
-        "Mystery & Thriller",
-        "Historical Fiction"
-      ],
-      "contentFlags": [],
-      "popularity": 1044
-    },
-    {
-      "id": "fingersmith",
-      "title": "Fingersmith",
-      "author": "Sarah Waters",
-      "isbn": "9781573229722",
-      "cover": "c1",
-      "blurb": "A con artist and her mark fall in love. Neither of them wrote the ending they think they're in.",
-      "aside": "The twist is worth the four hundred pages before it.",
-      "pace": "Slow burn",
-      "romanceLevel": "Bring it on",
-      "spiceLevel": "Open door",
-      "pageCount": 582,
-      "tags": [
-        {
-          "text": "unreliable narrator",
-          "accent": "rose"
-        },
-        {
-          "text": "forbidden romance",
-          "accent": "gold"
-        },
-        {
-          "text": "582 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "genres": [
-        "Historical Fiction",
-        "Mystery & Thriller",
-        "Romance"
-      ],
-      "contentFlags": [
-        "multiple POVs"
-      ],
-      "popularity": 299
-    },
-    {
-      "id": "conveniencestore",
-      "title": "Convenience Store Woman",
-      "author": "Sayaka Murata",
-      "isbn": "9780802128256",
-      "cover": "c5",
-      "blurb": "Eighteen years behind the same register, and the only life that's ever made sense to her.",
-      "aside": "Finish it on a lunch break. Think about it for a month.",
-      "pace": "Fast-paced",
-      "romanceLevel": "Not really my thing",
-      "spiceLevel": "Closed door",
-      "pageCount": 176,
-      "tags": [
-        {
-          "text": "quiet strangeness",
-          "accent": "smoke"
-        },
-        {
-          "text": "176 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "genres": [
-        "Literary Fiction",
-        "Contemporary"
-      ],
-      "contentFlags": [],
-      "popularity": 259
-    },
-    {
-      "id": "oceanlane",
-      "title": "The Ocean at the End of the Lane",
-      "author": "Neil Gaiman",
-      "isbn": "9780062255655",
-      "cover": "c2",
-      "blurb": "A man returns to his childhood lane and remembers a pond that was actually an ocean.",
-      "aside": "Childhood, but the frightening kind.",
-      "pace": "Fast-paced",
-      "romanceLevel": "Not really my thing",
-      "spiceLevel": "Closed door",
-      "pageCount": 181,
-      "tags": [
-        {
-          "text": "cozy magic",
-          "accent": "gold"
-        },
-        {
-          "text": "slow dread",
-          "accent": "smoke"
-        },
-        {
-          "text": "181 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "genres": [
-        "Fantasy",
-        "Horror"
-      ],
-      "contentFlags": [],
-      "popularity": 634
-    },
-    {
-      "id": "endurance",
-      "title": "Endurance",
-      "author": "Alfred Lansing",
-      "isbn": "9780465062881",
-      "cover": "c3",
-      "blurb": "Twenty-eight men, a crushed ship, and the coldest sea on Earth. Somehow a page-turner.",
-      "aside": "Nonfiction. Boats. I know. Give it forty pages.",
-      "pace": "Steady",
-      "romanceLevel": "Not really my thing",
-      "spiceLevel": "Closed door",
-      "pageCount": 357,
-      "tags": [
-        {
-          "text": "true story",
-          "accent": "smoke"
-        },
-        {
-          "text": "against the odds",
-          "accent": "sage"
-        },
-        {
-          "text": "357 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "genres": [
-        "Nonfiction",
-        "Historical Fiction"
-      ],
-      "contentFlags": [],
-      "popularity": 199
-    },
-    {
-      "id": "ol17619634w",
-      "title": "Norse Mythology",
-      "author": "Neil Gaiman",
-      "isbn": "9781432852337",
-      "cover": "c4",
-      "blurb": "Gaiman retells the Norse myths, from the first frost to the last battle.",
-      "aside": "Loki is insufferable and you will enjoy every second of him.",
-      "genres": [
-        "Fantasy",
-        "Literary Fiction"
-      ],
-      "pace": "Steady",
-      "romanceLevel": "Not really my thing",
-      "spiceLevel": "Closed door",
-      "contentFlags": [],
-      "pageCount": 304,
-      "tags": [
-        {
-          "text": "old gods",
-          "accent": "rose"
-        },
-        {
-          "text": "trickster",
-          "accent": "gold"
-        },
-        {
-          "text": "myth retelling",
-          "accent": "sage"
-        },
-        {
-          "text": "304 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "popularity": 499
-    },
-    {
-      "id": "ol28888070w",
-      "title": "Camp Damascus",
-      "author": "Chuck Tingle",
-      "isbn": "9781803365114",
-      "cover": "c5",
-      "blurb": "A model Christian town has a very literal way of curing its queer teenagers.",
-      "aside": "Angrier than it is frightening, and better for it.",
-      "genres": [
-        "Horror",
-        "Contemporary"
-      ],
-      "pace": "Fast-paced",
-      "romanceLevel": "A little is nice",
-      "spiceLevel": "Closed door",
-      "contentFlags": [],
-      "pageCount": 256,
-      "tags": [
-        {
-          "text": "queer horror",
-          "accent": "rose"
-        },
-        {
-          "text": "demons",
-          "accent": "gold"
-        },
-        {
-          "text": "small town",
-          "accent": "sage"
-        },
-        {
-          "text": "256 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "popularity": 38
-    },
-    {
-      "id": "ol17366745w",
-      "title": "The Fisherman",
-      "author": "John Langan",
-      "isbn": "9781939905215",
-      "cover": "c2",
-      "blurb": "Two widowers go fishing at a creek that promises far more than fish.",
-      "aside": "Quiet for a long while. Then extremely not.",
-      "genres": [
-        "Horror",
-        "Literary Fiction"
-      ],
-      "pace": "Slow burn",
-      "romanceLevel": "Not really my thing",
-      "spiceLevel": "Closed door",
-      "contentFlags": [],
-      "pageCount": 304,
-      "tags": [
-        {
-          "text": "cosmic horror",
-          "accent": "rose"
-        },
-        {
-          "text": "grief",
-          "accent": "gold"
-        },
-        {
-          "text": "story within a story",
-          "accent": "sage"
-        },
-        {
-          "text": "304 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "popularity": 111
-    },
-    {
-      "id": "ol17823750w",
-      "title": "The Bazaar of Bad Dreams",
-      "author": "Stephen King",
-      "isbn": "9781473698888",
-      "cover": "c1",
-      "blurb": "Twenty King stories, each with a note on how it came to exist.",
-      "aside": "Dip in and out. Two or three will follow you home.",
-      "genres": [
-        "Horror",
-        "Literary Fiction"
-      ],
-      "pace": "Steady",
-      "romanceLevel": "Not really my thing",
-      "spiceLevel": "Fade to black",
-      "contentFlags": [],
-      "pageCount": 600,
-      "tags": [
-        {
-          "text": "short stories",
-          "accent": "rose"
-        },
-        {
-          "text": "quiet menace",
-          "accent": "gold"
-        },
-        {
-          "text": "americana",
-          "accent": "sage"
-        },
-        {
-          "text": "600 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "popularity": 622
-    },
-    {
-      "id": "ol24510090w",
-      "title": "Nettle & Bone",
-      "author": "T. Kingfisher",
-      "isbn": "9781803360997",
-      "cover": "c1",
-      "blurb": "A convent-raised princess sets out to kill her sister's husband, collecting misfits.",
-      "aside": "A demon-possessed chicken joins the party. Trust the process.",
-      "genres": [
-        "Fantasy",
-        "Horror"
-      ],
-      "pace": "Steady",
-      "romanceLevel": "A little is nice",
-      "spiceLevel": "Fade to black",
-      "contentFlags": [],
-      "pageCount": 320,
-      "tags": [
-        {
-          "text": "reluctant heroine",
-          "accent": "rose"
-        },
-        {
-          "text": "grave magic",
-          "accent": "gold"
-        },
-        {
-          "text": "found family",
-          "accent": "sage"
-        },
-        {
-          "text": "320 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "popularity": 87
-    },
-    {
-      "id": "ol20866894w",
-      "title": "Home Before Dark",
-      "author": "Todd Ritter",
-      "isbn": "9781524745196",
-      "cover": "c4",
-      "blurb": "A woman returns to the haunted house her father wrote a bestseller about.",
-      "aside": "The house is the least of it. Everyone lying about the house is the problem.",
-      "genres": [
-        "Mystery & Thriller",
-        "Horror"
-      ],
-      "pace": "Steady",
-      "romanceLevel": "A little is nice",
-      "spiceLevel": "Closed door",
-      "contentFlags": [
-        "multiple POVs"
-      ],
-      "pageCount": 416,
-      "tags": [
-        {
-          "text": "haunted house",
-          "accent": "rose"
-        },
-        {
-          "text": "unreliable narrator",
-          "accent": "gold"
-        },
-        {
-          "text": "book within a book",
-          "accent": "sage"
-        },
-        {
-          "text": "416 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "popularity": 155
-    },
-    {
-      "id": "ol25337698w",
-      "title": "Hidden Pictures",
-      "author": "Jason Rekulak",
-      "isbn": "9781250819345",
-      "cover": "c3",
-      "blurb": "A nanny's small charge starts drawing pictures no child should be able to draw.",
-      "aside": "The drawings are printed in the book. Sleep well.",
-      "genres": [
-        "Mystery & Thriller",
-        "Horror"
-      ],
-      "pace": "Fast-paced",
-      "romanceLevel": "A little is nice",
-      "spiceLevel": "Closed door",
-      "contentFlags": [],
-      "pageCount": 408,
-      "tags": [
-        {
-          "text": "creepy child",
-          "accent": "rose"
-        },
-        {
-          "text": "haunting",
-          "accent": "gold"
-        },
-        {
-          "text": "illustrated",
-          "accent": "sage"
-        },
-        {
-          "text": "408 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "popularity": 222
-    },
-    {
-      "id": "ol19718849w",
-      "title": "Paperbacks from Hell",
-      "author": "Grady Hendrix",
-      "isbn": "9781538518304",
-      "cover": "c5",
-      "blurb": "A gleeful history of seventies horror paperbacks and their completely unhinged covers.",
-      "aside": "Nonfiction that will cost you a fortune in secondhand paperbacks.",
-      "genres": [
-        "Nonfiction"
-      ],
-      "pace": "Fast-paced",
-      "romanceLevel": "Not really my thing",
-      "spiceLevel": "Closed door",
-      "contentFlags": [],
-      "pageCount": 128,
-      "tags": [
-        {
-          "text": "horror history",
-          "accent": "rose"
-        },
-        {
-          "text": "lurid covers",
-          "accent": "gold"
-        },
-        {
-          "text": "genuinely funny",
-          "accent": "sage"
-        },
-        {
-          "text": "128 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "popularity": 48
-    },
-    {
-      "id": "ol21745884w",
-      "title": "Project Hail Mary",
-      "author": "Andy Weir",
-      "isbn": "9781529100624",
-      "cover": "c3",
-      "blurb": "A man wakes alone on a spaceship with no memory and a planet to save.",
-      "aside": "Yes, it is physics homework. You will still get attached.",
-      "genres": [
-        "Science Fiction"
-      ],
-      "pace": "Fast-paced",
-      "romanceLevel": "Not really my thing",
-      "spiceLevel": "Closed door",
-      "contentFlags": [],
-      "pageCount": 496,
-      "tags": [
-        {
-          "text": "lone survivor",
-          "accent": "rose"
-        },
-        {
-          "text": "first contact",
-          "accent": "gold"
-        },
-        {
-          "text": "problem solving",
-          "accent": "sage"
-        },
-        {
-          "text": "496 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "popularity": 1312
-    },
-    {
-      "id": "ol17373843w",
-      "title": "Children of Time",
-      "author": "Adrian Tchaikovsky",
-      "isbn": "9781447273318",
-      "cover": "c1",
-      "blurb": "A dying human ark ship meets the spider civilisation growing on its target world.",
-      "aside": "You will end up rooting for the spiders. I don't make the rules.",
-      "genres": [
-        "Science Fiction"
-      ],
-      "pace": "Slow burn",
-      "romanceLevel": "Not really my thing",
-      "spiceLevel": "Closed door",
-      "contentFlags": [
-        "multiple POVs"
-      ],
-      "pageCount": 616,
-      "tags": [
-        {
-          "text": "deep time",
-          "accent": "rose"
-        },
-        {
-          "text": "uplifted spiders",
-          "accent": "gold"
-        },
-        {
-          "text": "civilisation building",
-          "accent": "sage"
-        },
-        {
-          "text": "616 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "popularity": 492
-    },
-    {
-      "id": "ol17824318w",
-      "title": "Born a Crime",
-      "author": "Trevor Noah",
-      "isbn": "9781531865030",
-      "cover": "c4",
-      "blurb": "Growing up mixed-race in apartheid South Africa, where his existence was literally illegal.",
-      "aside": "Funnier than it has any right to be. His mother steals every scene.",
-      "genres": [
-        "Nonfiction"
-      ],
-      "pace": "Steady",
-      "romanceLevel": "Not really my thing",
-      "spiceLevel": "Closed door",
-      "contentFlags": [],
-      "pageCount": 304,
-      "tags": [
-        {
-          "text": "memoir",
-          "accent": "rose"
-        },
-        {
-          "text": "apartheid",
-          "accent": "gold"
-        },
-        {
-          "text": "very funny",
-          "accent": "sage"
-        },
-        {
-          "text": "304 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "popularity": 950
-    },
-    {
-      "id": "ol19915768w",
-      "title": "Midnight in Chernobyl",
-      "author": "Adam Higginbotham",
-      "isbn": "9781501134647",
-      "cover": "c4",
-      "blurb": "The Chernobyl disaster, hour by hour, from the people who were actually standing there.",
-      "aside": "Reads like a thriller. It is very much not a thriller.",
-      "genres": [
-        "Nonfiction"
-      ],
-      "pace": "Steady",
-      "romanceLevel": "Not really my thing",
-      "spiceLevel": "Closed door",
-      "contentFlags": [],
-      "pageCount": 560,
-      "tags": [
-        {
-          "text": "disaster",
-          "accent": "rose"
-        },
-        {
-          "text": "cold war",
-          "accent": "gold"
-        },
-        {
-          "text": "meticulous",
-          "accent": "sage"
-        },
-        {
-          "text": "560 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "popularity": 155
-    },
-    {
-      "id": "ol17892614w",
-      "title": "Bad Blood",
-      "author": "John Carreyrou",
-      "isbn": "9781509868063",
-      "cover": "c2",
-      "blurb": "A Silicon Valley darling promised to revolutionise blood testing. None of it worked.",
-      "aside": "You will get angry. That is the correct response.",
-      "genres": [
-        "Nonfiction"
-      ],
-      "pace": "Fast-paced",
-      "romanceLevel": "Not really my thing",
-      "spiceLevel": "Closed door",
-      "contentFlags": [],
-      "pageCount": 352,
-      "tags": [
-        {
-          "text": "true story",
-          "accent": "rose"
-        },
-        {
-          "text": "fraud",
-          "accent": "gold"
-        },
-        {
-          "text": "silicon valley",
-          "accent": "sage"
-        },
-        {
-          "text": "352 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "popularity": 261
-    },
-    {
-      "id": "ol20153382w",
-      "title": "Say Nothing",
-      "author": "Patrick Radden Keefe",
-      "isbn": "9780385521314",
-      "cover": "c1",
-      "blurb": "A mother of ten is taken from her Belfast home in 1972 and never comes back.",
-      "aside": "True crime that refuses to let anybody off easy.",
-      "genres": [
-        "Nonfiction"
-      ],
-      "pace": "Steady",
-      "romanceLevel": "Not really my thing",
-      "spiceLevel": "Closed door",
-      "contentFlags": [],
-      "pageCount": 536,
-      "tags": [
-        {
-          "text": "true crime",
-          "accent": "rose"
-        },
-        {
-          "text": "the troubles",
-          "accent": "gold"
-        },
-        {
-          "text": "unsolved",
-          "accent": "sage"
-        },
-        {
-          "text": "536 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "popularity": 140
-    },
-    {
-      "id": "ol17201654w",
-      "title": "Between the World and Me",
-      "author": "Ta-Nehisi Coates",
-      "isbn": "9780679645986",
-      "cover": "c4",
-      "blurb": "A father writes to his teenage son about living in a Black body in America.",
-      "aside": "Short. You will not read it quickly.",
-      "genres": [
-        "Nonfiction"
-      ],
-      "pace": "Fast-paced",
-      "romanceLevel": "Not really my thing",
-      "spiceLevel": "Closed door",
-      "contentFlags": [],
-      "pageCount": 155,
-      "tags": [
-        {
-          "text": "letter to a son",
-          "accent": "rose"
-        },
-        {
-          "text": "essay",
-          "accent": "gold"
-        },
-        {
-          "text": "american history",
-          "accent": "sage"
-        },
-        {
-          "text": "155 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "popularity": 429
-    },
-    {
-      "id": "ol17828326w",
-      "title": "Evicted",
-      "author": "Matthew Desmond",
-      "isbn": "9780241260852",
-      "cover": "c4",
-      "blurb": "Eight families in Milwaukee, and the business of putting people out of their homes.",
-      "aside": "Follows eight families. You will remember all of them.",
-      "genres": [
-        "Nonfiction"
-      ],
-      "pace": "Steady",
-      "romanceLevel": "Not really my thing",
-      "spiceLevel": "Closed door",
-      "contentFlags": [
-        "multiple POVs"
-      ],
-      "pageCount": 448,
-      "tags": [
-        {
-          "text": "poverty",
-          "accent": "rose"
-        },
-        {
-          "text": "landlords",
-          "accent": "gold"
-        },
-        {
-          "text": "field research",
-          "accent": "sage"
-        },
-        {
-          "text": "448 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "popularity": 268
-    },
-    {
-      "id": "ol20090688w",
-      "title": "Red, White & Royal Blue",
-      "author": "Casey McQuiston",
-      "isbn": "9781663617651",
-      "cover": "c3",
-      "blurb": "America's First Son and the Prince of Wales go from enemies to something else.",
-      "aside": "Sunny, filthy and completely unserious. That is the point.",
-      "genres": [
-        "Romance",
-        "Contemporary"
-      ],
-      "pace": "Steady",
-      "romanceLevel": "Bring it on",
-      "spiceLevel": "Open door",
-      "contentFlags": [],
-      "pageCount": 440,
-      "tags": [
-        {
-          "text": "enemies to lovers",
-          "accent": "rose"
-        },
-        {
-          "text": "forbidden romance",
-          "accent": "gold"
-        },
-        {
-          "text": "very funny",
-          "accent": "sage"
-        },
-        {
-          "text": "440 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "popularity": 5025
-    },
-    {
-      "id": "ol24178205w",
-      "title": "The Love Hypothesis",
-      "author": "Ali Hazelwood",
-      "isbn": "9780593336823",
-      "cover": "c2",
-      "blurb": "A PhD student fake-dates the one professor everybody warned her about.",
-      "aside": "Fake dating in a lab coat. You know exactly what you are getting.",
-      "genres": [
-        "Romance",
-        "Contemporary"
-      ],
-      "pace": "Fast-paced",
-      "romanceLevel": "Bring it on",
-      "spiceLevel": "Open door",
-      "contentFlags": [],
-      "pageCount": 398,
-      "tags": [
-        {
-          "text": "fake dating",
-          "accent": "rose"
-        },
-        {
-          "text": "academia",
-          "accent": "gold"
-        },
-        {
-          "text": "slow burn",
-          "accent": "sage"
-        },
-        {
-          "text": "398 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "popularity": 9015
-    },
-    {
-      "id": "ol18203673w",
-      "title": "The Seven Husbands of Evelyn Hugo",
-      "author": "Taylor Jenkins Reid",
-      "isbn": "9781683244646",
-      "cover": "c5",
-      "blurb": "A reclusive film icon finally explains all seven marriages to an unknown journalist.",
-      "aside": "You will guess the twist. You will be wrecked regardless.",
-      "genres": [
-        "Historical Fiction",
-        "Romance",
-        "Literary Fiction"
-      ],
-      "pace": "Steady",
-      "romanceLevel": "Bring it on",
-      "spiceLevel": "Fade to black",
-      "contentFlags": [],
-      "pageCount": 400,
-      "tags": [
-        {
-          "text": "old hollywood",
-          "accent": "rose"
-        },
-        {
-          "text": "doomed love",
-          "accent": "gold"
-        },
-        {
-          "text": "unreliable narrator",
-          "accent": "sage"
-        },
-        {
-          "text": "400 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "popularity": 5330
-    },
-    {
-      "id": "ol20150260w",
-      "title": "Normal People",
-      "author": "Sally Rooney",
-      "isbn": "9781528813129",
-      "cover": "c3",
-      "blurb": "Two Irish teenagers keep finding and losing each other across four years.",
-      "aside": "They could fix this by talking. They will not talk.",
-      "genres": [
-        "Literary Fiction",
-        "Romance",
-        "Contemporary"
-      ],
-      "pace": "Slow burn",
-      "romanceLevel": "Bring it on",
-      "spiceLevel": "Open door",
-      "contentFlags": [
-        "present tense"
-      ],
-      "pageCount": 304,
-      "tags": [
-        {
-          "text": "on again off again",
-          "accent": "rose"
-        },
-        {
-          "text": "class",
-          "accent": "gold"
-        },
-        {
-          "text": "miscommunication",
-          "accent": "sage"
-        },
-        {
-          "text": "304 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "popularity": 1868
-    },
-    {
-      "id": "ol20032935w",
-      "title": "The Hating Game",
-      "author": "Sally Thorne",
-      "isbn": "9780063240766",
-      "cover": "c5",
-      "blurb": "Two executive assistants share an office and a mutual, escalating loathing.",
-      "aside": "Enemies to lovers done properly. The elevator scene earns its reputation.",
-      "genres": [
-        "Romance",
-        "Contemporary"
-      ],
-      "pace": "Fast-paced",
-      "romanceLevel": "Bring it on",
-      "spiceLevel": "Open door",
-      "contentFlags": [],
-      "pageCount": 379,
-      "tags": [
-        {
-          "text": "enemies to lovers",
-          "accent": "rose"
-        },
-        {
-          "text": "office romance",
-          "accent": "gold"
-        },
-        {
-          "text": "banter",
-          "accent": "sage"
-        },
-        {
-          "text": "379 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "popularity": 1143
-    },
-    {
-      "id": "ol19998163w",
-      "title": "Confess",
-      "author": "Colleen Hoover",
-      "isbn": "9781476791456",
-      "cover": "c2",
-      "blurb": "A woman rebuilding her life walks into an art studio and complicates all of it.",
-      "aside": "Hoover will hurt you. You already knew that.",
-      "genres": [
-        "Romance",
-        "Contemporary"
-      ],
-      "pace": "Fast-paced",
-      "romanceLevel": "Bring it on",
-      "spiceLevel": "Open door",
-      "contentFlags": [
-        "insta-love"
-      ],
-      "pageCount": 320,
-      "tags": [
-        {
-          "text": "secrets",
-          "accent": "rose"
-        },
-        {
-          "text": "art studio",
-          "accent": "gold"
-        },
-        {
-          "text": "second chances",
-          "accent": "sage"
-        },
-        {
-          "text": "320 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "popularity": 1393
-    },
-    {
-      "id": "ol19781733w",
-      "title": "Eleanor Oliphant is Completely Fine",
-      "author": "Gail Honeyman",
-      "isbn": "9780008172114",
-      "cover": "c5",
-      "blurb": "Eleanor has a rigid routine, a troubled past, and no idea she is lonely.",
-      "aside": "She is not, in fact, completely fine. Stay with her.",
-      "genres": [
-        "Contemporary",
-        "Literary Fiction"
-      ],
-      "pace": "Steady",
-      "romanceLevel": "A little is nice",
-      "spiceLevel": "Closed door",
-      "contentFlags": [],
-      "pageCount": 352,
-      "tags": [
-        {
-          "text": "lonely narrator",
-          "accent": "rose"
-        },
-        {
-          "text": "slow healing",
-          "accent": "gold"
-        },
-        {
-          "text": "unexpected friendship",
-          "accent": "sage"
-        },
-        {
-          "text": "352 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "popularity": 329
-    },
-    {
-      "id": "ol28695130w",
-      "title": "I Fell in Love with Hope",
-      "author": "Lancali",
-      "isbn": "9781668034538",
-      "cover": "c2",
-      "blurb": "Teenagers on a hospital ward keep each other alive with stories and escape plans.",
-      "aside": "It is very sad and it knows. Bring something to cry into.",
-      "genres": [
-        "Contemporary",
-        "Literary Fiction"
-      ],
-      "pace": "Slow burn",
-      "romanceLevel": "Bring it on",
-      "spiceLevel": "Closed door",
-      "contentFlags": [],
-      "pageCount": 416,
-      "tags": [
-        {
-          "text": "hospital",
-          "accent": "rose"
-        },
-        {
-          "text": "doomed love",
-          "accent": "gold"
-        },
-        {
-          "text": "lyrical",
-          "accent": "sage"
-        },
-        {
-          "text": "416 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "popularity": 1761
+     "text": "398 pages",
+     "accent": "textSoft"
     }
-  ]
+   ],
+   "genres": [
+    "Fantasy",
+    "Contemporary"
+   ],
+   "contentFlags": [],
+   "popularity": 380
+  },
+  {
+   "id": "piranesi",
+   "title": "Piranesi",
+   "author": "Susanna Clarke",
+   "isbn": "9781635575637",
+   "cover": "c4",
+   "blurb": "A man lives alone in an infinite house of statues and tides. His journal doesn't quite add up.",
+   "aside": "Short, strange, perfect. Trust me on this one.",
+   "pace": "Slow burn",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 245,
+   "tags": [
+    {
+     "text": "unreliable narrator",
+     "accent": "rose"
+    },
+    {
+     "text": "strange house",
+     "accent": "gold"
+    },
+    {
+     "text": "245 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Fantasy",
+    "Literary Fiction"
+   ],
+   "contentFlags": [],
+   "popularity": 484
+  },
+  {
+   "id": "castle",
+   "title": "We Have Always Lived in the Castle",
+   "author": "Shirley Jackson",
+   "isbn": "9780143039976",
+   "cover": "c1",
+   "blurb": "Merricat, her sister, and the arsenic that made the whole village hate them.",
+   "aside": "Nobody in this one is okay. You'll love it.",
+   "pace": "Slow burn",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 146,
+   "tags": [
+    {
+     "text": "unreliable narrator",
+     "accent": "rose"
+    },
+    {
+     "text": "gothic",
+     "accent": "sage"
+    },
+    {
+     "text": "146 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Horror",
+    "Literary Fiction"
+   ],
+   "contentFlags": [],
+   "popularity": 581
+  },
+  {
+   "id": "ancillary",
+   "title": "Ancillary Justice",
+   "author": "Ann Leckie",
+   "isbn": "9780316246620",
+   "cover": "c2",
+   "blurb": "A warship's AI, stranded in a single human body, sets out to settle a very old score.",
+   "aside": "Space opera, but make it a grudge.",
+   "pace": "Steady",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 386,
+   "tags": [
+    {
+     "text": "revenge arc",
+     "accent": "rose"
+    },
+    {
+     "text": "hive mind",
+     "accent": "gold"
+    },
+    {
+     "text": "386 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Science Fiction"
+   ],
+   "contentFlags": [],
+   "popularity": 234
+  },
+  {
+   "id": "tranquility",
+   "title": "Sea of Tranquility",
+   "author": "Emily St. J. Mandel",
+   "isbn": "9780593321447",
+   "cover": "c2",
+   "blurb": "A time loop threads a moon colony, a pandemic, and a forest in 1912.",
+   "aside": "You'll finish it in two sittings. I've seen your pace.",
+   "pace": "Steady",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Closed door",
+   "pageCount": 255,
+   "tags": [
+    {
+     "text": "time loop",
+     "accent": "gold"
+    },
+    {
+     "text": "quiet apocalypse",
+     "accent": "sage"
+    },
+    {
+     "text": "255 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Science Fiction",
+    "Literary Fiction"
+   ],
+   "contentFlags": [
+    "multiple POVs"
+   ],
+   "popularity": 195
+  },
+  {
+   "id": "neverletmego",
+   "title": "Never Let Me Go",
+   "author": "Kazuo Ishiguro",
+   "isbn": "9781400078776",
+   "cover": "c5",
+   "blurb": "Boarding-school children slowly work out what they were raised for.",
+   "aside": "It will hurt. Politely. In the best way.",
+   "pace": "Slow burn",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Fade to black",
+   "pageCount": 288,
+   "tags": [
+    {
+     "text": "slow dread",
+     "accent": "smoke"
+    },
+    {
+     "text": "doomed love",
+     "accent": "rose"
+    },
+    {
+     "text": "288 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Literary Fiction",
+    "Science Fiction"
+   ],
+   "contentFlags": [
+    "love triangles"
+   ],
+   "popularity": 983
+  },
+  {
+   "id": "littlefriend",
+   "title": "The Little Friend",
+   "author": "Donna Tartt",
+   "isbn": "9781400031696",
+   "cover": "c3",
+   "blurb": "A girl in Mississippi decides to solve her brother's murder herself.",
+   "aside": "Because you loved The Secret History. Obviously.",
+   "pace": "Slow burn",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 640,
+   "tags": [
+    {
+     "text": "morally grey",
+     "accent": "rose"
+    },
+    {
+     "text": "southern gothic",
+     "accent": "sage"
+    },
+    {
+     "text": "640 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Literary Fiction",
+    "Mystery & Thriller"
+   ],
+   "contentFlags": [],
+   "popularity": 107
+  },
+  {
+   "id": "villains",
+   "title": "If We Were Villains",
+   "author": "M. L. Rio",
+   "isbn": "9781250095282",
+   "cover": "c1",
+   "blurb": "Seven Shakespearean actors, one dead classmate, and a decade of silence about what really happened.",
+   "aside": "Dark academia with a body count. Your exact brand.",
+   "pace": "Steady",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Fade to black",
+   "pageCount": 354,
+   "tags": [
+    {
+     "text": "morally grey",
+     "accent": "rose"
+    },
+    {
+     "text": "doomed love",
+     "accent": "gold"
+    },
+    {
+     "text": "354 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Mystery & Thriller",
+    "Literary Fiction"
+   ],
+   "contentFlags": [],
+   "popularity": 848
+  },
+  {
+   "id": "babel",
+   "title": "Babel",
+   "author": "R. F. Kuang",
+   "isbn": "9780063021426",
+   "cover": "c2",
+   "blurb": "An Oxford translator learns that language is the empire's real weapon \u2014 and he's been holding the knife.",
+   "aside": "It's angry. Let it be angry.",
+   "pace": "Slow burn",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 546,
+   "tags": [
+    {
+     "text": "morally grey",
+     "accent": "rose"
+    },
+    {
+     "text": "revenge arc",
+     "accent": "gold"
+    },
+    {
+     "text": "546 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Fantasy",
+    "Historical Fiction"
+   ],
+   "contentFlags": [],
+   "popularity": 484
+  },
+  {
+   "id": "atlas",
+   "title": "The Atlas Six",
+   "author": "Olivie Blake",
+   "isbn": "9781250854544",
+   "cover": "c5",
+   "blurb": "Six magicians are recruited into a secret society. Only five will survive initiation.",
+   "aside": "Everyone's insufferable. That's the point.",
+   "pace": "Slow burn",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Open door",
+   "pageCount": 383,
+   "tags": [
+    {
+     "text": "morally grey",
+     "accent": "rose"
+    },
+    {
+     "text": "enemies to lovers",
+     "accent": "gold"
+    },
+    {
+     "text": "383 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Fantasy"
+   ],
+   "contentFlags": [
+    "multiple POVs",
+    "cliffhangers for sequels"
+   ],
+   "popularity": 313
+  },
+  {
+   "id": "secret",
+   "title": "The Secret History",
+   "author": "Donna Tartt",
+   "isbn": "9781400031702",
+   "cover": "c1",
+   "blurb": "A tight-knit group of classics students commits murder \u2014 the mystery is why, not who.",
+   "aside": "You already know. You've read it twice.",
+   "pace": "Slow burn",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Fade to black",
+   "pageCount": 559,
+   "tags": [
+    {
+     "text": "morally grey",
+     "accent": "rose"
+    },
+    {
+     "text": "unreliable narrator",
+     "accent": "gold"
+    },
+    {
+     "text": "559 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Literary Fiction",
+    "Mystery & Thriller"
+   ],
+   "contentFlags": [],
+   "popularity": 1986
+  },
+  {
+   "id": "circe",
+   "title": "Circe",
+   "author": "Madeline Miller",
+   "isbn": "9780316556347",
+   "cover": "c5",
+   "blurb": "A minor goddess is exiled to a lonely island and becomes, slowly, someone to fear.",
+   "aside": "She was never the side character.",
+   "pace": "Steady",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Fade to black",
+   "pageCount": 393,
+   "tags": [
+    {
+     "text": "morally grey",
+     "accent": "rose"
+    },
+    {
+     "text": "revenge arc",
+     "accent": "gold"
+    },
+    {
+     "text": "393 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Fantasy",
+    "Historical Fiction",
+    "Literary Fiction"
+   ],
+   "contentFlags": [],
+   "popularity": 1090
+  },
+  {
+   "id": "achilles",
+   "title": "The Song of Achilles",
+   "author": "Madeline Miller",
+   "isbn": "9780062060624",
+   "cover": "c3",
+   "blurb": "Achilles and Patroclus, before the war made them a legend.",
+   "aside": "You know how it ends. Read it anyway.",
+   "pace": "Steady",
+   "romanceLevel": "Bring it on",
+   "spiceLevel": "Fade to black",
+   "pageCount": 378,
+   "tags": [
+    {
+     "text": "doomed love",
+     "accent": "rose"
+    },
+    {
+     "text": "slow burn",
+     "accent": "gold"
+    },
+    {
+     "text": "378 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Historical Fiction",
+    "Romance",
+    "Literary Fiction"
+   ],
+   "contentFlags": [],
+   "popularity": 3698
+  },
+  {
+   "id": "annihilation",
+   "title": "Annihilation",
+   "author": "Jeff VanderMeer",
+   "isbn": "9780374104092",
+   "cover": "c2",
+   "blurb": "Four women enter Area X. The wilderness changes what it means to come back.",
+   "aside": "Don't expect answers. Expect atmosphere.",
+   "pace": "Steady",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 195,
+   "tags": [
+    {
+     "text": "unreliable narrator",
+     "accent": "rose"
+    },
+    {
+     "text": "slow dread",
+     "accent": "smoke"
+    },
+    {
+     "text": "195 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Science Fiction",
+    "Horror"
+   ],
+   "contentFlags": [],
+   "popularity": 563
+  },
+  {
+   "id": "starless",
+   "title": "The Starless Sea",
+   "author": "Erin Morgenstern",
+   "isbn": "9780385541213",
+   "cover": "c2",
+   "blurb": "A door with no walls leads to a library beneath the world, and a book with his name in it.",
+   "aside": "More a place than a plot. Go anyway.",
+   "pace": "Slow burn",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Fade to black",
+   "pageCount": 498,
+   "tags": [
+    {
+     "text": "cozy magic",
+     "accent": "gold"
+    },
+    {
+     "text": "strange house",
+     "accent": "sage"
+    },
+    {
+     "text": "498 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Fantasy"
+   ],
+   "contentFlags": [
+    "multiple POVs"
+   ],
+   "popularity": 253
+  },
+  {
+   "id": "mexgothic",
+   "title": "Mexican Gothic",
+   "author": "Silvia Moreno-Garcia",
+   "isbn": "9780525620785",
+   "cover": "c1",
+   "blurb": "A young socialite visits her cousin's new husband's crumbling estate \u2014 and the house doesn't want her to leave.",
+   "aside": "The house is a character. An unwell one.",
+   "pace": "Steady",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Fade to black",
+   "pageCount": 301,
+   "tags": [
+    {
+     "text": "gothic",
+     "accent": "sage"
+    },
+    {
+     "text": "strange house",
+     "accent": "gold"
+    },
+    {
+     "text": "301 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Horror",
+    "Historical Fiction"
+   ],
+   "contentFlags": [],
+   "popularity": 330
+  },
+  {
+   "id": "shadowwind",
+   "title": "The Shadow of the Wind",
+   "author": "Carlos Ruiz Zaf\u00f3n",
+   "isbn": "9780143034902",
+   "cover": "c3",
+   "blurb": "A boy finds one forgotten book and pulls on the thread of everyone who ever tried to destroy it.",
+   "aside": "A book about loving books. On the nose, and lovely.",
+   "pace": "Steady",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Fade to black",
+   "pageCount": 487,
+   "tags": [
+    {
+     "text": "gothic",
+     "accent": "sage"
+    },
+    {
+     "text": "doomed love",
+     "accent": "rose"
+    },
+    {
+     "text": "487 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Mystery & Thriller",
+    "Historical Fiction",
+    "Literary Fiction"
+   ],
+   "contentFlags": [],
+   "popularity": 939
+  },
+  {
+   "id": "rebecca",
+   "title": "Rebecca",
+   "author": "Daphne du Maurier",
+   "isbn": "9780380730407",
+   "cover": "c4",
+   "blurb": "A second wife moves into a great house still entirely run by the first one \u2014 who's been dead for a year.",
+   "aside": "The dead woman wins every scene she isn't in.",
+   "pace": "Slow burn",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Closed door",
+   "pageCount": 380,
+   "tags": [
+    {
+     "text": "unreliable narrator",
+     "accent": "rose"
+    },
+    {
+     "text": "gothic",
+     "accent": "sage"
+    },
+    {
+     "text": "380 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Mystery & Thriller",
+    "Historical Fiction"
+   ],
+   "contentFlags": [],
+   "popularity": 1044
+  },
+  {
+   "id": "fingersmith",
+   "title": "Fingersmith",
+   "author": "Sarah Waters",
+   "isbn": "9781573229722",
+   "cover": "c1",
+   "blurb": "A con artist and her mark fall in love. Neither of them wrote the ending they think they're in.",
+   "aside": "The twist is worth the four hundred pages before it.",
+   "pace": "Slow burn",
+   "romanceLevel": "Bring it on",
+   "spiceLevel": "Open door",
+   "pageCount": 582,
+   "tags": [
+    {
+     "text": "unreliable narrator",
+     "accent": "rose"
+    },
+    {
+     "text": "forbidden romance",
+     "accent": "gold"
+    },
+    {
+     "text": "582 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Historical Fiction",
+    "Mystery & Thriller",
+    "Romance"
+   ],
+   "contentFlags": [
+    "multiple POVs"
+   ],
+   "popularity": 299
+  },
+  {
+   "id": "conveniencestore",
+   "title": "Convenience Store Woman",
+   "author": "Sayaka Murata",
+   "isbn": "9780802128256",
+   "cover": "c5",
+   "blurb": "Eighteen years behind the same register, and the only life that's ever made sense to her.",
+   "aside": "Finish it on a lunch break. Think about it for a month.",
+   "pace": "Fast-paced",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 176,
+   "tags": [
+    {
+     "text": "quiet strangeness",
+     "accent": "smoke"
+    },
+    {
+     "text": "176 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Literary Fiction",
+    "Contemporary"
+   ],
+   "contentFlags": [],
+   "popularity": 259
+  },
+  {
+   "id": "oceanlane",
+   "title": "The Ocean at the End of the Lane",
+   "author": "Neil Gaiman",
+   "isbn": "9780062255655",
+   "cover": "c2",
+   "blurb": "A man returns to his childhood lane and remembers a pond that was actually an ocean.",
+   "aside": "Childhood, but the frightening kind.",
+   "pace": "Fast-paced",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 181,
+   "tags": [
+    {
+     "text": "cozy magic",
+     "accent": "gold"
+    },
+    {
+     "text": "slow dread",
+     "accent": "smoke"
+    },
+    {
+     "text": "181 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Fantasy",
+    "Horror"
+   ],
+   "contentFlags": [],
+   "popularity": 634
+  },
+  {
+   "id": "endurance",
+   "title": "Endurance",
+   "author": "Alfred Lansing",
+   "isbn": "9780465062881",
+   "cover": "c3",
+   "blurb": "Twenty-eight men, a crushed ship, and the coldest sea on Earth. Somehow a page-turner.",
+   "aside": "Nonfiction. Boats. I know. Give it forty pages.",
+   "pace": "Steady",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 357,
+   "tags": [
+    {
+     "text": "true story",
+     "accent": "smoke"
+    },
+    {
+     "text": "against the odds",
+     "accent": "sage"
+    },
+    {
+     "text": "357 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Nonfiction",
+    "Historical Fiction"
+   ],
+   "contentFlags": [],
+   "popularity": 199
+  },
+  {
+   "id": "ol17619634w",
+   "title": "Norse Mythology",
+   "author": "Neil Gaiman",
+   "isbn": "9781432852337",
+   "cover": "c4",
+   "blurb": "Gaiman retells the Norse myths, from the first frost to the last battle.",
+   "aside": "Loki is insufferable and you will enjoy every second of him.",
+   "genres": [
+    "Fantasy",
+    "Literary Fiction"
+   ],
+   "pace": "Steady",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "contentFlags": [],
+   "pageCount": 304,
+   "tags": [
+    {
+     "text": "old gods",
+     "accent": "rose"
+    },
+    {
+     "text": "trickster",
+     "accent": "gold"
+    },
+    {
+     "text": "myth retelling",
+     "accent": "sage"
+    },
+    {
+     "text": "304 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "popularity": 499
+  },
+  {
+   "id": "ol28888070w",
+   "title": "Camp Damascus",
+   "author": "Chuck Tingle",
+   "isbn": "9781803365114",
+   "cover": "c5",
+   "blurb": "A model Christian town has a very literal way of curing its queer teenagers.",
+   "aside": "Angrier than it is frightening, and better for it.",
+   "genres": [
+    "Horror",
+    "Contemporary"
+   ],
+   "pace": "Fast-paced",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Closed door",
+   "contentFlags": [],
+   "pageCount": 256,
+   "tags": [
+    {
+     "text": "queer horror",
+     "accent": "rose"
+    },
+    {
+     "text": "demons",
+     "accent": "gold"
+    },
+    {
+     "text": "small town",
+     "accent": "sage"
+    },
+    {
+     "text": "256 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "popularity": 38
+  },
+  {
+   "id": "ol17366745w",
+   "title": "The Fisherman",
+   "author": "John Langan",
+   "isbn": "9781939905215",
+   "cover": "c2",
+   "blurb": "Two widowers go fishing at a creek that promises far more than fish.",
+   "aside": "Quiet for a long while. Then extremely not.",
+   "genres": [
+    "Horror",
+    "Literary Fiction"
+   ],
+   "pace": "Slow burn",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "contentFlags": [],
+   "pageCount": 304,
+   "tags": [
+    {
+     "text": "cosmic horror",
+     "accent": "rose"
+    },
+    {
+     "text": "grief",
+     "accent": "gold"
+    },
+    {
+     "text": "story within a story",
+     "accent": "sage"
+    },
+    {
+     "text": "304 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "popularity": 111
+  },
+  {
+   "id": "ol17823750w",
+   "title": "The Bazaar of Bad Dreams",
+   "author": "Stephen King",
+   "isbn": "9781473698888",
+   "cover": "c1",
+   "blurb": "Twenty King stories, each with a note on how it came to exist.",
+   "aside": "Dip in and out. Two or three will follow you home.",
+   "genres": [
+    "Horror",
+    "Literary Fiction"
+   ],
+   "pace": "Steady",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Fade to black",
+   "contentFlags": [],
+   "pageCount": 600,
+   "tags": [
+    {
+     "text": "short stories",
+     "accent": "rose"
+    },
+    {
+     "text": "quiet menace",
+     "accent": "gold"
+    },
+    {
+     "text": "americana",
+     "accent": "sage"
+    },
+    {
+     "text": "600 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "popularity": 622
+  },
+  {
+   "id": "ol24510090w",
+   "title": "Nettle & Bone",
+   "author": "T. Kingfisher",
+   "isbn": "9781803360997",
+   "cover": "c1",
+   "blurb": "A convent-raised princess sets out to kill her sister's husband, collecting misfits.",
+   "aside": "A demon-possessed chicken joins the party. Trust the process.",
+   "genres": [
+    "Fantasy",
+    "Horror"
+   ],
+   "pace": "Steady",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Fade to black",
+   "contentFlags": [],
+   "pageCount": 320,
+   "tags": [
+    {
+     "text": "reluctant heroine",
+     "accent": "rose"
+    },
+    {
+     "text": "grave magic",
+     "accent": "gold"
+    },
+    {
+     "text": "found family",
+     "accent": "sage"
+    },
+    {
+     "text": "320 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "popularity": 87
+  },
+  {
+   "id": "ol20866894w",
+   "title": "Home Before Dark",
+   "author": "Todd Ritter",
+   "isbn": "9781524745196",
+   "cover": "c4",
+   "blurb": "A woman returns to the haunted house her father wrote a bestseller about.",
+   "aside": "The house is the least of it. Everyone lying about the house is the problem.",
+   "genres": [
+    "Mystery & Thriller",
+    "Horror"
+   ],
+   "pace": "Steady",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Closed door",
+   "contentFlags": [
+    "multiple POVs"
+   ],
+   "pageCount": 416,
+   "tags": [
+    {
+     "text": "haunted house",
+     "accent": "rose"
+    },
+    {
+     "text": "unreliable narrator",
+     "accent": "gold"
+    },
+    {
+     "text": "book within a book",
+     "accent": "sage"
+    },
+    {
+     "text": "416 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "popularity": 155
+  },
+  {
+   "id": "ol25337698w",
+   "title": "Hidden Pictures",
+   "author": "Jason Rekulak",
+   "isbn": "9781250819345",
+   "cover": "c3",
+   "blurb": "A nanny's small charge starts drawing pictures no child should be able to draw.",
+   "aside": "The drawings are printed in the book. Sleep well.",
+   "genres": [
+    "Mystery & Thriller",
+    "Horror"
+   ],
+   "pace": "Fast-paced",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Closed door",
+   "contentFlags": [],
+   "pageCount": 408,
+   "tags": [
+    {
+     "text": "creepy child",
+     "accent": "rose"
+    },
+    {
+     "text": "haunting",
+     "accent": "gold"
+    },
+    {
+     "text": "illustrated",
+     "accent": "sage"
+    },
+    {
+     "text": "408 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "popularity": 222
+  },
+  {
+   "id": "ol19718849w",
+   "title": "Paperbacks from Hell",
+   "author": "Grady Hendrix",
+   "isbn": "9781538518304",
+   "cover": "c5",
+   "blurb": "A gleeful history of seventies horror paperbacks and their completely unhinged covers.",
+   "aside": "Nonfiction that will cost you a fortune in secondhand paperbacks.",
+   "genres": [
+    "Nonfiction"
+   ],
+   "pace": "Fast-paced",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "contentFlags": [],
+   "pageCount": 128,
+   "tags": [
+    {
+     "text": "horror history",
+     "accent": "rose"
+    },
+    {
+     "text": "lurid covers",
+     "accent": "gold"
+    },
+    {
+     "text": "genuinely funny",
+     "accent": "sage"
+    },
+    {
+     "text": "128 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "popularity": 48
+  },
+  {
+   "id": "ol21745884w",
+   "title": "Project Hail Mary",
+   "author": "Andy Weir",
+   "isbn": "9781529100624",
+   "cover": "c3",
+   "blurb": "A man wakes alone on a spaceship with no memory and a planet to save.",
+   "aside": "Yes, it is physics homework. You will still get attached.",
+   "genres": [
+    "Science Fiction"
+   ],
+   "pace": "Fast-paced",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "contentFlags": [],
+   "pageCount": 496,
+   "tags": [
+    {
+     "text": "lone survivor",
+     "accent": "rose"
+    },
+    {
+     "text": "first contact",
+     "accent": "gold"
+    },
+    {
+     "text": "problem solving",
+     "accent": "sage"
+    },
+    {
+     "text": "496 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "popularity": 1312
+  },
+  {
+   "id": "ol17373843w",
+   "title": "Children of Time",
+   "author": "Adrian Tchaikovsky",
+   "isbn": "9781447273318",
+   "cover": "c1",
+   "blurb": "A dying human ark ship meets the spider civilisation growing on its target world.",
+   "aside": "You will end up rooting for the spiders. I don't make the rules.",
+   "genres": [
+    "Science Fiction"
+   ],
+   "pace": "Slow burn",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "contentFlags": [
+    "multiple POVs"
+   ],
+   "pageCount": 616,
+   "tags": [
+    {
+     "text": "deep time",
+     "accent": "rose"
+    },
+    {
+     "text": "uplifted spiders",
+     "accent": "gold"
+    },
+    {
+     "text": "civilisation building",
+     "accent": "sage"
+    },
+    {
+     "text": "616 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "popularity": 492
+  },
+  {
+   "id": "ol17824318w",
+   "title": "Born a Crime",
+   "author": "Trevor Noah",
+   "isbn": "9781531865030",
+   "cover": "c4",
+   "blurb": "Growing up mixed-race in apartheid South Africa, where his existence was literally illegal.",
+   "aside": "Funnier than it has any right to be. His mother steals every scene.",
+   "genres": [
+    "Nonfiction"
+   ],
+   "pace": "Steady",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "contentFlags": [],
+   "pageCount": 304,
+   "tags": [
+    {
+     "text": "memoir",
+     "accent": "rose"
+    },
+    {
+     "text": "apartheid",
+     "accent": "gold"
+    },
+    {
+     "text": "very funny",
+     "accent": "sage"
+    },
+    {
+     "text": "304 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "popularity": 950
+  },
+  {
+   "id": "ol19915768w",
+   "title": "Midnight in Chernobyl",
+   "author": "Adam Higginbotham",
+   "isbn": "9781501134647",
+   "cover": "c4",
+   "blurb": "The Chernobyl disaster, hour by hour, from the people who were actually standing there.",
+   "aside": "Reads like a thriller. It is very much not a thriller.",
+   "genres": [
+    "Nonfiction"
+   ],
+   "pace": "Steady",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "contentFlags": [],
+   "pageCount": 560,
+   "tags": [
+    {
+     "text": "disaster",
+     "accent": "rose"
+    },
+    {
+     "text": "cold war",
+     "accent": "gold"
+    },
+    {
+     "text": "meticulous",
+     "accent": "sage"
+    },
+    {
+     "text": "560 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "popularity": 155
+  },
+  {
+   "id": "ol17892614w",
+   "title": "Bad Blood",
+   "author": "John Carreyrou",
+   "isbn": "9781509868063",
+   "cover": "c2",
+   "blurb": "A Silicon Valley darling promised to revolutionise blood testing. None of it worked.",
+   "aside": "You will get angry. That is the correct response.",
+   "genres": [
+    "Nonfiction"
+   ],
+   "pace": "Fast-paced",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "contentFlags": [],
+   "pageCount": 352,
+   "tags": [
+    {
+     "text": "true story",
+     "accent": "rose"
+    },
+    {
+     "text": "fraud",
+     "accent": "gold"
+    },
+    {
+     "text": "silicon valley",
+     "accent": "sage"
+    },
+    {
+     "text": "352 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "popularity": 261
+  },
+  {
+   "id": "ol20153382w",
+   "title": "Say Nothing",
+   "author": "Patrick Radden Keefe",
+   "isbn": "9780385521314",
+   "cover": "c1",
+   "blurb": "A mother of ten is taken from her Belfast home in 1972 and never comes back.",
+   "aside": "True crime that refuses to let anybody off easy.",
+   "genres": [
+    "Nonfiction"
+   ],
+   "pace": "Steady",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "contentFlags": [],
+   "pageCount": 536,
+   "tags": [
+    {
+     "text": "true crime",
+     "accent": "rose"
+    },
+    {
+     "text": "the troubles",
+     "accent": "gold"
+    },
+    {
+     "text": "unsolved",
+     "accent": "sage"
+    },
+    {
+     "text": "536 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "popularity": 140
+  },
+  {
+   "id": "ol17201654w",
+   "title": "Between the World and Me",
+   "author": "Ta-Nehisi Coates",
+   "isbn": "9780679645986",
+   "cover": "c4",
+   "blurb": "A father writes to his teenage son about living in a Black body in America.",
+   "aside": "Short. You will not read it quickly.",
+   "genres": [
+    "Nonfiction"
+   ],
+   "pace": "Fast-paced",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "contentFlags": [],
+   "pageCount": 155,
+   "tags": [
+    {
+     "text": "letter to a son",
+     "accent": "rose"
+    },
+    {
+     "text": "essay",
+     "accent": "gold"
+    },
+    {
+     "text": "american history",
+     "accent": "sage"
+    },
+    {
+     "text": "155 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "popularity": 429
+  },
+  {
+   "id": "ol17828326w",
+   "title": "Evicted",
+   "author": "Matthew Desmond",
+   "isbn": "9780241260852",
+   "cover": "c4",
+   "blurb": "Eight families in Milwaukee, and the business of putting people out of their homes.",
+   "aside": "Follows eight families. You will remember all of them.",
+   "genres": [
+    "Nonfiction"
+   ],
+   "pace": "Steady",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "contentFlags": [
+    "multiple POVs"
+   ],
+   "pageCount": 448,
+   "tags": [
+    {
+     "text": "poverty",
+     "accent": "rose"
+    },
+    {
+     "text": "landlords",
+     "accent": "gold"
+    },
+    {
+     "text": "field research",
+     "accent": "sage"
+    },
+    {
+     "text": "448 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "popularity": 268
+  },
+  {
+   "id": "ol20090688w",
+   "title": "Red, White & Royal Blue",
+   "author": "Casey McQuiston",
+   "isbn": "9781663617651",
+   "cover": "c3",
+   "blurb": "America's First Son and the Prince of Wales go from enemies to something else.",
+   "aside": "Sunny, filthy and completely unserious. That is the point.",
+   "genres": [
+    "Romance",
+    "Contemporary"
+   ],
+   "pace": "Steady",
+   "romanceLevel": "Bring it on",
+   "spiceLevel": "Open door",
+   "contentFlags": [],
+   "pageCount": 440,
+   "tags": [
+    {
+     "text": "enemies to lovers",
+     "accent": "rose"
+    },
+    {
+     "text": "forbidden romance",
+     "accent": "gold"
+    },
+    {
+     "text": "very funny",
+     "accent": "sage"
+    },
+    {
+     "text": "440 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "popularity": 5025
+  },
+  {
+   "id": "ol24178205w",
+   "title": "The Love Hypothesis",
+   "author": "Ali Hazelwood",
+   "isbn": "9780593336823",
+   "cover": "c2",
+   "blurb": "A PhD student fake-dates the one professor everybody warned her about.",
+   "aside": "Fake dating in a lab coat. You know exactly what you are getting.",
+   "genres": [
+    "Romance",
+    "Contemporary"
+   ],
+   "pace": "Fast-paced",
+   "romanceLevel": "Bring it on",
+   "spiceLevel": "Open door",
+   "contentFlags": [],
+   "pageCount": 398,
+   "tags": [
+    {
+     "text": "fake dating",
+     "accent": "rose"
+    },
+    {
+     "text": "academia",
+     "accent": "gold"
+    },
+    {
+     "text": "slow burn",
+     "accent": "sage"
+    },
+    {
+     "text": "398 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "popularity": 9015
+  },
+  {
+   "id": "ol18203673w",
+   "title": "The Seven Husbands of Evelyn Hugo",
+   "author": "Taylor Jenkins Reid",
+   "isbn": "9781683244646",
+   "cover": "c5",
+   "blurb": "A reclusive film icon finally explains all seven marriages to an unknown journalist.",
+   "aside": "You will guess the twist. You will be wrecked regardless.",
+   "genres": [
+    "Historical Fiction",
+    "Romance",
+    "Literary Fiction"
+   ],
+   "pace": "Steady",
+   "romanceLevel": "Bring it on",
+   "spiceLevel": "Fade to black",
+   "contentFlags": [],
+   "pageCount": 400,
+   "tags": [
+    {
+     "text": "old hollywood",
+     "accent": "rose"
+    },
+    {
+     "text": "doomed love",
+     "accent": "gold"
+    },
+    {
+     "text": "unreliable narrator",
+     "accent": "sage"
+    },
+    {
+     "text": "400 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "popularity": 5330
+  },
+  {
+   "id": "ol20150260w",
+   "title": "Normal People",
+   "author": "Sally Rooney",
+   "isbn": "9781528813129",
+   "cover": "c3",
+   "blurb": "Two Irish teenagers keep finding and losing each other across four years.",
+   "aside": "They could fix this by talking. They will not talk.",
+   "genres": [
+    "Literary Fiction",
+    "Romance",
+    "Contemporary"
+   ],
+   "pace": "Slow burn",
+   "romanceLevel": "Bring it on",
+   "spiceLevel": "Open door",
+   "contentFlags": [
+    "present tense"
+   ],
+   "pageCount": 304,
+   "tags": [
+    {
+     "text": "on again off again",
+     "accent": "rose"
+    },
+    {
+     "text": "class",
+     "accent": "gold"
+    },
+    {
+     "text": "miscommunication",
+     "accent": "sage"
+    },
+    {
+     "text": "304 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "popularity": 1868
+  },
+  {
+   "id": "ol20032935w",
+   "title": "The Hating Game",
+   "author": "Sally Thorne",
+   "isbn": "9780063240766",
+   "cover": "c5",
+   "blurb": "Two executive assistants share an office and a mutual, escalating loathing.",
+   "aside": "Enemies to lovers done properly. The elevator scene earns its reputation.",
+   "genres": [
+    "Romance",
+    "Contemporary"
+   ],
+   "pace": "Fast-paced",
+   "romanceLevel": "Bring it on",
+   "spiceLevel": "Open door",
+   "contentFlags": [],
+   "pageCount": 379,
+   "tags": [
+    {
+     "text": "enemies to lovers",
+     "accent": "rose"
+    },
+    {
+     "text": "office romance",
+     "accent": "gold"
+    },
+    {
+     "text": "banter",
+     "accent": "sage"
+    },
+    {
+     "text": "379 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "popularity": 1143
+  },
+  {
+   "id": "ol19998163w",
+   "title": "Confess",
+   "author": "Colleen Hoover",
+   "isbn": "9781476791456",
+   "cover": "c2",
+   "blurb": "A woman rebuilding her life walks into an art studio and complicates all of it.",
+   "aside": "Hoover will hurt you. You already knew that.",
+   "genres": [
+    "Romance",
+    "Contemporary"
+   ],
+   "pace": "Fast-paced",
+   "romanceLevel": "Bring it on",
+   "spiceLevel": "Open door",
+   "contentFlags": [
+    "insta-love"
+   ],
+   "pageCount": 320,
+   "tags": [
+    {
+     "text": "secrets",
+     "accent": "rose"
+    },
+    {
+     "text": "art studio",
+     "accent": "gold"
+    },
+    {
+     "text": "second chances",
+     "accent": "sage"
+    },
+    {
+     "text": "320 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "popularity": 1393
+  },
+  {
+   "id": "ol19781733w",
+   "title": "Eleanor Oliphant is Completely Fine",
+   "author": "Gail Honeyman",
+   "isbn": "9780008172114",
+   "cover": "c5",
+   "blurb": "Eleanor has a rigid routine, a troubled past, and no idea she is lonely.",
+   "aside": "She is not, in fact, completely fine. Stay with her.",
+   "genres": [
+    "Contemporary",
+    "Literary Fiction"
+   ],
+   "pace": "Steady",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Closed door",
+   "contentFlags": [],
+   "pageCount": 352,
+   "tags": [
+    {
+     "text": "lonely narrator",
+     "accent": "rose"
+    },
+    {
+     "text": "slow healing",
+     "accent": "gold"
+    },
+    {
+     "text": "unexpected friendship",
+     "accent": "sage"
+    },
+    {
+     "text": "352 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "popularity": 329
+  },
+  {
+   "id": "ol28695130w",
+   "title": "I Fell in Love with Hope",
+   "author": "Lancali",
+   "isbn": "9781668034538",
+   "cover": "c2",
+   "blurb": "Teenagers on a hospital ward keep each other alive with stories and escape plans.",
+   "aside": "It is very sad and it knows. Bring something to cry into.",
+   "genres": [
+    "Contemporary",
+    "Literary Fiction"
+   ],
+   "pace": "Slow burn",
+   "romanceLevel": "Bring it on",
+   "spiceLevel": "Closed door",
+   "contentFlags": [],
+   "pageCount": 416,
+   "tags": [
+    {
+     "text": "hospital",
+     "accent": "rose"
+    },
+    {
+     "text": "doomed love",
+     "accent": "gold"
+    },
+    {
+     "text": "lyrical",
+     "accent": "sage"
+    },
+    {
+     "text": "416 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "popularity": 1761
+  },
+  {
+   "id": "silentpatient",
+   "title": "The Silent Patient",
+   "author": "Alex Michaelides",
+   "isbn": "9781250301697",
+   "cover": "c2",
+   "blurb": "A woman shoots her husband and then never speaks again. Her therapist is sure he can reach her.",
+   "aside": "You will see it coming or you won't, and both camps are insufferable.",
+   "pace": "Fast-paced",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 352,
+   "popularity": 5666,
+   "tags": [
+    {
+     "text": "unreliable narrator",
+     "accent": "rose"
+    },
+    {
+     "text": "twist you'll argue about",
+     "accent": "gold"
+    },
+    {
+     "text": "352 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Mystery & Thriller"
+   ],
+   "contentFlags": []
+  },
+  {
+   "id": "thenshewasgone",
+   "title": "Then She Was Gone",
+   "author": "Lisa Jewell",
+   "isbn": "9781473538337",
+   "cover": "c1",
+   "blurb": "Ten years after her daughter vanished, a mother meets a charming man with a daughter of his own.",
+   "aside": "The kind of dread that arrives politely and refuses to leave.",
+   "pace": "Steady",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Fade to black",
+   "pageCount": 405,
+   "popularity": 746,
+   "tags": [
+    {
+     "text": "missing girl",
+     "accent": "smoke"
+    },
+    {
+     "text": "slow dread",
+     "accent": "smoke"
+    },
+    {
+     "text": "405 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Mystery & Thriller",
+    "Contemporary"
+   ],
+   "contentFlags": []
+  },
+  {
+   "id": "guestlist",
+   "title": "The Guest List",
+   "author": "Lucy Foley",
+   "isbn": "9781094156446",
+   "cover": "c1",
+   "blurb": "A wedding on a remote island, a storm, and a body. Everyone present has a reason.",
+   "aside": "Weddings and murder: two events where everyone pretends to be delighted.",
+   "pace": "Fast-paced",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Fade to black",
+   "pageCount": 336,
+   "popularity": 402,
+   "tags": [
+    {
+     "text": "locked room",
+     "accent": "gold"
+    },
+    {
+     "text": "everyone's lying",
+     "accent": "smoke"
+    },
+    {
+     "text": "multiple POVs",
+     "accent": "sage"
+    },
+    {
+     "text": "336 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Mystery & Thriller"
+   ],
+   "contentFlags": [
+    "multiple POVs"
+   ]
+  },
+  {
+   "id": "sundownmotel",
+   "title": "The Sun Down Motel",
+   "author": "Simone St. James",
+   "isbn": "9780440000204",
+   "cover": "c2",
+   "blurb": "In 1982 a young woman disappears from a roadside motel. In 2017 her niece takes the same night shift.",
+   "aside": "Motels at 3am are haunted whether or not there are ghosts.",
+   "pace": "Steady",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Fade to black",
+   "pageCount": 352,
+   "popularity": 60,
+   "tags": [
+    {
+     "text": "ghost",
+     "accent": "smoke"
+    },
+    {
+     "text": "two timelines",
+     "accent": "sage"
+    },
+    {
+     "text": "slow dread",
+     "accent": "smoke"
+    },
+    {
+     "text": "352 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Mystery & Thriller",
+    "Horror"
+   ],
+   "contentFlags": []
+  },
+  {
+   "id": "darkmatter",
+   "title": "Dark Matter",
+   "author": "Blake Crouch",
+   "isbn": "9781447297567",
+   "cover": "c5",
+   "blurb": "A physicist is abducted and wakes in a life that is his, except for everything.",
+   "aside": "Read it in one sitting or don't start. There is no third option.",
+   "pace": "Fast-paced",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Fade to black",
+   "pageCount": 366,
+   "popularity": 796,
+   "tags": [
+    {
+     "text": "what if",
+     "accent": "gold"
+    },
+    {
+     "text": "couldn't put it down",
+     "accent": "rose"
+    },
+    {
+     "text": "366 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Science Fiction",
+    "Mystery & Thriller"
+   ],
+   "contentFlags": []
+  },
+  {
+   "id": "uprooted",
+   "title": "Uprooted",
+   "author": "Naomi Novik",
+   "isbn": "9781447294139",
+   "cover": "c1",
+   "blurb": "A corrupted wood takes a girl from her village every ten years. This time it takes the wrong one.",
+   "aside": "Fairy tale in the old sense, where the woods actually want something.",
+   "pace": "Steady",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Fade to black",
+   "pageCount": 438,
+   "popularity": 231,
+   "tags": [
+    {
+     "text": "dark forest",
+     "accent": "smoke"
+    },
+    {
+     "text": "prickly mentor",
+     "accent": "sage"
+    },
+    {
+     "text": "folktale bones",
+     "accent": "gold"
+    },
+    {
+     "text": "438 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Fantasy"
+   ],
+   "contentFlags": []
+  },
+  {
+   "id": "addielarue",
+   "title": "The Invisible Life of Addie LaRue",
+   "author": "V. E. Schwab",
+   "isbn": "9781250777966",
+   "cover": "c4",
+   "blurb": "A woman trades her soul to live forever and is cursed to be forgotten by everyone she meets.",
+   "aside": "Three hundred years of being no one, and then somebody remembers.",
+   "pace": "Slow burn",
+   "romanceLevel": "Bring it on",
+   "spiceLevel": "Fade to black",
+   "pageCount": 504,
+   "popularity": 920,
+   "tags": [
+    {
+     "text": "cursed bargain",
+     "accent": "gold"
+    },
+    {
+     "text": "doomed love",
+     "accent": "rose"
+    },
+    {
+     "text": "centuries pass",
+     "accent": "sage"
+    },
+    {
+     "text": "504 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Fantasy",
+    "Historical Fiction"
+   ],
+   "contentFlags": []
+  },
+  {
+   "id": "cityofbrass",
+   "title": "The City of Brass",
+   "author": "Shannon A. Chakraborty",
+   "isbn": "9781538456125",
+   "cover": "c5",
+   "blurb": "A Cairo street hustler fakes magic for a living until the night she accidentally summons something real.",
+   "aside": "Court intrigue with actual fire in it.",
+   "pace": "Steady",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Fade to black",
+   "pageCount": 544,
+   "popularity": 161,
+   "tags": [
+    {
+     "text": "con artist",
+     "accent": "sage"
+    },
+    {
+     "text": "djinn politics",
+     "accent": "gold"
+    },
+    {
+     "text": "18th century Cairo",
+     "accent": "smoke"
+    },
+    {
+     "text": "544 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Fantasy",
+    "Historical Fiction"
+   ],
+   "contentFlags": []
+  },
+  {
+   "id": "pachinko",
+   "title": "Pachinko",
+   "author": "Min Jin Lee",
+   "isbn": "9781478967439",
+   "cover": "c4",
+   "blurb": "A Korean family in Japan across four generations, each paying for a choice made before they were born.",
+   "aside": "Nothing shouts. It accumulates, which is worse.",
+   "pace": "Slow burn",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Fade to black",
+   "pageCount": 512,
+   "popularity": 485,
+   "tags": [
+    {
+     "text": "four generations",
+     "accent": "sage"
+    },
+    {
+     "text": "quiet endurance",
+     "accent": "smoke"
+    },
+    {
+     "text": "512 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Historical Fiction",
+    "Literary Fiction"
+   ],
+   "contentFlags": []
+  },
+  {
+   "id": "homegoing",
+   "title": "Homegoing",
+   "author": "Yaa Gyasi",
+   "isbn": "9781101947142",
+   "cover": "c1",
+   "blurb": "Two half-sisters in eighteenth-century Ghana, one married off and one sold. Then their descendants, chapter by chapter.",
+   "aside": "Every chapter is somebody's whole life. Pace yourself.",
+   "pace": "Steady",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Fade to black",
+   "pageCount": 320,
+   "popularity": 344,
+   "tags": [
+    {
+     "text": "two bloodlines",
+     "accent": "sage"
+    },
+    {
+     "text": "three centuries",
+     "accent": "smoke"
+    },
+    {
+     "text": "320 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Historical Fiction",
+    "Literary Fiction"
+   ],
+   "contentFlags": []
+  },
+  {
+   "id": "gentlemanmoscow",
+   "title": "A Gentleman in Moscow",
+   "author": "Amor Towles",
+   "isbn": "9780143132462",
+   "cover": "c2",
+   "blurb": "A count is sentenced to house arrest in a Moscow hotel and spends thirty years never leaving it.",
+   "aside": "A book about a man in a building that somehow never runs out of room.",
+   "pace": "Slow burn",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Closed door",
+   "pageCount": 511,
+   "popularity": 1014,
+   "tags": [
+    {
+     "text": "one building",
+     "accent": "gold"
+    },
+    {
+     "text": "very funny",
+     "accent": "sage"
+    },
+    {
+     "text": "good manners",
+     "accent": "rose"
+    },
+    {
+     "text": "511 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Historical Fiction",
+    "Literary Fiction"
+   ],
+   "contentFlags": []
+  },
+  {
+   "id": "nickelboys",
+   "title": "The Nickel Boys",
+   "author": "Colson Whitehead",
+   "isbn": "9780385537070",
+   "cover": "c5",
+   "blurb": "Two boys at a Florida reform school in the Jim Crow era, and what the school does to them.",
+   "aside": "Two hundred pages. You will not be fine afterwards.",
+   "pace": "Steady",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 224,
+   "popularity": 174,
+   "tags": [
+    {
+     "text": "reform school",
+     "accent": "smoke"
+    },
+    {
+     "text": "short and brutal",
+     "accent": "smoke"
+    },
+    {
+     "text": "224 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Historical Fiction",
+    "Literary Fiction"
+   ],
+   "contentFlags": []
+  },
+  {
+   "id": "lincolnbardo",
+   "title": "Lincoln in the Bardo",
+   "author": "George Saunders",
+   "isbn": "9781408871751",
+   "cover": "c5",
+   "blurb": "The night after his son's burial, Lincoln returns to the crypt. The graveyard's dead have opinions.",
+   "aside": "Unlike anything else on this shelf. Give it forty pages.",
+   "pace": "Slow burn",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 426,
+   "popularity": 122,
+   "tags": [
+    {
+     "text": "chorus of ghosts",
+     "accent": "smoke"
+    },
+    {
+     "text": "formally strange",
+     "accent": "gold"
+    },
+    {
+     "text": "426 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Historical Fiction",
+    "Literary Fiction"
+   ],
+   "contentFlags": []
+  },
+  {
+   "id": "sympathizer",
+   "title": "The Sympathizer",
+   "author": "Viet Thanh Nguyen",
+   "isbn": "9781472151360",
+   "cover": "c1",
+   "blurb": "A communist mole flees Saigon with the South Vietnamese general he is spying on, and keeps reporting.",
+   "aside": "Furious and very funny, often in the same sentence.",
+   "pace": "Steady",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Fade to black",
+   "pageCount": 391,
+   "popularity": 164,
+   "tags": [
+    {
+     "text": "double agent",
+     "accent": "gold"
+    },
+    {
+     "text": "very funny",
+     "accent": "sage"
+    },
+    {
+     "text": "confession",
+     "accent": "smoke"
+    },
+    {
+     "text": "391 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Historical Fiction",
+    "Literary Fiction"
+   ],
+   "contentFlags": []
+  },
+  {
+   "id": "shuggiebain",
+   "title": "Shuggie Bain",
+   "author": "Douglas Stuart",
+   "isbn": "9780802148506",
+   "cover": "c2",
+   "blurb": "A boy in Thatcher's Glasgow keeps trying to save his mother from drink, because nobody else will.",
+   "aside": "Tender in a way that hurts more, not less.",
+   "pace": "Slow burn",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Fade to black",
+   "pageCount": 538,
+   "popularity": 116,
+   "tags": [
+    {
+     "text": "1980s Glasgow",
+     "accent": "smoke"
+    },
+    {
+     "text": "addiction",
+     "accent": "smoke"
+    },
+    {
+     "text": "fierce love",
+     "accent": "rose"
+    },
+    {
+     "text": "538 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Literary Fiction",
+    "Contemporary"
+   ],
+   "contentFlags": []
+  },
+  {
+   "id": "tattooist",
+   "title": "The Tattooist of Auschwitz",
+   "author": "Heather Morris",
+   "isbn": "9781760403171",
+   "cover": "c2",
+   "blurb": "A prisoner tasked with tattooing numbers onto arriving inmates falls in love with a woman he marks.",
+   "aside": "Based on a true story, which makes it heavier rather than lighter.",
+   "pace": "Steady",
+   "romanceLevel": "Bring it on",
+   "spiceLevel": "Fade to black",
+   "pageCount": 304,
+   "popularity": 349,
+   "tags": [
+    {
+     "text": "true story",
+     "accent": "sage"
+    },
+    {
+     "text": "forbidden romance",
+     "accent": "rose"
+    },
+    {
+     "text": "304 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Historical Fiction"
+   ],
+   "contentFlags": []
+  },
+  {
+   "id": "daisyjones",
+   "title": "Daisy Jones & The Six",
+   "author": "Taylor Jenkins Reid",
+   "isbn": "9781804945957",
+   "cover": "c1",
+   "blurb": "A seventies rock band tells the story of the night they broke up, and none of them agree.",
+   "aside": "Told as interviews. You will pick a side within twenty pages.",
+   "pace": "Fast-paced",
+   "romanceLevel": "Bring it on",
+   "spiceLevel": "Fade to black",
+   "pageCount": 400,
+   "popularity": 706,
+   "tags": [
+    {
+     "text": "oral history",
+     "accent": "gold"
+    },
+    {
+     "text": "band implodes",
+     "accent": "smoke"
+    },
+    {
+     "text": "1970s",
+     "accent": "rose"
+    },
+    {
+     "text": "400 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Contemporary",
+    "Literary Fiction"
+   ],
+   "contentFlags": []
+  },
+  {
+   "id": "crawdads",
+   "title": "Where the Crawdads Sing",
+   "author": "Delia Owens",
+   "isbn": "9780593103036",
+   "cover": "c5",
+   "blurb": "A girl raised alone in the North Carolina marsh becomes the suspect when a local man turns up dead.",
+   "aside": "Half nature writing, half courtroom. Somehow that works.",
+   "pace": "Slow burn",
+   "romanceLevel": "Bring it on",
+   "spiceLevel": "Fade to black",
+   "pageCount": 416,
+   "popularity": 2826,
+   "tags": [
+    {
+     "text": "marsh",
+     "accent": "rose"
+    },
+    {
+     "text": "court case",
+     "accent": "sage"
+    },
+    {
+     "text": "outsider",
+     "accent": "smoke"
+    },
+    {
+     "text": "416 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Contemporary",
+    "Mystery & Thriller"
+   ],
+   "contentFlags": []
+  },
+  {
+   "id": "punk57",
+   "title": "Punk 57",
+   "author": "Penelope Douglas",
+   "isbn": "9781543644548",
+   "cover": "c5",
+   "blurb": "Two pen pals who have never met finally do, and neither is who the other imagined.",
+   "aside": "Dark, mean, and completely unembarrassed about it.",
+   "pace": "Fast-paced",
+   "romanceLevel": "Bring it on",
+   "spiceLevel": "Spicy",
+   "pageCount": 363,
+   "popularity": 2465,
+   "tags": [
+    {
+     "text": "pen pals",
+     "accent": "rose"
+    },
+    {
+     "text": "enemies to lovers",
+     "accent": "rose"
+    },
+    {
+     "text": "mean and messy",
+     "accent": "smoke"
+    },
+    {
+     "text": "363 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Romance",
+    "Contemporary"
+   ],
+   "contentFlags": []
+  },
+  {
+   "id": "lightsout",
+   "title": "Lights Out",
+   "author": "Navessa Allen",
+   "isbn": "9781638932239",
+   "cover": "c4",
+   "blurb": "A woman looking for a hookup online matches with a man who hunts far worse people than her.",
+   "aside": "You know exactly what this is. So does it.",
+   "pace": "Fast-paced",
+   "romanceLevel": "Bring it on",
+   "spiceLevel": "Spicy",
+   "pageCount": 416,
+   "popularity": 1366,
+   "tags": [
+    {
+     "text": "masked stranger",
+     "accent": "smoke"
+    },
+    {
+     "text": "dangerous",
+     "accent": "rose"
+    },
+    {
+     "text": "416 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Romance",
+    "Contemporary"
+   ],
+   "contentFlags": []
+  },
+  {
+   "id": "credence",
+   "title": "Credence",
+   "author": "Penelope Douglas",
+   "isbn": "9781713592679",
+   "cover": "c4",
+   "blurb": "An orphaned heiress is sent to live with her guardian and his two sons in the Colorado mountains.",
+   "aside": "Notorious for a reason. Check what you're getting into first.",
+   "pace": "Steady",
+   "romanceLevel": "Bring it on",
+   "spiceLevel": "Spicy",
+   "pageCount": 486,
+   "popularity": 1497,
+   "tags": [
+    {
+     "text": "snowed in",
+     "accent": "smoke"
+    },
+    {
+     "text": "found family",
+     "accent": "sage"
+    },
+    {
+     "text": "taboo",
+     "accent": "rose"
+    },
+    {
+     "text": "486 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Romance",
+    "Contemporary"
+   ],
+   "contentFlags": []
+  },
+  {
+   "id": "educated",
+   "title": "Educated",
+   "author": "Tara Westover",
+   "isbn": "9781443452472",
+   "cover": "c5",
+   "blurb": "Raised off-grid by survivalists, she set foot in a classroom at seventeen and kept going to Cambridge.",
+   "aside": "The bit that stays with you is how long she keeps going back.",
+   "pace": "Steady",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 388,
+   "popularity": 512,
+   "tags": [
+    {
+     "text": "memoir",
+     "accent": "sage"
+    },
+    {
+     "text": "survivalist family",
+     "accent": "smoke"
+    },
+    {
+     "text": "true story",
+     "accent": "sage"
+    },
+    {
+     "text": "388 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Nonfiction"
+   ],
+   "contentFlags": []
+  },
+  {
+   "id": "whenbreath",
+   "title": "When Breath Becomes Air",
+   "author": "Paul Kalanithi",
+   "isbn": "9780399590405",
+   "cover": "c3",
+   "blurb": "A neurosurgeon at the end of his training is diagnosed with lung cancer and writes about what is left.",
+   "aside": "Two hundred pages and no wasted ones.",
+   "pace": "Steady",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Closed door",
+   "pageCount": 232,
+   "popularity": 1057,
+   "tags": [
+    {
+     "text": "memoir",
+     "accent": "sage"
+    },
+    {
+     "text": "true story",
+     "accent": "sage"
+    },
+    {
+     "text": "short",
+     "accent": "smoke"
+    },
+    {
+     "text": "232 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Nonfiction"
+   ],
+   "contentFlags": []
+  },
+  {
+   "id": "dreamhouse",
+   "title": "In the Dream House",
+   "author": "Carmen Maria Machado",
+   "isbn": "9781665180290",
+   "cover": "c1",
+   "blurb": "A memoir of an abusive relationship told in dozens of short chapters, each borrowing a different genre.",
+   "aside": "The form is the argument. Nothing else does this.",
+   "pace": "Steady",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Fade to black",
+   "pageCount": 280,
+   "popularity": 199,
+   "tags": [
+    {
+     "text": "memoir",
+     "accent": "sage"
+    },
+    {
+     "text": "formally strange",
+     "accent": "gold"
+    },
+    {
+     "text": "abusive relationship",
+     "accent": "smoke"
+    },
+    {
+     "text": "280 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Nonfiction",
+    "Literary Fiction"
+   ],
+   "contentFlags": []
+  },
+  {
+   "id": "gladmymom",
+   "title": "I'm Glad My Mom Died",
+   "author": "Jennette McCurdy",
+   "isbn": "9781797147963",
+   "cover": "c5",
+   "blurb": "A former child actor on her mother, the industry that used her, and the years spent getting out.",
+   "aside": "Funnier than the title lets on, and much harder.",
+   "pace": "Fast-paced",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Fade to black",
+   "pageCount": 320,
+   "popularity": 3982,
+   "tags": [
+    {
+     "text": "memoir",
+     "accent": "sage"
+    },
+    {
+     "text": "child star",
+     "accent": "smoke"
+    },
+    {
+     "text": "very funny",
+     "accent": "sage"
+    },
+    {
+     "text": "320 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Nonfiction"
+   ],
+   "contentFlags": []
+  },
+  {
+   "id": "anthropocene",
+   "title": "The Anthropocene Reviewed",
+   "author": "John Green",
+   "isbn": "9780525555223",
+   "cover": "c5",
+   "blurb": "Short essays rating pieces of the human world \u2014 Diet Dr Pepper, sunsets, Halley's Comet \u2014 out of five stars.",
+   "aside": "Perfect for reading four pages at a time before sleep.",
+   "pace": "Steady",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 328,
+   "popularity": 244,
+   "tags": [
+    {
+     "text": "essays",
+     "accent": "sage"
+    },
+    {
+     "text": "dip in anywhere",
+     "accent": "gold"
+    },
+    {
+     "text": "328 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Nonfiction"
+   ],
+   "contentFlags": []
+  },
+  {
+   "id": "entangledlife",
+   "title": "Entangled Life",
+   "author": "Merlin Sheldrake",
+   "isbn": "9781847925190",
+   "cover": "c1",
+   "blurb": "Fungi, and the argument that they quietly run more of the living world than anything else.",
+   "aside": "You will start noticing mushrooms. There is no cure.",
+   "pace": "Steady",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 368,
+   "popularity": 128,
+   "tags": [
+    {
+     "text": "science",
+     "accent": "sage"
+    },
+    {
+     "text": "changes how you look at things",
+     "accent": "gold"
+    },
+    {
+     "text": "368 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Nonfiction"
+   ],
+   "contentFlags": []
+  },
+  {
+   "id": "spytraitor",
+   "title": "The spy and the traitor",
+   "author": "Ben Macintyre",
+   "isbn": "9780525643807",
+   "cover": "c2",
+   "blurb": "The KGB colonel who spied for Britain for a decade, and the exfiltration that got him out.",
+   "aside": "Nonfiction that reads like a thriller because it actually happened.",
+   "pace": "Fast-paced",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 384,
+   "popularity": 115,
+   "tags": [
+    {
+     "text": "true story",
+     "accent": "sage"
+    },
+    {
+     "text": "cold war",
+     "accent": "smoke"
+    },
+    {
+     "text": "couldn't put it down",
+     "accent": "rose"
+    },
+    {
+     "text": "384 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Nonfiction",
+    "Mystery & Thriller"
+   ],
+   "contentFlags": []
+  }
+ ]
 }
