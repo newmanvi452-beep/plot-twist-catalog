@@ -1,5 +1,5 @@
 {
- "version": 11,
+ "version": 12,
  "books": [
   {
    "id": "cerulean",
@@ -4047,6 +4047,262 @@
    ],
    "contentFlags": [],
    "popularity": 84
+  },
+  {
+   "id": "braindamage",
+   "title": "Brain Damage",
+   "author": "Freida McFadden",
+   "isbn": "9781532902949",
+   "cover": "c3",
+   "blurb": "A surgeon takes a bullet to the brain, and what she can no longer remember might be the whole point.",
+   "aside": "Her memory is broken. So is your ability to trust her.",
+   "pace": "Fast-paced",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 392,
+   "tags": [
+    {
+     "text": "shot in the head",
+     "accent": "gold"
+    },
+    {
+     "text": "can't trust her own mind",
+     "accent": "rose"
+    },
+    {
+     "text": "unreliable narrator",
+     "accent": "sage"
+    },
+    {
+     "text": "392 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Mystery & Thriller"
+   ],
+   "contentFlags": [],
+   "popularity": 391
+  },
+  {
+   "id": "sleepinggiants",
+   "title": "Sleeping Giants",
+   "author": "Sylvain Neuvel",
+   "isbn": "9780718181697",
+   "cover": "c1",
+   "blurb": "A girl who fell onto a giant metal hand as a child grows up to help unearth the rest of it.",
+   "aside": "Told entirely through interviews. Somehow, still a page-turner.",
+   "pace": "Fast-paced",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 336,
+   "tags": [
+    {
+     "text": "giant robot mystery",
+     "accent": "gold"
+    },
+    {
+     "text": "buried since prehistory",
+     "accent": "rose"
+    },
+    {
+     "text": "told through interviews",
+     "accent": "sage"
+    },
+    {
+     "text": "336 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Science Fiction",
+    "Mystery & Thriller"
+   ],
+   "contentFlags": [],
+   "popularity": 102
+  },
+  {
+   "id": "onceuponariver",
+   "title": "Once upon a river",
+   "author": "Diane Setterfield",
+   "isbn": "9781982132774",
+   "cover": "c5",
+   "blurb": "A supposedly dead girl wakes up at a riverside inn, and three different families insist she's theirs.",
+   "aside": "Equal parts ghost story, mystery, and fairy tale.",
+   "pace": "Slow burn",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 465,
+   "tags": [
+    {
+     "text": "drowned girl breathes again",
+     "accent": "gold"
+    },
+    {
+     "text": "three families claim her",
+     "accent": "rose"
+    },
+    {
+     "text": "folklore and mystery",
+     "accent": "sage"
+    },
+    {
+     "text": "465 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Mystery & Thriller",
+    "Historical Fiction"
+   ],
+   "contentFlags": [],
+   "popularity": 45
+  },
+  {
+   "id": "thetrespasser",
+   "title": "The Trespasser",
+   "author": "Tana French",
+   "isbn": "9780670026333",
+   "cover": "c2",
+   "blurb": "A detective sick of thankless cases and office harassment catches one that's far weirder than it looks.",
+   "aside": "Standalone case, same brilliant Dublin Murder Squad world.",
+   "pace": "Steady",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 488,
+   "tags": [
+    {
+     "text": "murder squad outcast",
+     "accent": "gold"
+    },
+    {
+     "text": "case nobody wants",
+     "accent": "rose"
+    },
+    {
+     "text": "Dublin detective fiction",
+     "accent": "sage"
+    },
+    {
+     "text": "488 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Mystery & Thriller"
+   ],
+   "contentFlags": [],
+   "popularity": 20
+  },
+  {
+   "id": "thedry",
+   "title": "The dry",
+   "author": "Jane Harper",
+   "isbn": "9781250196767",
+   "cover": "c4",
+   "blurb": "A man returns to the drought-stricken town that exiled him to bury the friend who might have framed him.",
+   "aside": "Everyone in this town is lying. Some more than others.",
+   "pace": "Steady",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 352,
+   "tags": [
+    {
+     "text": "small town, big secret",
+     "accent": "gold"
+    },
+    {
+     "text": "childhood friend's death",
+     "accent": "rose"
+    },
+    {
+     "text": "Australian outback noir",
+     "accent": "sage"
+    },
+    {
+     "text": "352 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Mystery & Thriller"
+   ],
+   "contentFlags": [],
+   "popularity": 52
+  },
+  {
+   "id": "tattooistofauschwitz",
+   "title": "The Tattooist of Auschwitz",
+   "author": "Heather Morris",
+   "isbn": "9781760403171",
+   "cover": "c3",
+   "blurb": "A prisoner forced to tattoo numbers on fellow inmates falls in love inside Auschwitz, and somehow, they both survive.",
+   "aside": "As devastating as you'd expect. Read it anyway.",
+   "pace": "Steady",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Closed door",
+   "pageCount": 304,
+   "tags": [
+    {
+     "text": "based on a true story",
+     "accent": "gold"
+    },
+    {
+     "text": "love found in Auschwitz",
+     "accent": "rose"
+    },
+    {
+     "text": "tattoo artist prisoner",
+     "accent": "sage"
+    },
+    {
+     "text": "304 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Historical Fiction",
+    "Romance"
+   ],
+   "contentFlags": [],
+   "popularity": 349
+  },
+  {
+   "id": "janeaustensociety",
+   "title": "The Jane Austen Society",
+   "author": "Natalie Jenner",
+   "isbn": "9781250797179",
+   "cover": "c5",
+   "blurb": "In a small English village after the war, an unlikely group bands together to save Jane Austen's legacy.",
+   "aside": "Austen fans will recognize their people immediately.",
+   "pace": "Steady",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Closed door",
+   "pageCount": 320,
+   "tags": [
+    {
+     "text": "post-war England",
+     "accent": "gold"
+    },
+    {
+     "text": "makeshift society",
+     "accent": "rose"
+    },
+    {
+     "text": "preserving Jane Austen's legacy",
+     "accent": "sage"
+    },
+    {
+     "text": "320 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Historical Fiction",
+    "Romance"
+   ],
+   "contentFlags": [],
+   "popularity": 14
   }
  ]
 }
