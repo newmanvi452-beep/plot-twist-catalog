@@ -1,5 +1,5 @@
 {
- "version": 9,
+ "version": 10,
  "books": [
   {
    "id": "cerulean",
@@ -2582,7 +2582,7 @@
    "id": "spytraitor",
    "title": "The spy and the traitor",
    "author": "Ben Macintyre",
-   "isbn": "9780525643807",
+   "isbn": "9780241186657",
    "cover": "c2",
    "blurb": "The KGB colonel who spied for Britain for a decade, and the exfiltration that got him out.",
    "aside": "Nonfiction that reads like a thriller because it actually happened.",
