@@ -1,5 +1,5 @@
 {
- "version": 12,
+ "version": 14,
  "books": [
   {
    "id": "cerulean",
@@ -4303,6 +4303,745 @@
    ],
    "contentFlags": [],
    "popularity": 14
+  },
+  {
+   "id": "ol20890999w",
+   "title": "Ring Shout",
+   "author": "P. Djèlí Clark",
+   "isbn": "9781250767028",
+   "cover": "c1",
+   "blurb": "In 1920s Georgia, a sword-wielding resistance fighter hunts the literal demons hiding inside the Klan.",
+   "aside": "Short, furious, and far more fun than a book about Klan demons has any right to be.",
+   "pace": "Fast-paced",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 168,
+   "tags": [
+    {
+     "text": "demon-hunting resistance",
+     "accent": "rose"
+    },
+    {
+     "text": "1920s Georgia",
+     "accent": "gold"
+    },
+    {
+     "text": "monsters in white hoods",
+     "accent": "sage"
+    },
+    {
+     "text": "168 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Horror",
+    "Historical Fiction",
+    "Fantasy"
+   ],
+   "contentFlags": [],
+   "popularity": 88
+  },
+  {
+   "id": "ol17868258w",
+   "title": "The Ballad of Black Tom",
+   "author": "Victor D. LaValle",
+   "isbn": "9781250817556",
+   "cover": "c2",
+   "blurb": "A Harlem hustler running errands in 1920s New York stumbles into powers older and hungrier than racism.",
+   "aside": "It answers Lovecraft in his own genre, and wins.",
+   "pace": "Steady",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 154,
+   "tags": [
+    {
+     "text": "1920s Harlem",
+     "accent": "rose"
+    },
+    {
+     "text": "cosmic dread",
+     "accent": "gold"
+    },
+    {
+     "text": "hustler turned believer",
+     "accent": "sage"
+    },
+    {
+     "text": "154 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Horror",
+    "Historical Fiction",
+    "Fantasy"
+   ],
+   "contentFlags": [],
+   "popularity": 87
+  },
+  {
+   "id": "ol24312716w",
+   "title": "The Last House on Needless Street",
+   "author": "Catriona Ward",
+   "isbn": "9781250812629",
+   "cover": "c3",
+   "blurb": "A shuttered house at the edge of the woods hides a secret its three residents cannot name.",
+   "aside": "Trust nothing, least of all the cat, and then read it again.",
+   "pace": "Slow burn",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 352,
+   "tags": [
+    {
+     "text": "unreliable narrators",
+     "accent": "rose"
+    },
+    {
+     "text": "boarded-up house",
+     "accent": "gold"
+    },
+    {
+     "text": "a cat who reads the Bible",
+     "accent": "sage"
+    },
+    {
+     "text": "352 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Horror",
+    "Mystery & Thriller"
+   ],
+   "contentFlags": [
+    "multiple POVs"
+   ],
+   "popularity": 110
+  },
+  {
+   "id": "ol34061150w",
+   "title": "The Spirit Bares Its Teeth",
+   "author": "Andrew Joseph White",
+   "isbn": "9781682636183",
+   "cover": "c4",
+   "blurb": "A trans, autistic medium in Victorian London is committed to a school that wants him obedient.",
+   "aside": "Furious gothic horror that never once softens its edges for your comfort.",
+   "pace": "Steady",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 400,
+   "tags": [
+    {
+     "text": "Victorian seances",
+     "accent": "rose"
+    },
+    {
+     "text": "secret societies",
+     "accent": "gold"
+    },
+    {
+     "text": "brutal boarding school",
+     "accent": "sage"
+    },
+    {
+     "text": "400 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Horror",
+    "Historical Fiction"
+   ],
+   "contentFlags": [],
+   "popularity": 41
+  },
+  {
+   "id": "ol19546271w",
+   "title": "Welcome to Night Vale",
+   "author": "Joseph Fink",
+   "isbn": "9780062351425",
+   "cover": "c5",
+   "blurb": "In a desert town where the impossible is routine, two women chase a man nobody remembers.",
+   "aside": "Funny until it isn't, which is the whole trick.",
+   "pace": "Steady",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 416,
+   "tags": [
+    {
+     "text": "desert town weirdness",
+     "accent": "rose"
+    },
+    {
+     "text": "deadpan surrealism",
+     "accent": "gold"
+    },
+    {
+     "text": "shapeshifting neighbours",
+     "accent": "sage"
+    },
+    {
+     "text": "416 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Horror",
+    "Fantasy",
+    "Mystery & Thriller"
+   ],
+   "contentFlags": [],
+   "popularity": 62
+  },
+  {
+   "id": "ol28736183w",
+   "title": "Monstrilio",
+   "author": "Gerardo Sámano Córdova",
+   "isbn": "9781638930365",
+   "cover": "c1",
+   "blurb": "A grieving mother grows a piece of her dead son's lung into something hungry and almost human.",
+   "aside": "A tender book about a creature that eats things; somehow both halves work.",
+   "pace": "Slow burn",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 326,
+   "tags": [
+    {
+     "text": "grief made flesh",
+     "accent": "rose"
+    },
+    {
+     "text": "Mexico City estate",
+     "accent": "gold"
+    },
+    {
+     "text": "monstrous second chance",
+     "accent": "sage"
+    },
+    {
+     "text": "326 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Horror",
+    "Literary Fiction"
+   ],
+   "contentFlags": [],
+   "popularity": 38
+  },
+  {
+   "id": "ol18820928w",
+   "title": "A Head Full of Ghosts: A Novel",
+   "author": "Paul Tremblay",
+   "isbn": "9780062363251",
+   "cover": "c2",
+   "blurb": "A teenager's breakdown becomes a reality show exorcism, and nobody agrees what was really happening.",
+   "aside": "The ambiguity is the point, and it will keep you up arguing with yourself.",
+   "pace": "Steady",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 298,
+   "tags": [
+    {
+     "text": "possession or illness",
+     "accent": "rose"
+    },
+    {
+     "text": "reality TV exorcism",
+     "accent": "gold"
+    },
+    {
+     "text": "unreliable memory",
+     "accent": "sage"
+    },
+    {
+     "text": "298 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Horror",
+    "Mystery & Thriller"
+   ],
+   "contentFlags": [],
+   "popularity": 134
+  },
+  {
+   "id": "ol21282686w",
+   "title": "The Fireman",
+   "author": "Joe Hill",
+   "isbn": "9780062200648",
+   "cover": "c3",
+   "blurb": "A spore marks its victims with gold scales, then burns them alive; a pregnant nurse refuses to die.",
+   "aside": "Seven hundred pages that somehow move faster than most three hundred.",
+   "pace": "Steady",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Closed door",
+   "pageCount": 768,
+   "tags": [
+    {
+     "text": "spore plague",
+     "accent": "rose"
+    },
+    {
+     "text": "spontaneous combustion",
+     "accent": "gold"
+    },
+    {
+     "text": "pregnant survivor",
+     "accent": "sage"
+    },
+    {
+     "text": "768 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Horror",
+    "Science Fiction"
+   ],
+   "contentFlags": [],
+   "popularity": 24
+  },
+  {
+   "id": "ol25323647w",
+   "title": "Our Wives Under the Sea",
+   "author": "Julia Armfield",
+   "isbn": "9781666583670",
+   "cover": "c4",
+   "blurb": "Leah returns from the ocean floor changed, and her wife watches the woman she loves dissolve.",
+   "aside": "Quiet, wet and devastating; do not expect a monster to solve anything.",
+   "pace": "Slow burn",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Closed door",
+   "pageCount": 224,
+   "tags": [
+    {
+     "text": "she came back wrong",
+     "accent": "rose"
+    },
+    {
+     "text": "deep sea dread",
+     "accent": "gold"
+    },
+    {
+     "text": "grief and marriage",
+     "accent": "sage"
+    },
+    {
+     "text": "224 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Horror",
+    "Literary Fiction",
+    "Contemporary"
+   ],
+   "contentFlags": [
+    "multiple POVs"
+   ],
+   "popularity": 102
+  },
+  {
+   "id": "ol19636245w",
+   "title": "Her Body and Other Parties",
+   "author": "Carmen Maria Machado",
+   "isbn": "9781665143578",
+   "cover": "c5",
+   "blurb": "Eight stories where women's bodies become haunted territory, funny and grotesque by turns.",
+   "aside": "The one about the green ribbon alone earns its shelf space.",
+   "pace": "Steady",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Open door",
+   "pageCount": 248,
+   "tags": [
+    {
+     "text": "feminist body horror",
+     "accent": "rose"
+    },
+    {
+     "text": "short stories",
+     "accent": "gold"
+    },
+    {
+     "text": "the green ribbon",
+     "accent": "sage"
+    },
+    {
+     "text": "248 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Horror",
+    "Literary Fiction",
+    "Fantasy"
+   ],
+   "contentFlags": [],
+   "popularity": 194
+  },
+  {
+   "id": "ol24345557w",
+   "title": "The Happiest Man on Earth",
+   "author": "Eddie Jaku",
+   "isbn": "9781760980085",
+   "cover": "c1",
+   "blurb": "A Holocaust survivor recounts seven years of horror and the deliberate choice to stay grateful.",
+   "aside": "A hundred-year-old man explains happiness better than any self-help shelf, and he earned every word.",
+   "pace": "Steady",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 200,
+   "tags": [
+    {
+     "text": "holocaust memoir",
+     "accent": "rose"
+    },
+    {
+     "text": "hard-won optimism",
+     "accent": "gold"
+    },
+    {
+     "text": "survivor's wisdom",
+     "accent": "sage"
+    },
+    {
+     "text": "200 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Nonfiction"
+   ],
+   "contentFlags": [],
+   "popularity": 282
+  },
+  {
+   "id": "ol20086330w",
+   "title": "How to Be an Antiracist",
+   "author": "Ibram X. Kendi",
+   "isbn": "9780525509301",
+   "cover": "c2",
+   "blurb": "Kendi braids memoir with history to argue that being merely not racist is not enough.",
+   "aside": "He indicts himself long before he indicts you, which is exactly why the argument lands.",
+   "pace": "Steady",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 320,
+   "tags": [
+    {
+     "text": "antiracism",
+     "accent": "rose"
+    },
+    {
+     "text": "memoir and history",
+     "accent": "gold"
+    },
+    {
+     "text": "uncomfortable questions",
+     "accent": "sage"
+    },
+    {
+     "text": "320 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Nonfiction"
+   ],
+   "contentFlags": [],
+   "popularity": 267
+  },
+  {
+   "id": "ol20781307w",
+   "title": "The Jakarta Method",
+   "author": "Vincent Bevins",
+   "isbn": "9781541742406",
+   "cover": "c3",
+   "blurb": "Investigative history of the US-backed mass killings that quietly decided the Cold War's outcome.",
+   "aside": "You will finish this and reread the entire twentieth century with different eyes.",
+   "pace": "Steady",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 320,
+   "tags": [
+    {
+     "text": "cold war history",
+     "accent": "rose"
+    },
+    {
+     "text": "declassified documents",
+     "accent": "gold"
+    },
+    {
+     "text": "investigative reporting",
+     "accent": "sage"
+    },
+    {
+     "text": "320 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Nonfiction"
+   ],
+   "contentFlags": [],
+   "popularity": 195
+  },
+  {
+   "id": "ol20878310w",
+   "title": "Caste",
+   "author": "Isabel Wilkerson",
+   "isbn": "9780141995465",
+   "cover": "c4",
+   "blurb": "Wilkerson reframes American racism as a caste system, linking it to India and Nazi Germany.",
+   "aside": "The kind of argument that rearranges the furniture in your head and leaves it there.",
+   "pace": "Slow burn",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 496,
+   "tags": [
+    {
+     "text": "hidden hierarchies",
+     "accent": "rose"
+    },
+    {
+     "text": "america, india, germany",
+     "accent": "gold"
+    },
+    {
+     "text": "narrative nonfiction",
+     "accent": "sage"
+    },
+    {
+     "text": "496 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Nonfiction"
+   ],
+   "contentFlags": [],
+   "popularity": 205
+  },
+  {
+   "id": "ol18819818w",
+   "title": "Never Split the Difference",
+   "author": "Chris Voss",
+   "isbn": "9781847941497",
+   "cover": "c5",
+   "blurb": "An FBI hostage negotiator turns life-or-death tactics into rules for ordinary bargaining.",
+   "aside": "You will absolutely try the late-night radio voice on someone this week. Sorry in advance.",
+   "pace": "Fast-paced",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 288,
+   "tags": [
+    {
+     "text": "hostage negotiation",
+     "accent": "rose"
+    },
+    {
+     "text": "tactical empathy",
+     "accent": "gold"
+    },
+    {
+     "text": "practical psychology",
+     "accent": "sage"
+    },
+    {
+     "text": "288 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Nonfiction"
+   ],
+   "contentFlags": [],
+   "popularity": 1606
+  },
+  {
+   "id": "ol25473797w",
+   "title": "What My Bones Know",
+   "author": "Stephanie Foo",
+   "isbn": "9780593238127",
+   "cover": "c1",
+   "blurb": "A radio producer diagnosed with complex PTSD researches and reports her way toward healing.",
+   "aside": "A trauma memoir built like an investigation, which somehow makes it far more hopeful.",
+   "pace": "Steady",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 352,
+   "tags": [
+    {
+     "text": "complex ptsd",
+     "accent": "rose"
+    },
+    {
+     "text": "reported memoir",
+     "accent": "gold"
+    },
+    {
+     "text": "healing, not tidy",
+     "accent": "sage"
+    },
+    {
+     "text": "352 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Nonfiction"
+   ],
+   "contentFlags": [],
+   "popularity": 168
+  },
+  {
+   "id": "ol19999589w",
+   "title": "The Argonauts",
+   "author": "Maggie Nelson",
+   "isbn": "9781555977351",
+   "cover": "c2",
+   "blurb": "Nelson braids queer love, pregnancy, and theory into a restless memoir about making family.",
+   "aside": "Autotheory sounds forbidding until Nelson makes it read like a very smart friend confiding.",
+   "pace": "Slow burn",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Fade to black",
+   "pageCount": 160,
+   "tags": [
+    {
+     "text": "queer family-making",
+     "accent": "rose"
+    },
+    {
+     "text": "autotheory",
+     "accent": "gold"
+    },
+    {
+     "text": "love and language",
+     "accent": "sage"
+    },
+    {
+     "text": "160 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Nonfiction"
+   ],
+   "contentFlags": [],
+   "popularity": 81
+  },
+  {
+   "id": "ol20168133w",
+   "title": "Why We Sleep",
+   "author": "Matthew P. Walker",
+   "isbn": "9780141983776",
+   "cover": "c3",
+   "blurb": "A neuroscientist explains what sleep does for the brain and what losing it costs.",
+   "aside": "Read it early in the evening; it makes a compelling case against reading late.",
+   "pace": "Steady",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 360,
+   "tags": [
+    {
+     "text": "sleep science",
+     "accent": "rose"
+    },
+    {
+     "text": "neuroscience",
+     "accent": "gold"
+    },
+    {
+     "text": "dreams explained",
+     "accent": "sage"
+    },
+    {
+     "text": "360 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Nonfiction"
+   ],
+   "contentFlags": [],
+   "popularity": 764
+  },
+  {
+   "id": "ol20157508w",
+   "title": "Invisible Women",
+   "author": "Caroline Criado Perez",
+   "isbn": "9781982699338",
+   "cover": "c4",
+   "blurb": "How a world designed around male-default data quietly fails half of its population.",
+   "aside": "Once you notice the gap in the data, you cannot unsee it in any room.",
+   "pace": "Steady",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 432,
+   "tags": [
+    {
+     "text": "data bias",
+     "accent": "rose"
+    },
+    {
+     "text": "gender gap",
+     "accent": "gold"
+    },
+    {
+     "text": "design failures",
+     "accent": "sage"
+    },
+    {
+     "text": "432 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Nonfiction"
+   ],
+   "contentFlags": [],
+   "popularity": 333
+  },
+  {
+   "id": "ol20153626w",
+   "title": "Bullshit Jobs",
+   "author": "David Graeber",
+   "isbn": "9781508264668",
+   "cover": "c5",
+   "blurb": "An anthropologist argues millions of pointless jobs exist and quietly corrode the people doing them.",
+   "aside": "Dangerous to read at your desk, in the best possible way.",
+   "pace": "Steady",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 392,
+   "tags": [
+    {
+     "text": "meaningless work",
+     "accent": "rose"
+    },
+    {
+     "text": "anthropology",
+     "accent": "gold"
+    },
+    {
+     "text": "five job types",
+     "accent": "sage"
+    },
+    {
+     "text": "392 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Nonfiction"
+   ],
+   "contentFlags": [],
+   "popularity": 276
   }
  ]
 }
