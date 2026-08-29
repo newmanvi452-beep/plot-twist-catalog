@@ -1,5 +1,5 @@
 {
- "version": 16,
+ "version": 17,
  "books": [
   {
    "id": "cerulean",
@@ -2059,7 +2059,7 @@
    "aside": "Unlike anything else on this shelf. Give it forty pages.",
    "pace": "Slow burn",
    "romanceLevel": "Not really my thing",
-   "spiceLevel": "Closed door",
+   "spiceLevel": "Fade to black",
    "pageCount": 426,
    "popularity": 122,
    "tags": [
@@ -2697,7 +2697,7 @@
    "aside": "Furious, strange and beautifully written. Bring a notebook and something warm to drink.",
    "pace": "Slow burn",
    "romanceLevel": "A little is nice",
-   "spiceLevel": "Closed door",
+   "spiceLevel": "Fade to black",
    "pageCount": 282,
    "popularity": 63,
    "tags": [
@@ -2878,7 +2878,7 @@
    "aside": "Bleakly funny satire about the shop that knows you better than you do. Sound familiar?",
    "pace": "Steady",
    "romanceLevel": "A little is nice",
-   "spiceLevel": "Closed door",
+   "spiceLevel": "Fade to black",
    "pageCount": 371,
    "popularity": 70,
    "tags": [
@@ -3357,7 +3357,7 @@
    "aside": "You will need to recalibrate everything by part two.",
    "pace": "Slow burn",
    "romanceLevel": "A little is nice",
-   "spiceLevel": "Closed door",
+   "spiceLevel": "Open door",
    "pageCount": 400,
    "tags": [
     {
@@ -3836,7 +3836,7 @@
    "aside": "Won every award going. For once, deserved.",
    "pace": "Steady",
    "romanceLevel": "Not really my thing",
-   "spiceLevel": "Closed door",
+   "spiceLevel": "Fade to black",
    "pageCount": 512,
    "tags": [
     {
@@ -3911,7 +3911,7 @@
    "aside": "848 pages of dragons and court intrigue. No, that's not too many.",
    "pace": "Slow burn",
    "romanceLevel": "A little is nice",
-   "spiceLevel": "Closed door",
+   "spiceLevel": "Fade to black",
    "pageCount": 848,
    "tags": [
     {
@@ -4229,43 +4229,6 @@
    ],
    "contentFlags": [],
    "popularity": 52
-  },
-  {
-   "id": "tattooistofauschwitz",
-   "title": "The Tattooist of Auschwitz",
-   "author": "Heather Morris",
-   "isbn": "9781760403171",
-   "cover": "c3",
-   "blurb": "A prisoner forced to tattoo numbers on fellow inmates falls in love inside Auschwitz, and somehow, they both survive.",
-   "aside": "As devastating as you'd expect. Read it anyway.",
-   "pace": "Steady",
-   "romanceLevel": "A little is nice",
-   "spiceLevel": "Closed door",
-   "pageCount": 304,
-   "tags": [
-    {
-     "text": "based on a true story",
-     "accent": "gold"
-    },
-    {
-     "text": "love found in Auschwitz",
-     "accent": "rose"
-    },
-    {
-     "text": "tattoo artist prisoner",
-     "accent": "sage"
-    },
-    {
-     "text": "304 pages",
-     "accent": "textSoft"
-    }
-   ],
-   "genres": [
-    "Historical Fiction",
-    "Romance"
-   ],
-   "contentFlags": [],
-   "popularity": 349
   },
   {
    "id": "janeaustensociety",
