@@ -1,5 +1,5 @@
 {
- "version": 6,
+ "version": 7,
  "books": [
   {
    "id": "cerulean",
@@ -7,7 +7,7 @@
    "author": "TJ Klune",
    "isbn": "9781250217288",
    "cover": "c5",
-   "blurb": "A caseworker is sent to a seaside orphanage of magical children \u2014 and starts wondering whose side he's on.",
+   "blurb": "A caseworker is sent to a seaside orphanage of magical children — and starts wondering whose side he's on.",
    "aside": "Softer than your usual. Do it anyway.",
    "pace": "Slow burn",
    "romanceLevel": "A little is nice",
@@ -278,7 +278,7 @@
    "author": "R. F. Kuang",
    "isbn": "9780063021426",
    "cover": "c2",
-   "blurb": "An Oxford translator learns that language is the empire's real weapon \u2014 and he's been holding the knife.",
+   "blurb": "An Oxford translator learns that language is the empire's real weapon — and he's been holding the knife.",
    "aside": "It's angry. Let it be angry.",
    "pace": "Slow burn",
    "romanceLevel": "Not really my thing",
@@ -346,7 +346,7 @@
    "author": "Donna Tartt",
    "isbn": "9781400031702",
    "cover": "c1",
-   "blurb": "A tight-knit group of classics students commits murder \u2014 the mystery is why, not who.",
+   "blurb": "A tight-knit group of classics students commits murder — the mystery is why, not who.",
    "aside": "You already know. You've read it twice.",
    "pace": "Slow burn",
    "romanceLevel": "Not really my thing",
@@ -514,7 +514,7 @@
    "author": "Silvia Moreno-Garcia",
    "isbn": "9780525620785",
    "cover": "c1",
-   "blurb": "A young socialite visits her cousin's new husband's crumbling estate \u2014 and the house doesn't want her to leave.",
+   "blurb": "A young socialite visits her cousin's new husband's crumbling estate — and the house doesn't want her to leave.",
    "aside": "The house is a character. An unwell one.",
    "pace": "Steady",
    "romanceLevel": "A little is nice",
@@ -544,7 +544,7 @@
   {
    "id": "shadowwind",
    "title": "The Shadow of the Wind",
-   "author": "Carlos Ruiz Zaf\u00f3n",
+   "author": "Carlos Ruiz Zafón",
    "isbn": "9780143034902",
    "cover": "c3",
    "blurb": "A boy finds one forgotten book and pulls on the thread of everyone who ever tried to destroy it.",
@@ -581,7 +581,7 @@
    "author": "Daphne du Maurier",
    "isbn": "9780380730407",
    "cover": "c4",
-   "blurb": "A second wife moves into a great house still entirely run by the first one \u2014 who's been dead for a year.",
+   "blurb": "A second wife moves into a great house still entirely run by the first one — who's been dead for a year.",
    "aside": "The dead woman wins every scene she isn't in.",
    "pace": "Slow burn",
    "romanceLevel": "A little is nice",
@@ -2520,7 +2520,7 @@
    "author": "John Green",
    "isbn": "9780525555223",
    "cover": "c5",
-   "blurb": "Short essays rating pieces of the human world \u2014 Diet Dr Pepper, sunsets, Halley's Comet \u2014 out of five stars.",
+   "blurb": "Short essays rating pieces of the human world — Diet Dr Pepper, sunsets, Halley's Comet — out of five stars.",
    "aside": "Perfect for reading four pages at a time before sleep.",
    "pace": "Steady",
    "romanceLevel": "Not really my thing",
@@ -3051,6 +3051,340 @@
     "Literary Fiction"
    ],
    "contentFlags": []
+  },
+  {
+   "id": "onedarkwindow",
+   "title": "One Dark Window",
+   "author": "Rachel Gillig",
+   "isbn": "9780316597234",
+   "cover": "c2",
+   "blurb": "A girl who shares her mind with a dangerous spirit teams up with a highwayman to save her cursed town.",
+   "aside": "The voice in her head has opinions. So does the highwayman.",
+   "pace": "Steady",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Closed door",
+   "pageCount": 400,
+   "tags": [
+    {
+     "text": "possessed by a spirit",
+     "accent": "gold"
+    },
+    {
+     "text": "slow-burn romance",
+     "accent": "rose"
+    },
+    {
+     "text": "card-game magic",
+     "accent": "sage"
+    },
+    {
+     "text": "400 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Fantasy",
+    "Romance"
+   ],
+   "contentFlags": [],
+   "popularity": 191
+  },
+  {
+   "id": "goldfinch",
+   "title": "The Goldfinch",
+   "author": "Donna Tartt",
+   "isbn": "9780316239875",
+   "cover": "c1",
+   "blurb": "A boy survives the blast that kills his mother and spends decades chasing the small painting he stole that day.",
+   "aside": "Eight hundred pages. Not one of them wasted.",
+   "pace": "Slow burn",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 862,
+   "tags": [
+    {
+     "text": "stolen painting",
+     "accent": "gold"
+    },
+    {
+     "text": "grief and obsession",
+     "accent": "rose"
+    },
+    {
+     "text": "art world underworld",
+     "accent": "sage"
+    },
+    {
+     "text": "862 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Literary Fiction",
+    "Contemporary"
+   ],
+   "contentFlags": [],
+   "popularity": 889
+  },
+  {
+   "id": "theinstitute",
+   "title": "The Institute",
+   "author": "Stephen King",
+   "isbn": "9781982110574",
+   "cover": "c4",
+   "blurb": "Kidnapped kids with strange powers are held in a facility that insists it's all for the greater good.",
+   "aside": "Nobody's coming to save these kids. They'll have to do it themselves.",
+   "pace": "Fast-paced",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 624,
+   "tags": [
+    {
+     "text": "psychic children",
+     "accent": "gold"
+    },
+    {
+     "text": "sinister institution",
+     "accent": "sage"
+    },
+    {
+     "text": "kids vs. conspiracy",
+     "accent": "rose"
+    },
+    {
+     "text": "624 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Horror",
+    "Science Fiction"
+   ],
+   "contentFlags": [],
+   "popularity": 443
+  },
+  {
+   "id": "onlygoodindians",
+   "title": "The Only Good Indians",
+   "author": "Stephen Graham Jones",
+   "isbn": "9781432887414",
+   "cover": "c3",
+   "blurb": "Ten years after a reckless hunt, four friends are stalked one by one by something that hasn't forgotten.",
+   "aside": "Some debts get collected. This one comes with claws.",
+   "pace": "Steady",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 320,
+   "tags": [
+    {
+     "text": "revenge from beyond",
+     "accent": "gold"
+    },
+    {
+     "text": "indigenous horror",
+     "accent": "rose"
+    },
+    {
+     "text": "guilt catches up",
+     "accent": "sage"
+    },
+    {
+     "text": "320 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Horror"
+   ],
+   "contentFlags": [],
+   "popularity": 167
+  },
+  {
+   "id": "ninthhouse",
+   "title": "Ninth House",
+   "author": "Leigh Bardugo",
+   "isbn": "9781250798008",
+   "cover": "c5",
+   "blurb": "A girl who can see the dead is recruited to police Yale's secret societies and their occult rituals.",
+   "aside": "Dark academia with actual teeth. Mind the ghosts.",
+   "pace": "Steady",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Fade to black",
+   "pageCount": 480,
+   "tags": [
+    {
+     "text": "dark academia",
+     "accent": "gold"
+    },
+    {
+     "text": "secret societies",
+     "accent": "rose"
+    },
+    {
+     "text": "she sees ghosts",
+     "accent": "sage"
+    },
+    {
+     "text": "480 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Horror",
+    "Fantasy"
+   ],
+   "contentFlags": [],
+   "popularity": 340
+  },
+  {
+   "id": "lovecraftcountry",
+   "title": "Lovecraft Country",
+   "author": "Matt Ruff",
+   "isbn": "9781665017312",
+   "cover": "c1",
+   "blurb": "A missing father, a road trip through 1950s America, and monsters that are sometimes the least of it.",
+   "aside": "The ghouls are bad. The sundown towns are worse.",
+   "pace": "Fast-paced",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Closed door",
+   "pageCount": 384,
+   "tags": [
+    {
+     "text": "occult secret society",
+     "accent": "gold"
+    },
+    {
+     "text": "road trip horror",
+     "accent": "rose"
+    },
+    {
+     "text": "occult inheritance",
+     "accent": "sage"
+    },
+    {
+     "text": "384 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Horror",
+    "Historical Fiction"
+   ],
+   "contentFlags": [],
+   "popularity": 38
+  },
+  {
+   "id": "sladehouse",
+   "title": "Slade House",
+   "author": "David Mitchell",
+   "isbn": "9780812998689",
+   "cover": "c2",
+   "blurb": "Every nine years, a strange house appears and someone new goes inside. Not all of them leave.",
+   "aside": "Short book. Longest nine years of your life.",
+   "pace": "Fast-paced",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 247,
+   "tags": [
+    {
+     "text": "haunted house with rules",
+     "accent": "gold"
+    },
+    {
+     "text": "psychological horror",
+     "accent": "rose"
+    },
+    {
+     "text": "every nine years",
+     "accent": "sage"
+    },
+    {
+     "text": "247 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Horror",
+    "Fantasy"
+   ],
+   "contentFlags": [],
+   "popularity": 49
+  },
+  {
+   "id": "everafter",
+   "title": "Ever After",
+   "author": "Jude Deveraux",
+   "isbn": "9780345541857",
+   "cover": "c4",
+   "blurb": "A woman inherits a Nantucket house full of secrets — and maybe a ghost with an agenda.",
+   "aside": "The house came with more than she bargained for.",
+   "pace": "Steady",
+   "romanceLevel": "Bring it on",
+   "spiceLevel": "Fade to black",
+   "pageCount": 353,
+   "tags": [
+    {
+     "text": "inherited house",
+     "accent": "gold"
+    },
+    {
+     "text": "island romance",
+     "accent": "rose"
+    },
+    {
+     "text": "family secrets",
+     "accent": "sage"
+    },
+    {
+     "text": "353 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Romance",
+    "Contemporary"
+   ],
+   "contentFlags": [],
+   "popularity": 20
+  },
+  {
+   "id": "fatesandfuries",
+   "title": "Fates and Furies",
+   "author": "Lauren Groff",
+   "isbn": "9781785150142",
+   "cover": "c3",
+   "blurb": "Twenty-four years of marriage, told twice — once by him, then completely differently by her.",
+   "aside": "You will need to recalibrate everything by part two.",
+   "pace": "Slow burn",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Closed door",
+   "pageCount": 400,
+   "tags": [
+    {
+     "text": "marriage secrets",
+     "accent": "gold"
+    },
+    {
+     "text": "two sides of the story",
+     "accent": "rose"
+    },
+    {
+     "text": "unreliable marriage",
+     "accent": "sage"
+    },
+    {
+     "text": "400 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Literary Fiction",
+    "Romance"
+   ],
+   "contentFlags": [
+    "multiple POVs"
+   ],
+   "popularity": 54
   }
  ]
 }
