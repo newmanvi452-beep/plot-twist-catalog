@@ -1,5 +1,5 @@
 {
- "version": 14,
+ "version": 15,
  "books": [
   {
    "id": "cerulean",
@@ -4909,7 +4909,7 @@
    "aside": "Autotheory sounds forbidding until Nelson makes it read like a very smart friend confiding.",
    "pace": "Slow burn",
    "romanceLevel": "A little is nice",
-   "spiceLevel": "Fade to black",
+   "spiceLevel": "Open door",
    "pageCount": 160,
    "tags": [
     {
