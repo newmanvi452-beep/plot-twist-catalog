@@ -1,5 +1,5 @@
 {
- "version": 7,
+ "version": 8,
  "books": [
   {
    "id": "cerulean",
@@ -3385,6 +3385,372 @@
     "multiple POVs"
    ],
    "popularity": 54
+  },
+  {
+   "id": "killersflowermoon",
+   "title": "Killers of the Flower Moon",
+   "author": "David Grann",
+   "isbn": "9781524755935",
+   "cover": "c1",
+   "blurb": "Wealthy Osage families are murdered one by one in 1920s Oklahoma, and the case births the modern FBI.",
+   "aside": "Reads like fiction. Isn't. That's the horror of it.",
+   "pace": "Fast-paced",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 350,
+   "tags": [
+    {
+     "text": "Osage murders",
+     "accent": "gold"
+    },
+    {
+     "text": "based on true events",
+     "accent": "rose"
+    },
+    {
+     "text": "birth of the FBI",
+     "accent": "sage"
+    },
+    {
+     "text": "350 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Nonfiction",
+    "Mystery & Thriller"
+   ],
+   "contentFlags": [],
+   "popularity": 289
+  },
+  {
+   "id": "permanentrecord",
+   "title": "Permanent Record",
+   "author": "Edward Snowden",
+   "isbn": "9781250237231",
+   "cover": "c3",
+   "blurb": "The NSA contractor who leaked the surveillance state's secrets explains why, then goes on the run.",
+   "aside": "Paranoid people were right. This is that story.",
+   "pace": "Fast-paced",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 352,
+   "tags": [
+    {
+     "text": "government secrets",
+     "accent": "gold"
+    },
+    {
+     "text": "whistleblower on the run",
+     "accent": "rose"
+    },
+    {
+     "text": "memoir as thriller",
+     "accent": "sage"
+    },
+    {
+     "text": "352 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Nonfiction"
+   ],
+   "contentFlags": [],
+   "popularity": 307
+  },
+  {
+   "id": "canthurtme",
+   "title": "Can't Hurt Me",
+   "author": "David Goggins",
+   "isbn": "9781544507859",
+   "cover": "c4",
+   "blurb": "A man goes from an abused, obese childhood to Navy SEAL by refusing to accept his own limits.",
+   "aside": "Motivational in the way a drill sergeant is motivational.",
+   "pace": "Fast-paced",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 364,
+   "tags": [
+    {
+     "text": "abuse to Navy SEAL",
+     "accent": "gold"
+    },
+    {
+     "text": "brutal honesty",
+     "accent": "rose"
+    },
+    {
+     "text": "mental toughness",
+     "accent": "sage"
+    },
+    {
+     "text": "364 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Nonfiction"
+   ],
+   "contentFlags": [],
+   "popularity": 8002
+  },
+  {
+   "id": "apromisedland",
+   "title": "A Promised Land",
+   "author": "Barack Obama",
+   "isbn": "9781524763169",
+   "cover": "c2",
+   "blurb": "A president's own account of the campaign, the White House, and the decisions that kept him up at night.",
+   "aside": "928 pages. He was, it turns out, paying attention.",
+   "pace": "Slow burn",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 928,
+   "tags": [
+    {
+     "text": "presidential memoir",
+     "accent": "gold"
+    },
+    {
+     "text": "behind the curtain",
+     "accent": "rose"
+    },
+    {
+     "text": "the weight of the job",
+     "accent": "sage"
+    },
+    {
+     "text": "928 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Nonfiction"
+   ],
+   "contentFlags": [],
+   "popularity": 222
+  },
+  {
+   "id": "womaninme",
+   "title": "The Woman in Me",
+   "author": "Britney Spears",
+   "isbn": "9781668009062",
+   "cover": "c5",
+   "blurb": "Britney Spears tells, in her own words, what fame and a thirteen-year conservatorship actually cost her.",
+   "aside": "You've heard the tabloids' version. This is the corrective.",
+   "pace": "Fast-paced",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Closed door",
+   "pageCount": 288,
+   "tags": [
+    {
+     "text": "conservatorship exposed",
+     "accent": "gold"
+    },
+    {
+     "text": "pop star's own words",
+     "accent": "rose"
+    },
+    {
+     "text": "finally gets to talk",
+     "accent": "sage"
+    },
+    {
+     "text": "288 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Nonfiction"
+   ],
+   "contentFlags": [],
+   "popularity": 192
+  },
+  {
+   "id": "onelaststop",
+   "title": "One Last Stop",
+   "author": "Casey McQuiston",
+   "isbn": "9781250244499",
+   "cover": "c2",
+   "blurb": "A cynical grad student falls for a girl on the subway who turns out to be from the 1970s.",
+   "aside": "Their meet-cute involves a time paradox. Adjust expectations accordingly.",
+   "pace": "Steady",
+   "romanceLevel": "Bring it on",
+   "spiceLevel": "Open door",
+   "pageCount": 432,
+   "tags": [
+    {
+     "text": "girl out of time",
+     "accent": "gold"
+    },
+    {
+     "text": "subway meet-cute",
+     "accent": "rose"
+    },
+    {
+     "text": "sapphic romance",
+     "accent": "sage"
+    },
+    {
+     "text": "432 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Romance",
+    "Contemporary"
+   ],
+   "contentFlags": [],
+   "popularity": 388
+  },
+  {
+   "id": "spanishlovedeception",
+   "title": "The Spanish Love Deception",
+   "author": "Elena Armas",
+   "isbn": "9781797141343",
+   "cover": "c1",
+   "blurb": "She needs a fake boyfriend for her sister's wedding. The guy she can't stand says yes.",
+   "aside": "Enemies to lovers, executed with zero mercy for your feelings.",
+   "pace": "Slow burn",
+   "romanceLevel": "Bring it on",
+   "spiceLevel": "Open door",
+   "pageCount": 480,
+   "tags": [
+    {
+     "text": "fake dating",
+     "accent": "gold"
+    },
+    {
+     "text": "enemies to lovers",
+     "accent": "rose"
+    },
+    {
+     "text": "office romance",
+     "accent": "sage"
+    },
+    {
+     "text": "480 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Romance",
+    "Contemporary"
+   ],
+   "contentFlags": [],
+   "popularity": 2275
+  },
+  {
+   "id": "thingswenevergotover",
+   "title": "Things We Never Got Over",
+   "author": "Lucy Score",
+   "isbn": "9781728278872",
+   "cover": "c3",
+   "blurb": "A runaway bride crashes into a grumpy small-town barber who does not want the drama she brings.",
+   "aside": "Grumpy meets sunshine's more chaotic cousin.",
+   "pace": "Steady",
+   "romanceLevel": "Bring it on",
+   "spiceLevel": "Fade to black",
+   "pageCount": 530,
+   "tags": [
+    {
+     "text": "runaway bride",
+     "accent": "gold"
+    },
+    {
+     "text": "second chance romance",
+     "accent": "rose"
+    },
+    {
+     "text": "small town",
+     "accent": "sage"
+    },
+    {
+     "text": "530 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Romance",
+    "Contemporary"
+   ],
+   "contentFlags": [],
+   "popularity": 1383
+  },
+  {
+   "id": "blacktieswhitelies",
+   "title": "Black Ties and White Lies",
+   "author": "Kat Singleton",
+   "isbn": "9781958292075",
+   "cover": "c4",
+   "blurb": "A struggling designer fake-dates his ex's older brother to fix the guy's playboy image, and it gets complicated.",
+   "aside": "Fake relationship, real feelings, zero chill.",
+   "pace": "Fast-paced",
+   "romanceLevel": "Bring it on",
+   "spiceLevel": "Fade to black",
+   "pageCount": 385,
+   "tags": [
+    {
+     "text": "fake engagement",
+     "accent": "gold"
+    },
+    {
+     "text": "m/m romance",
+     "accent": "rose"
+    },
+    {
+     "text": "office romance",
+     "accent": "sage"
+    },
+    {
+     "text": "385 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Romance",
+    "Contemporary"
+   ],
+   "contentFlags": [],
+   "popularity": 779
+  },
+  {
+   "id": "theroyalwe",
+   "title": "The royal we",
+   "author": "Heather Cocks",
+   "isbn": "9781455557103",
+   "cover": "c5",
+   "blurb": "An American exchange student falls for a British prince, and the tabloids never really let either of them go.",
+   "aside": "Will and Kate, but make it messier and more fun.",
+   "pace": "Steady",
+   "romanceLevel": "Bring it on",
+   "spiceLevel": "Fade to black",
+   "pageCount": 475,
+   "tags": [
+    {
+     "text": "American falls for a prince",
+     "accent": "gold"
+    },
+    {
+     "text": "royal wedding drama",
+     "accent": "rose"
+    },
+    {
+     "text": "twin sister complications",
+     "accent": "sage"
+    },
+    {
+     "text": "475 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Romance",
+    "Contemporary"
+   ],
+   "contentFlags": [],
+   "popularity": 26
   }
  ]
 }
