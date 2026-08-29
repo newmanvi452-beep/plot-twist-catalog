@@ -1,5 +1,5 @@
 {
- "version": 15,
+ "version": 16,
  "books": [
   {
    "id": "cerulean",
@@ -3209,7 +3209,7 @@
    "aside": "Dark academia with actual teeth. Mind the ghosts.",
    "pace": "Steady",
    "romanceLevel": "A little is nice",
-   "spiceLevel": "Fade to black",
+   "spiceLevel": "Open door",
    "pageCount": 480,
    "tags": [
     {
@@ -3651,7 +3651,7 @@
    "aside": "Grumpy meets sunshine's more chaotic cousin.",
    "pace": "Steady",
    "romanceLevel": "Bring it on",
-   "spiceLevel": "Fade to black",
+   "spiceLevel": "Open door",
    "pageCount": 530,
    "tags": [
     {
@@ -3688,7 +3688,7 @@
    "aside": "Fake relationship, real feelings, zero chill.",
    "pace": "Fast-paced",
    "romanceLevel": "Bring it on",
-   "spiceLevel": "Fade to black",
+   "spiceLevel": "Open door",
    "pageCount": 385,
    "tags": [
     {
