@@ -1,5 +1,5 @@
 {
- "version": 8,
+ "version": 9,
  "books": [
   {
    "id": "cerulean",
@@ -3751,6 +3751,302 @@
    ],
    "contentFlags": [],
    "popularity": 26
+  },
+  {
+   "id": "raventower",
+   "title": "The Raven Tower",
+   "author": "Ann Leckie",
+   "isbn": "9780356506999",
+   "cover": "c2",
+   "blurb": "A god narrates directly to a prince's servant, and neither of them can stop what's already been set in motion.",
+   "aside": "The narrator is a rock. This works better than it sounds.",
+   "pace": "Slow burn",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 432,
+   "tags": [
+    {
+     "text": "god narrator",
+     "accent": "gold"
+    },
+    {
+     "text": "throne of lies",
+     "accent": "rose"
+    },
+    {
+     "text": "second person myth",
+     "accent": "sage"
+    },
+    {
+     "text": "432 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Fantasy"
+   ],
+   "contentFlags": [
+    "second person"
+   ],
+   "popularity": 63
+  },
+  {
+   "id": "redsister",
+   "title": "Red Sister",
+   "author": "Mark Lawrence",
+   "isbn": "9780008152321",
+   "cover": "c4",
+   "blurb": "A convent trains orphan girls to be assassins, and one of them was never supposed to survive that long.",
+   "aside": "Nuns, but they will absolutely end you.",
+   "pace": "Fast-paced",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 500,
+   "tags": [
+    {
+     "text": "convent of killers",
+     "accent": "gold"
+    },
+    {
+     "text": "chosen and condemned",
+     "accent": "rose"
+    },
+    {
+     "text": "magic bloodlines",
+     "accent": "sage"
+    },
+    {
+     "text": "500 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Fantasy"
+   ],
+   "contentFlags": [],
+   "popularity": 85
+  },
+  {
+   "id": "fifthseason",
+   "title": "The Fifth Season",
+   "author": "N. K. Jemisin",
+   "isbn": "9781405535137",
+   "cover": "c1",
+   "blurb": "The world is ending again, and a mother searches for her kidnapped daughter through the wreckage.",
+   "aside": "Won every award going. For once, deserved.",
+   "pace": "Steady",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 512,
+   "tags": [
+    {
+     "text": "world-ending catastrophe",
+     "accent": "gold"
+    },
+    {
+     "text": "hunted for her power",
+     "accent": "rose"
+    },
+    {
+     "text": "Hugo Award winner",
+     "accent": "sage"
+    },
+    {
+     "text": "512 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Fantasy",
+    "Science Fiction"
+   ],
+   "contentFlags": [
+    "multiple POVs"
+   ],
+   "popularity": 274
+  },
+  {
+   "id": "kingsofthewyld",
+   "title": "Kings of the wyld",
+   "author": "Nicholas Eames",
+   "isbn": "9780316362474",
+   "cover": "c3",
+   "blurb": "A retired band of mercenaries reunites for one last near-suicidal job to save a friend's daughter.",
+   "aside": "Think aging rock band, but the reunion tour involves monsters.",
+   "pace": "Fast-paced",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 529,
+   "tags": [
+    {
+     "text": "washed-up mercenaries",
+     "accent": "gold"
+    },
+    {
+     "text": "one last job",
+     "accent": "rose"
+    },
+    {
+     "text": "found family reunion",
+     "accent": "sage"
+    },
+    {
+     "text": "529 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Fantasy"
+   ],
+   "contentFlags": [],
+   "popularity": 91
+  },
+  {
+   "id": "prioryoftheorangetree",
+   "title": "The Priory of the Orange Tree",
+   "author": "Samantha Shannon",
+   "isbn": "9781635570304",
+   "cover": "c5",
+   "blurb": "An unmarried queen must produce an heir while assassins circle and an ancient evil stirs beneath the world.",
+   "aside": "848 pages of dragons and court intrigue. No, that's not too many.",
+   "pace": "Slow burn",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Closed door",
+   "pageCount": 848,
+   "tags": [
+    {
+     "text": "queen without an heir",
+     "accent": "gold"
+    },
+    {
+     "text": "ancient evil awakens",
+     "accent": "rose"
+    },
+    {
+     "text": "sapphic slow burn",
+     "accent": "sage"
+    },
+    {
+     "text": "848 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Fantasy"
+   ],
+   "contentFlags": [],
+   "popularity": 362
+  },
+  {
+   "id": "libraryatmountchar",
+   "title": "The library at Mount Char",
+   "author": "Scott Hawkins",
+   "isbn": "9781665153058",
+   "cover": "c2",
+   "blurb": "A woman raised by a missing god has to use everything he taught her to find him again.",
+   "aside": "Delightfully unhinged. Do not get attached to anyone.",
+   "pace": "Fast-paced",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 390,
+   "tags": [
+    {
+     "text": "missing god",
+     "accent": "gold"
+    },
+    {
+     "text": "raised by something inhuman",
+     "accent": "rose"
+    },
+    {
+     "text": "library of the universe",
+     "accent": "sage"
+    },
+    {
+     "text": "390 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Fantasy",
+    "Horror"
+   ],
+   "contentFlags": [],
+   "popularity": 162
+  },
+  {
+   "id": "bunny",
+   "title": "Bunny",
+   "author": "Mona Awad",
+   "isbn": "9781788545433",
+   "cover": "c4",
+   "blurb": "An outsider in her MFA program gets pulled into her cliquish classmates' disturbing bunny-shaped secret project.",
+   "aside": "The bunnies are not what they seem. Neither is anyone.",
+   "pace": "Fast-paced",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 320,
+   "tags": [
+    {
+     "text": "MFA program horror",
+     "accent": "gold"
+    },
+    {
+     "text": "cult of nice girls",
+     "accent": "rose"
+    },
+    {
+     "text": "dark academia satire",
+     "accent": "sage"
+    },
+    {
+     "text": "320 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Horror",
+    "Literary Fiction"
+   ],
+   "contentFlags": [],
+   "popularity": 293
+  },
+  {
+   "id": "lostboy",
+   "title": "Lost Boy",
+   "author": "Christina Henry",
+   "isbn": "9780399584039",
+   "cover": "c1",
+   "blurb": "The real story of Peter Pan's island, told by the lost boy who becomes his greatest enemy.",
+   "aside": "Peter Pan, but he's the actual problem.",
+   "pace": "Fast-paced",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 297,
+   "tags": [
+    {
+     "text": "dark Peter Pan retelling",
+     "accent": "gold"
+    },
+    {
+     "text": "an island that eats boys",
+     "accent": "rose"
+    },
+    {
+     "text": "villain's origin story",
+     "accent": "sage"
+    },
+    {
+     "text": "297 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Fantasy",
+    "Horror"
+   ],
+   "contentFlags": [],
+   "popularity": 84
   }
  ]
 }
