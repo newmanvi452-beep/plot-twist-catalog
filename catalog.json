@@ -1,5 +1,5 @@
 {
- "version": 17,
+ "version": 18,
  "books": [
   {
    "id": "cerulean",
@@ -5005,6 +5005,382 @@
    ],
    "contentFlags": [],
    "popularity": 276
+  },
+  {
+   "id": "ol28420475w",
+   "title": "Vera Wong's Unsolicited Advice for Murderers",
+   "author": "Jesse Q. Sutanto",
+   "isbn": "9780593546178",
+   "cover": "c1",
+   "blurb": "A lonely Chinatown tea-shop owner finds a body on her floor and appoints herself detective.",
+   "aside": "Vera will solve the murder and also ask why you are not eating enough.",
+   "pace": "Steady",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 368,
+   "tags": [
+    {
+     "text": "cozy mystery",
+     "accent": "rose"
+    },
+    {
+     "text": "nosy tea lady",
+     "accent": "gold"
+    },
+    {
+     "text": "chinatown shop",
+     "accent": "sage"
+    },
+    {
+     "text": "368 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Mystery & Thriller",
+    "Contemporary"
+   ],
+   "contentFlags": [],
+   "popularity": 35
+  },
+  {
+   "id": "ol28952677w",
+   "title": "Icebreaker",
+   "author": "Hannah Grace",
+   "isbn": "9781668026151",
+   "cover": "c2",
+   "blurb": "A figure skater and a hockey captain forced to share a rink, predictably combustible.",
+   "aside": "You will learn more about rink scheduling than expected, and mind far less.",
+   "pace": "Steady",
+   "romanceLevel": "Bring it on",
+   "spiceLevel": "Open door",
+   "pageCount": 448,
+   "tags": [
+    {
+     "text": "enemies to lovers",
+     "accent": "rose"
+    },
+    {
+     "text": "hockey captain",
+     "accent": "gold"
+    },
+    {
+     "text": "shared ice rink",
+     "accent": "sage"
+    },
+    {
+     "text": "448 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Romance",
+    "Contemporary"
+   ],
+   "contentFlags": [],
+   "popularity": 9928
+  },
+  {
+   "id": "ol25555522w",
+   "title": "Hooked",
+   "author": "Emily McIntire",
+   "isbn": "9781728278346",
+   "cover": "c3",
+   "blurb": "A crime boss seduces his enemy's daughter for revenge and ruins his own plan.",
+   "aside": "Peter Pan, but Hook runs the bar and nobody here is innocent.",
+   "pace": "Fast-paced",
+   "romanceLevel": "Bring it on",
+   "spiceLevel": "Spicy",
+   "pageCount": 332,
+   "tags": [
+    {
+     "text": "dark romance",
+     "accent": "rose"
+    },
+    {
+     "text": "villain retelling",
+     "accent": "gold"
+    },
+    {
+     "text": "revenge plot",
+     "accent": "sage"
+    },
+    {
+     "text": "332 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Romance",
+    "Contemporary"
+   ],
+   "contentFlags": [],
+   "popularity": 608
+  },
+  {
+   "id": "ol26201864w",
+   "title": "The Fine Print",
+   "author": "Lauren Asher",
+   "isbn": "9781737507710",
+   "cover": "c4",
+   "blurb": "A theme-park heir hires the woman he kissed, then texts her under a fake name.",
+   "aside": "The alias texting is a terrible idea and exactly why you will keep reading.",
+   "pace": "Steady",
+   "romanceLevel": "Bring it on",
+   "spiceLevel": "Open door",
+   "pageCount": 448,
+   "tags": [
+    {
+     "text": "grumpy sunshine",
+     "accent": "rose"
+    },
+    {
+     "text": "billionaire boss",
+     "accent": "gold"
+    },
+    {
+     "text": "anonymous texts",
+     "accent": "sage"
+    },
+    {
+     "text": "448 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Romance",
+    "Contemporary"
+   ],
+   "contentFlags": [
+    "multiple POVs"
+   ],
+   "popularity": 1209
+  },
+  {
+   "id": "ol28628363w",
+   "title": "Fiancee Farce",
+   "author": "Alexandria Bellefleur",
+   "isbn": "9780063258495",
+   "cover": "c5",
+   "blurb": "A bookseller invents a girlfriend from a cover model, then meets her in person.",
+   "aside": "Inventing a fake girlfriend is fine right up until the real one proposes.",
+   "pace": "Steady",
+   "romanceLevel": "Bring it on",
+   "spiceLevel": "Open door",
+   "pageCount": 416,
+   "tags": [
+    {
+     "text": "fake dating",
+     "accent": "rose"
+    },
+    {
+     "text": "marriage of convenience",
+     "accent": "gold"
+    },
+    {
+     "text": "sapphic romance",
+     "accent": "sage"
+    },
+    {
+     "text": "416 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Romance",
+    "Contemporary"
+   ],
+   "contentFlags": [],
+   "popularity": 16
+  },
+  {
+   "id": "ol20873838w",
+   "title": "Honey Girl",
+   "author": "Morgan Rogers",
+   "isbn": "9781799958192",
+   "cover": "c1",
+   "blurb": "A new astronomy PhD wakes up married to a stranger and questions her scripted life.",
+   "aside": "The Vegas wedding is the easy part; the summer afterwards is the good part.",
+   "pace": "Slow burn",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Fade to black",
+   "pageCount": 293,
+   "tags": [
+    {
+     "text": "vegas wedding",
+     "accent": "rose"
+    },
+    {
+     "text": "quarter-life burnout",
+     "accent": "gold"
+    },
+    {
+     "text": "queer love story",
+     "accent": "sage"
+    },
+    {
+     "text": "293 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Romance",
+    "Literary Fiction",
+    "Contemporary"
+   ],
+   "contentFlags": [],
+   "popularity": 74
+  },
+  {
+   "id": "ol21679570w",
+   "title": "This Time Next Year",
+   "author": "Sophie Cousens",
+   "isbn": "9781643589268",
+   "cover": "c2",
+   "blurb": "Two strangers born the same minute keep colliding, thirty years of luck between them.",
+   "aside": "A birthday rivalry with someone you have never met is peak rom-com logic.",
+   "pace": "Steady",
+   "romanceLevel": "Bring it on",
+   "spiceLevel": "Fade to black",
+   "pageCount": 378,
+   "tags": [
+    {
+     "text": "new year babies",
+     "accent": "rose"
+    },
+    {
+     "text": "fated meeting",
+     "accent": "gold"
+    },
+    {
+     "text": "opposites attract",
+     "accent": "sage"
+    },
+    {
+     "text": "378 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Romance",
+    "Contemporary"
+   ],
+   "contentFlags": [],
+   "popularity": 18
+  },
+  {
+   "id": "ol28866624w",
+   "title": "Hello Stranger",
+   "author": "Katherine Center",
+   "isbn": "9781250893246",
+   "cover": "c3",
+   "blurb": "An artist loses her ability to recognise faces just as her big competition begins.",
+   "aside": "Falling for someone you literally cannot recognise is a genuinely new romantic problem.",
+   "pace": "Steady",
+   "romanceLevel": "Bring it on",
+   "spiceLevel": "Fade to black",
+   "pageCount": 554,
+   "tags": [
+    {
+     "text": "face blindness",
+     "accent": "rose"
+    },
+    {
+     "text": "portrait competition",
+     "accent": "gold"
+    },
+    {
+     "text": "two suitors",
+     "accent": "sage"
+    },
+    {
+     "text": "554 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Romance",
+    "Contemporary"
+   ],
+   "contentFlags": [
+    "love triangles"
+   ],
+   "popularity": 22
+  },
+  {
+   "id": "ol23083626w",
+   "title": "Dial A for Aunties",
+   "author": "Jesse Q. Sutanto",
+   "isbn": "9780593333037",
+   "cover": "c4",
+   "blurb": "An accidental corpse, four meddling aunties, and a billionaire wedding nobody can postpone.",
+   "aside": "Every family has a crisis group chat; this one just has better logistics.",
+   "pace": "Fast-paced",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Closed door",
+   "pageCount": 352,
+   "tags": [
+    {
+     "text": "accidental murder",
+     "accent": "rose"
+    },
+    {
+     "text": "meddling aunties",
+     "accent": "gold"
+    },
+    {
+     "text": "wedding chaos",
+     "accent": "sage"
+    },
+    {
+     "text": "352 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Romance",
+    "Mystery & Thriller",
+    "Contemporary"
+   ],
+   "contentFlags": [],
+   "popularity": 69
+  },
+  {
+   "id": "ol27412480w",
+   "title": "When in Rome",
+   "author": "Sarah Adams",
+   "isbn": "9781472297051",
+   "cover": "c5",
+   "blurb": "A burned-out pop star breaks down in small-town Kentucky and hides in a pie shop.",
+   "aside": "Roman Holiday relocated to Kentucky, with better pie and a much grumpier local.",
+   "pace": "Steady",
+   "romanceLevel": "Bring it on",
+   "spiceLevel": "Closed door",
+   "pageCount": 320,
+   "tags": [
+    {
+     "text": "small town",
+     "accent": "rose"
+    },
+    {
+     "text": "pop star hideaway",
+     "accent": "gold"
+    },
+    {
+     "text": "grumpy pie baker",
+     "accent": "sage"
+    },
+    {
+     "text": "320 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Romance",
+    "Contemporary"
+   ],
+   "contentFlags": [],
+   "popularity": 66
   }
  ]
 }
