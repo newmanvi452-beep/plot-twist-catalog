@@ -1,6 +1,6 @@
 # Privacy Policy for Plot Twist
 
-**Last updated: [DATE]**
+**Last updated: August 30, 2026**
 
 Plot Twist is a book recommendation app. This page explains what the app does and doesn't do with your information. The short version: almost everything you do in Plot Twist stays on your phone.
 
@@ -49,4 +49,4 @@ If anything here changes, we'll update this page and change the date at the top.
 
 ## Contact
 
-Questions about this policy? Reach out at [CONTACT EMAIL].
+Questions about this policy? Reach out at sundaylogicapps@gmail.com.
