@@ -1,5 +1,5 @@
 {
- "version": 19,
+ "version": 20,
  "books": [
   {
    "id": "cerulean",
@@ -5381,6 +5381,382 @@
    ],
    "contentFlags": [],
    "popularity": 66
+  },
+  {
+   "id": "ol17829905w",
+   "title": "Seveneves",
+   "author": "Neal Stephenson",
+   "isbn": "9781501220234",
+   "cover": "c1",
+   "blurb": "The moon shatters, giving humanity two years to move what it can into orbit.",
+   "aside": "Stephenson does all the orbital mechanics homework so you can panic about the moon in peace.",
+   "pace": "Steady",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 861,
+   "tags": [
+    {
+     "text": "hard sci-fi",
+     "accent": "rose"
+    },
+    {
+     "text": "orbital survival",
+     "accent": "gold"
+    },
+    {
+     "text": "five thousand year jump",
+     "accent": "sage"
+    },
+    {
+     "text": "861 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Science Fiction"
+   ],
+   "contentFlags": [
+    "multiple POVs"
+   ],
+   "popularity": 131
+  },
+  {
+   "id": "ol19859295w",
+   "title": "This is How You Lose the Time War",
+   "author": "Amal El-Mohtar",
+   "isbn": "9781529405231",
+   "cover": "c2",
+   "blurb": "Two rival agents in a war across time fall in love by letter.",
+   "aside": "Gorgeous and dense and short enough that you will reread it before you shelve it.",
+   "pace": "Slow burn",
+   "romanceLevel": "Bring it on",
+   "spiceLevel": "Closed door",
+   "pageCount": 208,
+   "tags": [
+    {
+     "text": "enemies to lovers",
+     "accent": "rose"
+    },
+    {
+     "text": "letters across time",
+     "accent": "gold"
+    },
+    {
+     "text": "rival agents",
+     "accent": "sage"
+    },
+    {
+     "text": "208 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Science Fiction",
+    "Romance"
+   ],
+   "contentFlags": [
+    "multiple POVs"
+   ],
+   "popularity": 482
+  },
+  {
+   "id": "ol20965973w",
+   "title": "The Midnight Library",
+   "author": "Matt Haig",
+   "isbn": "9780655697282",
+   "cover": "c3",
+   "blurb": "A library between life and death lets one woman try every life she skipped.",
+   "aside": "It became a phenomenon for a reason, and it will absolutely get you in the last fifty pages.",
+   "pace": "Steady",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Closed door",
+   "pageCount": 304,
+   "tags": [
+    {
+     "text": "parallel lives",
+     "accent": "rose"
+    },
+    {
+     "text": "second chances",
+     "accent": "gold"
+    },
+    {
+     "text": "quiet speculative",
+     "accent": "sage"
+    },
+    {
+     "text": "304 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Science Fiction",
+    "Contemporary",
+    "Literary Fiction"
+   ],
+   "contentFlags": [],
+   "popularity": 2266
+  },
+  {
+   "id": "ol19332006w",
+   "title": "The Collapsing Empire (The Interdependency)",
+   "author": "John Scalzi",
+   "isbn": "9781432839079",
+   "cover": "c4",
+   "blurb": "The empire's faster-than-light trade routes are failing and nobody in power wants to hear it.",
+   "aside": "Scalzi at his most readable: political knife fights in space, delivered at a sprint.",
+   "pace": "Fast-paced",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Fade to black",
+   "pageCount": 336,
+   "tags": [
+    {
+     "text": "space opera",
+     "accent": "rose"
+    },
+    {
+     "text": "collapsing trade routes",
+     "accent": "gold"
+    },
+    {
+     "text": "scheming noble houses",
+     "accent": "sage"
+    },
+    {
+     "text": "336 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Science Fiction"
+   ],
+   "contentFlags": [
+    "cliffhangers for sequels"
+   ],
+   "popularity": 132
+  },
+  {
+   "id": "ol17343072w",
+   "title": "Armada",
+   "author": "Ernest Cline",
+   "isbn": "9780804137256",
+   "cover": "c5",
+   "blurb": "A teenage gamer discovers his favourite space shooter was military training all along.",
+   "aside": "Pure popcorn, and it knows it: the invasion arrives before you can finish objecting.",
+   "pace": "Fast-paced",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Closed door",
+   "pageCount": 384,
+   "tags": [
+    {
+     "text": "alien invasion",
+     "accent": "rose"
+    },
+    {
+     "text": "gamer recruited",
+     "accent": "gold"
+    },
+    {
+     "text": "eighties nostalgia",
+     "accent": "sage"
+    },
+    {
+     "text": "384 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Science Fiction"
+   ],
+   "contentFlags": [],
+   "popularity": 146
+  },
+  {
+   "id": "ol20012847w",
+   "title": "Luna",
+   "author": "Ian McDonald",
+   "isbn": "9780765375513",
+   "cover": "c1",
+   "blurb": "Five corporate families run the moon, and the newest dynasty is about to be tested.",
+   "aside": "The Godfather relocated to a lunar colony, where every breath is billed to your account.",
+   "pace": "Steady",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Open door",
+   "pageCount": 398,
+   "tags": [
+    {
+     "text": "moon colony",
+     "accent": "rose"
+    },
+    {
+     "text": "corporate dynasties",
+     "accent": "gold"
+    },
+    {
+     "text": "family power struggle",
+     "accent": "sage"
+    },
+    {
+     "text": "398 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Science Fiction"
+   ],
+   "contentFlags": [
+    "multiple POVs"
+   ],
+   "popularity": 32
+  },
+  {
+   "id": "ol20035224w",
+   "title": "Behind the throne",
+   "author": "K. B. Wagers",
+   "isbn": "9780316308601",
+   "cover": "c2",
+   "blurb": "A runaway gunrunner is dragged home to inherit an empire that would rather she died.",
+   "aside": "She would much rather be smuggling, which is exactly what makes her fun in a throne room.",
+   "pace": "Fast-paced",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Closed door",
+   "pageCount": 424,
+   "tags": [
+    {
+     "text": "gunrunner heir",
+     "accent": "rose"
+    },
+    {
+     "text": "royal succession",
+     "accent": "gold"
+    },
+    {
+     "text": "palace intrigue",
+     "accent": "sage"
+    },
+    {
+     "text": "424 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Science Fiction"
+   ],
+   "contentFlags": [],
+   "popularity": 18
+  },
+  {
+   "id": "ol20058926w",
+   "title": "The boy on the bridge",
+   "author": "Mike Carey",
+   "isbn": "9780316300339",
+   "cover": "c3",
+   "blurb": "An armoured science convoy crosses a ruined Britain with one brilliant, unsettling boy aboard.",
+   "aside": "Bleak, tense, and quietly devastating: bring a blanket and low expectations for humanity.",
+   "pace": "Steady",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 432,
+   "tags": [
+    {
+     "text": "post-apocalyptic britain",
+     "accent": "rose"
+    },
+    {
+     "text": "armoured expedition",
+     "accent": "gold"
+    },
+    {
+     "text": "gifted child",
+     "accent": "sage"
+    },
+    {
+     "text": "432 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Horror",
+    "Science Fiction"
+   ],
+   "contentFlags": [],
+   "popularity": 30
+  },
+  {
+   "id": "ol17569713w",
+   "title": "The Heart Goes Last",
+   "author": "Margaret Atwood",
+   "isbn": "9781408867785",
+   "cover": "c4",
+   "blurb": "A broke couple trade freedom for a tidy house and alternating months in prison.",
+   "aside": "Atwood being very funny about very bad ideas, which somehow makes them land harder.",
+   "pace": "Steady",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Open door",
+   "pageCount": 400,
+   "tags": [
+    {
+     "text": "dystopian satire",
+     "accent": "rose"
+    },
+    {
+     "text": "company town",
+     "accent": "gold"
+    },
+    {
+     "text": "marriage unravelling",
+     "accent": "sage"
+    },
+    {
+     "text": "400 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Science Fiction",
+    "Literary Fiction"
+   ],
+   "contentFlags": [
+    "multiple POVs"
+   ],
+   "popularity": 66
+  },
+  {
+   "id": "ol20689865w",
+   "title": "The Night Parade",
+   "author": "Ronald Malfi",
+   "isbn": "9781496703866",
+   "cover": "c5",
+   "blurb": "A father flees with the daughter who may be the cure for a maddening plague.",
+   "aside": "A chase novel with a heartbeat, and a plague premise that lands closer than it used to.",
+   "pace": "Fast-paced",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 416,
+   "tags": [
+    {
+     "text": "cross-country flight",
+     "accent": "rose"
+    },
+    {
+     "text": "pandemic collapse",
+     "accent": "gold"
+    },
+    {
+     "text": "father and daughter",
+     "accent": "sage"
+    },
+    {
+     "text": "416 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Horror",
+    "Science Fiction"
+   ],
+   "contentFlags": [],
+   "popularity": 37
   }
  ]
 }
