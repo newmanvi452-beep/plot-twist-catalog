@@ -1,5 +1,5 @@
 {
- "version": 20,
+ "version": 21,
  "books": [
   {
    "id": "cerulean",
@@ -5757,6 +5757,385 @@
    ],
    "contentFlags": [],
    "popularity": 37
+  },
+  {
+   "id": "ol19661009w",
+   "title": "The Tattooist of Auschwitz: the heart-breaking and unforgettable international bestseller",
+   "author": "Heather Morris",
+   "isbn": "9781489421326",
+   "cover": "c1",
+   "blurb": "A Slovakian Jew tattooing prisoner numbers at Auschwitz falls in love with the woman he marks.",
+   "aside": "Based on a real survivor's testimony, and it never once lets you look away comfortably.",
+   "pace": "Steady",
+   "romanceLevel": "Bring it on",
+   "spiceLevel": "Fade to black",
+   "pageCount": 304,
+   "tags": [
+    {
+     "text": "holocaust survival",
+     "accent": "rose"
+    },
+    {
+     "text": "forbidden love",
+     "accent": "gold"
+    },
+    {
+     "text": "based on a true story",
+     "accent": "sage"
+    },
+    {
+     "text": "304 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Historical Fiction"
+   ],
+   "contentFlags": [],
+   "popularity": 352
+  },
+  {
+   "id": "ol20743965w",
+   "title": "Hamnet",
+   "author": "Maggie O'Farrell",
+   "isbn": "9780525617174",
+   "cover": "c2",
+   "blurb": "A Stratford healer loses her son to plague while her husband writes in London.",
+   "aside": "You know whose son he was, and O'Farrell still finds a way to wreck you with it.",
+   "pace": "Slow burn",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Closed door",
+   "pageCount": 355,
+   "tags": [
+    {
+     "text": "shakespeare's family",
+     "accent": "rose"
+    },
+    {
+     "text": "grief and plague",
+     "accent": "gold"
+    },
+    {
+     "text": "wild herbalist wife",
+     "accent": "sage"
+    },
+    {
+     "text": "355 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Historical Fiction",
+    "Literary Fiction"
+   ],
+   "contentFlags": [],
+   "popularity": 180
+  },
+  {
+   "id": "ol20198127w",
+   "title": "The Giver of Stars",
+   "author": "Jojo Moyes",
+   "isbn": "9780718183202",
+   "cover": "c3",
+   "blurb": "Five women haul library books by horseback through Depression-era Kentucky, and scandalise everyone.",
+   "aside": "A book about women who deliver books, which is either on the nose or exactly right.",
+   "pace": "Steady",
+   "romanceLevel": "Bring it on",
+   "spiceLevel": "Fade to black",
+   "pageCount": 480,
+   "tags": [
+    {
+     "text": "packhorse librarians",
+     "accent": "rose"
+    },
+    {
+     "text": "found sisterhood",
+     "accent": "gold"
+    },
+    {
+     "text": "small-town scandal",
+     "accent": "sage"
+    },
+    {
+     "text": "480 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Historical Fiction",
+    "Romance"
+   ],
+   "contentFlags": [
+    "multiple POVs"
+   ],
+   "popularity": 85
+  },
+  {
+   "id": "ol21171268w",
+   "title": "The Rose Code",
+   "author": "Kate Quinn",
+   "isbn": "9780063060449",
+   "cover": "c4",
+   "blurb": "Three women crack codes at Bletchley Park, and one of them is a traitor.",
+   "aside": "Wartime codebreaking plus a friendship that detonates; Quinn does not do quiet endings.",
+   "pace": "Steady",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Fade to black",
+   "pageCount": 400,
+   "tags": [
+    {
+     "text": "bletchley park",
+     "accent": "rose"
+    },
+    {
+     "text": "wartime codebreakers",
+     "accent": "gold"
+    },
+    {
+     "text": "betrayed friendship",
+     "accent": "sage"
+    },
+    {
+     "text": "400 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Historical Fiction",
+    "Mystery & Thriller"
+   ],
+   "contentFlags": [],
+   "popularity": 57
+  },
+  {
+   "id": "ol18147689w",
+   "title": "Before We Were Yours",
+   "author": "Lisa Wingate",
+   "isbn": "9781947783522",
+   "cover": "c5",
+   "blurb": "Five river children are stolen into a corrupt 1939 orphanage; a modern lawyer traces them.",
+   "aside": "Inspired by a real Memphis adoption scandal, which is the part that keeps you up.",
+   "pace": "Steady",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 443,
+   "tags": [
+    {
+     "text": "stolen siblings",
+     "accent": "rose"
+    },
+    {
+     "text": "dual timeline",
+     "accent": "gold"
+    },
+    {
+     "text": "buried family secret",
+     "accent": "sage"
+    },
+    {
+     "text": "443 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Historical Fiction",
+    "Literary Fiction"
+   ],
+   "contentFlags": [
+    "multiple POVs"
+   ],
+   "popularity": 202
+  },
+  {
+   "id": "ol20799434w",
+   "title": "The Vanishing Half",
+   "author": "Brit Bennett",
+   "isbn": "9780525536291",
+   "cover": "c1",
+   "blurb": "Twin sisters run away at sixteen; one spends her life passing as white.",
+   "aside": "Two lives split down the middle, and Bennett refuses to tell you which one cost more.",
+   "pace": "Steady",
+   "romanceLevel": "A little is nice",
+   "spiceLevel": "Fade to black",
+   "pageCount": 376,
+   "tags": [
+    {
+     "text": "twin sisters",
+     "accent": "rose"
+    },
+    {
+     "text": "passing",
+     "accent": "gold"
+    },
+    {
+     "text": "identity across decades",
+     "accent": "sage"
+    },
+    {
+     "text": "376 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Historical Fiction",
+    "Literary Fiction"
+   ],
+   "contentFlags": [
+    "multiple POVs"
+   ],
+   "popularity": 262
+  },
+  {
+   "id": "ol19756861w",
+   "title": "City of Girls: A Novel",
+   "author": "Elizabeth Gilbert",
+   "isbn": "9781408867068",
+   "cover": "c2",
+   "blurb": "Kicked out of Vassar in 1940, a young woman lands among Manhattan showgirls.",
+   "aside": "Gilbert wrote a whole novel arguing that a ruined reputation can be a fair trade.",
+   "pace": "Steady",
+   "romanceLevel": "Bring it on",
+   "spiceLevel": "Open door",
+   "pageCount": 496,
+   "tags": [
+    {
+     "text": "1940s manhattan",
+     "accent": "rose"
+    },
+    {
+     "text": "theatre world",
+     "accent": "gold"
+    },
+    {
+     "text": "ruined reputation",
+     "accent": "sage"
+    },
+    {
+     "text": "496 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Historical Fiction",
+    "Literary Fiction"
+   ],
+   "contentFlags": [],
+   "popularity": 95
+  },
+  {
+   "id": "ol21917209w",
+   "title": "The Lost Apothecary",
+   "author": "Sarah Penner",
+   "isbn": "9781799959397",
+   "cover": "c3",
+   "blurb": "A hidden Georgian apothecary sells poisons to desperate women; a modern historian uncovers her.",
+   "aside": "A shop with a ledger of everyone it helped kill, which is a terrific place to start.",
+   "pace": "Steady",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 352,
+   "tags": [
+    {
+     "text": "poison apothecary",
+     "accent": "rose"
+    },
+    {
+     "text": "dual timeline",
+     "accent": "gold"
+    },
+    {
+     "text": "vengeful women",
+     "accent": "sage"
+    },
+    {
+     "text": "352 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Historical Fiction",
+    "Mystery & Thriller"
+   ],
+   "contentFlags": [
+    "multiple POVs"
+   ],
+   "popularity": 140
+  },
+  {
+   "id": "ol27413855w",
+   "title": "Weyward",
+   "author": "Emilia Hart",
+   "isbn": "9781250280800",
+   "cover": "c4",
+   "blurb": "Three women across four centuries inherit the same cottage and the same untameable streak.",
+   "aside": "Witch trial, wartime, and last week, braided so tightly the centuries start rhyming.",
+   "pace": "Steady",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 352,
+   "tags": [
+    {
+     "text": "witch trial",
+     "accent": "rose"
+    },
+    {
+     "text": "inherited cottage",
+     "accent": "gold"
+    },
+    {
+     "text": "women and the wild",
+     "accent": "sage"
+    },
+    {
+     "text": "352 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Historical Fiction",
+    "Fantasy"
+   ],
+   "contentFlags": [
+    "multiple POVs"
+   ],
+   "popularity": 78
+  },
+  {
+   "id": "ol34059667w",
+   "title": "The Heaven & Earth Grocery Store",
+   "author": "James McBride",
+   "isbn": "9780593422946",
+   "cover": "c5",
+   "blurb": "A skeleton in a well unearths the secrets of a Jewish and Black Pennsylvania neighbourhood.",
+   "aside": "McBride starts with a body and then spends 500 pages making you love everyone near it.",
+   "pace": "Slow burn",
+   "romanceLevel": "Not really my thing",
+   "spiceLevel": "Closed door",
+   "pageCount": 561,
+   "tags": [
+    {
+     "text": "skeleton in a well",
+     "accent": "rose"
+    },
+    {
+     "text": "immigrant neighbourhood",
+     "accent": "gold"
+    },
+    {
+     "text": "community secrets",
+     "accent": "sage"
+    },
+    {
+     "text": "561 pages",
+     "accent": "textSoft"
+    }
+   ],
+   "genres": [
+    "Historical Fiction",
+    "Literary Fiction"
+   ],
+   "contentFlags": [],
+   "popularity": 101
   }
  ]
 }
