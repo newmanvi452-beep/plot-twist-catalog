@@ -1,5 +1,5 @@
 {
-  "version": 22,
+  "version": 23,
   "books": [
     {
       "id": "cerulean",
@@ -6504,6 +6504,380 @@
       ],
       "contentFlags": [],
       "popularity": 466
+    },
+    {
+      "id": "ol20868274w",
+      "title": "The Once and Future Witches",
+      "author": "Alix E. Harrow",
+      "isbn": "9780316422048",
+      "cover": "c1",
+      "blurb": "Three estranged sisters rediscover forbidden witchcraft and drag it into the fight for women's suffrage.",
+      "aside": "The suffrage movement, but with spells, and the sisters are angrier than the magic.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Fade to black",
+      "pageCount": 528,
+      "tags": [
+        {
+          "text": "witches and suffragists",
+          "accent": "rose"
+        },
+        {
+          "text": "three sisters",
+          "accent": "gold"
+        },
+        {
+          "text": "alternate 1893",
+          "accent": "sage"
+        },
+        {
+          "text": "528 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy",
+        "Historical Fiction"
+      ],
+      "contentFlags": [
+        "multiple POVs"
+      ],
+      "popularity": 69
+    },
+    {
+      "id": "ol19745584w",
+      "title": "Witchmark",
+      "author": "C. L. Polk",
+      "isbn": "9781250162687",
+      "cover": "c2",
+      "blurb": "A doctor hiding his magic investigates a patient's poisoning and risks the identity he faked.",
+      "aside": "He faked his own death to escape his family, and the corpse on his ward disagrees.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Fade to black",
+      "pageCount": 295,
+      "tags": [
+        {
+          "text": "edwardian magic",
+          "accent": "rose"
+        },
+        {
+          "text": "murder investigation",
+          "accent": "gold"
+        },
+        {
+          "text": "hidden witch",
+          "accent": "sage"
+        },
+        {
+          "text": "295 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 20
+    },
+    {
+      "id": "ol25773317w",
+      "title": "Cackle",
+      "author": "Rachel Harrison",
+      "isbn": "9780593202029",
+      "cover": "c3",
+      "blurb": "After a breakup, a meek teacher moves upstate and befriends a charming, unsettling local woman.",
+      "aside": "The spider infestation is a warning, but Sophie is so much more fun than caution.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 304,
+      "tags": [
+        {
+          "text": "witchy best friend",
+          "accent": "rose"
+        },
+        {
+          "text": "small town unease",
+          "accent": "gold"
+        },
+        {
+          "text": "post-breakup reinvention",
+          "accent": "sage"
+        },
+        {
+          "text": "304 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Fantasy",
+        "Contemporary"
+      ],
+      "contentFlags": [],
+      "popularity": 25
+    },
+    {
+      "id": "ol21676651w",
+      "title": "Kingdom of the Wicked",
+      "author": "Kerri Maniscalco",
+      "isbn": "9781529350449",
+      "cover": "c4",
+      "blurb": "A Sicilian witch hunts her twin's murderer with forbidden magic and a dangerously alluring ally.",
+      "aside": "Grief, vengeance and a demon prince, all served out of a Sicilian restaurant kitchen.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Bring it on",
+      "spiceLevel": "Fade to black",
+      "pageCount": 448,
+      "tags": [
+        {
+          "text": "witch twins",
+          "accent": "rose"
+        },
+        {
+          "text": "revenge and dark magic",
+          "accent": "gold"
+        },
+        {
+          "text": "sicilian setting",
+          "accent": "sage"
+        },
+        {
+          "text": "448 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy",
+        "Romance",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 357
+    },
+    {
+      "id": "ol17635446w",
+      "title": "Exit West",
+      "author": "Mohsin Hamid",
+      "isbn": "9780735212206",
+      "cover": "c5",
+      "blurb": "Two lovers flee a collapsing city through doors that open onto other countries.",
+      "aside": "The doors are the easy part; staying in love on the other side is not.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Fade to black",
+      "pageCount": 231,
+      "tags": [
+        {
+          "text": "magic doors",
+          "accent": "rose"
+        },
+        {
+          "text": "refugee love story",
+          "accent": "gold"
+        },
+        {
+          "text": "quiet speculative",
+          "accent": "sage"
+        },
+        {
+          "text": "231 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction",
+        "Fantasy"
+      ],
+      "contentFlags": [],
+      "popularity": 172
+    },
+    {
+      "id": "ol19741986w",
+      "title": "The Silent Companions",
+      "author": "Laura Purcell",
+      "isbn": "9781408888032",
+      "cover": "c1",
+      "blurb": "A newly widowed woman moves to a hostile estate where painted wooden figures watch her.",
+      "aside": "You will start checking the corners of your own rooms, and the figures will have moved.",
+      "pace": "Slow burn",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 343,
+      "tags": [
+        {
+          "text": "haunted country house",
+          "accent": "rose"
+        },
+        {
+          "text": "painted wooden figures",
+          "accent": "gold"
+        },
+        {
+          "text": "widowed and pregnant",
+          "accent": "sage"
+        },
+        {
+          "text": "343 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 62
+    },
+    {
+      "id": "ol25960179w",
+      "title": "The Hacienda",
+      "author": "Isabel Cañas",
+      "isbn": "9781837860807",
+      "cover": "c2",
+      "blurb": "A new bride finds her husband's remote Mexican estate haunted and his first wife suspiciously dead.",
+      "aside": "Rebecca, but with a priest who performs exorcisms and a house that hates the living.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Fade to black",
+      "pageCount": 315,
+      "tags": [
+        {
+          "text": "haunted hacienda",
+          "accent": "rose"
+        },
+        {
+          "text": "post-independence mexico",
+          "accent": "gold"
+        },
+        {
+          "text": "sinister second marriage",
+          "accent": "sage"
+        },
+        {
+          "text": "315 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 41
+    },
+    {
+      "id": "ol25453693w",
+      "title": "Just Like Home",
+      "author": "Sarah Gailey",
+      "isbn": "9781529354553",
+      "cover": "c3",
+      "blurb": "Summoned home to her dying mother, a woman confronts the house her serial-killer father filled.",
+      "aside": "The parasitic artist squatting in the guest house is somehow not the worst thing here.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 328,
+      "tags": [
+        {
+          "text": "serial killer's daughter",
+          "accent": "rose"
+        },
+        {
+          "text": "childhood home",
+          "accent": "gold"
+        },
+        {
+          "text": "buried family secrets",
+          "accent": "sage"
+        },
+        {
+          "text": "328 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 43
+    },
+    {
+      "id": "ol20157046w",
+      "title": "A Memory Called Empire",
+      "author": "Arkady Martine",
+      "isbn": "9781250186447",
+      "cover": "c4",
+      "blurb": "A new ambassador arrives at a seductive galactic capital and finds her predecessor was murdered.",
+      "aside": "Palace intrigue where the deadliest weapon is knowing exactly which poem to quote.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Fade to black",
+      "pageCount": 464,
+      "tags": [
+        {
+          "text": "space empire politics",
+          "accent": "rose"
+        },
+        {
+          "text": "murdered predecessor",
+          "accent": "gold"
+        },
+        {
+          "text": "hugo winner",
+          "accent": "sage"
+        },
+        {
+          "text": "464 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 177
+    },
+    {
+      "id": "ol19860802w",
+      "title": "The Stranger Diaries",
+      "author": "Elly Griffiths",
+      "isbn": "9781328577856",
+      "cover": "c5",
+      "blurb": "An English teacher's friend is murdered with a line from her favourite gothic story.",
+      "aside": "Someone is writing back inside her diary, which is not a normal reading-group activity.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Fade to black",
+      "pageCount": 338,
+      "tags": [
+        {
+          "text": "gothic english teacher",
+          "accent": "rose"
+        },
+        {
+          "text": "diary entries",
+          "accent": "gold"
+        },
+        {
+          "text": "story within a story",
+          "accent": "sage"
+        },
+        {
+          "text": "338 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller",
+        "Contemporary"
+      ],
+      "contentFlags": [],
+      "popularity": 12
     }
   ]
 }
