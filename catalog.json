@@ -1,5 +1,5 @@
 {
-  "version": 23,
+  "version": 24,
   "books": [
     {
       "id": "cerulean",
@@ -6878,6 +6878,404 @@
       ],
       "contentFlags": [],
       "popularity": 12
+    },
+    {
+      "id": "ol5738148w",
+      "title": "The Final Empire",
+      "author": "Brandon Sanderson",
+      "isbn": "9781250868282",
+      "cover": "c1",
+      "blurb": "A thief's crew plots to overthrow an immortal god-emperor using magic drawn from swallowed metals.",
+      "aside": "Someone actually asked for this one, and the magic system alone justifies the six hundred pages.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 669,
+      "tags": [
+        {
+          "text": "ash-choked empire",
+          "accent": "rose"
+        },
+        {
+          "text": "heist crew",
+          "accent": "gold"
+        },
+        {
+          "text": "metal-fueled magic",
+          "accent": "sage"
+        },
+        {
+          "text": "669 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy"
+      ],
+      "contentFlags": [
+        "multiple POVs"
+      ],
+      "popularity": 1559
+    },
+    {
+      "id": "ol17640883w",
+      "title": "Dear Ijeawele, or A Feminist Manifesto in Fifteen Suggestions",
+      "author": "Chimamanda Ngozi Adichie",
+      "isbn": "9781524733148",
+      "cover": "c2",
+      "blurb": "Fifteen frank suggestions for raising a daughter to be a fully realised feminist.",
+      "aside": "Eighty pages, and it will still restructure an argument you thought you had already won.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 80,
+      "tags": [
+        {
+          "text": "feminist manifesto",
+          "accent": "rose"
+        },
+        {
+          "text": "letter to a friend",
+          "accent": "gold"
+        },
+        {
+          "text": "raising daughters",
+          "accent": "sage"
+        },
+        {
+          "text": "80 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 107
+    },
+    {
+      "id": "ol17848539w",
+      "title": "Enlightenment now",
+      "author": "Steven Pinker",
+      "isbn": "9780143111382",
+      "cover": "c3",
+      "blurb": "Pinker marshals data arguing life, health and peace are improving, and credits Enlightenment reason.",
+      "aside": "Hand it to your most pessimistic friend and watch them try to argue with a chart.",
+      "pace": "Slow burn",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 576,
+      "tags": [
+        {
+          "text": "seventy-five graphs",
+          "accent": "rose"
+        },
+        {
+          "text": "the case for reason",
+          "accent": "gold"
+        },
+        {
+          "text": "data over doom",
+          "accent": "sage"
+        },
+        {
+          "text": "576 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 182
+    },
+    {
+      "id": "ol17625868w",
+      "title": "Barbarian Days: A Surfing Life",
+      "author": "William Finnegan",
+      "isbn": "9781594203473",
+      "cover": "c4",
+      "blurb": "A journalist's lifelong chase after waves across the Pacific, Australia, Asia and Africa.",
+      "aside": "You do not need to care about surfing; you need to like being told things properly.",
+      "pace": "Slow burn",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 447,
+      "tags": [
+        {
+          "text": "lifelong surf obsession",
+          "accent": "rose"
+        },
+        {
+          "text": "wandering the pacific",
+          "accent": "gold"
+        },
+        {
+          "text": "war reporter's memoir",
+          "accent": "sage"
+        },
+        {
+          "text": "447 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 48
+    },
+    {
+      "id": "ol28022286w",
+      "title": "Beyond the Wand",
+      "author": "Tom Felton",
+      "isbn": "9781529149425",
+      "cover": "c5",
+      "blurb": "Draco Malfoy's actor recalls a decade of fame, film sets and ordinary teenage awkwardness.",
+      "aside": "Yes, he addresses the Voldemort hug, and that is reason enough to open it.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 256,
+      "tags": [
+        {
+          "text": "child star memoir",
+          "accent": "rose"
+        },
+        {
+          "text": "behind the scenes",
+          "accent": "gold"
+        },
+        {
+          "text": "growing up onscreen",
+          "accent": "sage"
+        },
+        {
+          "text": "256 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 191
+    },
+    {
+      "id": "ol21216897w",
+      "title": "Talking With Psychopaths and Savages",
+      "author": "Christopher Berry-Dee",
+      "isbn": "9781789464221",
+      "cover": "c1",
+      "blurb": "A criminologist examines spree and mass killers, hunting for what actually drives them.",
+      "aside": "Grim and methodical, and far more interested in the why than in the gore.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 288,
+      "tags": [
+        {
+          "text": "rampage killer studies",
+          "accent": "rose"
+        },
+        {
+          "text": "criminologist casework",
+          "accent": "gold"
+        },
+        {
+          "text": "motive hunting",
+          "accent": "sage"
+        },
+        {
+          "text": "288 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 1182
+    },
+    {
+      "id": "ol20345069w",
+      "title": "Catch and Kill",
+      "author": "Ronan Farrow",
+      "isbn": "9780316454131",
+      "cover": "c2",
+      "blurb": "A reporter chases a predator story while operatives surveil him and try to bury it.",
+      "aside": "It reads like a thriller, which is the most upsetting thing about it.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 480,
+      "tags": [
+        {
+          "text": "investigative journalism",
+          "accent": "rose"
+        },
+        {
+          "text": "spies and lawyers",
+          "accent": "gold"
+        },
+        {
+          "text": "the silencing machine",
+          "accent": "sage"
+        },
+        {
+          "text": "480 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 90
+    },
+    {
+      "id": "ol20062246w",
+      "title": "American Predator",
+      "author": "Maureen Callahan",
+      "isbn": "9780525428640",
+      "cover": "c3",
+      "blurb": "How a small Alaskan police force caught one of America's most methodical serial killers.",
+      "aside": "The detail about the buried kits will follow you around for about a week.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 304,
+      "tags": [
+        {
+          "text": "serial killer manhunt",
+          "accent": "rose"
+        },
+        {
+          "text": "buried kill kits",
+          "accent": "gold"
+        },
+        {
+          "text": "anchorage detectives",
+          "accent": "sage"
+        },
+        {
+          "text": "304 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 78
+    },
+    {
+      "id": "ol19664275w",
+      "title": "The Feather Thief",
+      "author": "Kirk Wallace Johnson",
+      "isbn": "9780525559092",
+      "cover": "c4",
+      "blurb": "A young flautist steals hundreds of rare museum bird skins, and one man investigates.",
+      "aside": "The rare true crime story where the victims are dead birds and it still grips.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 336,
+      "tags": [
+        {
+          "text": "museum heist",
+          "accent": "rose"
+        },
+        {
+          "text": "victorian bird skins",
+          "accent": "gold"
+        },
+        {
+          "text": "obsessive fly-tying",
+          "accent": "sage"
+        },
+        {
+          "text": "336 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 25
+    },
+    {
+      "id": "ol20128063w",
+      "title": "She Said",
+      "author": "Jodi Kantor",
+      "isbn": "9780525560364",
+      "cover": "c5",
+      "blurb": "The reporters behind the Weinstein investigation recount convincing sources to go on the record.",
+      "aside": "A masterclass in the unglamorous phone calls that eventually move an entire industry.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 320,
+      "tags": [
+        {
+          "text": "two reporters",
+          "accent": "rose"
+        },
+        {
+          "text": "on the record",
+          "accent": "gold"
+        },
+        {
+          "text": "movement in the making",
+          "accent": "sage"
+        },
+        {
+          "text": "320 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 33
+    },
+    {
+      "id": "ol19668524w",
+      "title": "American heiress",
+      "author": "Jeffrey Toobin",
+      "isbn": "9780385536721",
+      "cover": "c1",
+      "blurb": "Patty Hearst is kidnapped by revolutionaries, joins them, and America loses its collective mind.",
+      "aside": "The bank camera photograph is famous; the year spent on the run is better.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 371,
+      "tags": [
+        {
+          "text": "kidnapped heiress",
+          "accent": "rose"
+        },
+        {
+          "text": "1970s radicals",
+          "accent": "gold"
+        },
+        {
+          "text": "stockholm syndrome",
+          "accent": "sage"
+        },
+        {
+          "text": "371 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 14
     }
   ]
 }
