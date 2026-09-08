@@ -1,5 +1,5 @@
 {
-  "version": 24,
+  "version": 25,
   "books": [
     {
       "id": "cerulean",
@@ -7276,6 +7276,458 @@
       ],
       "contentFlags": [],
       "popularity": 14
+    },
+    {
+      "id": "ol20521273w",
+      "title": "The Wall",
+      "author": "John Lanchester",
+      "isbn": "9781324001638",
+      "cover": "c1",
+      "blurb": "A young guard patrols the concrete wall keeping a drowned world's refugees out of Britain.",
+      "aside": "The cold is the real antagonist here, and it seeps right off the page.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 288,
+      "tags": [
+        {
+          "text": "climate collapse",
+          "accent": "rose"
+        },
+        {
+          "text": "border guards",
+          "accent": "gold"
+        },
+        {
+          "text": "conscripted youth",
+          "accent": "sage"
+        },
+        {
+          "text": "288 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction",
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 23
+    },
+    {
+      "id": "ol19324029w",
+      "title": "Future Home of the Living God",
+      "author": "Louise Erdrich",
+      "isbn": "9780062694058",
+      "cover": "c2",
+      "blurb": "Evolution starts running backwards, and a pregnant woman hides from a state collecting mothers.",
+      "aside": "Erdrich wrote this one in a fury and you can feel every degree of it.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 288,
+      "tags": [
+        {
+          "text": "evolution in reverse",
+          "accent": "rose"
+        },
+        {
+          "text": "pregnancy on the run",
+          "accent": "gold"
+        },
+        {
+          "text": "theocratic state",
+          "accent": "sage"
+        },
+        {
+          "text": "288 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction",
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 37
+    },
+    {
+      "id": "ol17301299w",
+      "title": "The Only Ones",
+      "author": "Carola Dibbell",
+      "isbn": "9781937512279",
+      "cover": "c3",
+      "blurb": "A woman immune to every plague sells her genes, then ends up raising the result.",
+      "aside": "The narrator's voice is the whole trick, and it is an unforgettable one.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 354,
+      "tags": [
+        {
+          "text": "post-pandemic",
+          "accent": "rose"
+        },
+        {
+          "text": "accidental motherhood",
+          "accent": "gold"
+        },
+        {
+          "text": "genetic experiments",
+          "accent": "sage"
+        },
+        {
+          "text": "354 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction",
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 10
+    },
+    {
+      "id": "ol20800452w",
+      "title": "The New Wilderness",
+      "author": "Diane Cook",
+      "isbn": "9780861540013",
+      "cover": "c5",
+      "blurb": "A mother flees a poisoned city for the last wilderness, where her daughter might survive.",
+      "aside": "Booker-shortlisted and genuinely feral; nobody in it is comfortable, including you.",
+      "pace": "Slow burn",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 209,
+      "tags": [
+        {
+          "text": "poisoned city",
+          "accent": "rose"
+        },
+        {
+          "text": "mothers and daughters",
+          "accent": "gold"
+        },
+        {
+          "text": "wilderness survival",
+          "accent": "sage"
+        },
+        {
+          "text": "209 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction",
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 22
+    },
+    {
+      "id": "ol31130123w",
+      "title": "The Reformatory",
+      "author": "Tananarive Due",
+      "isbn": "9781803366531",
+      "cover": "c1",
+      "blurb": "A Black boy sentenced to a Florida reform school in 1950 finds the place is haunted.",
+      "aside": "The ghosts are frightening; the men running the school are worse, and that is the point.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 576,
+      "tags": [
+        {
+          "text": "jim crow south",
+          "accent": "rose"
+        },
+        {
+          "text": "haunted reform school",
+          "accent": "gold"
+        },
+        {
+          "text": "boy who sees ghosts",
+          "accent": "sage"
+        },
+        {
+          "text": "576 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 46
+    },
+    {
+      "id": "ol20028845w",
+      "title": "Disappearance at Devil's Rock",
+      "author": "Paul Tremblay",
+      "isbn": "9781504733878",
+      "cover": "c2",
+      "blurb": "A teenager vanishes in the woods and his mother starts seeing him in doorways.",
+      "aside": "Tremblay never quite tells you whether it is a ghost story, and that is the cruelty.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 352,
+      "tags": [
+        {
+          "text": "missing teenager",
+          "accent": "rose"
+        },
+        {
+          "text": "torn journal pages",
+          "accent": "gold"
+        },
+        {
+          "text": "small town dread",
+          "accent": "sage"
+        },
+        {
+          "text": "352 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [
+        "multiple POVs"
+      ],
+      "popularity": 18
+    },
+    {
+      "id": "ol26602235w",
+      "title": "Belladonna",
+      "author": "Adalyn Grace",
+      "isbn": "9780316153621",
+      "cover": "c3",
+      "blurb": "An orphan who cannot die investigates a murder at a gloomy estate, flirting with Death.",
+      "aside": "Death turns up as a love interest and, annoyingly, absolutely earns the job.",
+      "pace": "Steady",
+      "romanceLevel": "Bring it on",
+      "spiceLevel": "Fade to black",
+      "pageCount": 400,
+      "tags": [
+        {
+          "text": "immune to death",
+          "accent": "rose"
+        },
+        {
+          "text": "gothic estate",
+          "accent": "gold"
+        },
+        {
+          "text": "courting death himself",
+          "accent": "sage"
+        },
+        {
+          "text": "400 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy",
+        "Romance",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 143
+    },
+    {
+      "id": "ol24723004w",
+      "title": "The Charm Offensive",
+      "author": "Alison Cochrun",
+      "isbn": "9781982170714",
+      "cover": "c5",
+      "blurb": "A reality dating show's producer falls for the awkward tech millionaire he was hired to polish.",
+      "aside": "The fairy tale gets rewritten off-camera, and the off-camera version is much better.",
+      "pace": "Steady",
+      "romanceLevel": "Bring it on",
+      "spiceLevel": "Open door",
+      "pageCount": 368,
+      "tags": [
+        {
+          "text": "reality dating show",
+          "accent": "rose"
+        },
+        {
+          "text": "grumpy meets sunshine",
+          "accent": "gold"
+        },
+        {
+          "text": "anxiety on the page",
+          "accent": "sage"
+        },
+        {
+          "text": "368 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Romance",
+        "Contemporary"
+      ],
+      "contentFlags": [
+        "multiple POVs"
+      ],
+      "popularity": 99
+    },
+    {
+      "id": "ol17332803w",
+      "title": "A Darker Shade of Magic",
+      "author": "V. E. Schwab",
+      "isbn": "9781494510756",
+      "cover": "c1",
+      "blurb": "A magician who walks between four Londons smuggles the wrong artifact and meets a thief.",
+      "aside": "Four Londons, one coat with several sides, and a pickpocket who steals the book.",
+      "pace": "Fast-paced",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 400,
+      "tags": [
+        {
+          "text": "parallel londons",
+          "accent": "rose"
+        },
+        {
+          "text": "blood magic",
+          "accent": "gold"
+        },
+        {
+          "text": "thief in disguise",
+          "accent": "sage"
+        },
+        {
+          "text": "400 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy"
+      ],
+      "contentFlags": [],
+      "popularity": 304
+    },
+    {
+      "id": "ol24168684w",
+      "title": "A Marvellous Light",
+      "author": "Freya Marske",
+      "isbn": "9781529080896",
+      "cover": "c2",
+      "blurb": "A baronet accidentally appointed liaison to a secret magical society gets cursed and courted.",
+      "aside": "Edwardian manners, an unwilling magician, and a curse that spreads by touch. Delightful.",
+      "pace": "Steady",
+      "romanceLevel": "Bring it on",
+      "spiceLevel": "Open door",
+      "pageCount": 384,
+      "tags": [
+        {
+          "text": "edwardian magic",
+          "accent": "rose"
+        },
+        {
+          "text": "cursed civil servant",
+          "accent": "gold"
+        },
+        {
+          "text": "enemies to lovers",
+          "accent": "sage"
+        },
+        {
+          "text": "384 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy",
+        "Romance",
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 52
+    },
+    {
+      "id": "ol20743897w",
+      "title": "Swimming in the Dark",
+      "author": "Tomasz Jedrowski",
+      "isbn": "9780062890009",
+      "cover": "c3",
+      "blurb": "Two young men fall in love one summer in 1980s Poland, where nothing stays private.",
+      "aside": "Short, aching, and written as a letter to the man who got away.",
+      "pace": "Slow burn",
+      "romanceLevel": "Bring it on",
+      "spiceLevel": "Open door",
+      "pageCount": 176,
+      "tags": [
+        {
+          "text": "communist poland",
+          "accent": "rose"
+        },
+        {
+          "text": "one forbidden summer",
+          "accent": "gold"
+        },
+        {
+          "text": "letter to a lover",
+          "accent": "sage"
+        },
+        {
+          "text": "176 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction",
+        "Romance",
+        "Historical Fiction"
+      ],
+      "contentFlags": [
+        "second person"
+      ],
+      "popularity": 77
+    },
+    {
+      "id": "ol34949525w",
+      "title": "Nineteen Steps",
+      "author": "Millie Bobby Brown",
+      "isbn": "9781638088950",
+      "cover": "c4",
+      "blurb": "A young Londoner falls for an American airman as the Blitz tears her family apart.",
+      "aside": "Built around the Bethnal Green shelter disaster, which was a real and terrible thing.",
+      "pace": "Steady",
+      "romanceLevel": "Bring it on",
+      "spiceLevel": "Closed door",
+      "pageCount": 352,
+      "tags": [
+        {
+          "text": "blitz london",
+          "accent": "rose"
+        },
+        {
+          "text": "american airman",
+          "accent": "gold"
+        },
+        {
+          "text": "family secret",
+          "accent": "sage"
+        },
+        {
+          "text": "352 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction",
+        "Romance"
+      ],
+      "contentFlags": [],
+      "popularity": 46
     }
   ]
 }
