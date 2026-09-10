@@ -1,5 +1,5 @@
 {
-  "version": 25,
+  "version": 26,
   "books": [
     {
       "id": "cerulean",
@@ -7728,6 +7728,385 @@
       ],
       "contentFlags": [],
       "popularity": 46
+    },
+    {
+      "id": "ol24850157w",
+      "title": "What Moves the Dead",
+      "author": "T. Kingfisher",
+      "isbn": "9781250830753",
+      "cover": "c1",
+      "blurb": "A retired soldier returns to the crumbling Usher house and finds the fungus there watching back.",
+      "aside": "Poe's haunted house, rebuilt by someone who clearly knows far too much about mushrooms.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 170,
+      "tags": [
+        {
+          "text": "fungal horror",
+          "accent": "rose"
+        },
+        {
+          "text": "house of usher",
+          "accent": "gold"
+        },
+        {
+          "text": "gothic novella",
+          "accent": "sage"
+        },
+        {
+          "text": "170 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Fantasy",
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 139
+    },
+    {
+      "id": "ol42402161w",
+      "title": "The Lamb",
+      "author": "Lucy Rose",
+      "isbn": "9780063374607",
+      "cover": "c2",
+      "blurb": "A girl raised in the woods learns what her mother really does with lost hikers.",
+      "aside": "Tender, feral, and entirely unsuitable for reading over dinner.",
+      "pace": "Slow burn",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Fade to black",
+      "pageCount": 336,
+      "tags": [
+        {
+          "text": "cannibal mother",
+          "accent": "rose"
+        },
+        {
+          "text": "isolated woods",
+          "accent": "gold"
+        },
+        {
+          "text": "coming of age",
+          "accent": "sage"
+        },
+        {
+          "text": "336 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Literary Fiction",
+        "Contemporary"
+      ],
+      "contentFlags": [],
+      "popularity": 22
+    },
+    {
+      "id": "ol25958054w",
+      "title": "The Book Eaters",
+      "author": "Sunyi Dean",
+      "isbn": "9780008479442",
+      "cover": "c3",
+      "blurb": "A woman born to eat books flees her clan to protect a son who eats minds.",
+      "aside": "The premise sounds whimsical for roughly nine pages, and then it very much isn't.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Fade to black",
+      "pageCount": 304,
+      "tags": [
+        {
+          "text": "books as food",
+          "accent": "rose"
+        },
+        {
+          "text": "mother on the run",
+          "accent": "gold"
+        },
+        {
+          "text": "secret clans",
+          "accent": "sage"
+        },
+        {
+          "text": "304 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy",
+        "Horror"
+      ],
+      "contentFlags": [],
+      "popularity": 77
+    },
+    {
+      "id": "ol26771373w",
+      "title": "A Dowry of Blood",
+      "author": "S. T. Gibson",
+      "isbn": "9780316501071",
+      "cover": "c4",
+      "blurb": "Dracula's first bride writes to him about the centuries of love and control that followed.",
+      "aside": "Written entirely as a letter to the husband she may or may not have killed.",
+      "pace": "Slow burn",
+      "romanceLevel": "Bring it on",
+      "spiceLevel": "Open door",
+      "pageCount": 272,
+      "tags": [
+        {
+          "text": "dracula's brides",
+          "accent": "rose"
+        },
+        {
+          "text": "toxic devotion",
+          "accent": "gold"
+        },
+        {
+          "text": "letter to a monster",
+          "accent": "sage"
+        },
+        {
+          "text": "272 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Romance",
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 67
+    },
+    {
+      "id": "ol21177398w",
+      "title": "Plain Bad Heroines",
+      "author": "Emily M. Danforth",
+      "isbn": "9780062942852",
+      "cover": "c5",
+      "blurb": "A cursed New England girls' school gets a film crew, and the curse gets to work.",
+      "aside": "Six hundred pages of footnotes, wasps and sapphic doom, and it earns every one.",
+      "pace": "Slow burn",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Open door",
+      "pageCount": 640,
+      "tags": [
+        {
+          "text": "cursed girls school",
+          "accent": "rose"
+        },
+        {
+          "text": "yellow jackets",
+          "accent": "gold"
+        },
+        {
+          "text": "film crew",
+          "accent": "sage"
+        },
+        {
+          "text": "640 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Literary Fiction",
+        "Contemporary"
+      ],
+      "contentFlags": [
+        "multiple POVs"
+      ],
+      "popularity": 52
+    },
+    {
+      "id": "ol25448275w",
+      "title": "The Children on the Hill",
+      "author": "Jennifer McMahon",
+      "isbn": "9781982179205",
+      "cover": "c1",
+      "blurb": "A psychiatrist's grandchildren adopt the strange girl she brings home, and start hunting monsters.",
+      "aside": "A Frankenstein riff where the grandmother is the scariest thing on the hill.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 352,
+      "tags": [
+        {
+          "text": "monster club",
+          "accent": "rose"
+        },
+        {
+          "text": "psychiatric hospital",
+          "accent": "gold"
+        },
+        {
+          "text": "feral child",
+          "accent": "sage"
+        },
+        {
+          "text": "352 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 21
+    },
+    {
+      "id": "ol37617491w",
+      "title": "Diavola",
+      "author": "Jennifer Thorne",
+      "isbn": "9781835410028",
+      "cover": "c2",
+      "blurb": "A family holiday in a remote Italian villa goes wrong, and the villa has history.",
+      "aside": "The ghost is awful; the relatives are worse, and the book knows it.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 315,
+      "tags": [
+        {
+          "text": "haunted italian villa",
+          "accent": "rose"
+        },
+        {
+          "text": "family vacation",
+          "accent": "gold"
+        },
+        {
+          "text": "vengeful ghost",
+          "accent": "sage"
+        },
+        {
+          "text": "315 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Contemporary"
+      ],
+      "contentFlags": [],
+      "popularity": 13
+    },
+    {
+      "id": "ol37683186w",
+      "title": "Graveyard Shift",
+      "author": "M. L. Rio",
+      "isbn": "9781250356796",
+      "cover": "c3",
+      "blurb": "Five night-shift workers find a fresh grave nobody dug, and decide to follow the digger.",
+      "aside": "A novella you can finish before dawn, which is roughly the right way to read it.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 144,
+      "tags": [
+        {
+          "text": "dark academia",
+          "accent": "rose"
+        },
+        {
+          "text": "empty grave",
+          "accent": "gold"
+        },
+        {
+          "text": "night shift",
+          "accent": "sage"
+        },
+        {
+          "text": "144 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [
+        "multiple POVs"
+      ],
+      "popularity": 7
+    },
+    {
+      "id": "ol44329865w",
+      "title": "The Only One Left",
+      "author": "Riley Sager",
+      "isbn": "9780593183229",
+      "cover": "c4",
+      "blurb": "A home aide cares for the woman blamed for a 1929 family massacre she never confessed to.",
+      "aside": "She types her confession one letter at a time, which is as slow and awful as it sounds.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 383,
+      "tags": [
+        {
+          "text": "cliffside mansion",
+          "accent": "rose"
+        },
+        {
+          "text": "typed confession",
+          "accent": "gold"
+        },
+        {
+          "text": "family massacre",
+          "accent": "sage"
+        },
+        {
+          "text": "383 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller",
+        "Horror",
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 6
+    },
+    {
+      "id": "ol20009190w",
+      "title": "Little sister death",
+      "author": "William Gay",
+      "isbn": "9781938103131",
+      "cover": "c5",
+      "blurb": "A blocked novelist moves his family into a haunted Tennessee farm to write about it.",
+      "aside": "Based on the Bell Witch, and Gay wrote it like a man who half-believed.",
+      "pace": "Slow burn",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 202,
+      "tags": [
+        {
+          "text": "haunted farmhouse",
+          "accent": "rose"
+        },
+        {
+          "text": "blocked writer",
+          "accent": "gold"
+        },
+        {
+          "text": "southern gothic",
+          "accent": "sage"
+        },
+        {
+          "text": "202 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 5
     }
   ]
 }
