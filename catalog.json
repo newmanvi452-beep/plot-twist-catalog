@@ -1,5 +1,5 @@
 {
-  "version": 26,
+  "version": 27,
   "books": [
     {
       "id": "cerulean",
@@ -8107,6 +8107,228 @@
       ],
       "contentFlags": [],
       "popularity": 5
+    },
+    {
+      "id": "ol20073906w",
+      "title": "Recursion",
+      "author": "Blake Crouch",
+      "isbn": "9780593082607",
+      "cover": "c1",
+      "blurb": "A detective and a neuroscientist chase an epidemic of memories from lives nobody actually lived.",
+      "aside": "Crouch builds a memory machine, then gleefully breaks time with it, and you'll miss your stop.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 352,
+      "tags": [
+        {
+          "text": "false memories",
+          "accent": "rose"
+        },
+        {
+          "text": "reality unravelling",
+          "accent": "gold"
+        },
+        {
+          "text": "cop and scientist",
+          "accent": "sage"
+        },
+        {
+          "text": "352 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [
+        "multiple POVs"
+      ],
+      "popularity": 327
+    },
+    {
+      "id": "ol17357379w",
+      "title": "All the Birds in the Sky",
+      "author": "Charlie Jane Anders",
+      "isbn": "9780765379948",
+      "cover": "c2",
+      "blurb": "A teenage witch and a boy genius grow up, drift apart, and end up on opposing sides of the apocalypse.",
+      "aside": "Magic versus tech, and the real question is whether these two will finally admit anything.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Fade to black",
+      "pageCount": 351,
+      "tags": [
+        {
+          "text": "witch vs engineer",
+          "accent": "rose"
+        },
+        {
+          "text": "friends to lovers",
+          "accent": "gold"
+        },
+        {
+          "text": "end of the world",
+          "accent": "sage"
+        },
+        {
+          "text": "351 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction",
+        "Fantasy"
+      ],
+      "contentFlags": [],
+      "popularity": 98
+    },
+    {
+      "id": "ol20648031w",
+      "title": "Oona Out of Order",
+      "author": "Margarita Montimore",
+      "isbn": "9781250833310",
+      "cover": "c3",
+      "blurb": "Each New Year's Eve, Oona wakes in a different year of her own life, never in sequence.",
+      "aside": "Imagine skipping from nineteen straight to fifty-one; Oona handles it better than most of us would.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Fade to black",
+      "pageCount": 338,
+      "tags": [
+        {
+          "text": "time slips",
+          "accent": "rose"
+        },
+        {
+          "text": "life out of order",
+          "accent": "gold"
+        },
+        {
+          "text": "found family",
+          "accent": "sage"
+        },
+        {
+          "text": "338 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction",
+        "Contemporary"
+      ],
+      "contentFlags": [],
+      "popularity": 43
+    },
+    {
+      "id": "ol21978410w",
+      "title": "Apocalypse Seven",
+      "author": "Gene Doucette",
+      "isbn": "9780358450290",
+      "cover": "c4",
+      "blurb": "A handful of strangers wake in an overgrown, emptied Cambridge and try to work out where everyone went.",
+      "aside": "The world ended overnight and nobody sent a memo; the survivors are funnier about it than they should be.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 384,
+      "tags": [
+        {
+          "text": "empty city",
+          "accent": "rose"
+        },
+        {
+          "text": "strangers band together",
+          "accent": "gold"
+        },
+        {
+          "text": "mystery apocalypse",
+          "accent": "sage"
+        },
+        {
+          "text": "384 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 1
+    },
+    {
+      "id": "ol20935138w",
+      "title": "They Will Drown in Their Mothers' Tears",
+      "author": "Johannes Anyuru",
+      "isbn": "9781949641080",
+      "cover": "c5",
+      "blurb": "A young woman involved in a terror attack insists she remembers a future where Muslims are interned.",
+      "aside": "Short, furious and uncomfortably close to the news, so maybe not the one to read before bed.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 272,
+      "tags": [
+        {
+          "text": "future witness",
+          "accent": "rose"
+        },
+        {
+          "text": "political dystopia",
+          "accent": "gold"
+        },
+        {
+          "text": "time travel",
+          "accent": "sage"
+        },
+        {
+          "text": "272 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction",
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 6
+    },
+    {
+      "id": "ol17885332w",
+      "title": "The Choosing",
+      "author": "Rachelle Dekker",
+      "isbn": "9781496402257",
+      "cover": "c1",
+      "blurb": "Passed over at her society's Choosing Ceremony, Carrington is cast into servitude and starts doubting the rules.",
+      "aside": "A dystopia with a conscience, for anyone who has ever quietly questioned a rulebook.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 434,
+      "tags": [
+        {
+          "text": "rigged ceremony",
+          "accent": "rose"
+        },
+        {
+          "text": "rebellion rumours",
+          "accent": "gold"
+        },
+        {
+          "text": "caste society",
+          "accent": "sage"
+        },
+        {
+          "text": "434 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 10
     }
   ]
 }
