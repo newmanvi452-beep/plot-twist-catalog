@@ -1,5 +1,5 @@
 {
-  "version": 27,
+  "version": 28,
   "books": [
     {
       "id": "cerulean",
@@ -8329,6 +8329,377 @@
       ],
       "contentFlags": [],
       "popularity": 10
+    },
+    {
+      "id": "ol20734329w",
+      "title": "Beach Read",
+      "author": "Emily Henry",
+      "isbn": "9780241989524",
+      "cover": "c1",
+      "blurb": "A romance novelist and a literary grump swap genres for a summer, and neither story goes to plan.",
+      "aside": "Starts as a bet about happy endings and turns into a sneaky argument for them.",
+      "pace": "Steady",
+      "romanceLevel": "Bring it on",
+      "spiceLevel": "Open door",
+      "pageCount": 376,
+      "tags": [
+        {
+          "text": "rival writers",
+          "accent": "rose"
+        },
+        {
+          "text": "genre swap bet",
+          "accent": "gold"
+        },
+        {
+          "text": "lakeside neighbours",
+          "accent": "sage"
+        },
+        {
+          "text": "376 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Romance",
+        "Contemporary"
+      ],
+      "contentFlags": [],
+      "popularity": 679
+    },
+    {
+      "id": "ol25960186w",
+      "title": "Set on You",
+      "author": "Amy Lea",
+      "isbn": "9780241997529",
+      "cover": "c2",
+      "blurb": "A curvy fitness influencer's war over a squat rack gets awkward when her rival turns up at family events.",
+      "aside": "Proof that the fiercest workout rivalries are mostly just flirting with extra reps.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Bring it on",
+      "spiceLevel": "Open door",
+      "pageCount": 384,
+      "tags": [
+        {
+          "text": "gym rivals",
+          "accent": "rose"
+        },
+        {
+          "text": "enemies to lovers",
+          "accent": "gold"
+        },
+        {
+          "text": "family wedding",
+          "accent": "sage"
+        },
+        {
+          "text": "384 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Romance",
+        "Contemporary"
+      ],
+      "contentFlags": [],
+      "popularity": 813
+    },
+    {
+      "id": "ol25960185w",
+      "title": "Every Summer After",
+      "author": "Carley Fortune",
+      "isbn": "9780593438534",
+      "cover": "c3",
+      "blurb": "A woman returns to her childhood lake town and the boy she left behind after one catastrophic mistake.",
+      "aside": "Six summers of longing folded into one weekend, so pack tissues along with the sunscreen.",
+      "pace": "Slow burn",
+      "romanceLevel": "Bring it on",
+      "spiceLevel": "Open door",
+      "pageCount": 320,
+      "tags": [
+        {
+          "text": "second chance",
+          "accent": "rose"
+        },
+        {
+          "text": "summer lake town",
+          "accent": "gold"
+        },
+        {
+          "text": "childhood sweethearts",
+          "accent": "sage"
+        },
+        {
+          "text": "320 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Romance",
+        "Contemporary"
+      ],
+      "contentFlags": [],
+      "popularity": 518
+    },
+    {
+      "id": "ol19754915w",
+      "title": "Josh and Hazel's guide to not dating",
+      "author": "Christina Lauren",
+      "isbn": "9780349421865",
+      "cover": "c4",
+      "blurb": "Two firmly platonic friends set each other up on terrible blind dates while ignoring the obvious.",
+      "aside": "Everyone in this book can see where it's going except the two people living it.",
+      "pace": "Steady",
+      "romanceLevel": "Bring it on",
+      "spiceLevel": "Open door",
+      "pageCount": 315,
+      "tags": [
+        {
+          "text": "friends to lovers",
+          "accent": "rose"
+        },
+        {
+          "text": "disastrous double dates",
+          "accent": "gold"
+        },
+        {
+          "text": "chaotic heroine",
+          "accent": "sage"
+        },
+        {
+          "text": "315 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Romance",
+        "Contemporary"
+      ],
+      "contentFlags": [],
+      "popularity": 50
+    },
+    {
+      "id": "ol21883446w",
+      "title": "Written in the Stars",
+      "author": "Alexandria Bellefleur",
+      "isbn": "9780063000810",
+      "cover": "c5",
+      "blurb": "A sceptical actuary and a starry-eyed astrologer fake a relationship to get her brother off her back.",
+      "aside": "The spreadsheet versus the star chart, and the stars have clearly been cheating.",
+      "pace": "Steady",
+      "romanceLevel": "Bring it on",
+      "spiceLevel": "Open door",
+      "pageCount": 384,
+      "tags": [
+        {
+          "text": "fake dating",
+          "accent": "rose"
+        },
+        {
+          "text": "sapphic opposites",
+          "accent": "gold"
+        },
+        {
+          "text": "astrology clash",
+          "accent": "sage"
+        },
+        {
+          "text": "384 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Romance",
+        "Contemporary"
+      ],
+      "contentFlags": [],
+      "popularity": 173
+    },
+    {
+      "id": "ol21833211w",
+      "title": "Priest",
+      "author": "Sierra Simone",
+      "isbn": "9781514611654",
+      "cover": "c1",
+      "blurb": "A young priest who has always kept the rules breaks his vow of celibacy for one woman.",
+      "aside": "Arguably the least appropriate thing ever whispered in a confessional, and it knows it.",
+      "pace": "Steady",
+      "romanceLevel": "Bring it on",
+      "spiceLevel": "Spicy",
+      "pageCount": 354,
+      "tags": [
+        {
+          "text": "forbidden love",
+          "accent": "rose"
+        },
+        {
+          "text": "broken vows",
+          "accent": "gold"
+        },
+        {
+          "text": "confessional",
+          "accent": "sage"
+        },
+        {
+          "text": "354 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Romance"
+      ],
+      "contentFlags": [],
+      "popularity": 852
+    },
+    {
+      "id": "ol29046643w",
+      "title": "The Wrong Bride",
+      "author": "Catharina Maura",
+      "isbn": "9781955981200",
+      "cover": "c2",
+      "blurb": "When her sister skips the wedding, Raven marries the billionaire she's always loved in her place.",
+      "aside": "A jilted-altar swap with enough pining to power the Windsor media empire twice.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Bring it on",
+      "spiceLevel": "Open door",
+      "pageCount": 418,
+      "tags": [
+        {
+          "text": "marriage of convenience",
+          "accent": "rose"
+        },
+        {
+          "text": "sister's fiance",
+          "accent": "gold"
+        },
+        {
+          "text": "billionaire",
+          "accent": "sage"
+        },
+        {
+          "text": "418 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Romance",
+        "Contemporary"
+      ],
+      "contentFlags": [],
+      "popularity": 1320
+    },
+    {
+      "id": "ol28708075w",
+      "title": "Brutal Prince",
+      "author": "Sophie Lark",
+      "isbn": "9781728295350",
+      "cover": "c3",
+      "blurb": "To stop a mob war, a wild Gallo daughter is married off to the cold heir of the rival Griffins.",
+      "aside": "A peace treaty with a wedding cake, and nobody at the reception is betting on peace.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Bring it on",
+      "spiceLevel": "Spicy",
+      "pageCount": 304,
+      "tags": [
+        {
+          "text": "arranged marriage",
+          "accent": "rose"
+        },
+        {
+          "text": "rival crime families",
+          "accent": "gold"
+        },
+        {
+          "text": "enemies to lovers",
+          "accent": "sage"
+        },
+        {
+          "text": "304 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Romance",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 855
+    },
+    {
+      "id": "ol21696935w",
+      "title": "Open Water",
+      "author": "Caleb Azumah Nelson",
+      "isbn": "9780241448779",
+      "cover": "c4",
+      "blurb": "Two young Black British artists fall slowly in love in London while the world keeps testing them.",
+      "aside": "Short enough for one sitting and quietly devastating enough that you'll want the whole evening.",
+      "pace": "Slow burn",
+      "romanceLevel": "Bring it on",
+      "spiceLevel": "Fade to black",
+      "pageCount": 160,
+      "tags": [
+        {
+          "text": "young artists",
+          "accent": "rose"
+        },
+        {
+          "text": "black british london",
+          "accent": "gold"
+        },
+        {
+          "text": "tender first love",
+          "accent": "sage"
+        },
+        {
+          "text": "160 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction",
+        "Romance"
+      ],
+      "contentFlags": [
+        "second person"
+      ],
+      "popularity": 89
+    },
+    {
+      "id": "ol27524355w",
+      "title": "If You Could See the Sun",
+      "author": "Ann Liang",
+      "isbn": "9781335915849",
+      "cover": "c5",
+      "blurb": "A scholarship student at an elite Beijing school starts turning invisible and sells her classmates' secrets.",
+      "aside": "A heist-flavoured rivalry where the best-kept secret is how much she likes her nemesis.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 352,
+      "tags": [
+        {
+          "text": "literal invisibility",
+          "accent": "rose"
+        },
+        {
+          "text": "boarding school secrets",
+          "accent": "gold"
+        },
+        {
+          "text": "academic rivals",
+          "accent": "sage"
+        },
+        {
+          "text": "352 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "contentFlags": [],
+      "popularity": 651
     }
   ]
 }
