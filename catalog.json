@@ -1,5 +1,5 @@
 {
-  "version": 29,
+  "version": 30,
   "books": [
     {
       "id": "cerulean",
@@ -8700,6 +8700,368 @@
       ],
       "contentFlags": [],
       "popularity": 651
+    },
+    {
+      "id": "ol35780604w",
+      "title": "Two Twisted Crowns",
+      "author": "Rachel Gillig",
+      "isbn": "9780316597227",
+      "cover": "c3",
+      "blurb": "Elspeth and Ravyn race to find the last Providence Card before dark magic devours their kingdom.",
+      "aside": "The nightmare in her head wants out. Read the first one first.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 439,
+      "tags": [
+        {
+          "text": "cursed kingdom",
+          "accent": "rose"
+        },
+        {
+          "text": "monster in her head",
+          "accent": "gold"
+        },
+        {
+          "text": "duology finale",
+          "accent": "sage"
+        },
+        {
+          "text": "439 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "contentFlags": [],
+      "popularity": 57
+    },
+    {
+      "id": "ol34336153w",
+      "title": "Throne of the Fallen",
+      "author": "Kerri Maniscalco",
+      "isbn": "9780316557290",
+      "cover": "c4",
+      "blurb": "A demon prince blackmails an artist into a deadly game of riddles — and dangerously mutual desire.",
+      "aside": "Envy runs the whole underworld and still can't resist a smart mouth. Weak, honestly.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Bring it on",
+      "spiceLevel": "Fade to black",
+      "pageCount": 384,
+      "tags": [
+        {
+          "text": "blackmailed into a bargain",
+          "accent": "rose"
+        },
+        {
+          "text": "demon prince, deadly game",
+          "accent": "gold"
+        },
+        {
+          "text": "same wicked universe",
+          "accent": "sage"
+        },
+        {
+          "text": "384 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "contentFlags": [],
+      "popularity": 24
+    },
+    {
+      "id": "ol19760961w",
+      "title": "Billion dollar whale",
+      "author": "Wright, Tom (Wall Street Journal reporter)",
+      "isbn": "9780316436502",
+      "cover": "c1",
+      "blurb": "A Wharton grad swindles billions from a state fund to bankroll parties, films, and a fake empire.",
+      "aside": "The Wolf of Wall Street was funded by this guy's fraud. Read that as a warning.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 400,
+      "tags": [
+        {
+          "text": "biggest heist in history",
+          "accent": "rose"
+        },
+        {
+          "text": "hollywood meets high finance",
+          "accent": "gold"
+        },
+        {
+          "text": "real fraud, real receipts",
+          "accent": "sage"
+        },
+        {
+          "text": "400 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 56
+    },
+    {
+      "id": "ol20055687w",
+      "title": "The road to Jonestown",
+      "author": "Jeff Guinn",
+      "isbn": "9781476763828",
+      "cover": "c2",
+      "blurb": "Jim Jones built a movement on gospel and idealism, then marched nine hundred followers to their deaths.",
+      "aside": "The most unsettling part isn't the ending. It's how ordinary the beginning looks.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 538,
+      "tags": [
+        {
+          "text": "cult leader's rise and fall",
+          "accent": "rose"
+        },
+        {
+          "text": "jonestown, before the headlines",
+          "accent": "gold"
+        },
+        {
+          "text": "meticulously reported",
+          "accent": "sage"
+        },
+        {
+          "text": "538 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 35
+    },
+    {
+      "id": "ol20162630w",
+      "title": "The Mastermind",
+      "author": "Evan Ratliff",
+      "isbn": "9780399590412",
+      "cover": "c5",
+      "blurb": "A programmer builds a global crime empire from a laptop, and the DEA spends years chasing him.",
+      "aside": "Silicon Valley ambition, cartel body count. This guy really did contain multitudes.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 480,
+      "tags": [
+        {
+          "text": "internet drug cartel",
+          "accent": "rose"
+        },
+        {
+          "text": "decade-long manhunt",
+          "accent": "gold"
+        },
+        {
+          "text": "stranger than fiction",
+          "accent": "sage"
+        },
+        {
+          "text": "480 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 24
+    },
+    {
+      "id": "ol20149335w",
+      "title": "Furious Hours",
+      "author": "Casey Cep",
+      "isbn": "9781101972052",
+      "cover": "c3",
+      "blurb": "A preacher accused of killing for insurance money, and the true-crime book Harper Lee never finished.",
+      "aside": "Turns out even Harper Lee could get stuck on a book. Comforting, honestly.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 336,
+      "tags": [
+        {
+          "text": "harper lee's lost book",
+          "accent": "rose"
+        },
+        {
+          "text": "alabama true crime",
+          "accent": "gold"
+        },
+        {
+          "text": "literary detective work",
+          "accent": "sage"
+        },
+        {
+          "text": "336 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 23
+    },
+    {
+      "id": "ol20112743w",
+      "title": "The Killer Across the Table: Unlocking the Secrets of Serial Killers and Predators with the FBI's Original Mindhunter",
+      "author": "John E. Douglas",
+      "isbn": "9780062910639",
+      "cover": "c1",
+      "blurb": "The FBI's founding profiler sits down with four killers to explain how he learned to read them.",
+      "aside": "He interviewed Manson. You're allowed to be a little scared of the table of contents.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 352,
+      "tags": [
+        {
+          "text": "original fbi profiler",
+          "accent": "rose"
+        },
+        {
+          "text": "face-to-face with killers",
+          "accent": "gold"
+        },
+        {
+          "text": "mindhunter, nonfiction edition",
+          "accent": "sage"
+        },
+        {
+          "text": "352 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 22
+    },
+    {
+      "id": "ol19718745w",
+      "title": "After the eclipse",
+      "author": "Sarah Perry",
+      "isbn": "9781328511911",
+      "cover": "c4",
+      "blurb": "A daughter reinvestigates her mother's unsolved murder decades later, part memoir, part cold case file.",
+      "aside": "Equal parts eulogy and investigation. She earns every page of both.",
+      "pace": "Slow burn",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 367,
+      "tags": [
+        {
+          "text": "daughter investigates mother's murder",
+          "accent": "rose"
+        },
+        {
+          "text": "maine cold case",
+          "accent": "gold"
+        },
+        {
+          "text": "grief as reporting",
+          "accent": "sage"
+        },
+        {
+          "text": "367 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 10
+    },
+    {
+      "id": "ol17891134w",
+      "title": "A Mother's Reckoning",
+      "author": "Sue Klebold",
+      "isbn": "9780753556801",
+      "cover": "c2",
+      "blurb": "Dylan Klebold's mother spends sixteen years asking how she missed the signs before Columbine.",
+      "aside": "Not a defense. A reckoning, exactly like the title says.",
+      "pace": "Slow burn",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 336,
+      "tags": [
+        {
+          "text": "columbine, from his mother's side",
+          "accent": "rose"
+        },
+        {
+          "text": "grief with no closure",
+          "accent": "gold"
+        },
+        {
+          "text": "unflinching memoir",
+          "accent": "sage"
+        },
+        {
+          "text": "336 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 99
+    },
+    {
+      "id": "ol20032876w",
+      "title": "Filthy rich",
+      "author": "James Patterson",
+      "isbn": "9781549130403",
+      "cover": "c5",
+      "blurb": "Jeffrey Epstein's decades-long con on New York's elite, and the abuse it was built to hide.",
+      "aside": "Reads fast. Sits heavy. Exactly what it should do.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 312,
+      "tags": [
+        {
+          "text": "epstein's rise and exposure",
+          "accent": "rose"
+        },
+        {
+          "text": "financial elite, ugly secrets",
+          "accent": "gold"
+        },
+        {
+          "text": "before it was everywhere",
+          "accent": "sage"
+        },
+        {
+          "text": "312 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 28
     }
   ]
 }
