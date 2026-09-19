@@ -1,5 +1,5 @@
 {
-  "version": 30,
+  "version": 31,
   "books": [
     {
       "id": "cerulean",
@@ -9062,6 +9062,341 @@
       ],
       "contentFlags": [],
       "popularity": 28
+    },
+    {
+      "id": "ol20883297w",
+      "title": "Klara and the Sun",
+      "author": "Kazuo Ishiguro",
+      "isbn": "9780571364916",
+      "cover": "c1",
+      "blurb": "An Artificial Friend waits in a shop window, then studies a sick girl's family with quiet devotion.",
+      "aside": "Devastating in the quietest way; you will be irritated by a solar-powered robot's manners and then wrecked by them.",
+      "pace": "Slow burn",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 334,
+      "tags": [
+        {
+          "text": "artificial friend",
+          "accent": "rose"
+        },
+        {
+          "text": "shop-window devotion",
+          "accent": "gold"
+        },
+        {
+          "text": "what love means",
+          "accent": "sage"
+        },
+        {
+          "text": "334 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction",
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 420
+    },
+    {
+      "id": "ol20077992w",
+      "title": "Machines Like Me",
+      "author": "Ian McEwan",
+      "isbn": "9781529111255",
+      "cover": "c2",
+      "blurb": "In an alternate 1980s, a couple buys a lifelike android and finds he has opinions about their relationship.",
+      "aside": "Turing lived, Britain lost the Falklands, and the most interesting person in the flat is still the android.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Fade to black",
+      "pageCount": 333,
+      "tags": [
+        {
+          "text": "alternate 1980s",
+          "accent": "rose"
+        },
+        {
+          "text": "android housemate",
+          "accent": "gold"
+        },
+        {
+          "text": "moral dilemma",
+          "accent": "sage"
+        },
+        {
+          "text": "333 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction",
+        "Literary Fiction"
+      ],
+      "contentFlags": [
+        "love triangles"
+      ],
+      "popularity": 79
+    },
+    {
+      "id": "ol21622637w",
+      "title": "Sea of Rust",
+      "author": "C. Robert Cargill",
+      "isbn": "9781473212787",
+      "cover": "c3",
+      "blurb": "Long after machines defeated humanity, one weary scavenger robot crosses a wasteland with little left to lose.",
+      "aside": "Grim, dusty and surprisingly tender for a novel where the robots are the ones doing the mourning.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 365,
+      "tags": [
+        {
+          "text": "robot wasteland",
+          "accent": "rose"
+        },
+        {
+          "text": "scavenger's past",
+          "accent": "gold"
+        },
+        {
+          "text": "machine war",
+          "accent": "sage"
+        },
+        {
+          "text": "365 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 28
+    },
+    {
+      "id": "ol19715544w",
+      "title": "The punch escrow",
+      "author": "Tal M. Klein",
+      "isbn": "9781942645580",
+      "cover": "c4",
+      "blurb": "Accidentally duplicated mid-teleport in 2147, a man must outwit the corporation that owns all transport.",
+      "aside": "Teleportation goes wrong, and somehow the marriage counselling is the more stressful part.",
+      "pace": "Fast-paced",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 356,
+      "tags": [
+        {
+          "text": "teleport duplicate",
+          "accent": "rose"
+        },
+        {
+          "text": "corporate future",
+          "accent": "gold"
+        },
+        {
+          "text": "marriage in crisis",
+          "accent": "sage"
+        },
+        {
+          "text": "356 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 15
+    },
+    {
+      "id": "ol20141432w",
+      "title": "The Future of Another Timeline",
+      "author": "Annalee Newitz",
+      "isbn": "9780765392107",
+      "cover": "c5",
+      "blurb": "A 1992 riot grrl and a 2022 time traveller both try to edit history so women are safer.",
+      "aside": "Furious in the best way; it treats the patriarchy as a bug to be patched across decades.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Fade to black",
+      "pageCount": 350,
+      "tags": [
+        {
+          "text": "riot grrl",
+          "accent": "rose"
+        },
+        {
+          "text": "time-travel feminism",
+          "accent": "gold"
+        },
+        {
+          "text": "editing history",
+          "accent": "sage"
+        },
+        {
+          "text": "350 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction"
+      ],
+      "contentFlags": [
+        "multiple POVs"
+      ],
+      "popularity": 34
+    },
+    {
+      "id": "ol20052466w",
+      "title": "Void Star",
+      "author": "Zachary Mason",
+      "isbn": "9780374285067",
+      "cover": "c1",
+      "blurb": "In a drowned near-future San Francisco, a woman with perfect memory and a wary refugee brush against inscrutable AIs.",
+      "aside": "Dense, glittering and a little cryptic, like being handed a beautiful machine with no manual.",
+      "pace": "Slow burn",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 394,
+      "tags": [
+        {
+          "text": "drowned San Francisco",
+          "accent": "rose"
+        },
+        {
+          "text": "memory implant",
+          "accent": "gold"
+        },
+        {
+          "text": "opaque AI",
+          "accent": "sage"
+        },
+        {
+          "text": "394 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction"
+      ],
+      "contentFlags": [
+        "multiple POVs"
+      ],
+      "popularity": 16
+    },
+    {
+      "id": "ol20641013w",
+      "title": "The vanished birds",
+      "author": "Simon Jimenez",
+      "isbn": "9780593129005",
+      "cover": "c2",
+      "blurb": "A lonely pilot, a mysterious child, and decades lost to time dilation tangle into one long, aching story.",
+      "aside": "Time dilation as heartbreak: everyone ages at a different speed and nobody forgives it.",
+      "pace": "Slow burn",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 432,
+      "tags": [
+        {
+          "text": "time dilation",
+          "accent": "rose"
+        },
+        {
+          "text": "lonely pilot",
+          "accent": "gold"
+        },
+        {
+          "text": "found child",
+          "accent": "sage"
+        },
+        {
+          "text": "432 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction",
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 16
+    },
+    {
+      "id": "ol20016999w",
+      "title": "Barsk",
+      "author": "Lawrence M. Schoen",
+      "isbn": "9780765377029",
+      "cover": "c3",
+      "blurb": "Elephant-descended outcasts on a rain-soaked ghetto world supply the galaxy's medicine, and one historian talks to the dead.",
+      "aside": "Yes, the elephants talk, and no, it is not cute; it is about grief, prejudice and a very strange drug.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 384,
+      "tags": [
+        {
+          "text": "uplifted elephants",
+          "accent": "rose"
+        },
+        {
+          "text": "speaks to the dead",
+          "accent": "gold"
+        },
+        {
+          "text": "ghetto planet",
+          "accent": "sage"
+        },
+        {
+          "text": "384 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction"
+      ],
+      "contentFlags": [
+        "talking animals"
+      ],
+      "popularity": 8
+    },
+    {
+      "id": "ol25466796w",
+      "title": "Goliath",
+      "author": "Tochi Onyebuchi",
+      "isbn": "9781250782953",
+      "cover": "c4",
+      "blurb": "Humanity has fled Earth for space colonies; those left behind must survive on what remains.",
+      "aside": "A bruising, restless look at who gets to leave and who gets left, with no tidy answers.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 336,
+      "tags": [
+        {
+          "text": "orbital colonies",
+          "accent": "rose"
+        },
+        {
+          "text": "abandoned Earth",
+          "accent": "gold"
+        },
+        {
+          "text": "survival",
+          "accent": "sage"
+        },
+        {
+          "text": "336 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 10
     }
   ]
 }
