@@ -1,5 +1,5 @@
 {
-  "version": 31,
+  "version": 32,
   "books": [
     {
       "id": "cerulean",
@@ -9397,6 +9397,390 @@
       ],
       "contentFlags": [],
       "popularity": 10
+    },
+    {
+      "id": "ol20131274w",
+      "title": "A Little Hatred",
+      "author": "Joe Abercrombie",
+      "isbn": "9780575095908",
+      "cover": "c1",
+      "blurb": "A shattered empire's next generation battles for power as war and rebellion close in.",
+      "aside": "Abercrombie hands you five people to root for and lets every one of them disappoint you.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Fade to black",
+      "pageCount": 496,
+      "tags": [
+        {
+          "text": "grimdark",
+          "accent": "rose"
+        },
+        {
+          "text": "political intrigue",
+          "accent": "gold"
+        },
+        {
+          "text": "ensemble cast",
+          "accent": "sage"
+        },
+        {
+          "text": "496 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy"
+      ],
+      "contentFlags": [
+        "multiple POVs"
+      ],
+      "popularity": 77
+    },
+    {
+      "id": "ol19075624w",
+      "title": "Nevernight",
+      "author": "Jay Kristoff",
+      "isbn": "9780008179984",
+      "cover": "c2",
+      "blurb": "An orphaned girl trains as an assassin to destroy the empire that annihilated her family.",
+      "aside": "Kristoff's footnotes are funnier than most fantasy's protagonists, so read this one for the sass alone.",
+      "pace": "Fast-paced",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Open door",
+      "pageCount": 699,
+      "tags": [
+        {
+          "text": "assassin school",
+          "accent": "rose"
+        },
+        {
+          "text": "revenge quest",
+          "accent": "gold"
+        },
+        {
+          "text": "dry wit",
+          "accent": "sage"
+        },
+        {
+          "text": "699 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy"
+      ],
+      "contentFlags": [
+        "talking animals"
+      ],
+      "popularity": 120
+    },
+    {
+      "id": "ol17886067w",
+      "title": "The aeronaut's windlass",
+      "author": "Jim Butcher",
+      "isbn": "9780451466808",
+      "cover": "c3",
+      "blurb": "A merchant airship captain gets pulled into a spire war against a threat none of them understand.",
+      "aside": "Airships, spire politics, and a war straight out of a fever dream — Butcher clearly had a blast.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 630,
+      "tags": [
+        {
+          "text": "airship adventure",
+          "accent": "rose"
+        },
+        {
+          "text": "steampunk world",
+          "accent": "gold"
+        },
+        {
+          "text": "found family crew",
+          "accent": "sage"
+        },
+        {
+          "text": "630 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "contentFlags": [
+        "talking animals"
+      ],
+      "popularity": 63
+    },
+    {
+      "id": "ol18197409w",
+      "title": "Year One",
+      "author": "Nora Roberts",
+      "isbn": "9781432844042",
+      "cover": "c4",
+      "blurb": "A global plague collapses civilization while magic rises to fill the void, for better and worse.",
+      "aside": "Nora Roberts trades her usual charm for apocalypse survival, and somehow still makes room for love.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Bring it on",
+      "spiceLevel": "Fade to black",
+      "pageCount": 464,
+      "tags": [
+        {
+          "text": "apocalyptic magic",
+          "accent": "rose"
+        },
+        {
+          "text": "found survivors",
+          "accent": "gold"
+        },
+        {
+          "text": "world rebuilding",
+          "accent": "sage"
+        },
+        {
+          "text": "464 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy",
+        "Horror"
+      ],
+      "contentFlags": [],
+      "popularity": 71
+    },
+    {
+      "id": "ol20865716w",
+      "title": "Black Sun",
+      "author": "Rebecca Roanhorse",
+      "isbn": "9781534437678",
+      "cover": "c5",
+      "blurb": "A blind, scarred voyager converges with old gods and older grudges under a solar eclipse in Tova.",
+      "aside": "Roanhorse builds a mythology so vivid you'll wish it were the one you grew up with.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Open door",
+      "pageCount": 464,
+      "tags": [
+        {
+          "text": "epic mythology",
+          "accent": "rose"
+        },
+        {
+          "text": "converging fates",
+          "accent": "gold"
+        },
+        {
+          "text": "prophecy unfolding",
+          "accent": "sage"
+        },
+        {
+          "text": "464 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy",
+        "Literary Fiction"
+      ],
+      "contentFlags": [
+        "multiple POVs"
+      ],
+      "popularity": 67
+    },
+    {
+      "id": "ol20905669w",
+      "title": "When the Tiger Came Down the Mountain",
+      "author": "Nghi Vo",
+      "isbn": "9781665191364",
+      "cover": "c1",
+      "blurb": "A cleric trapped by hungry tigers buys survival by unspooling the tale of a tiger's forbidden love.",
+      "aside": "A hundred and seventy-some pages, and it still lingers longer than novels three times its size.",
+      "pace": "Slow burn",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 176,
+      "tags": [
+        {
+          "text": "nested folklore",
+          "accent": "rose"
+        },
+        {
+          "text": "queer romance",
+          "accent": "gold"
+        },
+        {
+          "text": "novella length",
+          "accent": "sage"
+        },
+        {
+          "text": "176 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy",
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 20
+    },
+    {
+      "id": "ol22542206w",
+      "title": "The Traitor God",
+      "author": "Cameron Johnston",
+      "isbn": "9780857667793",
+      "cover": "c2",
+      "blurb": "An outcast magician returns home to avenge a murdered friend, even if it means burning the city down.",
+      "aside": "Grimdark with a body count and zero patience for the sorcerers who deserve worse.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 432,
+      "tags": [
+        {
+          "text": "grimdark revenge",
+          "accent": "rose"
+        },
+        {
+          "text": "morally gray mage",
+          "accent": "gold"
+        },
+        {
+          "text": "debut fantasy",
+          "accent": "sage"
+        },
+        {
+          "text": "432 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy",
+        "Horror"
+      ],
+      "contentFlags": [],
+      "popularity": 7
+    },
+    {
+      "id": "ol37942515w",
+      "title": "Blood over Bright Haven",
+      "author": "M. L. Wang",
+      "isbn": "9780593873359",
+      "cover": "c3",
+      "blurb": "The first woman admitted to a magic academy uncovers a secret her colleagues would kill to bury.",
+      "aside": "Dark academia with an actual reckoning at the end, not just moody library aesthetics.",
+      "pace": "Slow burn",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 540,
+      "tags": [
+        {
+          "text": "dark academia",
+          "accent": "rose"
+        },
+        {
+          "text": "magic system politics",
+          "accent": "gold"
+        },
+        {
+          "text": "slow-burn mystery",
+          "accent": "sage"
+        },
+        {
+          "text": "540 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [
+        "multiple POVs"
+      ],
+      "popularity": 59
+    },
+    {
+      "id": "ol34023561w",
+      "title": "Hurricane Wars",
+      "author": "Thea Guanzon",
+      "isbn": "9780008555870",
+      "cover": "c4",
+      "blurb": "A secretly powerful soldier and the enemy prince hunting her discover their magic — and chemistry — is dangerous together.",
+      "aside": "Enemies-to-lovers with actual armies involved — pack a strong drink and clear your evening.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Bring it on",
+      "spiceLevel": "Open door",
+      "pageCount": 488,
+      "tags": [
+        {
+          "text": "enemies to lovers",
+          "accent": "rose"
+        },
+        {
+          "text": "romantasy",
+          "accent": "gold"
+        },
+        {
+          "text": "war-torn kingdoms",
+          "accent": "sage"
+        },
+        {
+          "text": "488 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "contentFlags": [
+        "multiple POVs"
+      ],
+      "popularity": 36
+    },
+    {
+      "id": "ol25904440w",
+      "title": "The Spear Cuts Through Water",
+      "author": "Simon Jimenez",
+      "isbn": "9780593156599",
+      "cover": "c5",
+      "blurb": "Two men help an imprisoned goddess flee her monstrous sons on a perilous five-day pilgrimage toward freedom.",
+      "aside": "Jimenez breaks every rule of how a fantasy novel should be told, and somehow it all lands.",
+      "pace": "Slow burn",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Fade to black",
+      "pageCount": 535,
+      "tags": [
+        {
+          "text": "myth retelling",
+          "accent": "rose"
+        },
+        {
+          "text": "queer romance",
+          "accent": "gold"
+        },
+        {
+          "text": "unconventional narration",
+          "accent": "sage"
+        },
+        {
+          "text": "535 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy",
+        "Literary Fiction",
+        "Romance"
+      ],
+      "contentFlags": [
+        "second person",
+        "multiple POVs"
+      ],
+      "popularity": 42
     }
   ]
 }
