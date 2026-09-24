@@ -1,5 +1,5 @@
 {
-  "version": 32,
+  "version": 33,
   "books": [
     {
       "id": "cerulean",
@@ -9781,6 +9781,334 @@
         "multiple POVs"
       ],
       "popularity": 42
+    },
+    {
+      "id": "ol35728151w",
+      "title": "Murder at Holly House",
+      "author": "Denzil Meyrick",
+      "isbn": "9781464259890",
+      "cover": "c1",
+      "blurb": "A stranger is found dead up a chimney in a snowbound 1952 Yorkshire village where everyone is hiding something.",
+      "aside": "A cosy village, a corpse in the chimney, and a cast with plenty to lose — Christie would approve.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 416,
+      "tags": [
+        {
+          "text": "christmas mystery",
+          "accent": "rose"
+        },
+        {
+          "text": "village secrets",
+          "accent": "gold"
+        },
+        {
+          "text": "1950s yorkshire",
+          "accent": "sage"
+        },
+        {
+          "text": "416 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller",
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 1
+    },
+    {
+      "id": "ol42549528w",
+      "title": "Automatic Noodle",
+      "author": "Annalee Newitz",
+      "isbn": "9781250450982",
+      "cover": "c2",
+      "blurb": "Abandoned food-service robots seize a ghost kitchen, open a noodle restaurant, and hunt whoever is sabotaging their reviews.",
+      "aside": "Comfort reading for anyone who has taken a one-star review personally, now with robots and hand-pulled noodles.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 176,
+      "tags": [
+        {
+          "text": "found family",
+          "accent": "rose"
+        },
+        {
+          "text": "cozy sci-fi",
+          "accent": "gold"
+        },
+        {
+          "text": "near-future",
+          "accent": "sage"
+        },
+        {
+          "text": "176 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 8
+    },
+    {
+      "id": "ol20750940w",
+      "title": "Paris Library",
+      "author": "Janet Skeslien Charles",
+      "isbn": "9781982134198",
+      "cover": "c3",
+      "blurb": "A wartime Paris librarian and a lonely Montana teen are bound by secrets and the books between them.",
+      "aside": "A love letter to libraries that turns out to be a confession, too.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 400,
+      "tags": [
+        {
+          "text": "wartime paris",
+          "accent": "rose"
+        },
+        {
+          "text": "dual timeline",
+          "accent": "gold"
+        },
+        {
+          "text": "books about books",
+          "accent": "sage"
+        },
+        {
+          "text": "400 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 30
+    },
+    {
+      "id": "ol20114784w",
+      "title": "The Ventriloquists",
+      "author": "E.R. ramzipoor",
+      "isbn": "9780778308157",
+      "cover": "c4",
+      "blurb": "Belgian resistance journalists, ordered to print Nazi propaganda, secretly produce a fake newspaper that mocks Hitler.",
+      "aside": "A heist story where the loot is a newspaper and the getaway plan is sheer nerve.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 534,
+      "tags": [
+        {
+          "text": "wwii resistance",
+          "accent": "rose"
+        },
+        {
+          "text": "based on true events",
+          "accent": "gold"
+        },
+        {
+          "text": "found family",
+          "accent": "sage"
+        },
+        {
+          "text": "534 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 2
+    },
+    {
+      "id": "ol20096201w",
+      "title": "The Golden Hour",
+      "author": "Beatriz Williams",
+      "isbn": "9780062834751",
+      "cover": "c5",
+      "blurb": "A widowed society reporter in 1941 Nassau digs into the Duke and Duchess of Windsor's circle and unearths deadly secrets.",
+      "aside": "Wartime Bahamas, a royal scandal, and a widow with a press pass — gossip has rarely had this much menace.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Fade to black",
+      "pageCount": 496,
+      "tags": [
+        {
+          "text": "wartime intrigue",
+          "accent": "rose"
+        },
+        {
+          "text": "slow-simmer romance",
+          "accent": "gold"
+        },
+        {
+          "text": "royal scandal",
+          "accent": "sage"
+        },
+        {
+          "text": "496 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction",
+        "Romance"
+      ],
+      "contentFlags": [],
+      "popularity": 7
+    },
+    {
+      "id": "ol20149812w",
+      "title": "The Last Year of the War",
+      "author": "Susan Meissner",
+      "isbn": "9780451492159",
+      "cover": "c1",
+      "blurb": "Two teenage girls from opposite sides of the war forge a bond in a Texas internment camp.",
+      "aside": "Built on a real internment camp most history classes skipped, and it lands accordingly.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 389,
+      "tags": [
+        {
+          "text": "wwii home front",
+          "accent": "rose"
+        },
+        {
+          "text": "unlikely friendship",
+          "accent": "gold"
+        },
+        {
+          "text": "internment camps",
+          "accent": "sage"
+        },
+        {
+          "text": "389 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 7
+    },
+    {
+      "id": "ol20639860w",
+      "title": "The Secret Guests",
+      "author": "John Banville",
+      "isbn": "9780241980941",
+      "cover": "c2",
+      "blurb": "The British princesses are secretly hidden in wartime Ireland, guarded by a spy and a detective who trust no one.",
+      "aside": "Banville takes a royal what-if and lets the dread pool slowly in the corners of a country house.",
+      "pace": "Slow burn",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 304,
+      "tags": [
+        {
+          "text": "royal what-if",
+          "accent": "rose"
+        },
+        {
+          "text": "country house",
+          "accent": "gold"
+        },
+        {
+          "text": "spies and secrets",
+          "accent": "sage"
+        },
+        {
+          "text": "304 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 4
+    },
+    {
+      "id": "ol20512712w",
+      "title": "Under Occupation",
+      "author": "Alan Furst",
+      "isbn": "9780399592300",
+      "cover": "c3",
+      "blurb": "A French crime novelist is drawn into the resistance to smuggle intelligence from Polish forced laborers to the Allies.",
+      "aside": "Furst does atmosphere like nobody else — smoke, trench coats, and the constant sense of being watched.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 224,
+      "tags": [
+        {
+          "text": "occupied paris",
+          "accent": "rose"
+        },
+        {
+          "text": "resistance spies",
+          "accent": "gold"
+        },
+        {
+          "text": "reluctant hero",
+          "accent": "sage"
+        },
+        {
+          "text": "224 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 7
+    },
+    {
+      "id": "ol20496516w",
+      "title": "Spy",
+      "author": "Danielle Steel",
+      "isbn": "9780593168189",
+      "cover": "c4",
+      "blurb": "A privileged English debutante trains as a secret agent and steps into the dangers of World War II.",
+      "aside": "Danielle Steel trades ballgowns for parachutes, and the pivot is more fun than it has any right to be.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Fade to black",
+      "pageCount": 336,
+      "tags": [
+        {
+          "text": "wwii spies",
+          "accent": "rose"
+        },
+        {
+          "text": "debutante turned agent",
+          "accent": "gold"
+        },
+        {
+          "text": "sweeping saga",
+          "accent": "sage"
+        },
+        {
+          "text": "336 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 13
     }
   ]
 }
