@@ -1,5 +1,5 @@
 {
-  "version": 34,
+  "version": 35,
   "books": [
     {
       "id": "cerulean",
@@ -10479,6 +10479,377 @@
       ],
       "contentFlags": [],
       "popularity": 53
+    },
+    {
+      "id": "ol37831653w",
+      "title": "Throne of Secrets",
+      "author": "Kerri Maniscalco",
+      "isbn": "9780316557542",
+      "cover": "c2",
+      "blurb": "The Prince of Gluttony and the reporter who's hunted his scandals for a decade must unite against a rising threat.",
+      "aside": "She's been trying to ruin him for ten years, which in this court counts as foreplay.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Bring it on",
+      "spiceLevel": "Fade to black",
+      "pageCount": 520,
+      "tags": [
+        {
+          "text": "rivals to lovers",
+          "accent": "rose"
+        },
+        {
+          "text": "rake prince, nosy reporter",
+          "accent": "gold"
+        },
+        {
+          "text": "demon court intrigue",
+          "accent": "sage"
+        },
+        {
+          "text": "520 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "contentFlags": [],
+      "popularity": 8
+    },
+    {
+      "id": "ol37829770w",
+      "title": "Middle of the Night",
+      "author": "Riley Sager",
+      "isbn": "9781399712385",
+      "cover": "c1",
+      "blurb": "Thirty years after his best friend vanished from their backyard tent, a man moves home and the nights turn strange.",
+      "aside": "Riley Sager makes a quiet New Jersey cul-de-sac feel like the last place you'd want to pitch a tent.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 384,
+      "tags": [
+        {
+          "text": "cold case cul-de-sac",
+          "accent": "rose"
+        },
+        {
+          "text": "childhood friend vanished",
+          "accent": "gold"
+        },
+        {
+          "text": "suburban dread",
+          "accent": "sage"
+        },
+        {
+          "text": "384 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 21
+    },
+    {
+      "id": "ol20821281w",
+      "title": "Devolution",
+      "author": "Max Brooks",
+      "isbn": "9781984826800",
+      "cover": "c3",
+      "blurb": "A volcanic eruption cuts off a tech-utopia village, and something large and hungry comes down from the mountain.",
+      "aside": "Sold as off-grid luxury living; turns out the neighbours are eight feet tall and not interested in the HOA.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 304,
+      "tags": [
+        {
+          "text": "found journals",
+          "accent": "rose"
+        },
+        {
+          "text": "bigfoot siege",
+          "accent": "gold"
+        },
+        {
+          "text": "eco-village gone wrong",
+          "accent": "sage"
+        },
+        {
+          "text": "304 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Science Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 58
+    },
+    {
+      "id": "ol21693958w",
+      "title": "The Burning Girls",
+      "author": "C. J. Tudor",
+      "isbn": "9780593295120",
+      "cover": "c4",
+      "blurb": "A vicar and her teenage daughter take over a parish haunted by burned martyrs, missing girls and a suicide.",
+      "aside": "Nobody sends a welcome basket with an exorcism kit unless they know exactly what you're walking into.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 352,
+      "tags": [
+        {
+          "text": "folk horror village",
+          "accent": "rose"
+        },
+        {
+          "text": "vicar with secrets",
+          "accent": "gold"
+        },
+        {
+          "text": "missing girls",
+          "accent": "sage"
+        },
+        {
+          "text": "352 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 35
+    },
+    {
+      "id": "ol19726031w",
+      "title": "Into the Drowning Deep",
+      "author": "Mira Grant",
+      "isbn": "9780316379373",
+      "cover": "c5",
+      "blurb": "A scientific expedition returns to the Mariana Trench to learn what really devoured the last crew sent there.",
+      "aside": "Forget seashell bras — these mermaids have teeth, and Mira Grant is not here to make them cute.",
+      "pace": "Fast-paced",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 221,
+      "tags": [
+        {
+          "text": "killer mermaids",
+          "accent": "rose"
+        },
+        {
+          "text": "doomed research voyage",
+          "accent": "gold"
+        },
+        {
+          "text": "scientist with a grudge",
+          "accent": "sage"
+        },
+        {
+          "text": "221 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Science Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 66
+    },
+    {
+      "id": "ol37618590w",
+      "title": "We Used to Live Here",
+      "author": "Marcus Kliewer",
+      "isbn": "9781982198787",
+      "cover": "c1",
+      "blurb": "A couple flipping an old house let its former family look around, and the visitors simply won't leave.",
+      "aside": "One polite yes at the front door and the whole house starts rewriting the rules. Mind your manners elsewhere.",
+      "pace": "Fast-paced",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 312,
+      "tags": [
+        {
+          "text": "house flippers",
+          "accent": "rose"
+        },
+        {
+          "text": "uninvited guests",
+          "accent": "gold"
+        },
+        {
+          "text": "reality slipping",
+          "accent": "sage"
+        },
+        {
+          "text": "312 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 89
+    },
+    {
+      "id": "ol24777933w",
+      "title": "Dead Silence",
+      "author": "S.A. Barnes",
+      "isbn": "9781250819994",
+      "cover": "c2",
+      "blurb": "A beacon repair crew finds a famous spaceliner lost for twenty years, and boarding it is their worst idea yet.",
+      "aside": "A derelict luxury cruise in deep space: all the glamour, zero survivors, and something still on board.",
+      "pace": "Fast-paced",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 352,
+      "tags": [
+        {
+          "text": "ghost ship in space",
+          "accent": "rose"
+        },
+        {
+          "text": "salvage crew",
+          "accent": "gold"
+        },
+        {
+          "text": "luxury liner horror",
+          "accent": "sage"
+        },
+        {
+          "text": "352 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Science Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 38
+    },
+    {
+      "id": "ol37825469w",
+      "title": "The Eyes Are the Best Part",
+      "author": "Monika Kim",
+      "isbn": "9781840918397",
+      "cover": "c3",
+      "blurb": "As her family splinters, a college student starts dreaming of her mother's new boyfriend's blue eyes, and craving them.",
+      "aside": "Ji-won has a whole new appetite this semester, and it isn't for the dining hall.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 288,
+      "tags": [
+        {
+          "text": "hungry dreams",
+          "accent": "rose"
+        },
+        {
+          "text": "mother's creepy boyfriend",
+          "accent": "gold"
+        },
+        {
+          "text": "feminist rage",
+          "accent": "sage"
+        },
+        {
+          "text": "288 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Contemporary"
+      ],
+      "contentFlags": [],
+      "popularity": 39
+    },
+    {
+      "id": "ol37581492w",
+      "title": "Someone You Can Build a Nest In",
+      "author": "John Wiswell",
+      "isbn": "9781529431339",
+      "cover": "c4",
+      "blurb": "A shapeshifting monster falls for the woman she rescues, who doesn't know she's dating the creature everyone's hunting.",
+      "aside": "The sweetest love story you'll ever read with a bear trap for a mouth. Don't think too hard about the nesting part.",
+      "pace": "Steady",
+      "romanceLevel": "Bring it on",
+      "spiceLevel": "Closed door",
+      "pageCount": 316,
+      "tags": [
+        {
+          "text": "monster heroine",
+          "accent": "rose"
+        },
+        {
+          "text": "hunted, then smitten",
+          "accent": "gold"
+        },
+        {
+          "text": "cozy body horror",
+          "accent": "sage"
+        },
+        {
+          "text": "316 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Fantasy",
+        "Romance"
+      ],
+      "contentFlags": [],
+      "popularity": 13
+    },
+    {
+      "id": "ol20847617w",
+      "title": "The Lost Village",
+      "author": "Camilla Sten",
+      "isbn": "9781250803290",
+      "cover": "c5",
+      "blurb": "A filmmaker leads a small crew into the Swedish mining town whose entire population disappeared in 1959.",
+      "aside": "Every true-crime podcaster's dream location, right up until the abandoned town stops being quite so abandoned.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 344,
+      "tags": [
+        {
+          "text": "vanished mining town",
+          "accent": "rose"
+        },
+        {
+          "text": "documentary crew",
+          "accent": "gold"
+        },
+        {
+          "text": "swedish chills",
+          "accent": "sage"
+        },
+        {
+          "text": "344 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 22
     }
   ]
 }
