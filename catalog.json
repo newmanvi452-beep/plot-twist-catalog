@@ -1,5 +1,5 @@
 {
-  "version": 33,
+  "version": 34,
   "books": [
     {
       "id": "cerulean",
@@ -10109,6 +10109,376 @@
       ],
       "contentFlags": [],
       "popularity": 13
+    },
+    {
+      "id": "ol20416046w",
+      "title": "The Family Upstairs",
+      "author": "Lisa Jewell",
+      "isbn": "9781797113821",
+      "cover": "c1",
+      "blurb": "A woman inherits a London house on her twenty-fifth birthday, along with the grim story of what happened inside it.",
+      "aside": "Lisa Jewell hands you the keys to a dream house and then quietly mentions the bodies in the kitchen.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 464,
+      "tags": [
+        {
+          "text": "inherited mansion",
+          "accent": "rose"
+        },
+        {
+          "text": "family secrets",
+          "accent": "gold"
+        },
+        {
+          "text": "cult in the attic",
+          "accent": "sage"
+        },
+        {
+          "text": "464 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Contemporary",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 324
+    },
+    {
+      "id": "ol24509967w",
+      "title": "Apples Never Fall",
+      "author": "Liane Moriarty",
+      "isbn": "9781432890407",
+      "cover": "c2",
+      "blurb": "When their mother vanishes, four grown siblings start wondering whether their father knows more than he says.",
+      "aside": "Moriarty serves up a family of ex-tennis prodigies and lets every old grudge come back over the net.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 480,
+      "tags": [
+        {
+          "text": "missing mother",
+          "accent": "rose"
+        },
+        {
+          "text": "sibling rivalry",
+          "accent": "gold"
+        },
+        {
+          "text": "tennis family",
+          "accent": "sage"
+        },
+        {
+          "text": "480 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Contemporary",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 54
+    },
+    {
+      "id": "ol21694014w",
+      "title": "The Push",
+      "author": "Ashley Audrain",
+      "isbn": "9781984881687",
+      "cover": "c3",
+      "blurb": "A new mother becomes convinced her daughter is dangerous, and nobody around her is willing to believe it.",
+      "aside": "The kind of book you finish in one sitting and then stare at your ceiling about for a week.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 336,
+      "tags": [
+        {
+          "text": "unreliable mother",
+          "accent": "rose"
+        },
+        {
+          "text": "is she the problem",
+          "accent": "gold"
+        },
+        {
+          "text": "motherhood unvarnished",
+          "accent": "sage"
+        },
+        {
+          "text": "336 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Contemporary",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 132
+    },
+    {
+      "id": "ol17868253w",
+      "title": "Home Fire",
+      "author": "Kamila Shamsie",
+      "isbn": "9781432860998",
+      "cover": "c4",
+      "blurb": "Three British Muslim siblings are pulled apart when a brother chases his father's dark legacy abroad.",
+      "aside": "Shamsie retells Antigone with London politics and heartbreak, and somehow it lands harder than the original.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Fade to black",
+      "pageCount": 288,
+      "tags": [
+        {
+          "text": "siblings torn apart",
+          "accent": "rose"
+        },
+        {
+          "text": "love vs loyalty",
+          "accent": "gold"
+        },
+        {
+          "text": "modern greek tragedy",
+          "accent": "sage"
+        },
+        {
+          "text": "288 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Contemporary",
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 32
+    },
+    {
+      "id": "ol20837105w",
+      "title": "The Good Sister",
+      "author": "Sally Hepworth",
+      "isbn": "9781432885496",
+      "cover": "c5",
+      "blurb": "Twin sisters guard an old secret, until one offers to help the other have a baby.",
+      "aside": "Fern is the oddball librarian you will root for long before you work out who you should actually fear.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 352,
+      "tags": [
+        {
+          "text": "twin sisters",
+          "accent": "rose"
+        },
+        {
+          "text": "buried secret",
+          "accent": "gold"
+        },
+        {
+          "text": "surrogate gambit",
+          "accent": "sage"
+        },
+        {
+          "text": "352 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Contemporary",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 39
+    },
+    {
+      "id": "ol17889978w",
+      "title": "My Year of Rest and Relaxation",
+      "author": "Ottessa Moshfegh",
+      "isbn": "9780525522126",
+      "cover": "c1",
+      "blurb": "A young woman in Manhattan tries to sleep away an entire year with help from a dubious psychiatrist.",
+      "aside": "A novel about doing absolutely nothing that is, irritatingly, impossible to put down.",
+      "pace": "Slow burn",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Fade to black",
+      "pageCount": 289,
+      "tags": [
+        {
+          "text": "prescribed hibernation",
+          "accent": "rose"
+        },
+        {
+          "text": "deadpan misanthrope",
+          "accent": "gold"
+        },
+        {
+          "text": "new york 2000",
+          "accent": "sage"
+        },
+        {
+          "text": "289 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Contemporary",
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 658
+    },
+    {
+      "id": "ol20836881w",
+      "title": "The Wife Upstairs",
+      "author": "Rachel Hawkins",
+      "isbn": "9781250752468",
+      "cover": "c2",
+      "blurb": "A grifting dog-walker in an Alabama suburb falls for a rich widower whose drowned wife may not stay buried.",
+      "aside": "Jane Eyre swaps the moors for a McMansion, and Mr. Rochester is every bit as shady as you suspected.",
+      "pace": "Fast-paced",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Fade to black",
+      "pageCount": 320,
+      "tags": [
+        {
+          "text": "jane eyre twist",
+          "accent": "rose"
+        },
+        {
+          "text": "brooding widower",
+          "accent": "gold"
+        },
+        {
+          "text": "gated-community gothic",
+          "accent": "sage"
+        },
+        {
+          "text": "320 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Contemporary",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 87
+    },
+    {
+      "id": "ol24339269w",
+      "title": "Such a Quiet Place",
+      "author": "Megan Miranda",
+      "isbn": "9781982147303",
+      "cover": "c3",
+      "blurb": "A woman freed from prison moves back onto the cul-de-sac whose testimony put her away.",
+      "aside": "Megan Miranda proves the HOA group chat is scarier than any haunted house.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 352,
+      "tags": [
+        {
+          "text": "killer next door",
+          "accent": "rose"
+        },
+        {
+          "text": "neighbourhood secrets",
+          "accent": "gold"
+        },
+        {
+          "text": "wrongful conviction",
+          "accent": "sage"
+        },
+        {
+          "text": "352 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Contemporary",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 19
+    },
+    {
+      "id": "ol17753391w",
+      "title": "Heroes of the Frontier",
+      "author": "Dave Eggers",
+      "isbn": "9781524722197",
+      "cover": "c4",
+      "blurb": "A burned-out dentist bolts to Alaska with her two kids in a rickety RV, outrunning wildfires and her own mistakes.",
+      "aside": "Eggers packs a midlife crisis into a rented RV and points it straight at the wildfires.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 400,
+      "tags": [
+        {
+          "text": "runaway road trip",
+          "accent": "rose"
+        },
+        {
+          "text": "alaskan wilderness",
+          "accent": "gold"
+        },
+        {
+          "text": "darkly funny",
+          "accent": "sage"
+        },
+        {
+          "text": "400 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Contemporary",
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 9
+    },
+    {
+      "id": "ol20104745w",
+      "title": "Someone We Know",
+      "author": "Shari Lapeña",
+      "isbn": "9780552177467",
+      "cover": "c5",
+      "blurb": "A teenager's snooping through his neighbours' computers stirs up suspicion just as a local woman turns up dead.",
+      "aside": "Shari Lapeña peeks behind every manicured hedge on the street, and nobody's secrets survive the visit.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 320,
+      "tags": [
+        {
+          "text": "suburban secrets",
+          "accent": "rose"
+        },
+        {
+          "text": "teen snoop",
+          "accent": "gold"
+        },
+        {
+          "text": "whodunit next door",
+          "accent": "sage"
+        },
+        {
+          "text": "320 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Contemporary",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 53
     }
   ]
 }
