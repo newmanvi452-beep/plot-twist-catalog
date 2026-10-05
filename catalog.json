@@ -1,5 +1,5 @@
 {
-  "version": 35,
+  "version": 36,
   "books": [
     {
       "id": "cerulean",
@@ -10850,6 +10850,370 @@
       ],
       "contentFlags": [],
       "popularity": 22
+    },
+    {
+      "id": "ol42398143w",
+      "title": "The Knight and the Moth",
+      "author": "Rachel Gillig",
+      "isbn": "9780356523149",
+      "cover": "c3",
+      "blurb": "A dream-reading Diviner teams up with a rude, godless knight when her sister seers start disappearing.",
+      "aside": "Three readers asked for it by name, and the knight with the sharp tongue is most of the reason why.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Fade to black",
+      "pageCount": 400,
+      "tags": [
+        {
+          "text": "cathedral seers",
+          "accent": "rose"
+        },
+        {
+          "text": "heretic knight",
+          "accent": "gold"
+        },
+        {
+          "text": "vanishing sisters",
+          "accent": "sage"
+        },
+        {
+          "text": "400 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "contentFlags": [],
+      "popularity": 54
+    },
+    {
+      "id": "ol17930369w",
+      "title": "The Library Book",
+      "author": "Susan Orlean",
+      "isbn": "9781476740195",
+      "cover": "c2",
+      "blurb": "The 1986 Los Angeles Central Library fire, its prime suspect, and why libraries matter at all.",
+      "aside": "Half arson case, half love letter, and you will not look at your library card the same way again.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 336,
+      "tags": [
+        {
+          "text": "library on fire",
+          "accent": "rose"
+        },
+        {
+          "text": "unsolved arson",
+          "accent": "gold"
+        },
+        {
+          "text": "love letter to books",
+          "accent": "sage"
+        },
+        {
+          "text": "336 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 66
+    },
+    {
+      "id": "ol17340134w",
+      "title": "SPQR",
+      "author": "Mary Beard",
+      "isbn": "9781846683800",
+      "cover": "c4",
+      "blurb": "How a minor Italian village became Rome, told by a classicist who questions every comfortable legend.",
+      "aside": "Mary Beard takes Rome down off its marble plinth and somehow makes it more fascinating up close.",
+      "pace": "Slow burn",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 644,
+      "tags": [
+        {
+          "text": "ancient rome",
+          "accent": "rose"
+        },
+        {
+          "text": "village to empire",
+          "accent": "gold"
+        },
+        {
+          "text": "myth versus record",
+          "accent": "sage"
+        },
+        {
+          "text": "644 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 193
+    },
+    {
+      "id": "ol19722168w",
+      "title": "The storm before the storm",
+      "author": "Duncan, Michael (Podcaster)",
+      "isbn": "9781541724037",
+      "cover": "c1",
+      "blurb": "The bloody century of feuds and power grabs that quietly doomed the Roman Republic before Caesar arrived.",
+      "aside": "Reads like a prestige political drama, except every backstabbing senator actually existed.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 327,
+      "tags": [
+        {
+          "text": "roman republic",
+          "accent": "rose"
+        },
+        {
+          "text": "political brinkmanship",
+          "accent": "gold"
+        },
+        {
+          "text": "podcast-born history",
+          "accent": "sage"
+        },
+        {
+          "text": "327 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 51
+    },
+    {
+      "id": "ol20125074w",
+      "title": "Super Pumped",
+      "author": "Mike Isaac",
+      "isbn": "9780393652246",
+      "cover": "c5",
+      "blurb": "The breakneck rise of Uber and the boardroom coup that finally ousted its hard-charging founder.",
+      "aside": "If you devoured Bad Blood and wanted more tech hubris, this is your next ride.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 387,
+      "tags": [
+        {
+          "text": "silicon valley excess",
+          "accent": "rose"
+        },
+        {
+          "text": "boardroom coup",
+          "accent": "gold"
+        },
+        {
+          "text": "founder flameout",
+          "accent": "sage"
+        },
+        {
+          "text": "387 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 27
+    },
+    {
+      "id": "ol25995025w",
+      "title": "Junk Science and the American Criminal Justice System",
+      "author": "M. Chris Fabricant",
+      "isbn": "9781636140308",
+      "cover": "c2",
+      "blurb": "An Innocence Project lawyer exposes the shaky forensic \"science\" that has sent innocent people to death row.",
+      "aside": "Watch one true-crime documentary after reading this and you will be yelling at the expert witness.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 384,
+      "tags": [
+        {
+          "text": "wrongful convictions",
+          "accent": "rose"
+        },
+        {
+          "text": "bad forensics",
+          "accent": "gold"
+        },
+        {
+          "text": "innocence project",
+          "accent": "sage"
+        },
+        {
+          "text": "384 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 4
+    },
+    {
+      "id": "ol17203015w",
+      "title": "Neurotribes",
+      "author": "Steve Silberman",
+      "isbn": "9781583334676",
+      "cover": "c3",
+      "blurb": "A reporter traces the buried history of autism research and the people it overlooked for decades.",
+      "aside": "Big, humane and quietly furious, the kind of book that rewires how you think about difference.",
+      "pace": "Slow burn",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 539,
+      "tags": [
+        {
+          "text": "hidden history",
+          "accent": "rose"
+        },
+        {
+          "text": "neurodiversity",
+          "accent": "gold"
+        },
+        {
+          "text": "science reporting",
+          "accent": "sage"
+        },
+        {
+          "text": "539 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 99
+    },
+    {
+      "id": "ol20152236w",
+      "title": "Infinite Powers",
+      "author": "Steven H. Strogatz",
+      "isbn": "9780358299288",
+      "cover": "c4",
+      "blurb": "A lively history of calculus, showing how one idea quietly built everything from GPS to ultrasound.",
+      "aside": "Somehow makes calculus feel like gossip about geniuses, which is a trick your teacher never managed.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 392,
+      "tags": [
+        {
+          "text": "maths made friendly",
+          "accent": "rose"
+        },
+        {
+          "text": "archimedes to gps",
+          "accent": "gold"
+        },
+        {
+          "text": "big ideas",
+          "accent": "sage"
+        },
+        {
+          "text": "392 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 71
+    },
+    {
+      "id": "ol17366804w",
+      "title": "Modern Romance",
+      "author": "Aziz Ansari",
+      "isbn": "9780525492108",
+      "cover": "c1",
+      "blurb": "A comedian and a sociologist investigate why finding love got so complicated in the smartphone age.",
+      "aside": "For anyone who has ever stared at an unanswered text and wondered whether science could explain it.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Bring it on",
+      "spiceLevel": "Closed door",
+      "pageCount": 288,
+      "tags": [
+        {
+          "text": "dating apps",
+          "accent": "rose"
+        },
+        {
+          "text": "love by the data",
+          "accent": "gold"
+        },
+        {
+          "text": "comic sociology",
+          "accent": "sage"
+        },
+        {
+          "text": "288 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction",
+        "Romance"
+      ],
+      "contentFlags": [],
+      "popularity": 107
+    },
+    {
+      "id": "ol19671595w",
+      "title": "The Color of Law",
+      "author": "Richard Rothstein",
+      "isbn": "9781631492860",
+      "cover": "c5",
+      "blurb": "How American governments deliberately drew segregation into neighbourhoods through zoning, loans and public housing.",
+      "aside": "Short on rhetoric, long on receipts, and it will change how you read a city map.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 345,
+      "tags": [
+        {
+          "text": "housing segregation",
+          "accent": "rose"
+        },
+        {
+          "text": "policy by design",
+          "accent": "gold"
+        },
+        {
+          "text": "american cities",
+          "accent": "sage"
+        },
+        {
+          "text": "345 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 160
     }
   ]
 }
