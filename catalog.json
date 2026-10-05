@@ -1,5 +1,5 @@
 {
-  "version": 36,
+  "version": 37,
   "books": [
     {
       "id": "cerulean",
@@ -11214,6 +11214,561 @@
       ],
       "contentFlags": [],
       "popularity": 160
+    },
+    {
+      "id": "ol36506504w",
+      "title": "James",
+      "author": "Percival L. Everett",
+      "isbn": "9781035031245",
+      "cover": "c1",
+      "blurb": "Jim tells his own story of fleeing down the Mississippi, and it is nothing like the one you remember.",
+      "aside": "Takes a classic you think you know and quietly hands the narration to the smartest man on the raft.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 320,
+      "tags": [
+        {
+          "text": "huck finn retold",
+          "accent": "rose"
+        },
+        {
+          "text": "river escape",
+          "accent": "gold"
+        },
+        {
+          "text": "satire with teeth",
+          "accent": "sage"
+        },
+        {
+          "text": "320 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction",
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 114
+    },
+    {
+      "id": "ol20005391w",
+      "title": "The watchmaker of Filigree Street",
+      "author": "Natasha Pulley",
+      "isbn": "9781408854310",
+      "cover": "c2",
+      "blurb": "A London telegraphist hunts the maker of the pocketwatch that saved him from a bomb.",
+      "aside": "Gaslit, gentle and slightly uncanny, with a mechanical octopus that steals every scene it sneaks into.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 336,
+      "tags": [
+        {
+          "text": "clockwork octopus",
+          "accent": "rose"
+        },
+        {
+          "text": "victorian london",
+          "accent": "gold"
+        },
+        {
+          "text": "slow-burn bond",
+          "accent": "sage"
+        },
+        {
+          "text": "336 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction",
+        "Fantasy"
+      ],
+      "contentFlags": [
+        "multiple POVs"
+      ],
+      "popularity": 46
+    },
+    {
+      "id": "ol20804258w",
+      "title": "The Book of Lost Names",
+      "author": "Kristin Harmel",
+      "isbn": "9781797105604",
+      "cover": "c3",
+      "blurb": "A retired librarian sees a long-lost book in the news and remembers forging papers for children in occupied France.",
+      "aside": "Catnip for anyone who believes a library book can carry secrets, because this one carries hundreds.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 400,
+      "tags": [
+        {
+          "text": "forged papers",
+          "accent": "rose"
+        },
+        {
+          "text": "wartime resistance",
+          "accent": "gold"
+        },
+        {
+          "text": "coded book",
+          "accent": "sage"
+        },
+        {
+          "text": "400 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 56
+    },
+    {
+      "id": "ol19351465w",
+      "title": "News of the World",
+      "author": "Paulette Jiles",
+      "isbn": "9781511356817",
+      "cover": "c4",
+      "blurb": "An elderly news-reader agrees to carry a young girl, raised by the Kiowa, across lawless 1870 Texas.",
+      "aside": "Short, spare and unexpectedly tender, the grumpy-old-man-and-kid pairing at its absolute best.",
+      "pace": "Slow burn",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 232,
+      "tags": [
+        {
+          "text": "texas road trip",
+          "accent": "rose"
+        },
+        {
+          "text": "found family",
+          "accent": "gold"
+        },
+        {
+          "text": "post-civil war",
+          "accent": "sage"
+        },
+        {
+          "text": "232 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 38
+    },
+    {
+      "id": "ol20022567w",
+      "title": "The North water",
+      "author": "Ian McGuire",
+      "isbn": "9781627795944",
+      "cover": "c5",
+      "blurb": "A disgraced army surgeon signs onto an Arctic whaling voyage alongside a harpooner of terrifying brutality.",
+      "aside": "Pitch-black and salt-stung, best read under a blanket with something hot and nothing squeamish nearby.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 336,
+      "tags": [
+        {
+          "text": "arctic whaling",
+          "accent": "rose"
+        },
+        {
+          "text": "ship of villains",
+          "accent": "gold"
+        },
+        {
+          "text": "brutal survival",
+          "accent": "sage"
+        },
+        {
+          "text": "336 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 27
+    },
+    {
+      "id": "ol24164954w",
+      "title": "Cloud Cuckoo Land",
+      "author": "Anthony Doerr",
+      "isbn": "9780008478674",
+      "cover": "c1",
+      "blurb": "An ancient Greek story links children in besieged Constantinople, present-day Idaho and a far-future spaceship.",
+      "aside": "Big-hearted and ambitious, and it will make you oddly protective of every library you walk past.",
+      "pace": "Slow burn",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 656,
+      "tags": [
+        {
+          "text": "one lost text",
+          "accent": "rose"
+        },
+        {
+          "text": "five centuries",
+          "accent": "gold"
+        },
+        {
+          "text": "libraries save lives",
+          "accent": "sage"
+        },
+        {
+          "text": "656 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction",
+        "Literary Fiction",
+        "Science Fiction"
+      ],
+      "contentFlags": [
+        "multiple POVs"
+      ],
+      "popularity": 109
+    },
+    {
+      "id": "ol17356561w",
+      "title": "Lilac Girls",
+      "author": "Martha Hall Kelly",
+      "isbn": "9781101889589",
+      "cover": "c2",
+      "blurb": "A New York socialite, a Polish courier and a German doctor converge on the Ravensbrück concentration camp.",
+      "aside": "Harrowing but propulsive, and the real heroine behind it is the kind you will go and look up afterwards.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 512,
+      "tags": [
+        {
+          "text": "ravensbrück survivors",
+          "accent": "rose"
+        },
+        {
+          "text": "three women",
+          "accent": "gold"
+        },
+        {
+          "text": "based on real events",
+          "accent": "sage"
+        },
+        {
+          "text": "512 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction"
+      ],
+      "contentFlags": [
+        "multiple POVs"
+      ],
+      "popularity": 84
+    },
+    {
+      "id": "ol21971675w",
+      "title": "Mystery of Mrs. Christie",
+      "author": "Marie Benedict",
+      "isbn": "9781432884857",
+      "cover": "c3",
+      "blurb": "An imagined answer to the eleven days in 1926 when Agatha Christie went missing.",
+      "aside": "The Queen of Crime finally gets her own whodunit, and her husband does not come out of it well.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 345,
+      "tags": [
+        {
+          "text": "agatha vanishes",
+          "accent": "rose"
+        },
+        {
+          "text": "marriage unravelling",
+          "accent": "gold"
+        },
+        {
+          "text": "real-life mystery",
+          "accent": "sage"
+        },
+        {
+          "text": "345 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 15
+    },
+    {
+      "id": "ol17881779w",
+      "title": "Dragon Teeth",
+      "author": "Michael Crichton",
+      "isbn": "9780062677594",
+      "cover": "c4",
+      "blurb": "A spoiled Yale student joins the cutthroat 1876 race to dig up dinosaur fossils in the lawless West.",
+      "aside": "Crichton does fossils without the theme park, and the rival palaeontologists are scarier than any raptor.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 336,
+      "tags": [
+        {
+          "text": "bone wars",
+          "accent": "rose"
+        },
+        {
+          "text": "wild west",
+          "accent": "gold"
+        },
+        {
+          "text": "dinosaur hunters",
+          "accent": "sage"
+        },
+        {
+          "text": "336 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 73
+    },
+    {
+      "id": "ol19994445w",
+      "title": "The revenant",
+      "author": "Michael Punke",
+      "isbn": "9781250066626",
+      "cover": "c5",
+      "blurb": "Mauled by a grizzly and abandoned by his companions, a frontier trapper crawls back toward revenge.",
+      "aside": "Lean, relentless and very cold; read it and every minor inconvenience in your life will feel trivial.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 291,
+      "tags": [
+        {
+          "text": "left for dead",
+          "accent": "rose"
+        },
+        {
+          "text": "frontier revenge",
+          "accent": "gold"
+        },
+        {
+          "text": "wilderness survival",
+          "accent": "sage"
+        },
+        {
+          "text": "291 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 20
+    },
+    {
+      "id": "ol21131549w",
+      "title": "Counted with the Stars",
+      "author": "Connilyn Cossette",
+      "isbn": "9781410488909",
+      "cover": "c1",
+      "blurb": "An Egyptian girl sold into slavery flees with the Hebrews during the plagues and falls for an unlikely man.",
+      "aside": "Sweet, clean and sweeping, for when you want your romance with a side of parted seas.",
+      "pace": "Steady",
+      "romanceLevel": "Bring it on",
+      "spiceLevel": "Closed door",
+      "pageCount": 352,
+      "tags": [
+        {
+          "text": "exodus era",
+          "accent": "rose"
+        },
+        {
+          "text": "enslaved heroine",
+          "accent": "gold"
+        },
+        {
+          "text": "faith and romance",
+          "accent": "sage"
+        },
+        {
+          "text": "352 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction",
+        "Romance"
+      ],
+      "contentFlags": [],
+      "popularity": 34
+    },
+    {
+      "id": "ol27525065w",
+      "title": "Motherthing",
+      "author": "Ainslie Hogarth",
+      "isbn": "9781838957780",
+      "cover": "c2",
+      "blurb": "After her cruel mother-in-law dies, a desperate young wife is haunted by her and plans something drastic.",
+      "aside": "Darkly funny and deeply unsettling, and you will never look at chicken à la king the same way.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 288,
+      "tags": [
+        {
+          "text": "mother-in-law ghost",
+          "accent": "rose"
+        },
+        {
+          "text": "dark comedy",
+          "accent": "gold"
+        },
+        {
+          "text": "unreliable devotion",
+          "accent": "sage"
+        },
+        {
+          "text": "288 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror"
+      ],
+      "contentFlags": [],
+      "popularity": 28
+    },
+    {
+      "id": "ol20094468w",
+      "title": "The Whisper Man",
+      "author": "Steve Mosby",
+      "isbn": "9781405936019",
+      "cover": "c3",
+      "blurb": "A grieving father and his young son move to a village with a child-killer in its past.",
+      "aside": "Do not read the bit about the whispering at the window just before turning the lights out.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 400,
+      "tags": [
+        {
+          "text": "small-town killer",
+          "accent": "rose"
+        },
+        {
+          "text": "father and son",
+          "accent": "gold"
+        },
+        {
+          "text": "creepy whispers",
+          "accent": "sage"
+        },
+        {
+          "text": "400 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller",
+        "Horror"
+      ],
+      "contentFlags": [],
+      "popularity": 103
+    },
+    {
+      "id": "ol20020457w",
+      "title": "Carter & Lovecraft",
+      "author": "Jonathan L. Howard",
+      "isbn": "9781250060891",
+      "cover": "c4",
+      "blurb": "An ex-detective inherits a Providence bookshop and a partner descended from H.P. Lovecraft as impossible deaths begin.",
+      "aside": "Cosmic horror crossed with a buddy-cop procedural, and it has far more fun with the premise than it needs to.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 345,
+      "tags": [
+        {
+          "text": "lovecraftian mystery",
+          "accent": "rose"
+        },
+        {
+          "text": "inherited bookshop",
+          "accent": "gold"
+        },
+        {
+          "text": "reluctant detective",
+          "accent": "sage"
+        },
+        {
+          "text": "345 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 12
+    },
+    {
+      "id": "ol20667495w",
+      "title": "The Southern Book Club's Guide to Slaying Vampires",
+      "author": "Grady Hendrix",
+      "isbn": "9781094136936",
+      "cover": "c5",
+      "blurb": "A Charleston book club of overlooked housewives realises the charming new neighbour is preying on their town.",
+      "aside": "Steel Magnolias with fangs, and it proves no one is more dangerous than a housewife who has been underestimated.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 415,
+      "tags": [
+        {
+          "text": "book club vs vampire",
+          "accent": "rose"
+        },
+        {
+          "text": "southern suburbia",
+          "accent": "gold"
+        },
+        {
+          "text": "90s housewives",
+          "accent": "sage"
+        },
+        {
+          "text": "415 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror"
+      ],
+      "contentFlags": [],
+      "popularity": 83
     }
   ]
 }
