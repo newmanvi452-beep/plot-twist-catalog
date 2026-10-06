@@ -1,5 +1,5 @@
 {
-  "version": 38,
+  "version": 39,
   "books": [
     {
       "id": "cerulean",
@@ -13606,6 +13606,382 @@
       ],
       "contentFlags": [],
       "popularity": 16
+    },
+    {
+      "id": "ol25337394w",
+      "title": "Ex Hex",
+      "author": "Erin Sterling",
+      "isbn": "9781472290281",
+      "cover": "c1",
+      "blurb": "A witch's drunken curse on her ex comes roaring back when he returns to her haunted little town.",
+      "aside": "Halloween-flavoured romcom with real heat, ideal for anyone who has ever wished their ex a spot of bad luck.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Bring it on",
+      "spiceLevel": "Open door",
+      "pageCount": 320,
+      "tags": [
+        {
+          "text": "witch curses ex",
+          "accent": "rose"
+        },
+        {
+          "text": "cursed small town",
+          "accent": "gold"
+        },
+        {
+          "text": "second-chance romance",
+          "accent": "sage"
+        },
+        {
+          "text": "320 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Romance",
+        "Fantasy"
+      ],
+      "contentFlags": [],
+      "popularity": 49
+    },
+    {
+      "id": "ol43671510w",
+      "title": "The Bewitching",
+      "author": "Silvia Moreno-Garcia",
+      "isbn": "9780593874325",
+      "cover": "c2",
+      "blurb": "A horror scholar discovers that a forgotten author's famous novel hid a real disappearance, and the evil may linger.",
+      "aside": "Three timelines, one hungry witchy darkness, and the creeping sense you should not be reading in the library.",
+      "pace": "Slow burn",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 360,
+      "tags": [
+        {
+          "text": "three generations",
+          "accent": "rose"
+        },
+        {
+          "text": "campus witchcraft",
+          "accent": "gold"
+        },
+        {
+          "text": "gothic manuscript",
+          "accent": "sage"
+        },
+        {
+          "text": "360 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Historical Fiction",
+        "Fantasy"
+      ],
+      "contentFlags": [
+        "multiple POVs"
+      ],
+      "popularity": 7
+    },
+    {
+      "id": "ol48905w",
+      "title": "Practical Magic",
+      "author": "Alice Hoffman",
+      "isbn": "9781471169199",
+      "cover": "c3",
+      "blurb": "Two sisters raised by witchy aunts try to escape their family curse, but love keeps pulling them back.",
+      "aside": "Midnight margaritas, dubious love charms and sisterhood; it is the book the cult film was built on.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Fade to black",
+      "pageCount": 288,
+      "tags": [
+        {
+          "text": "witch sisters",
+          "accent": "rose"
+        },
+        {
+          "text": "small-town whispers",
+          "accent": "gold"
+        },
+        {
+          "text": "love spells",
+          "accent": "sage"
+        },
+        {
+          "text": "288 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy",
+        "Romance",
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 79
+    },
+    {
+      "id": "ol19090443w",
+      "title": "The Last Days of Jack Sparks",
+      "author": "Jason Arnopp",
+      "isbn": "9780356507187",
+      "cover": "c4",
+      "blurb": "A smug celebrity journalist mocks an exorcism, then a video he swears he did not post goes viral.",
+      "aside": "Starts as a snarky takedown of the paranormal and becomes an increasingly bad week for its narrator.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 379,
+      "tags": [
+        {
+          "text": "occult debunker",
+          "accent": "rose"
+        },
+        {
+          "text": "cursed video",
+          "accent": "gold"
+        },
+        {
+          "text": "found manuscript",
+          "accent": "sage"
+        },
+        {
+          "text": "379 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 28
+    },
+    {
+      "id": "ol20384700w",
+      "title": "Ghost Wall",
+      "author": "Sarah Moss",
+      "isbn": "9780374161927",
+      "cover": "c5",
+      "blurb": "A teenage girl's father drags her onto an Iron Age reenactment that turns sinister in the northern English woods.",
+      "aside": "A slim, tense novella you can read in one sitting, and by the end you will not want to.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 160,
+      "tags": [
+        {
+          "text": "iron age reenactment",
+          "accent": "rose"
+        },
+        {
+          "text": "controlling father",
+          "accent": "gold"
+        },
+        {
+          "text": "bog sacrifice",
+          "accent": "sage"
+        },
+        {
+          "text": "160 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction",
+        "Horror"
+      ],
+      "contentFlags": [],
+      "popularity": 44
+    },
+    {
+      "id": "ol20028344w",
+      "title": "I'm Thinking of Ending Things",
+      "author": "Iain Reid",
+      "isbn": "9781501126949",
+      "cover": "c1",
+      "blurb": "A woman considering ending her relationship meets her boyfriend's parents at their remote farm, and nothing makes sense.",
+      "aside": "Short, deeply odd and impossible to stop thinking about; you will want someone to discuss it with immediately.",
+      "pace": "Fast-paced",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 224,
+      "tags": [
+        {
+          "text": "road trip dread",
+          "accent": "rose"
+        },
+        {
+          "text": "unreliable narrator",
+          "accent": "gold"
+        },
+        {
+          "text": "farmhouse visit",
+          "accent": "sage"
+        },
+        {
+          "text": "224 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Mystery & Thriller",
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 338
+    },
+    {
+      "id": "ol17355875w",
+      "title": "The Hatching",
+      "author": "Ezekiel Boone",
+      "isbn": "9781473215184",
+      "cover": "c2",
+      "blurb": "Ancient flesh-eating spiders awaken across the globe as scientists and agents scramble to work out what happened.",
+      "aside": "Not for arachnophobes, and everyone else will still check their shoes before putting them on.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 351,
+      "tags": [
+        {
+          "text": "ancient spiders",
+          "accent": "rose"
+        },
+        {
+          "text": "global outbreak",
+          "accent": "gold"
+        },
+        {
+          "text": "creature feature",
+          "accent": "sage"
+        },
+        {
+          "text": "351 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Science Fiction"
+      ],
+      "contentFlags": [
+        "multiple POVs"
+      ],
+      "popularity": 19
+    },
+    {
+      "id": "ol23553535w",
+      "title": "Chasing the Boogeyman",
+      "author": "Richard Chizmar",
+      "isbn": "9781797125008",
+      "cover": "c3",
+      "blurb": "Young women are murdered in a 1980s Maryland town as rumours spread that the killer is not entirely human.",
+      "aside": "Written like true crime with real photos, and the blurred line will raise every hair on your arms.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 336,
+      "tags": [
+        {
+          "text": "small-town killer",
+          "accent": "rose"
+        },
+        {
+          "text": "true-crime style",
+          "accent": "gold"
+        },
+        {
+          "text": "1988 summer",
+          "accent": "sage"
+        },
+        {
+          "text": "336 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 21
+    },
+    {
+      "id": "ol20154069w",
+      "title": "Song for the Unraveling of the World",
+      "author": "Brian Evenson",
+      "isbn": "9781566895484",
+      "cover": "c4",
+      "blurb": "A collection of eerie, unsettling stories in which reality slips and identity comes loose.",
+      "aside": "Each story is short enough to read before bed and unsettling enough that you will not sleep afterwards.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 240,
+      "tags": [
+        {
+          "text": "uncanny short stories",
+          "accent": "rose"
+        },
+        {
+          "text": "paranoid nightmares",
+          "accent": "gold"
+        },
+        {
+          "text": "bite-size dread",
+          "accent": "sage"
+        },
+        {
+          "text": "240 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror"
+      ],
+      "contentFlags": [],
+      "popularity": 20
+    },
+    {
+      "id": "ol20060415w",
+      "title": "Grief cottage",
+      "author": "Gail Godwin",
+      "isbn": "9781432838843",
+      "cover": "c5",
+      "blurb": "An orphaned boy on a South Carolina island grows fixated on a ruined cottage and its drowned ghost.",
+      "aside": "A quiet, melancholy ghost story for adults that cares more about grief than jump scares.",
+      "pace": "Slow burn",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 401,
+      "tags": [
+        {
+          "text": "ghost of a lost boy",
+          "accent": "rose"
+        },
+        {
+          "text": "island grief",
+          "accent": "gold"
+        },
+        {
+          "text": "reclusive great-aunt",
+          "accent": "sage"
+        },
+        {
+          "text": "401 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction",
+        "Horror"
+      ],
+      "contentFlags": [],
+      "popularity": 2
     }
   ]
 }
