@@ -1,5 +1,5 @@
 {
-  "version": 39,
+  "version": 40,
   "books": [
     {
       "id": "cerulean",
@@ -13982,6 +13982,410 @@
       ],
       "contentFlags": [],
       "popularity": 2
+    },
+    {
+      "id": "ol44997725w",
+      "title": "The Poison Daughter",
+      "author": "Sheila Masterson",
+      "isbn": "9781960416278",
+      "cover": "c1",
+      "blurb": "An assassin whose kiss kills meets the one man immune to it: the betrothed she was meant to murder.",
+      "aside": "A deadly heroine, an unkillable husband and a fortress full of vampires; subtle it is not, and that is the point.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Bring it on",
+      "spiceLevel": "Spicy",
+      "pageCount": 668,
+      "tags": [
+        {
+          "text": "poison kiss",
+          "accent": "rose"
+        },
+        {
+          "text": "marriage of convenience",
+          "accent": "gold"
+        },
+        {
+          "text": "vigilante assassin",
+          "accent": "sage"
+        },
+        {
+          "text": "668 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Romance",
+        "Fantasy"
+      ],
+      "contentFlags": [],
+      "popularity": 7
+    },
+    {
+      "id": "ol20744632w",
+      "title": "Mercies",
+      "author": "Kiran Millwood Hargrave",
+      "isbn": "9780316529259",
+      "cover": "c2",
+      "blurb": "After a storm drowns every man in a 1617 Arctic village, the women survive until a witch-hunter arrives.",
+      "aside": "Bleak, beautiful and simmering, the kind of slow tension that makes a cold coast feel claustrophobic.",
+      "pace": "Slow burn",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Fade to black",
+      "pageCount": 256,
+      "tags": [
+        {
+          "text": "witch trials",
+          "accent": "rose"
+        },
+        {
+          "text": "women alone",
+          "accent": "gold"
+        },
+        {
+          "text": "forbidden attraction",
+          "accent": "sage"
+        },
+        {
+          "text": "256 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction",
+        "Romance"
+      ],
+      "contentFlags": [],
+      "popularity": 26
+    },
+    {
+      "id": "ol20651916w",
+      "title": "The henna artist",
+      "author": "Alka Joshi",
+      "isbn": "9781432885069",
+      "cover": "c3",
+      "blurb": "A henna artist who fled a cruel marriage builds a life serving Jaipur's elite until her past arrives.",
+      "aside": "Gorgeous with detail and gossip, a pleasure to read with a cup of chai.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 376,
+      "tags": [
+        {
+          "text": "1950s jaipur",
+          "accent": "rose"
+        },
+        {
+          "text": "henna and secrets",
+          "accent": "gold"
+        },
+        {
+          "text": "self-made woman",
+          "accent": "sage"
+        },
+        {
+          "text": "376 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 85
+    },
+    {
+      "id": "ol17767855w",
+      "title": "The Wonder",
+      "author": "Emma Donoghue",
+      "isbn": "9781478911753",
+      "cover": "c4",
+      "blurb": "An English nurse is hired to watch an Irish girl who supposedly survives without food, and fears for her life.",
+      "aside": "A quietly ferocious novel about faith and stubbornness that you will finish with your heart in your throat.",
+      "pace": "Slow burn",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 304,
+      "tags": [
+        {
+          "text": "fasting miracle",
+          "accent": "rose"
+        },
+        {
+          "text": "nurse investigator",
+          "accent": "gold"
+        },
+        {
+          "text": "slow-motion danger",
+          "accent": "sage"
+        },
+        {
+          "text": "304 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 46
+    },
+    {
+      "id": "ol27172410w",
+      "title": "In Memoriam",
+      "author": "Alice Winn",
+      "isbn": "9780593467848",
+      "cover": "c5",
+      "blurb": "Two schoolboys secretly in love follow each other from an English boarding school into the trenches of World War I.",
+      "aside": "Heartbreaking, unexpectedly funny and very romantic; bring tissues and possibly a second box.",
+      "pace": "Steady",
+      "romanceLevel": "Bring it on",
+      "spiceLevel": "Open door",
+      "pageCount": 400,
+      "tags": [
+        {
+          "text": "wwi boarding school",
+          "accent": "rose"
+        },
+        {
+          "text": "queer love",
+          "accent": "gold"
+        },
+        {
+          "text": "trenches",
+          "accent": "sage"
+        },
+        {
+          "text": "400 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction",
+        "Romance"
+      ],
+      "contentFlags": [],
+      "popularity": 57
+    },
+    {
+      "id": "ol19729016w",
+      "title": "The Widows of Malabar Hill",
+      "author": "Sujata Massey",
+      "isbn": "9781616957780",
+      "cover": "c1",
+      "blurb": "One of India's first female lawyers investigates a murder in a secluded household of three widows.",
+      "aside": "A fresh golden-age mystery with a heroine who is underestimated by everyone for exactly as long as it takes.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 385,
+      "tags": [
+        {
+          "text": "1920s bombay",
+          "accent": "rose"
+        },
+        {
+          "text": "female lawyer",
+          "accent": "gold"
+        },
+        {
+          "text": "locked household",
+          "accent": "sage"
+        },
+        {
+          "text": "385 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 28
+    },
+    {
+      "id": "ol21195069w",
+      "title": "Warlight",
+      "author": "Michael Ondaatje",
+      "isbn": "9780525521198",
+      "cover": "c2",
+      "blurb": "Teenage siblings left in postwar London with shady guardians piece together what their mother was really doing.",
+      "aside": "Moody and elegant, like a spy novel told in the hush of memory.",
+      "pace": "Slow burn",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 304,
+      "tags": [
+        {
+          "text": "postwar london",
+          "accent": "rose"
+        },
+        {
+          "text": "mysterious guardians",
+          "accent": "gold"
+        },
+        {
+          "text": "secret histories",
+          "accent": "sage"
+        },
+        {
+          "text": "304 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction",
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 34
+    },
+    {
+      "id": "ol18013215w",
+      "title": "Manhattan Beach",
+      "author": "Jennifer Egan",
+      "isbn": "9781476716732",
+      "cover": "c3",
+      "blurb": "A young woman becomes the first female diver in wartime Brooklyn while uncovering why her father disappeared.",
+      "aside": "Jennifer Egan goes classical and lands it, with deep-sea suits and nightclub gangsters for good measure.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Fade to black",
+      "pageCount": 512,
+      "tags": [
+        {
+          "text": "first woman diver",
+          "accent": "rose"
+        },
+        {
+          "text": "brooklyn navy yard",
+          "accent": "gold"
+        },
+        {
+          "text": "gangster secrets",
+          "accent": "sage"
+        },
+        {
+          "text": "512 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction",
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 41
+    },
+    {
+      "id": "ol19723126w",
+      "title": "White chrysanthemum",
+      "author": "Mary Lynn Bracht",
+      "isbn": "9781784705459",
+      "cover": "c4",
+      "blurb": "Two Korean sisters are torn apart in World War II, and decades later one searches for the other.",
+      "aside": "Painful, important and deeply humane; it covers history that deserves far more readers.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 320,
+      "tags": [
+        {
+          "text": "sisters separated",
+          "accent": "rose"
+        },
+        {
+          "text": "korean history",
+          "accent": "gold"
+        },
+        {
+          "text": "survival and memory",
+          "accent": "sage"
+        },
+        {
+          "text": "320 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 13
+    },
+    {
+      "id": "ol25795997w",
+      "title": "Five Decembers",
+      "author": "James Kestrel",
+      "isbn": "9781789096118",
+      "cover": "c5",
+      "blurb": "A Honolulu detective chases a killer across the Pacific just as Japan attacks Pearl Harbor.",
+      "aside": "Noir with an epic sweep, and the kind of ending that makes you sit quietly for a minute.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Fade to black",
+      "pageCount": 432,
+      "tags": [
+        {
+          "text": "pearl harbor detective",
+          "accent": "rose"
+        },
+        {
+          "text": "cross-pacific chase",
+          "accent": "gold"
+        },
+        {
+          "text": "five-year odyssey",
+          "accent": "sage"
+        },
+        {
+          "text": "432 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 16
+    },
+    {
+      "id": "ol18147677w",
+      "title": "Beneath a Scarlet Sky",
+      "author": "Mark T. Sullivan",
+      "isbn": "9781503950085",
+      "cover": "c1",
+      "blurb": "An Italian teenager guides refugees over the Alps, then becomes a driver for a senior Nazi commander.",
+      "aside": "A big, cinematic wartime adventure inspired by a real life that sounds too dramatic to be true.",
+      "pace": "Fast-paced",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 576,
+      "tags": [
+        {
+          "text": "wartime italy",
+          "accent": "rose"
+        },
+        {
+          "text": "resistance courier",
+          "accent": "gold"
+        },
+        {
+          "text": "based on true story",
+          "accent": "sage"
+        },
+        {
+          "text": "576 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 119
     }
   ]
 }
