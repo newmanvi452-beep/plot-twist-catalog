@@ -1,5 +1,9 @@
 {
-  "version": 43,
+  "version": 44,
+  "retired": {
+    "ol19661009w": "tattooist",
+    "ol20742637w": "guestlist"
+  },
   "books": [
     {
       "id": "cerulean",
