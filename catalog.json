@@ -1,5 +1,5 @@
 {
-  "version": 42,
+  "version": 43,
   "books": [
     {
       "id": "cerulean",
@@ -5825,44 +5825,6 @@
       "popularity": 37
     },
     {
-      "id": "ol19661009w",
-      "title": "The Tattooist of Auschwitz: the heart-breaking and unforgettable international bestseller",
-      "author": "Heather Morris",
-      "isbn": "9781489421326",
-      "cover": "c1",
-      "blurb": "A Slovakian Jew tattooing prisoner numbers at Auschwitz falls in love with the woman he marks.",
-      "aside": "Based on a real survivor's testimony, and it never once lets you look away comfortably.",
-      "pace": "Steady",
-      "romanceLevel": "Bring it on",
-      "spiceLevel": "Fade to black",
-      "pageCount": 304,
-      "tags": [
-        {
-          "text": "holocaust survival",
-          "accent": "rose"
-        },
-        {
-          "text": "forbidden love",
-          "accent": "gold"
-        },
-        {
-          "text": "based on a true story",
-          "accent": "sage"
-        },
-        {
-          "text": "304 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "genres": [
-        "Historical Fiction"
-      ],
-      "contentFlags": [
-        "present tense"
-      ],
-      "popularity": 352
-    },
-    {
       "id": "ol20743965w",
       "title": "Hamnet",
       "author": "Maggie O'Farrell",
@@ -6441,44 +6403,6 @@
         "multiple POVs"
       ],
       "popularity": 219
-    },
-    {
-      "id": "ol20742637w",
-      "title": "Guest List",
-      "author": "Lucy Foley",
-      "isbn": "9781094156446",
-      "cover": "c2",
-      "blurb": "A glamorous island wedding turns deadly, and every guest is hiding something.",
-      "aside": "Christie's locked-room trick relocated to a wedding where the weather is also against you.",
-      "pace": "Steady",
-      "romanceLevel": "Not really my thing",
-      "spiceLevel": "Closed door",
-      "pageCount": 336,
-      "tags": [
-        {
-          "text": "wedding weekend",
-          "accent": "rose"
-        },
-        {
-          "text": "remote island",
-          "accent": "gold"
-        },
-        {
-          "text": "everyone has a motive",
-          "accent": "sage"
-        },
-        {
-          "text": "336 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "genres": [
-        "Mystery & Thriller"
-      ],
-      "contentFlags": [
-        "multiple POVs"
-      ],
-      "popularity": 402
     },
     {
       "id": "ol17762235w",
