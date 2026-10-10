@@ -1,5 +1,5 @@
 {
-  "version": 41,
+  "version": 42,
   "books": [
     {
       "id": "cerulean",
@@ -335,8 +335,8 @@
         "Fantasy"
       ],
       "contentFlags": [
-        "multiple POVs",
-        "cliffhangers for sequels"
+        "cliffhangers for sequels",
+        "multiple POVs"
       ],
       "popularity": 313
     },
@@ -1050,7 +1050,9 @@
       "pace": "Fast-paced",
       "romanceLevel": "Not really my thing",
       "spiceLevel": "Closed door",
-      "contentFlags": [],
+      "contentFlags": [
+        "present tense"
+      ],
       "pageCount": 496,
       "tags": [
         {
@@ -1418,7 +1420,9 @@
       "pace": "Steady",
       "romanceLevel": "Bring it on",
       "spiceLevel": "Fade to black",
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "pageCount": 400,
       "tags": [
         {
@@ -1768,7 +1772,9 @@
         "Mystery & Thriller",
         "Horror"
       ],
-      "contentFlags": []
+      "contentFlags": [
+        "multiple POVs"
+      ]
     },
     {
       "id": "darkmatter",
@@ -1801,7 +1807,9 @@
         "Science Fiction",
         "Mystery & Thriller"
       ],
-      "contentFlags": []
+      "contentFlags": [
+        "present tense"
+      ]
     },
     {
       "id": "uprooted",
@@ -1874,7 +1882,10 @@
         "Fantasy",
         "Historical Fiction"
       ],
-      "contentFlags": []
+      "contentFlags": [
+        "multiple POVs",
+        "present tense"
+      ]
     },
     {
       "id": "cityofbrass",
@@ -1911,7 +1922,9 @@
         "Fantasy",
         "Historical Fiction"
       ],
-      "contentFlags": []
+      "contentFlags": [
+        "multiple POVs"
+      ]
     },
     {
       "id": "pachinko",
@@ -1944,7 +1957,9 @@
         "Historical Fiction",
         "Literary Fiction"
       ],
-      "contentFlags": []
+      "contentFlags": [
+        "multiple POVs"
+      ]
     },
     {
       "id": "homegoing",
@@ -1977,7 +1992,9 @@
         "Historical Fiction",
         "Literary Fiction"
       ],
-      "contentFlags": []
+      "contentFlags": [
+        "multiple POVs"
+      ]
     },
     {
       "id": "gentlemanmoscow",
@@ -2080,7 +2097,9 @@
         "Historical Fiction",
         "Literary Fiction"
       ],
-      "contentFlags": []
+      "contentFlags": [
+        "multiple POVs"
+      ]
     },
     {
       "id": "sympathizer",
@@ -2186,7 +2205,9 @@
       "genres": [
         "Historical Fiction"
       ],
-      "contentFlags": []
+      "contentFlags": [
+        "present tense"
+      ]
     },
     {
       "id": "daisyjones",
@@ -2223,7 +2244,9 @@
         "Contemporary",
         "Literary Fiction"
       ],
-      "contentFlags": []
+      "contentFlags": [
+        "multiple POVs"
+      ]
     },
     {
       "id": "crawdads",
@@ -2297,7 +2320,9 @@
         "Romance",
         "Contemporary"
       ],
-      "contentFlags": []
+      "contentFlags": [
+        "multiple POVs"
+      ]
     },
     {
       "id": "lightsout",
@@ -2722,7 +2747,9 @@
         "Science Fiction",
         "Literary Fiction"
       ],
-      "contentFlags": []
+      "contentFlags": [
+        "multiple POVs"
+      ]
     },
     {
       "id": "ol20448973w",
@@ -2939,7 +2966,9 @@
         "Science Fiction",
         "Mystery & Thriller"
       ],
-      "contentFlags": []
+      "contentFlags": [
+        "multiple POVs"
+      ]
     },
     {
       "id": "ol17762236w",
@@ -3086,7 +3115,9 @@
         "Fantasy",
         "Romance"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "cliffhangers for sequels"
+      ],
       "popularity": 191
     },
     {
@@ -3160,7 +3191,9 @@
         "Horror",
         "Science Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 443
     },
     {
@@ -3196,7 +3229,9 @@
       "genres": [
         "Horror"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 167
     },
     {
@@ -3233,7 +3268,10 @@
         "Horror",
         "Fantasy"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "cliffhangers for sequels",
+        "multiple POVs"
+      ],
       "popularity": 340
     },
     {
@@ -3270,7 +3308,9 @@
         "Horror",
         "Historical Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 38
     },
     {
@@ -3307,7 +3347,9 @@
         "Horror",
         "Fantasy"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 49
     },
     {
@@ -3675,7 +3717,9 @@
         "Romance",
         "Contemporary"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 1383
     },
     {
@@ -3861,7 +3905,9 @@
         "Science Fiction"
       ],
       "contentFlags": [
-        "multiple POVs"
+        "second person",
+        "multiple POVs",
+        "present tense"
       ],
       "popularity": 274
     },
@@ -3934,7 +3980,9 @@
       "genres": [
         "Fantasy"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 362
     },
     {
@@ -4118,7 +4166,9 @@
         "Science Fiction",
         "Mystery & Thriller"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 102
     },
     {
@@ -4155,7 +4205,9 @@
         "Mystery & Thriller",
         "Historical Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 45
     },
     {
@@ -4264,7 +4316,9 @@
         "Historical Fiction",
         "Romance"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 14
     },
     {
@@ -4454,7 +4508,9 @@
         "Fantasy",
         "Mystery & Thriller"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 62
     },
     {
@@ -4491,7 +4547,9 @@
         "Horror",
         "Literary Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 38
     },
     {
@@ -5077,7 +5135,9 @@
         "Romance",
         "Contemporary"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 9928
     },
     {
@@ -5265,7 +5325,9 @@
         "Romance",
         "Contemporary"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 18
     },
     {
@@ -5455,7 +5517,8 @@
         "Romance"
       ],
       "contentFlags": [
-        "multiple POVs"
+        "multiple POVs",
+        "present tense"
       ],
       "popularity": 482
     },
@@ -5531,7 +5594,8 @@
         "Science Fiction"
       ],
       "contentFlags": [
-        "cliffhangers for sequels"
+        "cliffhangers for sequels",
+        "multiple POVs"
       ],
       "popularity": 132
     },
@@ -5679,7 +5743,9 @@
         "Horror",
         "Science Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 30
     },
     {
@@ -5791,7 +5857,9 @@
       "genres": [
         "Historical Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "present tense"
+      ],
       "popularity": 352
     },
     {
@@ -5828,7 +5896,10 @@
         "Historical Fiction",
         "Literary Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs",
+        "present tense"
+      ],
       "popularity": 180
     },
     {
@@ -5904,7 +5975,9 @@
         "Historical Fiction",
         "Mystery & Thriller"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 57
     },
     {
@@ -6134,7 +6207,9 @@
         "Historical Fiction",
         "Literary Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 101
     },
     {
@@ -6171,7 +6246,10 @@
         "Fantasy",
         "Romance"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "cliffhangers for sequels",
+        "multiple POVs"
+      ],
       "popularity": 2956
     },
     {
@@ -6208,7 +6286,9 @@
         "Fantasy",
         "Historical Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 124
     },
     {
@@ -6317,7 +6397,10 @@
       "genres": [
         "Mystery & Thriller"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs",
+        "present tense"
+      ],
       "popularity": 288
     },
     {
@@ -6654,7 +6737,9 @@
         "Romance",
         "Mystery & Thriller"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "cliffhangers for sequels"
+      ],
       "popularity": 357
     },
     {
@@ -6728,7 +6813,9 @@
         "Horror",
         "Historical Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 62
     },
     {
@@ -6765,7 +6852,9 @@
         "Horror",
         "Historical Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 41
     },
     {
@@ -6876,7 +6965,9 @@
         "Mystery & Thriller",
         "Contemporary"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 12
     },
     {
@@ -7611,7 +7702,9 @@
       "genres": [
         "Fantasy"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 304
     },
     {
@@ -7649,7 +7742,9 @@
         "Romance",
         "Historical Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 52
     },
     {
@@ -7877,7 +7972,9 @@
         "Romance",
         "Historical Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "second person"
+      ],
       "popularity": 67
     },
     {
@@ -7954,7 +8051,9 @@
         "Horror",
         "Mystery & Thriller"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 21
     },
     {
@@ -8068,7 +8167,9 @@
         "Horror",
         "Historical Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 6
     },
     {
@@ -8143,7 +8244,8 @@
         "Mystery & Thriller"
       ],
       "contentFlags": [
-        "multiple POVs"
+        "multiple POVs",
+        "present tense"
       ],
       "popularity": 327
     },
@@ -8181,7 +8283,9 @@
         "Science Fiction",
         "Fantasy"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 98
     },
     {
@@ -8254,7 +8358,9 @@
       "genres": [
         "Science Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 1
     },
     {
@@ -8475,7 +8581,9 @@
         "Romance",
         "Contemporary"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 50
     },
     {
@@ -8512,7 +8620,9 @@
         "Romance",
         "Contemporary"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 173
     },
     {
@@ -8622,7 +8732,9 @@
         "Romance",
         "Mystery & Thriller"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 855
     },
     {
@@ -8735,7 +8847,9 @@
         "Fantasy",
         "Romance"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 57
     },
     {
@@ -8772,7 +8886,9 @@
         "Fantasy",
         "Romance"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 24
     },
     {
@@ -9321,7 +9437,9 @@
         "Science Fiction",
         "Literary Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 16
     },
     {
@@ -9395,7 +9513,9 @@
       "genres": [
         "Science Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 10
     },
     {
@@ -9547,7 +9667,9 @@
         "Fantasy",
         "Horror"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 71
     },
     {
@@ -9585,6 +9707,7 @@
         "Literary Fiction"
       ],
       "contentFlags": [
+        "cliffhangers for sequels",
         "multiple POVs"
       ],
       "popularity": 67
@@ -9888,7 +10011,9 @@
       "genres": [
         "Historical Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 30
     },
     {
@@ -9924,7 +10049,9 @@
       "genres": [
         "Historical Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 2
     },
     {
@@ -9961,7 +10088,9 @@
         "Historical Fiction",
         "Romance"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 7
     },
     {
@@ -10144,7 +10273,9 @@
         "Contemporary",
         "Mystery & Thriller"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 324
     },
     {
@@ -10181,7 +10312,9 @@
         "Contemporary",
         "Mystery & Thriller"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 54
     },
     {
@@ -10218,7 +10351,9 @@
         "Contemporary",
         "Mystery & Thriller"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "second person"
+      ],
       "popularity": 132
     },
     {
@@ -10255,7 +10390,9 @@
         "Contemporary",
         "Literary Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 32
     },
     {
@@ -10292,7 +10429,9 @@
         "Contemporary",
         "Mystery & Thriller"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 39
     },
     {
@@ -10366,7 +10505,9 @@
         "Contemporary",
         "Mystery & Thriller"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 87
     },
     {
@@ -10477,7 +10618,10 @@
         "Contemporary",
         "Mystery & Thriller"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs",
+        "present tense"
+      ],
       "popularity": 53
     },
     {
@@ -10588,7 +10732,9 @@
         "Horror",
         "Science Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 58
     },
     {
@@ -10625,7 +10771,9 @@
         "Horror",
         "Mystery & Thriller"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 35
     },
     {
@@ -10662,7 +10810,9 @@
         "Horror",
         "Science Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 66
     },
     {
@@ -11397,7 +11547,9 @@
         "Historical Fiction",
         "Mystery & Thriller"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 27
     },
     {
@@ -11512,7 +11664,9 @@
         "Historical Fiction",
         "Mystery & Thriller"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 15
     },
     {
@@ -11694,7 +11848,9 @@
         "Mystery & Thriller",
         "Horror"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 103
     },
     {
@@ -11843,7 +11999,9 @@
         "Science Fiction",
         "Romance"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 17
     },
     {
@@ -11916,7 +12074,9 @@
         "Science Fiction",
         "Mystery & Thriller"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 8
     },
     {
@@ -11952,7 +12112,9 @@
       "genres": [
         "Science Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 18
     },
     {
@@ -11988,7 +12150,9 @@
       "genres": [
         "Science Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 34
     },
     {
@@ -12099,7 +12263,9 @@
       "genres": [
         "Science Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 116
     },
     {
@@ -12173,7 +12339,9 @@
         "Literary Fiction",
         "Science Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 90
     },
     {
@@ -12209,7 +12377,9 @@
       "genres": [
         "Fantasy"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 77
     },
     {
@@ -12246,7 +12416,9 @@
         "Fantasy",
         "Historical Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 160
     },
     {
@@ -12320,7 +12492,9 @@
         "Fantasy",
         "Romance"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "cliffhangers for sequels"
+      ],
       "popularity": 83
     },
     {
@@ -12356,7 +12530,9 @@
       "genres": [
         "Fantasy"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 30
     },
     {
@@ -12393,7 +12569,9 @@
         "Fantasy",
         "Historical Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 40
     },
     {
@@ -12506,7 +12684,9 @@
         "Romance",
         "Contemporary"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 222
     },
     {
@@ -12580,7 +12760,9 @@
         "Romance",
         "Contemporary"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 26
     },
     {
@@ -12691,7 +12873,9 @@
         "Romance",
         "Contemporary"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 14
     },
     {
@@ -12728,7 +12912,9 @@
         "Contemporary",
         "Mystery & Thriller"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "present tense"
+      ],
       "popularity": 243
     },
     {
@@ -12765,7 +12951,9 @@
         "Contemporary",
         "Science Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "cliffhangers for sequels"
+      ],
       "popularity": 71
     },
     {
@@ -12839,7 +13027,9 @@
         "Contemporary",
         "Mystery & Thriller"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 10
     },
     {
@@ -12950,7 +13140,9 @@
         "Contemporary",
         "Mystery & Thriller"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 38
     },
     {
@@ -13024,7 +13216,9 @@
         "Contemporary",
         "Mystery & Thriller"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 13
     },
     {
@@ -13641,7 +13835,9 @@
         "Romance",
         "Fantasy"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 49
     },
     {
@@ -13719,7 +13915,9 @@
         "Romance",
         "Literary Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 79
     },
     {
@@ -13831,7 +14029,9 @@
         "Mystery & Thriller",
         "Literary Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "present tense"
+      ],
       "popularity": 338
     },
     {
@@ -14054,7 +14254,9 @@
         "Historical Fiction",
         "Romance"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 26
     },
     {
@@ -14164,7 +14366,9 @@
         "Historical Fiction",
         "Romance"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 57
     },
     {
@@ -14275,7 +14479,9 @@
         "Historical Fiction",
         "Literary Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 41
     },
     {
@@ -14311,7 +14517,9 @@
       "genres": [
         "Historical Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 13
     },
     {
@@ -14495,7 +14703,9 @@
       "genres": [
         "Science Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 6
     },
     {
@@ -14793,7 +15003,9 @@
         "Science Fiction",
         "Contemporary"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "talking animals"
+      ],
       "popularity": 4
     },
     {
@@ -14830,7 +15042,9 @@
         "Science Fiction",
         "Literary Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 9
     },
     {
@@ -14941,7 +15155,9 @@
         "Romance",
         "Fantasy"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 428
     },
     {
@@ -15017,7 +15233,9 @@
         "Fantasy",
         "Literary Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 25
     },
     {
@@ -15128,7 +15346,9 @@
         "Fantasy",
         "Historical Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 43
     },
     {
@@ -15391,7 +15611,9 @@
         "Literary Fiction",
         "Fantasy"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 19
     },
     {
@@ -15647,7 +15869,9 @@
         "Romance",
         "Contemporary"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 228
     },
     {
@@ -15684,7 +15908,9 @@
         "Romance",
         "Contemporary"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 6
     },
     {
@@ -15720,7 +15946,9 @@
       "genres": [
         "Romance"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 16
     },
     {
@@ -15757,7 +15985,9 @@
         "Mystery & Thriller",
         "Romance"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 5266
     },
     {
@@ -15794,7 +16024,9 @@
         "Historical Fiction",
         "Romance"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 14
     },
     {
@@ -16339,7 +16571,9 @@
         "Mystery & Thriller",
         "Contemporary"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 7
     },
     {
@@ -16375,7 +16609,9 @@
       "genres": [
         "Contemporary"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 5
     },
     {
@@ -16599,7 +16835,10 @@
         "Literary Fiction",
         "Contemporary"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "second person",
+        "present tense"
+      ],
       "popularity": 27
     },
     {
@@ -16784,7 +17023,9 @@
       "genres": [
         "Literary Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "second person"
+      ],
       "popularity": 524
     },
     {
@@ -16859,7 +17100,9 @@
       "genres": [
         "Literary Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 49
     },
     {
@@ -17155,7 +17398,9 @@
         "Literary Fiction",
         "Contemporary"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 387
     },
     {
@@ -17192,6 +17437,7 @@
         "Literary Fiction"
       ],
       "contentFlags": [
+        "love triangles",
         "multiple POVs"
       ],
       "popularity": 115
@@ -17230,7 +17476,9 @@
         "Mystery & Thriller",
         "Horror"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 108
     },
     {
@@ -17524,7 +17772,9 @@
       "genres": [
         "Mystery & Thriller"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 23
     },
     {
@@ -17561,7 +17811,9 @@
         "Mystery & Thriller",
         "Historical Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 40
     },
     {
@@ -17671,7 +17923,9 @@
       "genres": [
         "Mystery & Thriller"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 80
     },
     {
@@ -18050,7 +18304,9 @@
         "Historical Fiction",
         "Literary Fiction"
       ],
-      "contentFlags": [],
+      "contentFlags": [
+        "multiple POVs"
+      ],
       "popularity": 20
     },
     {
