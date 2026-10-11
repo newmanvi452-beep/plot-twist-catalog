@@ -1,5 +1,5 @@
 {
-  "version": 44,
+  "version": 45,
   "retired": {
     "ol19661009w": "tattooist",
     "ol20742637w": "guestlist"
@@ -18274,6 +18274,862 @@
       ],
       "contentFlags": [],
       "popularity": 16
+    },
+    {
+      "id": "ol24207665w",
+      "title": "The Final Girl Support Group",
+      "author": "Grady Hendrix",
+      "isbn": "9780593201237",
+      "cover": "c1",
+      "blurb": "Six women who survived real-life massacres meet in group therapy, until someone starts killing them off.",
+      "aside": "A love letter to eighties slasher films, told by a heroine whose paranoia is entirely justified.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 352,
+      "tags": [
+        {
+          "text": "slasher survivors",
+          "accent": "rose"
+        },
+        {
+          "text": "group therapy",
+          "accent": "gold"
+        },
+        {
+          "text": "someone is hunting",
+          "accent": "sage"
+        },
+        {
+          "text": "352 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 135
+    },
+    {
+      "id": "ol24486794w",
+      "title": "This Thing Between Us",
+      "author": "Gus Moreno",
+      "isbn": "9780374539238",
+      "cover": "c2",
+      "blurb": "After his wife dies, a widower writes to her as their smart home speaker turns into something malevolent.",
+      "aside": "Grief horror for the Alexa age; you may want to unplug something before bed.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 272,
+      "tags": [
+        {
+          "text": "grieving widower",
+          "accent": "rose"
+        },
+        {
+          "text": "haunted smart speaker",
+          "accent": "gold"
+        },
+        {
+          "text": "cosmic dread",
+          "accent": "sage"
+        },
+        {
+          "text": "272 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror"
+      ],
+      "contentFlags": [
+        "second person"
+      ],
+      "popularity": 55
+    },
+    {
+      "id": "ol34250491w",
+      "title": "Never Whistle at Night",
+      "author": "Shane Hawk",
+      "isbn": "9780593468470",
+      "cover": "c3",
+      "blurb": "An anthology of dark, unsettling stories by Indigenous writers, from folklore horror to modern nightmares.",
+      "aside": "A superb sampler of voices; every story is a reason never to whistle after dark again.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 444,
+      "tags": [
+        {
+          "text": "indigenous horror",
+          "accent": "rose"
+        },
+        {
+          "text": "dark anthology",
+          "accent": "gold"
+        },
+        {
+          "text": "folklore and revenge",
+          "accent": "sage"
+        },
+        {
+          "text": "444 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror"
+      ],
+      "contentFlags": [],
+      "popularity": 63
+    },
+    {
+      "id": "ol20039652w",
+      "title": "Certain Dark Things",
+      "author": "Silvia Moreno-Garcia",
+      "isbn": "9781529415612",
+      "cover": "c4",
+      "blurb": "A vampire on the run from a rival clan hides out in Mexico City with a lonely teenage garbage collector.",
+      "aside": "Vampire noir with real bite, and the street kid sidekick steals every scene.",
+      "pace": "Fast-paced",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Fade to black",
+      "pageCount": 322,
+      "tags": [
+        {
+          "text": "mexico city vampires",
+          "accent": "rose"
+        },
+        {
+          "text": "teen street kid",
+          "accent": "gold"
+        },
+        {
+          "text": "narco vampire war",
+          "accent": "sage"
+        },
+        {
+          "text": "322 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Fantasy"
+      ],
+      "contentFlags": [
+        "multiple POVs"
+      ],
+      "popularity": 42
+    },
+    {
+      "id": "ol21195783w",
+      "title": "Little Darlings",
+      "author": "Melanie Golding",
+      "isbn": "9781982628741",
+      "cover": "c5",
+      "blurb": "A new mother becomes convinced her twin babies have been swapped for something else.",
+      "aside": "A changeling story told as a psychological thriller; you will side-eye every pram for a week.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 336,
+      "tags": [
+        {
+          "text": "changeling twins",
+          "accent": "rose"
+        },
+        {
+          "text": "postpartum fear",
+          "accent": "gold"
+        },
+        {
+          "text": "folklore thriller",
+          "accent": "sage"
+        },
+        {
+          "text": "336 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [
+        "multiple POVs"
+      ],
+      "popularity": 5
+    },
+    {
+      "id": "ol24212743w",
+      "title": "Mrs. March",
+      "author": "Virginia Feito",
+      "isbn": "9781324090922",
+      "cover": "c1",
+      "blurb": "A novelist's wife suspects that the repulsive heroine of her husband's latest book is based on her.",
+      "aside": "Deliciously unsettling, like Shirley Jackson visiting a Manhattan apartment full of fine china.",
+      "pace": "Slow burn",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 328,
+      "tags": [
+        {
+          "text": "unravelling wife",
+          "accent": "rose"
+        },
+        {
+          "text": "upper east side",
+          "accent": "gold"
+        },
+        {
+          "text": "paranoid spiral",
+          "accent": "sage"
+        },
+        {
+          "text": "328 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 16
+    },
+    {
+      "id": "ol19737680w",
+      "title": "The Merry Spinster",
+      "author": "Daniel M. Lavery",
+      "isbn": "9781250113429",
+      "cover": "c2",
+      "blurb": "Classic fairy tales and children's stories retold as small, darkly funny horrors.",
+      "aside": "Bedtime stories for adults who never trusted the Velveteen Rabbit.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 190,
+      "tags": [
+        {
+          "text": "twisted fairy tales",
+          "accent": "rose"
+        },
+        {
+          "text": "dark comedy",
+          "accent": "gold"
+        },
+        {
+          "text": "short stories",
+          "accent": "sage"
+        },
+        {
+          "text": "190 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Fantasy"
+      ],
+      "contentFlags": [],
+      "popularity": 5
+    },
+    {
+      "id": "ol28520883w",
+      "title": "The Serpent & the Wings of Night",
+      "author": "Carissa Broadbent",
+      "isbn": "9781035040940",
+      "cover": "c3",
+      "blurb": "The human daughter of a vampire king enters a deadly tournament and allies with a dangerous rival.",
+      "aside": "A romantasy built on blood, betrayal and simmering tension, so pack snacks for the tournament.",
+      "pace": "Steady",
+      "romanceLevel": "Bring it on",
+      "spiceLevel": "Open door",
+      "pageCount": 499,
+      "tags": [
+        {
+          "text": "vampire tournament",
+          "accent": "rose"
+        },
+        {
+          "text": "human princess",
+          "accent": "gold"
+        },
+        {
+          "text": "enemies to allies",
+          "accent": "sage"
+        },
+        {
+          "text": "499 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Romance",
+        "Fantasy"
+      ],
+      "contentFlags": [],
+      "popularity": 314
+    },
+    {
+      "id": "ol20051857w",
+      "title": "The mathematics of love",
+      "author": "Hannah Fry",
+      "isbn": "9781442381612",
+      "cover": "c4",
+      "blurb": "A mathematician applies equations and statistics to dating, desire and finding a partner.",
+      "aside": "Short, witty and practical, plus permission to apply the 37% rule to your love life.",
+      "pace": "Fast-paced",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 120,
+      "tags": [
+        {
+          "text": "science of dating",
+          "accent": "rose"
+        },
+        {
+          "text": "pocket-sized",
+          "accent": "gold"
+        },
+        {
+          "text": "numbers and romance",
+          "accent": "sage"
+        },
+        {
+          "text": "120 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction",
+        "Romance"
+      ],
+      "contentFlags": [],
+      "popularity": 9
+    },
+    {
+      "id": "ol20859335w",
+      "title": "How to Date Men When You Hate Men",
+      "author": "Blythe Roberson",
+      "isbn": "9781250193421",
+      "cover": "c5",
+      "blurb": "A comedian interrogates what it means to date men while being deeply suspicious of them.",
+      "aside": "Funny, self-aware and a little furious; best read aloud to friends over wine.",
+      "pace": "Fast-paced",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Fade to black",
+      "pageCount": 288,
+      "tags": [
+        {
+          "text": "comedy essays",
+          "accent": "rose"
+        },
+        {
+          "text": "modern dating",
+          "accent": "gold"
+        },
+        {
+          "text": "feminist humour",
+          "accent": "sage"
+        },
+        {
+          "text": "288 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction",
+        "Romance"
+      ],
+      "contentFlags": [],
+      "popularity": 106
+    },
+    {
+      "id": "ol17916737w",
+      "title": "Sarong party girls",
+      "author": "Cheryl Lu-lien Tan",
+      "isbn": "9780062499394",
+      "cover": "c1",
+      "blurb": "A Singaporean party girl sets out to land a wealthy expat husband before turning twenty-seven.",
+      "aside": "A brash, funny satire of status and romance, narrated in glorious Singlish.",
+      "pace": "Fast-paced",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Fade to black",
+      "pageCount": 308,
+      "tags": [
+        {
+          "text": "singapore social climbing",
+          "accent": "rose"
+        },
+        {
+          "text": "husband hunt",
+          "accent": "gold"
+        },
+        {
+          "text": "singlish voice",
+          "accent": "sage"
+        },
+        {
+          "text": "308 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Contemporary",
+        "Romance"
+      ],
+      "contentFlags": [],
+      "popularity": 3
+    },
+    {
+      "id": "ol20146078w",
+      "title": "The Gown",
+      "author": "Jennifer Robson",
+      "isbn": "9781982552886",
+      "cover": "c2",
+      "blurb": "Two embroiderers who worked on Princess Elizabeth's wedding gown, and a granddaughter uncovering their story.",
+      "aside": "Pure comfort for anyone who has ever binged The Crown and wanted more needlework.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 416,
+      "tags": [
+        {
+          "text": "royal wedding dress",
+          "accent": "rose"
+        },
+        {
+          "text": "embroiderers",
+          "accent": "gold"
+        },
+        {
+          "text": "dual timeline",
+          "accent": "sage"
+        },
+        {
+          "text": "416 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction",
+        "Romance"
+      ],
+      "contentFlags": [
+        "multiple POVs"
+      ],
+      "popularity": 11
+    },
+    {
+      "id": "ol20749104w",
+      "title": "The City in the Middle of the Night",
+      "author": "Charlie Jane Anders",
+      "isbn": "9781466871137",
+      "cover": "c3",
+      "blurb": "On a planet with one side always frozen and one always burning, an outcast forms a bond with alien creatures.",
+      "aside": "Gorgeous, melancholic and strange; a love letter to the misunderstood.",
+      "pace": "Slow burn",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 368,
+      "tags": [
+        {
+          "text": "tidally locked planet",
+          "accent": "rose"
+        },
+        {
+          "text": "alien friendship",
+          "accent": "gold"
+        },
+        {
+          "text": "revolution",
+          "accent": "sage"
+        },
+        {
+          "text": "368 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction"
+      ],
+      "contentFlags": [
+        "multiple POVs"
+      ],
+      "popularity": 41
+    },
+    {
+      "id": "ol20083449w",
+      "title": "Hollow Kingdom",
+      "author": "Kira Jane Buxton",
+      "isbn": "9781549182099",
+      "cover": "c4",
+      "blurb": "A pet crow named S.T. sets out to save the animals of Seattle after humans start turning feral.",
+      "aside": "The zombie apocalypse narrated by a foul-mouthed crow who loves junk food, and it is wonderful.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 320,
+      "tags": [
+        {
+          "text": "crow narrator",
+          "accent": "rose"
+        },
+        {
+          "text": "zombie apocalypse",
+          "accent": "gold"
+        },
+        {
+          "text": "cheetos addict",
+          "accent": "sage"
+        },
+        {
+          "text": "320 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction",
+        "Horror"
+      ],
+      "contentFlags": [
+        "talking animals",
+        "multiple POVs"
+      ],
+      "popularity": 30
+    },
+    {
+      "id": "ol20152131w",
+      "title": "Infinite Detail",
+      "author": "Tim Maughan",
+      "isbn": "9780374718602",
+      "cover": "c5",
+      "blurb": "In Bristol, a digital no-surveillance zone helps bring down the internet, with unforeseen consequences.",
+      "aside": "A cyberpunk warning shot that feels unnervingly close to tomorrow.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 384,
+      "tags": [
+        {
+          "text": "internet shutdown",
+          "accent": "rose"
+        },
+        {
+          "text": "bristol activists",
+          "accent": "gold"
+        },
+        {
+          "text": "before and after",
+          "accent": "sage"
+        },
+        {
+          "text": "384 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction"
+      ],
+      "contentFlags": [
+        "multiple POVs"
+      ],
+      "popularity": 25
+    },
+    {
+      "id": "ol19763347w",
+      "title": "Rosewater",
+      "author": "Tade Thompson",
+      "isbn": "9780356511368",
+      "cover": "c1",
+      "blurb": "A psychic government agent investigates strange deaths around an alien dome in Nigeria.",
+      "aside": "Smart, gritty first-contact fiction with an anti-hero who would rather not be bothered.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Fade to black",
+      "pageCount": 384,
+      "tags": [
+        {
+          "text": "alien biodome",
+          "accent": "rose"
+        },
+        {
+          "text": "psychic agent",
+          "accent": "gold"
+        },
+        {
+          "text": "nigerian sci-fi",
+          "accent": "sage"
+        },
+        {
+          "text": "384 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 44
+    },
+    {
+      "id": "ol21177578w",
+      "title": "The Arrest",
+      "author": "Jonathan Lethem",
+      "isbn": "9780062938787",
+      "cover": "c2",
+      "blurb": "After technology stops working, a screenwriter on a Maine farm is visited by his toxic former collaborator.",
+      "aside": "A wry, small-scale apocalypse that is more about friendship than tanks.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 296,
+      "tags": [
+        {
+          "text": "post-tech collapse",
+          "accent": "rose"
+        },
+        {
+          "text": "maine farm commune",
+          "accent": "gold"
+        },
+        {
+          "text": "old rivals",
+          "accent": "sage"
+        },
+        {
+          "text": "296 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction",
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 8
+    },
+    {
+      "id": "ol20132845w",
+      "title": "The Girl in Red",
+      "author": "Christina Henry",
+      "isbn": "9780451492289",
+      "cover": "c3",
+      "blurb": "A woman with a prosthetic leg treks through plague-ravaged woods to reach her grandmother's house.",
+      "aside": "Little Red Riding Hood with an axe, a backpack and absolutely no patience for nonsense.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 312,
+      "tags": [
+        {
+          "text": "red riding hood",
+          "accent": "rose"
+        },
+        {
+          "text": "pandemic woods",
+          "accent": "gold"
+        },
+        {
+          "text": "survival trek",
+          "accent": "sage"
+        },
+        {
+          "text": "312 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Science Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 25
+    },
+    {
+      "id": "ol20092649w",
+      "title": "Because Internet",
+      "author": "Gretchen McCulloch",
+      "isbn": "9780735210936",
+      "cover": "c4",
+      "blurb": "A linguist explains how the internet is changing the English language, from emoji to lowercase.",
+      "aside": "Explains why your mother's texts feel passive-aggressive, which is worth the price alone.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 336,
+      "tags": [
+        {
+          "text": "internet language",
+          "accent": "rose"
+        },
+        {
+          "text": "emoji linguistics",
+          "accent": "gold"
+        },
+        {
+          "text": "how we write now",
+          "accent": "sage"
+        },
+        {
+          "text": "336 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 101
+    },
+    {
+      "id": "ol17312335w",
+      "title": "So You've Been Publicly Shamed",
+      "author": "Jon Ronson",
+      "isbn": "9780330492294",
+      "cover": "c5",
+      "blurb": "Jon Ronson meets people whose lives were destroyed by public shaming and asks how it happened.",
+      "aside": "Will make you think twice before joining your next online pile-on.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 305,
+      "tags": [
+        {
+          "text": "internet pile-ons",
+          "accent": "rose"
+        },
+        {
+          "text": "public shaming",
+          "accent": "gold"
+        },
+        {
+          "text": "human stories",
+          "accent": "sage"
+        },
+        {
+          "text": "305 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 106
+    },
+    {
+      "id": "ol17715915w",
+      "title": "A Brief History of Everyone Who Ever Lived",
+      "author": "Adam Rutherford",
+      "isbn": "9780297609377",
+      "cover": "c1",
+      "blurb": "A geneticist explains what our DNA reveals about human history, migration and identity.",
+      "aside": "Fun, myth-busting genetics that will ruin your family's ancestry test at dinner.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 377,
+      "tags": [
+        {
+          "text": "dna stories",
+          "accent": "rose"
+        },
+        {
+          "text": "human ancestry",
+          "accent": "gold"
+        },
+        {
+          "text": "genetics myths",
+          "accent": "sage"
+        },
+        {
+          "text": "377 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 56
+    },
+    {
+      "id": "ol21181790w",
+      "title": "The End of Everything (Astrophysically Speaking)",
+      "author": "Katie Mack",
+      "isbn": "9781982103552",
+      "cover": "c2",
+      "blurb": "An astrophysicist explains the five ways the universe could end, with surprising cheerfulness.",
+      "aside": "The most delightful book about total annihilation you will ever read.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 240,
+      "tags": [
+        {
+          "text": "cosmic endings",
+          "accent": "rose"
+        },
+        {
+          "text": "big crunch",
+          "accent": "gold"
+        },
+        {
+          "text": "witty physics",
+          "accent": "sage"
+        },
+        {
+          "text": "240 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 84
+    },
+    {
+      "id": "ol20163365w",
+      "title": "Burnout",
+      "author": "Emily Nagoski",
+      "isbn": "9781984818324",
+      "cover": "c3",
+      "blurb": "Twin sisters explain why women experience burnout differently and how to break the stress cycle.",
+      "aside": "Practical and validating; you may feel seen to an alarming degree.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 304,
+      "tags": [
+        {
+          "text": "stress science",
+          "accent": "rose"
+        },
+        {
+          "text": "women's wellbeing",
+          "accent": "gold"
+        },
+        {
+          "text": "emotional exhaustion",
+          "accent": "sage"
+        },
+        {
+          "text": "304 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 131
     }
   ]
 }
