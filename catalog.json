@@ -1,5 +1,5 @@
 {
-  "version": 46,
+  "version": 47,
   "retired": {
     "ol19661009w": "tattooist",
     "ol20742637w": "guestlist"
@@ -20994,6 +20994,402 @@
       ],
       "contentFlags": [],
       "popularity": 33
+    },
+    {
+      "id": "ol17883071w",
+      "title": "Grant",
+      "author": "Ron Chernow",
+      "isbn": "9780525498650",
+      "cover": "c3",
+      "blurb": "The full life of Ulysses S. Grant, from failed farmer to Union general to embattled president.",
+      "aside": "Eleven hundred pages, and somehow you'll still want more of the man everyone underestimated.",
+      "pace": "Slow burn",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 1104,
+      "tags": [
+        {
+          "text": "presidential biography",
+          "accent": "rose"
+        },
+        {
+          "text": "civil war",
+          "accent": "gold"
+        },
+        {
+          "text": "doorstopper",
+          "accent": "sage"
+        },
+        {
+          "text": "1104 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 80
+    },
+    {
+      "id": "ol20726133w",
+      "title": "Humankind",
+      "author": "Rutger Bregman",
+      "isbn": "9781549159862",
+      "cover": "c4",
+      "blurb": "A historian argues, case by case, that people are fundamentally decent rather than selfish brutes.",
+      "aside": "The rare big-idea book that leaves you liking your neighbours more than when you started.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 480,
+      "tags": [
+        {
+          "text": "hopeful history",
+          "accent": "rose"
+        },
+        {
+          "text": "human nature",
+          "accent": "gold"
+        },
+        {
+          "text": "myth-busting",
+          "accent": "sage"
+        },
+        {
+          "text": "480 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 160
+    },
+    {
+      "id": "ol20003806w",
+      "title": "The Billion Dollar Spy",
+      "author": "David E. Hoffman",
+      "isbn": "9780385537605",
+      "cover": "c1",
+      "blurb": "A Soviet engineer hands the CIA a fortune in secrets, and both sides pay for it.",
+      "aside": "Reads like le Carré, except every dead drop actually happened.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 312,
+      "tags": [
+        {
+          "text": "cold war espionage",
+          "accent": "rose"
+        },
+        {
+          "text": "cia in moscow",
+          "accent": "gold"
+        },
+        {
+          "text": "true spy story",
+          "accent": "sage"
+        },
+        {
+          "text": "312 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 22
+    },
+    {
+      "id": "ol20644890w",
+      "title": "How to Hide an Empire",
+      "author": "Daniel Immerwahr",
+      "isbn": "9781473545335",
+      "cover": "c2",
+      "blurb": "The overlooked story of America's overseas territories and the empire hiding in plain sight.",
+      "aside": "You will never look at a map of the fifty states the same smug way again.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 528,
+      "tags": [
+        {
+          "text": "hidden history",
+          "accent": "rose"
+        },
+        {
+          "text": "american empire",
+          "accent": "gold"
+        },
+        {
+          "text": "maps redrawn",
+          "accent": "sage"
+        },
+        {
+          "text": "528 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 93
+    },
+    {
+      "id": "ol20006234w",
+      "title": "The Girl with Seven Names",
+      "author": "Hyeonseo Lee",
+      "isbn": "9780008338336",
+      "cover": "c5",
+      "blurb": "A girl slips out of North Korea, survives years in hiding, then goes back for her family.",
+      "aside": "Seven names, one nerve of steel, and a final act you'll read with your hand over your mouth.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 304,
+      "tags": [
+        {
+          "text": "north korea escape",
+          "accent": "rose"
+        },
+        {
+          "text": "defector memoir",
+          "accent": "gold"
+        },
+        {
+          "text": "family rescue",
+          "accent": "sage"
+        },
+        {
+          "text": "304 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 96
+    },
+    {
+      "id": "ol20470129w",
+      "title": "The Anarchy",
+      "author": "William Dalrymple",
+      "isbn": "9781526618504",
+      "cover": "c3",
+      "blurb": "How a London trading company seized control of a subcontinent with a private army.",
+      "aside": "Dalrymple makes a shareholder meeting more terrifying than any villain's lair.",
+      "pace": "Slow burn",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 576,
+      "tags": [
+        {
+          "text": "east india company",
+          "accent": "rose"
+        },
+        {
+          "text": "corporate conquest",
+          "accent": "gold"
+        },
+        {
+          "text": "mughal india",
+          "accent": "sage"
+        },
+        {
+          "text": "576 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 77
+    },
+    {
+      "id": "ol20153414w",
+      "title": "Spearhead",
+      "author": "Adam Makos",
+      "isbn": "9780804176729",
+      "cover": "c1",
+      "blurb": "A Sherman tank gunner fights from Normandy to Cologne and the duel that haunted him for life.",
+      "aside": "For anyone who finished Band of Brothers and wanted the view from inside the turret.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 416,
+      "tags": [
+        {
+          "text": "tank crew",
+          "accent": "rose"
+        },
+        {
+          "text": "world war ii",
+          "accent": "gold"
+        },
+        {
+          "text": "brothers in arms",
+          "accent": "sage"
+        },
+        {
+          "text": "416 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 11
+    },
+    {
+      "id": "ol19749017w",
+      "title": "The tangled tree",
+      "author": "David Quammen",
+      "isbn": "9781476776620",
+      "cover": "c4",
+      "blurb": "How gene-swapping microbes upended Darwin's neat tree of life, and the scientists who noticed.",
+      "aside": "Quammen turns molecular biology into gossip about who was right, and it is delicious.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 480,
+      "tags": [
+        {
+          "text": "evolution rethought",
+          "accent": "rose"
+        },
+        {
+          "text": "science history",
+          "accent": "gold"
+        },
+        {
+          "text": "rogue scientists",
+          "accent": "sage"
+        },
+        {
+          "text": "480 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 35
+    },
+    {
+      "id": "ol17357665w",
+      "title": "Hillbilly Elegy",
+      "author": "J. D. Vance",
+      "isbn": "9780062803863",
+      "cover": "c2",
+      "blurb": "A Rust Belt kid with Kentucky roots recounts his chaotic family and the climb out.",
+      "aside": "Read it for Mamaw alone, a grandmother who would terrify any fictional matriarch.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 272,
+      "tags": [
+        {
+          "text": "appalachian roots",
+          "accent": "rose"
+        },
+        {
+          "text": "family memoir",
+          "accent": "gold"
+        },
+        {
+          "text": "class mobility",
+          "accent": "sage"
+        },
+        {
+          "text": "272 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 347
+    },
+    {
+      "id": "ol19667645w",
+      "title": "Strangers in their own land",
+      "author": "Arlie Russell Hochschild",
+      "isbn": "9781620973493",
+      "cover": "c5",
+      "blurb": "A Berkeley sociologist spends five years listening to Tea Party supporters in Louisiana.",
+      "aside": "The book everyone at an awkward family dinner should have read beforehand.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 368,
+      "tags": [
+        {
+          "text": "political divide",
+          "accent": "rose"
+        },
+        {
+          "text": "louisiana bayou",
+          "accent": "gold"
+        },
+        {
+          "text": "empathy experiment",
+          "accent": "sage"
+        },
+        {
+          "text": "368 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 40
+    },
+    {
+      "id": "ol20493127w",
+      "title": "Missoula",
+      "author": "Jon Krakauer",
+      "isbn": "9780804170567",
+      "cover": "c1",
+      "blurb": "Krakauer investigates how a Montana college town and its courts handled a string of sexual assaults.",
+      "aside": "Hard reading, but Krakauer's courtroom chapters grip like the best legal thriller.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 392,
+      "tags": [
+        {
+          "text": "campus investigation",
+          "accent": "rose"
+        },
+        {
+          "text": "courtroom drama",
+          "accent": "gold"
+        },
+        {
+          "text": "justice system",
+          "accent": "sage"
+        },
+        {
+          "text": "392 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 40
     }
   ]
 }
