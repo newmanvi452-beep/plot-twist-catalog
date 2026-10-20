@@ -1,5 +1,5 @@
 {
-  "version": 56,
+  "version": 57,
   "retired": {
     "ol19661009w": "tattooist",
     "ol20742637w": "guestlist"
@@ -28679,6 +28679,798 @@
       ],
       "contentFlags": [],
       "popularity": 23
+    },
+    {
+      "id": "ol661962w",
+      "title": "Mister Pip",
+      "author": "Jones, Lloyd",
+      "isbn": "9781848548237",
+      "cover": "c1",
+      "blurb": "On a copper-rich tropical island shattered by war, a transcendent story celebrates the power of narrative to transform lives.",
+      "aside": "Fablelike and intense, the book celebrates the resilience of the human spirit.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 256,
+      "tags": [
+        {
+          "text": "island war",
+          "accent": "rose"
+        },
+        {
+          "text": "power of storytelling",
+          "accent": "gold"
+        },
+        {
+          "text": "fablelike",
+          "accent": "sage"
+        },
+        {
+          "text": "256 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 32
+    },
+    {
+      "id": "ol20058527w",
+      "title": "Stephen Florida",
+      "author": "Gabe Habash",
+      "isbn": "9781566894647",
+      "cover": "c2",
+      "blurb": "A coming-of-age story with its own explosive rhythm and velocity, about a funny, ambitious young man.",
+      "aside": "Habash has a canny sense of how young men speak and behave.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 296,
+      "tags": [
+        {
+          "text": "coming of age",
+          "accent": "rose"
+        },
+        {
+          "text": "young men",
+          "accent": "gold"
+        },
+        {
+          "text": "explosive rhythm",
+          "accent": "sage"
+        },
+        {
+          "text": "296 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 5
+    },
+    {
+      "id": "ol20048433w",
+      "title": "The twelve lives of Samuel Hawley",
+      "author": "Hannah Tinti",
+      "isbn": "9780812989908",
+      "cover": "c3",
+      "blurb": "Twelve-year-old Loo moves back to a New England fishing village, where her father finds work on the boats.",
+      "aside": "Loo has the usual heartaches of a new kid in school, and mysteries lurk over her.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 496,
+      "tags": [
+        {
+          "text": "new kid at school",
+          "accent": "rose"
+        },
+        {
+          "text": "New England fishing village",
+          "accent": "gold"
+        },
+        {
+          "text": "father and daughter",
+          "accent": "sage"
+        },
+        {
+          "text": "496 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 7
+    },
+    {
+      "id": "ol477811w",
+      "title": "Midnight Robber",
+      "author": "Nalo Hopkinson",
+      "isbn": "9780613279765",
+      "cover": "c4",
+      "blurb": "It's Carnival time on the Caribbean-colonized planet of Toussaint, and masked Midnight Robbers waylay revellers.",
+      "aside": "Through young Tan-Tan's eyes, the celebration is full of music, dance and pageantry.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 329,
+      "tags": [
+        {
+          "text": "Caribbean-colonised planet",
+          "accent": "rose"
+        },
+        {
+          "text": "carnival",
+          "accent": "gold"
+        },
+        {
+          "text": "young heroine",
+          "accent": "sage"
+        },
+        {
+          "text": "329 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 19
+    },
+    {
+      "id": "ol20036169w",
+      "title": "The Guineveres",
+      "author": "Sarah Domet",
+      "isbn": "9781250086624",
+      "cover": "c5",
+      "blurb": "Four girls, all named Guinevere, are left by their parents to be raised by nuns.",
+      "aside": "A dazzling debut, in the vein of The Virgin Suicides.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 352,
+      "tags": [
+        {
+          "text": "four girls",
+          "accent": "rose"
+        },
+        {
+          "text": "raised by nuns",
+          "accent": "gold"
+        },
+        {
+          "text": "sisterhood",
+          "accent": "sage"
+        },
+        {
+          "text": "352 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 6
+    },
+    {
+      "id": "ol20648063w",
+      "title": "Saint X",
+      "author": "Alexis Schaitkin",
+      "isbn": "9781250219596",
+      "cover": "c1",
+      "blurb": "A haunting portrait of grief, obsession and the bond between two sisters never given the chance to know one another.",
+      "aside": "Hailed as a 'marvel of a book' by reviewers.",
+      "pace": "Slow burn",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 332,
+      "tags": [
+        {
+          "text": "sisters",
+          "accent": "rose"
+        },
+        {
+          "text": "grief",
+          "accent": "gold"
+        },
+        {
+          "text": "obsession",
+          "accent": "sage"
+        },
+        {
+          "text": "332 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 16
+    },
+    {
+      "id": "ol2721400w",
+      "title": "The Last of Her Kind",
+      "author": "Sigrid Nunez",
+      "isbn": "9780312425944",
+      "cover": "c2",
+      "blurb": "Two women meet as freshmen at Barnard College in 1968, and one of them is a brilliant, idealistic roommate.",
+      "aside": "Georgette doesn't know what to make of Ann Drayton and her obsessive disdain for the class she was born into.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 384,
+      "tags": [
+        {
+          "text": "Barnard 1968",
+          "accent": "rose"
+        },
+        {
+          "text": "college roommates",
+          "accent": "gold"
+        },
+        {
+          "text": "class and idealism",
+          "accent": "sage"
+        },
+        {
+          "text": "384 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 8
+    },
+    {
+      "id": "ol5958156w",
+      "title": "Lucky Wander Boy",
+      "author": "D. B. Weiss",
+      "isbn": "9780452283947",
+      "cover": "c3",
+      "blurb": "Adam Pennyman's encyclopedic catalogue of every video game ever made hits a snag with one surreal game.",
+      "aside": "He is nearing thirty, feckless, and has finally found a purpose.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 276,
+      "tags": [
+        {
+          "text": "video games",
+          "accent": "rose"
+        },
+        {
+          "text": "obsession",
+          "accent": "gold"
+        },
+        {
+          "text": "lost purpose",
+          "accent": "sage"
+        },
+        {
+          "text": "276 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 3
+    },
+    {
+      "id": "ol76837w",
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "isbn": "9780739339787",
+      "cover": "c4",
+      "blurb": "Robert Langdon, a 'symbologist', is pulled into a mystery alongside cryptologist Sophie Neveu.",
+      "aside": "It is Brown's second novel to feature Langdon, after Angels & Demons.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 489,
+      "tags": [
+        {
+          "text": "cryptic clues",
+          "accent": "rose"
+        },
+        {
+          "text": "symbology",
+          "accent": "gold"
+        },
+        {
+          "text": "Robert Langdon",
+          "accent": "sage"
+        },
+        {
+          "text": "489 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 3584
+    },
+    {
+      "id": "ol8995682w",
+      "title": "Baudolino",
+      "author": "Umberto Eco",
+      "isbn": "9780436206344",
+      "cover": "c5",
+      "blurb": "Born a simple peasant in northern Italy, Baudolino narrates his life, from Emperor Barbarossa's adoption to Constantinople.",
+      "aside": "He arrives in Constantinople during the turmoil of the Fourth Crusade.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 530,
+      "tags": [
+        {
+          "text": "Emperor Barbarossa",
+          "accent": "rose"
+        },
+        {
+          "text": "Fourth Crusade",
+          "accent": "gold"
+        },
+        {
+          "text": "storytelling",
+          "accent": "sage"
+        },
+        {
+          "text": "530 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 83
+    },
+    {
+      "id": "ol5860211w",
+      "title": "Small island",
+      "author": "Andrea Levy",
+      "isbn": "9780312424671",
+      "cover": "c1",
+      "blurb": "Two couples, one Black and one white, narrate their lives in a novel told from four perspectives.",
+      "aside": "Hortense, Gilbert, Queenie and Bernard each tell the story from their own point of view.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 448,
+      "tags": [
+        {
+          "text": "two couples",
+          "accent": "rose"
+        },
+        {
+          "text": "postwar",
+          "accent": "gold"
+        },
+        {
+          "text": "four perspectives",
+          "accent": "sage"
+        },
+        {
+          "text": "448 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 99
+    },
+    {
+      "id": "ol4098866w",
+      "title": "JFK and the unspeakable",
+      "author": "James W. Douglass",
+      "isbn": "9781439193884",
+      "cover": "c2",
+      "blurb": "James Douglass argues why President Kennedy was assassinated, and why unmasking the truth still matters.",
+      "aside": "Drawing on a vast field of information, the book presents a compelling and disturbing account.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 514,
+      "tags": [
+        {
+          "text": "Kennedy assassination",
+          "accent": "rose"
+        },
+        {
+          "text": "political history",
+          "accent": "gold"
+        },
+        {
+          "text": "unanswered questions",
+          "accent": "sage"
+        },
+        {
+          "text": "514 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 65
+    },
+    {
+      "id": "ol6017238w",
+      "title": "The Shock Doctrine",
+      "author": "Naomi Klein",
+      "isbn": "9781846140280",
+      "cover": "c3",
+      "blurb": "Naomi Klein argues that neoliberal free-market policies, as advocated by Milton Friedman, have risen to prominence.",
+      "aside": "Its subtitle is The Rise of Disaster Capitalism.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 677,
+      "tags": [
+        {
+          "text": "disaster capitalism",
+          "accent": "rose"
+        },
+        {
+          "text": "free markets",
+          "accent": "gold"
+        },
+        {
+          "text": "economic history",
+          "accent": "sage"
+        },
+        {
+          "text": "677 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 242
+    },
+    {
+      "id": "ol16803726w",
+      "title": "No Easy Day",
+      "author": "Mark Owen",
+      "isbn": "9781470839802",
+      "cover": "c4",
+      "blurb": "A Navy SEAL's first-person account of planning and executing the bin Laden raid.",
+      "aside": "He confronted the terrorist mastermind and witnessed his final moment.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 338,
+      "tags": [
+        {
+          "text": "Navy SEAL",
+          "accent": "rose"
+        },
+        {
+          "text": "bin Laden raid",
+          "accent": "gold"
+        },
+        {
+          "text": "military memoir",
+          "accent": "sage"
+        },
+        {
+          "text": "338 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 49
+    },
+    {
+      "id": "ol19981637w",
+      "title": "The walk home",
+      "author": "Rachel Seiffert",
+      "isbn": "9780307908810",
+      "cover": "c5",
+      "blurb": "In a Glasgow community haunted by Ireland's Troubles, young Stevie's sense of self is threatened by his father's loyalist ties.",
+      "aside": "His father's marching band has loyalist paramilitary ties.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 294,
+      "tags": [
+        {
+          "text": "Glasgow",
+          "accent": "rose"
+        },
+        {
+          "text": "Troubles",
+          "accent": "gold"
+        },
+        {
+          "text": "coming of age",
+          "accent": "sage"
+        },
+        {
+          "text": "294 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 1
+    },
+    {
+      "id": "ol18153660w",
+      "title": "Black and blue",
+      "author": "Anna Quindlen",
+      "isbn": "9780812980493",
+      "cover": "c1",
+      "blurb": "A nurse escapes her abusive husband, a New York policeman, and starts over in Florida under a new identity.",
+      "aside": "Her ten-year-old son misses his father, and she lives in constant fear that he will find them.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 296,
+      "tags": [
+        {
+          "text": "escape from abuse",
+          "accent": "rose"
+        },
+        {
+          "text": "new identity",
+          "accent": "gold"
+        },
+        {
+          "text": "Florida",
+          "accent": "sage"
+        },
+        {
+          "text": "296 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Contemporary"
+      ],
+      "contentFlags": [],
+      "popularity": 3
+    },
+    {
+      "id": "ol20037284w",
+      "title": "The two-family house",
+      "author": "Lynda Cohen Loigman",
+      "isbn": "9781466888883",
+      "cover": "c2",
+      "blurb": "Brooklyn, 1947: in a blizzard, two babies are born minutes apart to two women who are sisters by marriage.",
+      "aside": "Their bond is forged before and during that night, but small cracks begin to appear.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 320,
+      "tags": [
+        {
+          "text": "Brooklyn 1947",
+          "accent": "rose"
+        },
+        {
+          "text": "sisters by marriage",
+          "accent": "gold"
+        },
+        {
+          "text": "family secrets",
+          "accent": "sage"
+        },
+        {
+          "text": "320 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 5
+    },
+    {
+      "id": "ol19666264w",
+      "title": "The enchanted",
+      "author": "Rene Denfeld",
+      "isbn": "9780062285508",
+      "cover": "c3",
+      "blurb": "A death row inmate finds escape in his books and in re-imagining the ancient stone prison around him.",
+      "aside": "A female investigator searches for buried information that could save those soon to be executed.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 263,
+      "tags": [
+        {
+          "text": "death row",
+          "accent": "rose"
+        },
+        {
+          "text": "ancient prison",
+          "accent": "gold"
+        },
+        {
+          "text": "investigator",
+          "accent": "sage"
+        },
+        {
+          "text": "263 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 19
+    },
+    {
+      "id": "ol5848607w",
+      "title": "The Madonnas of Leningrad",
+      "author": "Debra Dean",
+      "isbn": "9780061747182",
+      "cover": "c4",
+      "blurb": "The ravages of age erode Marina's grip on the everyday, and she can no longer hold on to fresh memories.",
+      "aside": "She loses the details of her grown children's lives, and her grandchild's approaching wedding.",
+      "pace": "Slow burn",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 231,
+      "tags": [
+        {
+          "text": "dementia",
+          "accent": "rose"
+        },
+        {
+          "text": "elderly Russian woman",
+          "accent": "gold"
+        },
+        {
+          "text": "fading memory",
+          "accent": "sage"
+        },
+        {
+          "text": "231 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 9
+    },
+    {
+      "id": "ol20919875w",
+      "title": "No One Is Talking About This",
+      "author": "Patricia Lockwood",
+      "isbn": "9780593189580",
+      "cover": "c5",
+      "blurb": "A woman elevated to fame by her social media posts asks whether there is life after the internet.",
+      "aside": "Lockwood's book is urgent and genre-defying.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 224,
+      "tags": [
+        {
+          "text": "social media fame",
+          "accent": "rose"
+        },
+        {
+          "text": "life after the internet",
+          "accent": "gold"
+        },
+        {
+          "text": "genre-defying",
+          "accent": "sage"
+        },
+        {
+          "text": "224 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 60
+    },
+    {
+      "id": "ol17358375w",
+      "title": "Pretty Girls",
+      "author": "Karin Slaughter",
+      "isbn": "9780099599432",
+      "cover": "c1",
+      "blurb": "More than twenty years after their sister vanished, Claire and Lydia, who have not spoken since, are pulled back together.",
+      "aside": "Claire is the glamorous trophy wife of an Atlanta millionaire, and Lydia is a single mother.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 483,
+      "tags": [
+        {
+          "text": "vanished sister",
+          "accent": "rose"
+        },
+        {
+          "text": "estranged sisters",
+          "accent": "gold"
+        },
+        {
+          "text": "Atlanta",
+          "accent": "sage"
+        },
+        {
+          "text": "483 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 386
+    },
+    {
+      "id": "ol19977804w",
+      "title": "My real children",
+      "author": "Jo Walton",
+      "isbn": "9780765332653",
+      "cover": "c2",
+      "blurb": "In 2015 Patricia Cowan is very old, forgetting what year it is, but she remembers things that don't seem possible.",
+      "aside": "She remembers marrying Mark, and the notes clipped to her bed read 'Confused today'.",
+      "pace": "Slow burn",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 344,
+      "tags": [
+        {
+          "text": "dementia",
+          "accent": "rose"
+        },
+        {
+          "text": "memory",
+          "accent": "gold"
+        },
+        {
+          "text": "alternate lives",
+          "accent": "sage"
+        },
+        {
+          "text": "344 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 18
     }
   ]
 }
