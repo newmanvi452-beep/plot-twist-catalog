@@ -1,5 +1,5 @@
 {
-  "version": 57,
+  "version": 58,
   "retired": {
     "ol19661009w": "tattooist",
     "ol20742637w": "guestlist"
@@ -29471,6 +29471,762 @@
       ],
       "contentFlags": [],
       "popularity": 18
+    },
+    {
+      "id": "ol84110w",
+      "title": "Declare",
+      "author": "Tim Powers",
+      "isbn": "9780061467288",
+      "cover": "c1",
+      "blurb": "A young double agent infiltrating a Soviet spy network in Nazi-occupied Paris finds himself in a more ruthless war.",
+      "aside": "Two decades later, in 1963, he is forced to confront the nightmare again.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 528,
+      "tags": [
+        {
+          "text": "double agent",
+          "accent": "rose"
+        },
+        {
+          "text": "Cold War",
+          "accent": "gold"
+        },
+        {
+          "text": "Nazi-occupied Paris",
+          "accent": "sage"
+        },
+        {
+          "text": "528 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 36
+    },
+    {
+      "id": "ol8125628w",
+      "title": "A World Undone",
+      "author": "G. J. Meyer",
+      "isbn": "9781455153626",
+      "cover": "c2",
+      "blurb": "How the Great War reduced Europe's mightiest empires to rubble, told through an intimate and exhaustively researched account.",
+      "aside": "Meyer draws on exhaustive research to bring the story to life.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 704,
+      "tags": [
+        {
+          "text": "World War I",
+          "accent": "rose"
+        },
+        {
+          "text": "fall of empires",
+          "accent": "gold"
+        },
+        {
+          "text": "intimate history",
+          "accent": "sage"
+        },
+        {
+          "text": "704 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 29
+    },
+    {
+      "id": "ol4096955w",
+      "title": "Six Days of War",
+      "author": "Michael B. Oren",
+      "isbn": "9780141014357",
+      "cover": "c3",
+      "blurb": "The 1967 Arab-Israeli war lasted only six tense days in June, but it never really ended.",
+      "aside": "Crises from the Yom Kippur War of 1973 to the intifada all trace back to it.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 464,
+      "tags": [
+        {
+          "text": "Arab-Israeli war",
+          "accent": "rose"
+        },
+        {
+          "text": "1967",
+          "accent": "gold"
+        },
+        {
+          "text": "Middle East history",
+          "accent": "sage"
+        },
+        {
+          "text": "464 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 59
+    },
+    {
+      "id": "ol16121399w",
+      "title": "The devil all the time",
+      "author": "Donald Ray Pollock",
+      "isbn": "9780307744869",
+      "cover": "c4",
+      "blurb": "A cast of bizarre characters in rural Ohio and West Virginia, from World War II's end into the 1960s.",
+      "aside": "Willard Russell, a tormented veteran of the war, is one of its most compelling characters.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 261,
+      "tags": [
+        {
+          "text": "rural Ohio",
+          "accent": "rose"
+        },
+        {
+          "text": "postwar America",
+          "accent": "gold"
+        },
+        {
+          "text": "violence and faith",
+          "accent": "sage"
+        },
+        {
+          "text": "261 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 51
+    },
+    {
+      "id": "ol19979107w",
+      "title": "The troop",
+      "author": "Nick Cutter",
+      "isbn": "9781476717715",
+      "cover": "c5",
+      "blurb": "Scoutmaster Tim Riggs leads his troop into the Canadian wilderness, and this year something is waiting in the dark.",
+      "aside": "An intruder stumbles upon their campsite, and the weekend trip turns wicked.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 363,
+      "tags": [
+        {
+          "text": "scout camping trip",
+          "accent": "rose"
+        },
+        {
+          "text": "Canadian wilderness",
+          "accent": "gold"
+        },
+        {
+          "text": "something in the dark",
+          "accent": "sage"
+        },
+        {
+          "text": "363 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror"
+      ],
+      "contentFlags": [],
+      "popularity": 330
+    },
+    {
+      "id": "ol13850913w",
+      "title": "Dust and Shadow",
+      "author": "Lyndsay Faye",
+      "isbn": "9781416583301",
+      "cover": "c1",
+      "blurb": "Sherlock Holmes hunts Jack the Ripper, rooting the Whitechapel investigation in the fledgling days of tabloid journalism.",
+      "aside": "Faye's astonishing debut is built on impeccably accurate historical detail.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 331,
+      "tags": [
+        {
+          "text": "Sherlock Holmes",
+          "accent": "rose"
+        },
+        {
+          "text": "Jack the Ripper",
+          "accent": "gold"
+        },
+        {
+          "text": "Whitechapel",
+          "accent": "sage"
+        },
+        {
+          "text": "331 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 17
+    },
+    {
+      "id": "ol24315820w",
+      "title": "The Perfect Marriage",
+      "author": "Jeneva Rose",
+      "isbn": "9781913419653",
+      "cover": "c2",
+      "blurb": "A top DC criminal defense attorney with a perfect record, her life is going exactly as she planned.",
+      "aside": "She made named partner before the age of thirty-five.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 352,
+      "tags": [
+        {
+          "text": "criminal defense attorney",
+          "accent": "rose"
+        },
+        {
+          "text": "Washington DC",
+          "accent": "gold"
+        },
+        {
+          "text": "perfect record",
+          "accent": "sage"
+        },
+        {
+          "text": "352 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 334
+    },
+    {
+      "id": "ol17354744w",
+      "title": "I am Pilgrim",
+      "author": "Terry Hayes",
+      "isbn": "9780552160964",
+      "cover": "c3",
+      "blurb": "When NYPD detective Ben Bradley tracks down Pilgrim, a legendary secret agent, neither man can imagine what follows.",
+      "aside": "Pilgrim was the codename for a world-class secret agent, once head of a secret internal affairs force.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 704,
+      "tags": [
+        {
+          "text": "secret agent",
+          "accent": "rose"
+        },
+        {
+          "text": "NYPD detective",
+          "accent": "gold"
+        },
+        {
+          "text": "buried past",
+          "accent": "sage"
+        },
+        {
+          "text": "704 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 75
+    },
+    {
+      "id": "ol19947404w",
+      "title": "Mechanique",
+      "author": "Genevieve Valentine",
+      "isbn": "9781607012535",
+      "cover": "c4",
+      "blurb": "Outside a city still standing, a brass-and-copper circus sets up its tents, and its impossible feats draw the crowds.",
+      "aside": "Its troupe includes Ayar the Strong Man and the acrobatic Grimaldi.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 284,
+      "tags": [
+        {
+          "text": "traveling circus",
+          "accent": "rose"
+        },
+        {
+          "text": "brass and copper",
+          "accent": "gold"
+        },
+        {
+          "text": "strongman and acrobats",
+          "accent": "sage"
+        },
+        {
+          "text": "284 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy"
+      ],
+      "contentFlags": [],
+      "popularity": 12
+    },
+    {
+      "id": "ol13853579w",
+      "title": "The Gone-Away World",
+      "author": "Nick Harkaway",
+      "isbn": "9780307389077",
+      "cover": "c5",
+      "blurb": "A hilarious, action-packed apocalypse: a touching tale of friendship, a thrilling war story, and kung-fu.",
+      "aside": "Gonzo Lubitch and his best friend are at the heart of it.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 576,
+      "tags": [
+        {
+          "text": "apocalypse",
+          "accent": "rose"
+        },
+        {
+          "text": "friendship",
+          "accent": "gold"
+        },
+        {
+          "text": "kung-fu",
+          "accent": "sage"
+        },
+        {
+          "text": "576 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 19
+    },
+    {
+      "id": "ol17767754w",
+      "title": "On such a full sea",
+      "author": "Chang-rae Lee",
+      "isbn": "9781594486104",
+      "cover": "c1",
+      "blurb": "One woman's legendary quest in a shocking near-future America, from Chang-rae Lee.",
+      "aside": "Lee is the author of Native Speaker and The Surrendered, and this is a deeply affecting story.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 352,
+      "tags": [
+        {
+          "text": "near-future America",
+          "accent": "rose"
+        },
+        {
+          "text": "one woman's quest",
+          "accent": "gold"
+        },
+        {
+          "text": "dystopia",
+          "accent": "sage"
+        },
+        {
+          "text": "352 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 8
+    },
+    {
+      "id": "ol20062258w",
+      "title": "The Ministry of Truth",
+      "author": "Dorian Lynskey",
+      "isbn": "9780525563723",
+      "cover": "c2",
+      "blurb": "Orwell's 1984 is a key to the modern world, from Big Brother to Doublethink and Newspeak.",
+      "aside": "Big Brother, the Thought Police, Doublethink, Newspeak and 2+2=5 are its treasure chest of ideas.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 355,
+      "tags": [
+        {
+          "text": "Orwell",
+          "accent": "rose"
+        },
+        {
+          "text": "political language",
+          "accent": "gold"
+        },
+        {
+          "text": "cultural history",
+          "accent": "sage"
+        },
+        {
+          "text": "355 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 10
+    },
+    {
+      "id": "ol21045943w",
+      "title": "Method",
+      "author": "Juli Zeh",
+      "isbn": "9780099551768",
+      "cover": "c3",
+      "blurb": "In a state governed by The Method, good health is the highest duty of every citizen.",
+      "aside": "Each month everyone must submit medical data and sleep records to the authorities.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 240,
+      "tags": [
+        {
+          "text": "state health rules",
+          "accent": "rose"
+        },
+        {
+          "text": "dystopia",
+          "accent": "gold"
+        },
+        {
+          "text": "surveillance",
+          "accent": "sage"
+        },
+        {
+          "text": "240 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 2
+    },
+    {
+      "id": "ol7989086w",
+      "title": "The Snow",
+      "author": "Adam Roberts",
+      "isbn": "9780575071803",
+      "cover": "c4",
+      "blurb": "Snow begins falling on 6 September, soft and noiseless, filling the sky like a swarm of white moths.",
+      "aside": "Nature or technology, whichever metaphor you find more apt, the snow arrives all the same.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 293,
+      "tags": [
+        {
+          "text": "strange snowfall",
+          "accent": "rose"
+        },
+        {
+          "text": "nature or technology",
+          "accent": "gold"
+        },
+        {
+          "text": "literary sf",
+          "accent": "sage"
+        },
+        {
+          "text": "293 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 17
+    },
+    {
+      "id": "ol17882885w",
+      "title": "Cash Crash Jubilee",
+      "author": "Eli K. P. William",
+      "isbn": "9781940456270",
+      "cover": "c5",
+      "blurb": "In near-future Tokyo every human action is owned by corporations that charge licensing fees.",
+      "aside": "The licensing system runs through an implant called the BodyBank.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 392,
+      "tags": [
+        {
+          "text": "near-future Tokyo",
+          "accent": "rose"
+        },
+        {
+          "text": "corporate ownership",
+          "accent": "gold"
+        },
+        {
+          "text": "implanted licensing",
+          "accent": "sage"
+        },
+        {
+          "text": "392 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 2
+    },
+    {
+      "id": "ol6211831w",
+      "title": "Just like beauty",
+      "author": "Lisa Lerner",
+      "isbn": "9780312421786",
+      "cover": "c1",
+      "blurb": "Fourteen-year-old Edie Stein's road to the Feminine Woman of Conscience Pageant is strewn with pitfalls.",
+      "aside": "She's an ace at Mystery Powders, and she's come a long way in Freestyle Walking.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 284,
+      "tags": [
+        {
+          "text": "pageant",
+          "accent": "rose"
+        },
+        {
+          "text": "fourteen-year-old",
+          "accent": "gold"
+        },
+        {
+          "text": "small-town quirks",
+          "accent": "sage"
+        },
+        {
+          "text": "284 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 3
+    },
+    {
+      "id": "ol17889012w",
+      "title": "The only words that are worth remembering",
+      "author": "Jeffrey Rotter",
+      "isbn": "9781627791526",
+      "cover": "c2",
+      "blurb": "A family in flight from the law, in a near-future American dystopia where human knowledge has reverted.",
+      "aside": "Darkly comic and wildly original, it is a tender-hearted A Clockwork Orange.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 209,
+      "tags": [
+        {
+          "text": "family on the run",
+          "accent": "rose"
+        },
+        {
+          "text": "near-future dystopia",
+          "accent": "gold"
+        },
+        {
+          "text": "darkly comic",
+          "accent": "sage"
+        },
+        {
+          "text": "209 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 2
+    },
+    {
+      "id": "ol24793158w",
+      "title": "Same Same",
+      "author": "Peter Mendelsund",
+      "isbn": "9780525435884",
+      "cover": "c3",
+      "blurb": "A novel of ideas set in a mysterious institute in the desert, on the outskirts of a Middle Eastern city.",
+      "aside": "The fiction debut from the author of What We See When We Read.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 496,
+      "tags": [
+        {
+          "text": "novel of ideas",
+          "accent": "rose"
+        },
+        {
+          "text": "mysterious institute",
+          "accent": "gold"
+        },
+        {
+          "text": "desert",
+          "accent": "sage"
+        },
+        {
+          "text": "496 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 2
+    },
+    {
+      "id": "ol20017841w",
+      "title": "Travelers rest",
+      "author": "Keith Lee Morris",
+      "isbn": "9780316335829",
+      "cover": "c4",
+      "blurb": "A young family forced off the highway by a blizzard arrives in Good Night, Idaho, a semi-abandoned mining town.",
+      "aside": "There they find shelter in a grand, nearly empty hotel.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 358,
+      "tags": [
+        {
+          "text": "blizzard",
+          "accent": "rose"
+        },
+        {
+          "text": "ghost town",
+          "accent": "gold"
+        },
+        {
+          "text": "stranded family",
+          "accent": "sage"
+        },
+        {
+          "text": "358 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 4
+    },
+    {
+      "id": "ol17868569w",
+      "title": "The guard",
+      "author": "Peter Terrin",
+      "isbn": "9781623659004",
+      "cover": "c5",
+      "blurb": "In a post-apocalyptic world, two security guards in a luxury apartment building must protect its wealthy residents.",
+      "aside": "Harry and Michel live in the basement of the building.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 242,
+      "tags": [
+        {
+          "text": "post-apocalyptic",
+          "accent": "rose"
+        },
+        {
+          "text": "luxury apartment building",
+          "accent": "gold"
+        },
+        {
+          "text": "security guards",
+          "accent": "sage"
+        },
+        {
+          "text": "242 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 3
+    },
+    {
+      "id": "ol16607769w",
+      "title": "The Office of Mercy",
+      "author": "Ariel Djanikian",
+      "isbn": "9780670025862",
+      "cover": "c1",
+      "blurb": "Natasha Wiley lives in America-Five, an underground utopia where hunger and money do not exist.",
+      "aside": "Everyone there has a job, and all basic needs are met.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 305,
+      "tags": [
+        {
+          "text": "utopian settlement",
+          "accent": "rose"
+        },
+        {
+          "text": "underground",
+          "accent": "gold"
+        },
+        {
+          "text": "mentor",
+          "accent": "sage"
+        },
+        {
+          "text": "305 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 3
     }
   ]
 }
