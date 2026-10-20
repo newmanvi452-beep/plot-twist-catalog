@@ -1,5 +1,5 @@
 {
-  "version": 52,
+  "version": 53,
   "retired": {
     "ol19661009w": "tattooist",
     "ol20742637w": "guestlist"
@@ -25645,6 +25645,656 @@
       ],
       "contentFlags": [],
       "popularity": 19
+    },
+    {
+      "id": "ol16190670w",
+      "title": "The Sisters Brothers",
+      "author": "Patrick deWitt",
+      "isbn": "9780062041272",
+      "cover": "c1",
+      "blurb": "Hired to kill a prospector for a mysterious man called the Commodore, two brothers ride west to do it.",
+      "aside": "Gleefully violent and oddly tender, deWitt's West is the funniest place to lose faith in your employer.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 380,
+      "tags": [
+        {
+          "text": "hired killers",
+          "accent": "rose"
+        },
+        {
+          "text": "1850s west",
+          "accent": "gold"
+        },
+        {
+          "text": "brothers on the road",
+          "accent": "sage"
+        },
+        {
+          "text": "380 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 54
+    },
+    {
+      "id": "ol5738260w",
+      "title": "Everything Is Illuminated",
+      "author": "Jonathan Safran Foer",
+      "isbn": "9780060529703",
+      "cover": "c2",
+      "blurb": "A young man searches Ukraine for the woman who saved his grandfather from the Nazis, guided by a translator.",
+      "aside": "Foer's translator has an English so mangled it turns the search into comedy, then into grief.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 288,
+      "tags": [
+        {
+          "text": "ukraine search",
+          "accent": "rose"
+        },
+        {
+          "text": "wwii grandfather",
+          "accent": "gold"
+        },
+        {
+          "text": "mangled translator",
+          "accent": "sage"
+        },
+        {
+          "text": "288 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 105
+    },
+    {
+      "id": "ol17357376w",
+      "title": "The Girls",
+      "author": "Emma Cline",
+      "isbn": "9780812988024",
+      "cover": "c3",
+      "blurb": "A lonely teenager in 1960s California is pulled into a summer with girls who seem dangerously free.",
+      "aside": "Cline writes hunger for belonging so exactly that you keep hoping the girls will let her in.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 352,
+      "tags": [
+        {
+          "text": "1960s california",
+          "accent": "rose"
+        },
+        {
+          "text": "girls in the park",
+          "accent": "gold"
+        },
+        {
+          "text": "belonging",
+          "accent": "sage"
+        },
+        {
+          "text": "352 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 87
+    },
+    {
+      "id": "ol2827199w",
+      "title": "Life of Pi",
+      "author": "Yann Martel",
+      "isbn": "9781587244223",
+      "cover": "c4",
+      "blurb": "A sixteen-year-old boy survives a shipwreck in a lifeboat with a Bengal tiger and a handful of other animals.",
+      "aside": "Martel makes you believe in the tiger, then asks which story you would rather believe.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 349,
+      "tags": [
+        {
+          "text": "shipwreck survival",
+          "accent": "rose"
+        },
+        {
+          "text": "animal companions",
+          "accent": "gold"
+        },
+        {
+          "text": "unreliable story",
+          "accent": "sage"
+        },
+        {
+          "text": "349 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 1143
+    },
+    {
+      "id": "ol3951520w",
+      "title": "Middlesex",
+      "author": "Jeffrey Eugenides",
+      "isbn": "9781559277808",
+      "cover": "c5",
+      "blurb": "A coming-of-age story about a teenager with gender identity questions, told with a reader's sense of confusion.",
+      "aside": "Eugenides handles a hard subject with humour and enough patience to let the reader catch up.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 546,
+      "tags": [
+        {
+          "text": "gender identity",
+          "accent": "rose"
+        },
+        {
+          "text": "greek american family",
+          "accent": "gold"
+        },
+        {
+          "text": "coming of age",
+          "accent": "sage"
+        },
+        {
+          "text": "546 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 260
+    },
+    {
+      "id": "ol4082696w",
+      "title": "The Corrections",
+      "author": "Jonathan Franzen",
+      "isbn": "9780374919221",
+      "cover": "c1",
+      "blurb": "Two generations of the Lambert family drift apart as the patriarch slides into Parkinson's-induced dementia.",
+      "aside": "Franzen's family is a machine for generating resentment, and he enjoys every squeaky wheel.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 592,
+      "tags": [
+        {
+          "text": "family unravelling",
+          "accent": "rose"
+        },
+        {
+          "text": "parkinson's dementia",
+          "accent": "gold"
+        },
+        {
+          "text": "midwestern family",
+          "accent": "sage"
+        },
+        {
+          "text": "592 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 165
+    },
+    {
+      "id": "ol17930367w",
+      "title": "Becoming",
+      "author": "Michelle Obama",
+      "isbn": "9780241982976",
+      "cover": "c2",
+      "blurb": "Michelle Obama reflects on a life of meaning and accomplishment, including her years as First Lady.",
+      "aside": "Warm and candid, which is rarer in political memoirs than it should be.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 464,
+      "tags": [
+        {
+          "text": "first lady memoir",
+          "accent": "rose"
+        },
+        {
+          "text": "chicago roots",
+          "accent": "gold"
+        },
+        {
+          "text": "public life",
+          "accent": "sage"
+        },
+        {
+          "text": "464 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 108
+    },
+    {
+      "id": "ol8034119w",
+      "title": "A Long Way Gone",
+      "author": "Ishmael Beah",
+      "isbn": "9780786296408",
+      "cover": "c3",
+      "blurb": "A boy from Sierra Leone flees a civil war at twelve and is forced into becoming a soldier.",
+      "aside": "Painful and essential, and Beah's plain, clear voice is the reason you cannot put it down.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 240,
+      "tags": [
+        {
+          "text": "child soldier",
+          "accent": "rose"
+        },
+        {
+          "text": "sierra leone",
+          "accent": "gold"
+        },
+        {
+          "text": "war memoir",
+          "accent": "sage"
+        },
+        {
+          "text": "240 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 516
+    },
+    {
+      "id": "ol17184556w",
+      "title": "Elon Musk",
+      "author": "Ashlee Vance",
+      "isbn": "9780062469670",
+      "cover": "c4",
+      "blurb": "An authorised biography of Elon Musk, Silicon Valley's most unpredictable entrepreneur.",
+      "aside": "Vance gets close enough to Musk to make you wonder whether that is a good thing.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 396,
+      "tags": [
+        {
+          "text": "tech founder",
+          "accent": "rose"
+        },
+        {
+          "text": "silicon valley",
+          "accent": "gold"
+        },
+        {
+          "text": "authorised biography",
+          "accent": "sage"
+        },
+        {
+          "text": "396 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 1692
+    },
+    {
+      "id": "ol1966485w",
+      "title": "The God Delusion",
+      "author": "Richard Dawkins",
+      "isbn": "9781400153787",
+      "cover": "c5",
+      "blurb": "Dawkins argues that belief in God is irrational and that religion has done grievous harm to society.",
+      "aside": "Dawkins is at his most combative here, and he makes the case with more wit than you expect.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 450,
+      "tags": [
+        {
+          "text": "atheism",
+          "accent": "rose"
+        },
+        {
+          "text": "religion critique",
+          "accent": "gold"
+        },
+        {
+          "text": "science and belief",
+          "accent": "sage"
+        },
+        {
+          "text": "450 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 1316
+    },
+    {
+      "id": "ol3296483w",
+      "title": "Omnivore's Dilemma. A Natural History of Four Meals",
+      "author": "Michael Pollan",
+      "isbn": "9781101148761",
+      "cover": "c1",
+      "blurb": "Pollan asks what we should have for dinner, and traces the answer back through four very different meals.",
+      "aside": "A book that makes you look at your plate and your farm with equal suspicion.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 450,
+      "tags": [
+        {
+          "text": "food sourcing",
+          "accent": "rose"
+        },
+        {
+          "text": "farm to table",
+          "accent": "gold"
+        },
+        {
+          "text": "ethics of eating",
+          "accent": "sage"
+        },
+        {
+          "text": "450 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 272
+    },
+    {
+      "id": "ol2693077w",
+      "title": "Me Talk Pretty One Day",
+      "author": "David Sedaris",
+      "isbn": "9780316777728",
+      "cover": "c2",
+      "blurb": "Sedaris recounts his move to Paris and his hilarious attempt to learn French.",
+      "aside": "Sedaris in Paris, failing spectacularly at French and succeeding at nearly everything else.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 272,
+      "tags": [
+        {
+          "text": "moving to paris",
+          "accent": "rose"
+        },
+        {
+          "text": "learning french",
+          "accent": "gold"
+        },
+        {
+          "text": "humorous essays",
+          "accent": "sage"
+        },
+        {
+          "text": "272 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 281
+    },
+    {
+      "id": "ol274944w",
+      "title": "Lamb",
+      "author": "Christopher Moore",
+      "isbn": "9780061161100",
+      "cover": "c3",
+      "blurb": "Biff, the Messiah's best friend, narrates the missing years of Jesus's early life.",
+      "aside": "Moore's irreverence works best here, where the holy gets all the jokes.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 440,
+      "tags": [
+        {
+          "text": "missing years of jesus",
+          "accent": "rose"
+        },
+        {
+          "text": "irreverent comedy",
+          "accent": "gold"
+        },
+        {
+          "text": "biff's narration",
+          "accent": "sage"
+        },
+        {
+          "text": "440 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 93
+    },
+    {
+      "id": "ol19666939w",
+      "title": "The Silk Roads",
+      "author": "Peter Frankopan",
+      "isbn": "9781408889930",
+      "cover": "c4",
+      "blurb": "Frankopan reframes world history around the trade routes that connected East and West for millennia.",
+      "aside": "A short, sharp reframing of world history, and a strong case for trade as the engine of everything.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 128,
+      "tags": [
+        {
+          "text": "silk roads",
+          "accent": "rose"
+        },
+        {
+          "text": "world trade history",
+          "accent": "gold"
+        },
+        {
+          "text": "east and west",
+          "accent": "sage"
+        },
+        {
+          "text": "128 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 181
+    },
+    {
+      "id": "ol891923w",
+      "title": "My Sister's Keeper",
+      "author": "Jodi Picoult",
+      "isbn": "9781416576402",
+      "cover": "c5",
+      "blurb": "Picoult asks what it means to be a good parent and a good sister when science enters the family.",
+      "aside": "A courtroom-ready moral puzzle that asks you to choose a side and then makes you doubt it.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 447,
+      "tags": [
+        {
+          "text": "medical ethics",
+          "accent": "rose"
+        },
+        {
+          "text": "sibling donor",
+          "accent": "gold"
+        },
+        {
+          "text": "difficult parenting",
+          "accent": "sage"
+        },
+        {
+          "text": "447 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 439
+    },
+    {
+      "id": "ol2412076w",
+      "title": "The Accidental",
+      "author": "Ali Smith",
+      "isbn": "9780241141908",
+      "cover": "c1",
+      "blurb": "A stranger named Amber arrives at a family's holiday cottage and quietly unsettles everyone.",
+      "aside": "Ali Smith uses a holiday rental as a pressure cooker, and the family never recovers its temperature.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 312,
+      "tags": [
+        {
+          "text": "uninvited guest",
+          "accent": "rose"
+        },
+        {
+          "text": "holiday family",
+          "accent": "gold"
+        },
+        {
+          "text": "small village",
+          "accent": "sage"
+        },
+        {
+          "text": "312 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 70
+    },
+    {
+      "id": "ol97945w",
+      "title": "The inheritance of loss",
+      "author": "Kiran Desai",
+      "isbn": "9781597227568",
+      "cover": "c2",
+      "blurb": "An embittered retired judge in a crumbling Himalayan house must share it with his orphaned granddaughter and their cook.",
+      "aside": "Desai's falling-apart house is a fine stage for a family and the cook who keeps it running.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 342,
+      "tags": [
+        {
+          "text": "himalayan house",
+          "accent": "rose"
+        },
+        {
+          "text": "retired judge",
+          "accent": "gold"
+        },
+        {
+          "text": "family and cook",
+          "accent": "sage"
+        },
+        {
+          "text": "342 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 99
+    },
+    {
+      "id": "ol15829432w",
+      "title": "Bet me",
+      "author": "Jennifer Crusie",
+      "isbn": "9780375433566",
+      "cover": "c3",
+      "blurb": "A woman who thinks happily-ever-after is a fairy tale is asked to dinner by a man who made a bet.",
+      "aside": "Crusie's banter is the reason to read; the bet is merely the excuse.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Bring it on",
+      "spiceLevel": "Closed door",
+      "pageCount": 364,
+      "tags": [
+        {
+          "text": "bet and dinner",
+          "accent": "rose"
+        },
+        {
+          "text": "banter",
+          "accent": "gold"
+        },
+        {
+          "text": "happily-ever-after doubts",
+          "accent": "sage"
+        },
+        {
+          "text": "364 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Romance",
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 46
     }
   ]
 }
