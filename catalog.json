@@ -1,5 +1,5 @@
 {
-  "version": 54,
+  "version": 55,
   "retired": {
     "ol19661009w": "tattooist",
     "ol20742637w": "guestlist"
@@ -27202,6 +27202,799 @@
       ],
       "contentFlags": [],
       "popularity": 5
+    },
+    {
+      "id": "ol19711761w",
+      "title": "Stay with me",
+      "author": "Ayòbámi Adébáyò",
+      "isbn": "9781101974414",
+      "cover": "c1",
+      "blurb": "A married Nigerian couple grapple with staggering loss and betrayal in their quest to create a family.",
+      "aside": "Each loss tests their quest to create a family for themselves.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 304,
+      "tags": [
+        {
+          "text": "married Nigerian couple",
+          "accent": "rose"
+        },
+        {
+          "text": "loss and betrayal",
+          "accent": "gold"
+        },
+        {
+          "text": "building a family",
+          "accent": "sage"
+        },
+        {
+          "text": "304 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 107
+    },
+    {
+      "id": "ol2751344w",
+      "title": "One foot in Eden",
+      "author": "Ron Rash",
+      "isbn": "9780312423056",
+      "cover": "c2",
+      "blurb": "A small-town sheriff in southern Appalachia is baffled by a murder with no body and no suspect.",
+      "aside": "He sets out to find the truth about what really happened to a local thug.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 214,
+      "tags": [
+        {
+          "text": "small-town sheriff",
+          "accent": "rose"
+        },
+        {
+          "text": "murder with no body",
+          "accent": "gold"
+        },
+        {
+          "text": "southern Appalachia",
+          "accent": "sage"
+        },
+        {
+          "text": "214 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 24
+    },
+    {
+      "id": "ol16152188w",
+      "title": "At last",
+      "author": "Edward St Aubyn",
+      "isbn": "9780330435901",
+      "cover": "c3",
+      "blurb": "Friends and relatives gather for the funeral of Eleanor, whose good works went to everyone but her own son.",
+      "aside": "Eleanor was an American heiress who married into the British aristocracy and gave up her grandeur.",
+      "pace": "Slow burn",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 266,
+      "tags": [
+        {
+          "text": "funeral",
+          "accent": "rose"
+        },
+        {
+          "text": "estranged son",
+          "accent": "gold"
+        },
+        {
+          "text": "British aristocracy",
+          "accent": "sage"
+        },
+        {
+          "text": "266 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 7
+    },
+    {
+      "id": "ol18167561w",
+      "title": "The good father",
+      "author": "Diane Chamberlain",
+      "isbn": "9780778313465",
+      "cover": "c4",
+      "blurb": "After losing his job and home, a single father is offered a one-time crime that promises quick money.",
+      "aside": "He will do anything for his daughter Bella, and the offer forces a difficult choice.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 396,
+      "tags": [
+        {
+          "text": "single father",
+          "accent": "rose"
+        },
+        {
+          "text": "one-time crime",
+          "accent": "gold"
+        },
+        {
+          "text": "quick money",
+          "accent": "sage"
+        },
+        {
+          "text": "396 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Contemporary"
+      ],
+      "contentFlags": [],
+      "popularity": 7
+    },
+    {
+      "id": "ol451298w",
+      "title": "Five quarters of the orange",
+      "author": "Joanne Harris",
+      "isbn": "9780061214608",
+      "cover": "c5",
+      "blurb": "Framboise returns to her Loire village, where nobody recognises the daughter of the woman who caused a wartime tragedy.",
+      "aside": "A scrapbook of recipes and memories ties the past and the present together.",
+      "pace": "Slow burn",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 307,
+      "tags": [
+        {
+          "text": "Loire village",
+          "accent": "rose"
+        },
+        {
+          "text": "wartime secret",
+          "accent": "gold"
+        },
+        {
+          "text": "scrapbook of recipes",
+          "accent": "sage"
+        },
+        {
+          "text": "307 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction",
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 24
+    },
+    {
+      "id": "ol17877048w",
+      "title": "In between dreams",
+      "author": "Iman Verjee",
+      "isbn": "9781780745374",
+      "cover": "c1",
+      "blurb": "Friendless, manipulative and cruel, Frances is sent to boarding school and forced to confront her white-picket-fence life.",
+      "aside": "Despite growing up with parents who love her, Frances has no friends.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 380,
+      "tags": [
+        {
+          "text": "boarding school",
+          "accent": "rose"
+        },
+        {
+          "text": "cruel teenager",
+          "accent": "gold"
+        },
+        {
+          "text": "white-picket-fence life",
+          "accent": "sage"
+        },
+        {
+          "text": "380 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 4
+    },
+    {
+      "id": "ol14858073w",
+      "title": "Family Blessings",
+      "author": "Fern Michaels",
+      "isbn": "9780743477475",
+      "cover": "c2",
+      "blurb": "Right before Thanksgiving, a freak tornado levels the home of matriarch Loretta 'Cisco' Cisco in a Pennsylvania town.",
+      "aside": "Cisco, a candy magnate, is called Cisco by her grandchildren.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 226,
+      "tags": [
+        {
+          "text": "freak tornado",
+          "accent": "rose"
+        },
+        {
+          "text": "family matriarch",
+          "accent": "gold"
+        },
+        {
+          "text": "Thanksgiving",
+          "accent": "sage"
+        },
+        {
+          "text": "226 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Contemporary"
+      ],
+      "contentFlags": [],
+      "popularity": 5
+    },
+    {
+      "id": "ol16027253w",
+      "title": "This side of the sky",
+      "author": "Elyse Singleton",
+      "isbn": "9780399149207",
+      "cover": "c3",
+      "blurb": "Two friends from rural Mississippi follow their own uncertain paths through the racism they meet in Philadelphia and France.",
+      "aside": "From the stark realities of life in rural Mississippi, the story moves into World War II.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 336,
+      "tags": [
+        {
+          "text": "World War II",
+          "accent": "rose"
+        },
+        {
+          "text": "rural Mississippi",
+          "accent": "gold"
+        },
+        {
+          "text": "two friends",
+          "accent": "sage"
+        },
+        {
+          "text": "336 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 1
+    },
+    {
+      "id": "ol16053911w",
+      "title": "Three Junes",
+      "author": "Julia Glass",
+      "isbn": "9780385721424",
+      "cover": "c4",
+      "blurb": "Three fateful summers in a Scottish family, starting with a widower infatuated with a young American artist.",
+      "aside": "Set on both sides of the Atlantic, the book relives the secret sorrows of his marriage.",
+      "pace": "Slow burn",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 353,
+      "tags": [
+        {
+          "text": "Scottish family",
+          "accent": "rose"
+        },
+        {
+          "text": "three summers",
+          "accent": "gold"
+        },
+        {
+          "text": "widower in Greece",
+          "accent": "sage"
+        },
+        {
+          "text": "353 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 3
+    },
+    {
+      "id": "ol16415810w",
+      "title": "Absolution",
+      "author": "Patrick Flanery",
+      "isbn": "9780857896636",
+      "cover": "c5",
+      "blurb": "In modern-day South Africa, Clare Walde tells of her sister's death and a child's disappearance during apartheid.",
+      "aside": "The events are set twenty years earlier, during apartheid.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 400,
+      "tags": [
+        {
+          "text": "apartheid",
+          "accent": "rose"
+        },
+        {
+          "text": "sister's death",
+          "accent": "gold"
+        },
+        {
+          "text": "missing child",
+          "accent": "sage"
+        },
+        {
+          "text": "400 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 4
+    },
+    {
+      "id": "ol18149401w",
+      "title": "The angel of losses",
+      "author": "Stephanie Feldman",
+      "isbn": "9780062228918",
+      "cover": "c1",
+      "blurb": "Her grandfather's notebook holds stories of the White Rebbe and the mysterious Angel of Losses.",
+      "aside": "Marjorie journeys into the past to unlock the secrets he kept.",
+      "pace": "Slow burn",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 280,
+      "tags": [
+        {
+          "text": "grandfather's notebook",
+          "accent": "rose"
+        },
+        {
+          "text": "White Rebbe",
+          "accent": "gold"
+        },
+        {
+          "text": "past secrets",
+          "accent": "sage"
+        },
+        {
+          "text": "280 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy"
+      ],
+      "contentFlags": [],
+      "popularity": 5
+    },
+    {
+      "id": "ol5725728w",
+      "title": "Plantation",
+      "author": "Dorothea Benton Frank",
+      "isbn": "9781440677397",
+      "cover": "c2",
+      "blurb": "A lush plantation in modern-day South Carolina, where family ties and hidden truths run deep.",
+      "aside": "Frank evokes a lush plantation in the heart of modern-day South Carolina.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 585,
+      "tags": [
+        {
+          "text": "South Carolina plantation",
+          "accent": "rose"
+        },
+        {
+          "text": "family secrets",
+          "accent": "gold"
+        },
+        {
+          "text": "hidden truths",
+          "accent": "sage"
+        },
+        {
+          "text": "585 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Contemporary"
+      ],
+      "contentFlags": [],
+      "popularity": 14
+    },
+    {
+      "id": "ol16814507w",
+      "title": "We Need New Names",
+      "author": "NoViolet Bulawayo",
+      "isbn": "9781471258466",
+      "cover": "c3",
+      "blurb": "Darling and her friends dream of the real paradise, America or Britain, while stealing guavas and singing Lady Gaga.",
+      "aside": "Foreigners visiting Paradise always ask the girls to smile for the camera.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 301,
+      "tags": [
+        {
+          "text": "girls dream of America",
+          "accent": "rose"
+        },
+        {
+          "text": "Paradise",
+          "accent": "gold"
+        },
+        {
+          "text": "coming of age",
+          "accent": "sage"
+        },
+        {
+          "text": "301 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 76
+    },
+    {
+      "id": "ol17625869w",
+      "title": "The Green Road",
+      "author": "Anne Enright",
+      "isbn": "9780224089067",
+      "cover": "c4",
+      "blurb": "Spanning thirty years, The Green Road follows Rosaleen, matriarch of the Madigans, as her family comes together or falls apart.",
+      "aside": "Her family is on the cusp of either coming together or falling irreparably apart.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 315,
+      "tags": [
+        {
+          "text": "family saga",
+          "accent": "rose"
+        },
+        {
+          "text": "matriarch",
+          "accent": "gold"
+        },
+        {
+          "text": "thirty years",
+          "accent": "sage"
+        },
+        {
+          "text": "315 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 10
+    },
+    {
+      "id": "ol17307232w",
+      "title": "Ballistics",
+      "author": "D. W. Wilson",
+      "isbn": "9780670065752",
+      "cover": "c5",
+      "blurb": "In the summer the Canadian Rockies burn, Alan West returns home to his grandfather, who has had a heart attack.",
+      "aside": "Confronting his own mortality, the tough and taciturn Cecil West has a dying request.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 382,
+      "tags": [
+        {
+          "text": "wildfire summer",
+          "accent": "rose"
+        },
+        {
+          "text": "grandfather's heart attack",
+          "accent": "gold"
+        },
+        {
+          "text": "Canadian Rockies",
+          "accent": "sage"
+        },
+        {
+          "text": "382 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 1
+    },
+    {
+      "id": "ol20031306w",
+      "title": "Chronicle of a last summer",
+      "author": "Yasmine El Rashidi",
+      "isbn": "9780770437299",
+      "cover": "c1",
+      "blurb": "A young Egyptian girl's coming of age in Cairo during one blisteringly hot summer, 1984.",
+      "aside": "Her days pass quietly, listening to her mother's phone calls and watching the state-sanctioned TV.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 187,
+      "tags": [
+        {
+          "text": "Cairo 1984",
+          "accent": "rose"
+        },
+        {
+          "text": "coming of age",
+          "accent": "gold"
+        },
+        {
+          "text": "a hot summer",
+          "accent": "sage"
+        },
+        {
+          "text": "187 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 6
+    },
+    {
+      "id": "ol6212454w",
+      "title": "The death of Vishnu",
+      "author": "Manil Suri",
+      "isbn": "9780060004385",
+      "cover": "c2",
+      "blurb": "Vishnu, the building's odd-job man, lies dying on the staircase while neighbours squabble over who will pay for an ambulance.",
+      "aside": "As the action spirals up through the floors, the dramas of each resident's life unfold.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 311,
+      "tags": [
+        {
+          "text": "apartment building",
+          "accent": "rose"
+        },
+        {
+          "text": "dying odd-job man",
+          "accent": "gold"
+        },
+        {
+          "text": "neighbours' squabbles",
+          "accent": "sage"
+        },
+        {
+          "text": "311 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 9
+    },
+    {
+      "id": "ol86271w",
+      "title": "Grand avenue",
+      "author": "Joy Fielding",
+      "isbn": "9780743407083",
+      "cover": "c3",
+      "blurb": "Four friends who shared twenty years of good and bad times now face the strange twists life has taken.",
+      "aside": "Chris, Barbara, Susan and Vicki: one of them now sits alone to ponder it all.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 437,
+      "tags": [
+        {
+          "text": "four friends",
+          "accent": "rose"
+        },
+        {
+          "text": "twenty years",
+          "accent": "gold"
+        },
+        {
+          "text": "lives pulled apart",
+          "accent": "sage"
+        },
+        {
+          "text": "437 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Contemporary"
+      ],
+      "contentFlags": [],
+      "popularity": 10
+    },
+    {
+      "id": "ol510864w",
+      "title": "Six figures",
+      "author": "Fred Leebron",
+      "isbn": "9780156010641",
+      "cover": "c4",
+      "blurb": "A fund-raiser in his midthirties moves his family to Charlotte, a boomtown, and wonders how he got there.",
+      "aside": "Warner Lutz is not particularly happy to be there, in an old Honda with frayed clothes.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 224,
+      "tags": [
+        {
+          "text": "fund-raiser",
+          "accent": "rose"
+        },
+        {
+          "text": "midlife drift",
+          "accent": "gold"
+        },
+        {
+          "text": "boomtown",
+          "accent": "sage"
+        },
+        {
+          "text": "224 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 2
+    },
+    {
+      "id": "ol921373w",
+      "title": "Gabriel's gift",
+      "author": "Hanif Kureishi",
+      "isbn": "9780571207923",
+      "cover": "c5",
+      "blurb": "A fifteen-year-old boy discovers his own extraordinary talents while his parents' generation falls apart around him.",
+      "aside": "Gabriel's father, a washed-up rock musician, has been chucked out of the house.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 223,
+      "tags": [
+        {
+          "text": "fifteen-year-old boy",
+          "accent": "rose"
+        },
+        {
+          "text": "rock musician father",
+          "accent": "gold"
+        },
+        {
+          "text": "hidden talent",
+          "accent": "sage"
+        },
+        {
+          "text": "223 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 5
+    },
+    {
+      "id": "ol18026747w",
+      "title": "Mother, mother",
+      "author": "Koren Zailckas",
+      "isbn": "9780385347235",
+      "cover": "c1",
+      "blurb": "Josephine Hurst has her family under control, until her oldest daughter Rose runs off with a mysterious man.",
+      "aside": "Living in her cheerful but controlling domain has not been easy for the family.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 366,
+      "tags": [
+        {
+          "text": "controlling matriarch",
+          "accent": "rose"
+        },
+        {
+          "text": "runaway daughter",
+          "accent": "gold"
+        },
+        {
+          "text": "historic family house",
+          "accent": "sage"
+        },
+        {
+          "text": "366 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 15
+    },
+    {
+      "id": "ol2647293w",
+      "title": "The Forest",
+      "author": "Edward Rutherfurd",
+      "isbn": "9780099279075",
+      "cover": "c2",
+      "blurb": "From the killing of King William Rufus, an epic of treachery, witchcraft and smuggling runs through the generations.",
+      "aside": "Well-born ladies, lowly woodsmen, sailors, merchants and Cistercian monks all have a place in it.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 764,
+      "tags": [
+        {
+          "text": "medieval England",
+          "accent": "rose"
+        },
+        {
+          "text": "generations",
+          "accent": "gold"
+        },
+        {
+          "text": "New Forest",
+          "accent": "sage"
+        },
+        {
+          "text": "764 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 10
     }
   ]
 }
