@@ -1,5 +1,5 @@
 {
-  "version": 49,
+  "version": 50,
   "retired": {
     "ol19661009w": "tattooist",
     "ol20742637w": "guestlist"
@@ -8254,44 +8254,6 @@
       "popularity": 43
     },
     {
-      "id": "ol21978410w",
-      "title": "Apocalypse Seven",
-      "author": "Gene Doucette",
-      "isbn": "9780358450290",
-      "cover": "c4",
-      "blurb": "A handful of strangers wake in an overgrown, emptied Cambridge and try to work out where everyone went.",
-      "aside": "The world ended overnight and nobody sent a memo; the survivors are funnier about it than they should be.",
-      "pace": "Fast-paced",
-      "romanceLevel": "Not really my thing",
-      "spiceLevel": "Closed door",
-      "pageCount": 384,
-      "tags": [
-        {
-          "text": "empty city",
-          "accent": "rose"
-        },
-        {
-          "text": "strangers band together",
-          "accent": "gold"
-        },
-        {
-          "text": "mystery apocalypse",
-          "accent": "sage"
-        },
-        {
-          "text": "384 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "genres": [
-        "Science Fiction"
-      ],
-      "contentFlags": [
-        "multiple POVs"
-      ],
-      "popularity": 1
-    },
-    {
       "id": "ol20935138w",
       "title": "They Will Drown in Their Mothers' Tears",
       "author": "Johannes Anyuru",
@@ -9832,43 +9794,6 @@
         "multiple POVs"
       ],
       "popularity": 42
-    },
-    {
-      "id": "ol35728151w",
-      "title": "Murder at Holly House",
-      "author": "Denzil Meyrick",
-      "isbn": "9781464259890",
-      "cover": "c1",
-      "blurb": "A stranger is found dead up a chimney in a snowbound 1952 Yorkshire village where everyone is hiding something.",
-      "aside": "A cosy village, a corpse in the chimney, and a cast with plenty to lose — Christie would approve.",
-      "pace": "Steady",
-      "romanceLevel": "Not really my thing",
-      "spiceLevel": "Closed door",
-      "pageCount": 416,
-      "tags": [
-        {
-          "text": "christmas mystery",
-          "accent": "rose"
-        },
-        {
-          "text": "village secrets",
-          "accent": "gold"
-        },
-        {
-          "text": "1950s yorkshire",
-          "accent": "sage"
-        },
-        {
-          "text": "416 pages",
-          "accent": "textSoft"
-        }
-      ],
-      "genres": [
-        "Mystery & Thriller",
-        "Historical Fiction"
-      ],
-      "contentFlags": [],
-      "popularity": 1
     },
     {
       "id": "ol42549528w",
