@@ -1,5 +1,5 @@
 {
-  "version": 50,
+  "version": 51,
   "retired": {
     "ol19661009w": "tattooist",
     "ol20742637w": "guestlist"
@@ -25061,6 +25061,334 @@
       ],
       "contentFlags": [],
       "popularity": 28
+    },
+    {
+      "id": "ol46760w",
+      "title": "The Glass Castle",
+      "author": "Jeannette Walls",
+      "isbn": "9781442339705",
+      "cover": "c1",
+      "blurb": "A memoir of growing up on the move with a brilliant, volatile father and a dreamer of a mother.",
+      "aside": "Walls writes about her parents with more love than sense, and that tension keeps you turning pages.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 347,
+      "tags": [
+        {
+          "text": "childhood on the run",
+          "accent": "rose"
+        },
+        {
+          "text": "family memoir",
+          "accent": "gold"
+        },
+        {
+          "text": "unconventional parents",
+          "accent": "sage"
+        },
+        {
+          "text": "347 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 727
+    },
+    {
+      "id": "ol4720160w",
+      "title": "The Time Traveler's Wife",
+      "author": "Audrey Niffenegger",
+      "isbn": "9780224073943",
+      "cover": "c2",
+      "blurb": "A librarian with a genetic habit of slipping through time falls for an art student, one moment at a time.",
+      "aside": "Sweet, sad, and tidier about time travel than it has any right to be.",
+      "pace": "Steady",
+      "romanceLevel": "Bring it on",
+      "spiceLevel": "Fade to black",
+      "pageCount": 546,
+      "tags": [
+        {
+          "text": "time slips",
+          "accent": "rose"
+        },
+        {
+          "text": "art student and librarian",
+          "accent": "gold"
+        },
+        {
+          "text": "love across years",
+          "accent": "sage"
+        },
+        {
+          "text": "546 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction",
+        "Romance"
+      ],
+      "contentFlags": [],
+      "popularity": 585
+    },
+    {
+      "id": "ol6218186w",
+      "title": "The Ruins",
+      "author": "Scott Smith",
+      "isbn": "9780593054321",
+      "cover": "c3",
+      "blurb": "Four tourists search a Mexican jungle for a missing brother and find a site that won't let them leave.",
+      "aside": "Scott Smith makes the jungle the scariest character here, and nobody in it looks at a plant the same way again.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 336,
+      "tags": [
+        {
+          "text": "jungle horror",
+          "accent": "rose"
+        },
+        {
+          "text": "vacation gone wrong",
+          "accent": "gold"
+        },
+        {
+          "text": "ancient ruins",
+          "accent": "sage"
+        },
+        {
+          "text": "336 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 129
+    },
+    {
+      "id": "ol20625154w",
+      "title": "Dark Matter",
+      "author": "Michelle Paver",
+      "isbn": "9781409123781",
+      "cover": "c4",
+      "blurb": "In 1937 a young wireless operator joins an Arctic expedition, and something on the ice begins to watch him.",
+      "aside": "Short, cold, and so well paced you will feel the temperature drop around page forty.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 243,
+      "tags": [
+        {
+          "text": "arctic expedition",
+          "accent": "rose"
+        },
+        {
+          "text": "1937 haunting",
+          "accent": "gold"
+        },
+        {
+          "text": "isolation dread",
+          "accent": "sage"
+        },
+        {
+          "text": "243 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 81
+    },
+    {
+      "id": "ol43073913w",
+      "title": "Fledgling",
+      "author": "Octavia E. Butler",
+      "isbn": "9780759571518",
+      "cover": "c5",
+      "blurb": "A girl found alone in the woods with amnesia is actually a fifty-three-year-old vampire learning who she is.",
+      "aside": "Butler writes vampires with a biologist's rigour, which makes the hunger uncomfortably reasonable.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Fade to black",
+      "pageCount": 320,
+      "tags": [
+        {
+          "text": "vampire amnesia",
+          "accent": "rose"
+        },
+        {
+          "text": "symbiotic bloodlines",
+          "accent": "gold"
+        },
+        {
+          "text": "found identity",
+          "accent": "sage"
+        },
+        {
+          "text": "320 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror"
+      ],
+      "contentFlags": [],
+      "popularity": 112
+    },
+    {
+      "id": "ol17211w",
+      "title": "Mystic river",
+      "author": "Dennis Lehane",
+      "isbn": "9780062068408",
+      "cover": "c1",
+      "blurb": "One childhood abduction splits three boys apart, and twenty-five years later a murder pulls them back together.",
+      "aside": "Lehane's Boston is grim and grey, and the friendship at its heart hurts more than the crime.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 493,
+      "tags": [
+        {
+          "text": "childhood trauma",
+          "accent": "rose"
+        },
+        {
+          "text": "boston crime",
+          "accent": "gold"
+        },
+        {
+          "text": "friends torn apart",
+          "accent": "sage"
+        },
+        {
+          "text": "493 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller",
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 103
+    },
+    {
+      "id": "ol17199360w",
+      "title": "Mean Streak",
+      "author": "Sandra Brown",
+      "isbn": "9781455581146",
+      "cover": "c2",
+      "blurb": "A pediatrician vanishes on a snowy North Carolina road and wakes up captive to a man with a violent past.",
+      "aside": "Sandra Brown's snowbound thriller is cold and fast, and the husband's timing is the worst thing in it.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 413,
+      "tags": [
+        {
+          "text": "blizzard abduction",
+          "accent": "rose"
+        },
+        {
+          "text": "lone doctor",
+          "accent": "gold"
+        },
+        {
+          "text": "mountain survival",
+          "accent": "sage"
+        },
+        {
+          "text": "413 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 62
+    },
+    {
+      "id": "ol3359138w",
+      "title": "We need to talk about Kevin",
+      "author": "Lionel Shriver",
+      "isbn": "9781852428891",
+      "cover": "c3",
+      "blurb": "A mother pieces together her son's path to a high school massacre, and whether she could have stopped it.",
+      "aside": "Brutal and unforgiving, and you will argue with yourself about whose side to take the whole way through.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 468,
+      "tags": [
+        {
+          "text": "difficult motherhood",
+          "accent": "rose"
+        },
+        {
+          "text": "school massacre",
+          "accent": "gold"
+        },
+        {
+          "text": "unreliable memory",
+          "accent": "sage"
+        },
+        {
+          "text": "468 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 397
+    },
+    {
+      "id": "ol20027994w",
+      "title": "Hex",
+      "author": "Thomas Olde Heuvelt",
+      "isbn": "9781250780935",
+      "cover": "c4",
+      "blurb": "A Hudson Valley town lives with a seventeenth-century witch who walks its streets with her eyes and mouth sewn shut.",
+      "aside": "A town that treats its curse like a fact of life is the most unsettling idea in this list.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 384,
+      "tags": [
+        {
+          "text": "cursed town",
+          "accent": "rose"
+        },
+        {
+          "text": "sewn-shut witch",
+          "accent": "gold"
+        },
+        {
+          "text": "hudson valley",
+          "accent": "sage"
+        },
+        {
+          "text": "384 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror"
+      ],
+      "contentFlags": [],
+      "popularity": 110
     }
   ]
 }
