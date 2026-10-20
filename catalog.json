@@ -1,5 +1,5 @@
 {
-  "version": 51,
+  "version": 52,
   "retired": {
     "ol19661009w": "tattooist",
     "ol20742637w": "guestlist"
@@ -25389,6 +25389,262 @@
       ],
       "contentFlags": [],
       "popularity": 110
+    },
+    {
+      "id": "ol76991w",
+      "title": "A Painted House",
+      "author": "John Grisham",
+      "isbn": "9780553502756",
+      "cover": "c1",
+      "blurb": "Seven-year-old Luke Chandler picks cotton on his family's rented land in 1950s Arkansas, alongside hired workers.",
+      "aside": "Grisham leaves the courtroom behind for a boy's view of harvest season, and it works.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 445,
+      "tags": [
+        {
+          "text": "cotton harvest",
+          "accent": "rose"
+        },
+        {
+          "text": "1950s arkansas",
+          "accent": "gold"
+        },
+        {
+          "text": "boy's eye view",
+          "accent": "sage"
+        },
+        {
+          "text": "445 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 175
+    },
+    {
+      "id": "ol24311121w",
+      "title": "Rock Paper Scissors",
+      "author": "Alice Feeney",
+      "isbn": "9780008370985",
+      "cover": "c2",
+      "blurb": "A weekend in Scotland is meant to save a strained marriage, but the husband has face blindness.",
+      "aside": "Feeney builds dread out of a man who cannot recognise his own wife, and the weekend goes downhill fast.",
+      "pace": "Fast-paced",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 344,
+      "tags": [
+        {
+          "text": "marriage thriller",
+          "accent": "rose"
+        },
+        {
+          "text": "face blindness",
+          "accent": "gold"
+        },
+        {
+          "text": "scottish weekend",
+          "accent": "sage"
+        },
+        {
+          "text": "344 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 446
+    },
+    {
+      "id": "ol15723135w",
+      "title": "The Constant Gardener",
+      "author": "John le Carré",
+      "isbn": "9780743504317",
+      "cover": "c3",
+      "blurb": "A young woman is murdered near Kenya's Lake Turkana while travelling with a doctor from an aid agency.",
+      "aside": "le Carré's angriest book, and the scenery is the only thing in it that isn't corrupt.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 557,
+      "tags": [
+        {
+          "text": "aid industry",
+          "accent": "rose"
+        },
+        {
+          "text": "kenya",
+          "accent": "gold"
+        },
+        {
+          "text": "diplomatic cover-up",
+          "accent": "sage"
+        },
+        {
+          "text": "557 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller",
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 69
+    },
+    {
+      "id": "ol152327w",
+      "title": "Someone to watch over me",
+      "author": "Judith McNaught",
+      "isbn": "9780786251520",
+      "cover": "c4",
+      "blurb": "An actress's husband finds a dream house upstate, but her car goes off a mountain road on the drive there.",
+      "aside": "A romance that turns into a missing-person case, with a snowstorm doing most of the plotting.",
+      "pace": "Steady",
+      "romanceLevel": "Bring it on",
+      "spiceLevel": "Fade to black",
+      "pageCount": 494,
+      "tags": [
+        {
+          "text": "missing persons",
+          "accent": "rose"
+        },
+        {
+          "text": "winter road crash",
+          "accent": "gold"
+        },
+        {
+          "text": "broadway actress",
+          "accent": "sage"
+        },
+        {
+          "text": "494 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Romance",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 83
+    },
+    {
+      "id": "ol2941508w",
+      "title": "The secret life of bees",
+      "author": "Sue Monk Kidd",
+      "isbn": "9780143124320",
+      "cover": "c5",
+      "blurb": "In 1964 South Carolina, a girl's life is shaped by a blurred memory of the day her mother was killed.",
+      "aside": "Kidd's voice is warm enough to make the cruelty land harder.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 303,
+      "tags": [
+        {
+          "text": "mother's death",
+          "accent": "rose"
+        },
+        {
+          "text": "1960s south carolina",
+          "accent": "gold"
+        },
+        {
+          "text": "coming of age",
+          "accent": "sage"
+        },
+        {
+          "text": "303 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 501
+    },
+    {
+      "id": "ol74664w",
+      "title": "The Plot Against America",
+      "author": "Philip Roth",
+      "isbn": "9780618509287",
+      "cover": "c1",
+      "blurb": "Franklin Roosevelt loses the 1940 election to Charles Lindbergh, and the Roth family's world turns antisemitic.",
+      "aside": "Roth's alternate America is quiet at first, then quietly terrifying, which is the point.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 400,
+      "tags": [
+        {
+          "text": "alternate history",
+          "accent": "rose"
+        },
+        {
+          "text": "1940 election",
+          "accent": "gold"
+        },
+        {
+          "text": "antisemitism",
+          "accent": "sage"
+        },
+        {
+          "text": "400 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 440
+    },
+    {
+      "id": "ol20805970w",
+      "title": "Catfishing on CatNet",
+      "author": "Naomi Kritzer",
+      "isbn": "9781250165084",
+      "cover": "c2",
+      "blurb": "A sixteen-year-old who has never lived anywhere for six months finds her only constant in an online cat-photo community.",
+      "aside": "A teen, a cat-picture forum, and an AI admin with excellent taste in photos: the best kind of cozy disaster.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 304,
+      "tags": [
+        {
+          "text": "sentient ai",
+          "accent": "rose"
+        },
+        {
+          "text": "cat photos",
+          "accent": "gold"
+        },
+        {
+          "text": "online community",
+          "accent": "sage"
+        },
+        {
+          "text": "304 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 19
     }
   ]
 }
