@@ -1,5 +1,5 @@
 {
-  "version": 58,
+  "version": 59,
   "retired": {
     "ol19661009w": "tattooist",
     "ol20742637w": "guestlist"
@@ -30227,6 +30227,618 @@
       ],
       "contentFlags": [],
       "popularity": 3
+    },
+    {
+      "id": "ol985265w",
+      "title": "The slynx",
+      "author": "Tatʹi͡ana Tolstai͡a",
+      "isbn": "9780618124978",
+      "cover": "c1",
+      "blurb": "Some two hundred years after the Blast, a community in what remains of Moscow persists in brutal circumstances.",
+      "aside": "Mice are the current source of food and clothes.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 278,
+      "tags": [
+        {
+          "text": "post-apocalyptic Moscow",
+          "accent": "rose"
+        },
+        {
+          "text": "mice as food",
+          "accent": "gold"
+        },
+        {
+          "text": "brutal community",
+          "accent": "sage"
+        },
+        {
+          "text": "278 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 20
+    },
+    {
+      "id": "ol44319491w",
+      "title": "A Guardian and a Thief",
+      "author": "Megha Majumdar",
+      "isbn": "9780593804872",
+      "cover": "c2",
+      "blurb": "In a collapsing near-future Kolkata, a mother, her toddler and her father plan to join her husband in Michigan.",
+      "aside": "Ma is days from leaving the city behind.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 252,
+      "tags": [
+        {
+          "text": "near-future Kolkata",
+          "accent": "rose"
+        },
+        {
+          "text": "mother and daughter",
+          "accent": "gold"
+        },
+        {
+          "text": "leaving the city",
+          "accent": "sage"
+        },
+        {
+          "text": "252 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 6
+    },
+    {
+      "id": "ol5730140w",
+      "title": "Market Forces",
+      "author": "Richard K. Morgan",
+      "isbn": "9780575075672",
+      "cover": "c3",
+      "blurb": "In a near-future global village, Shorn Associates finds big money in the right local conflicts, from Cambodia to Guatemala.",
+      "aside": "A coup in Cambodia. Guns to Guatemala.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 464,
+      "tags": [
+        {
+          "text": "corporate mercenaries",
+          "accent": "rose"
+        },
+        {
+          "text": "near-future conflicts",
+          "accent": "gold"
+        },
+        {
+          "text": "global village",
+          "accent": "sage"
+        },
+        {
+          "text": "464 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 21
+    },
+    {
+      "id": "ol461309w",
+      "title": "Marsbound",
+      "author": "Joe Haldeman",
+      "isbn": "9781436239615",
+      "cover": "c4",
+      "blurb": "Young Carmen Dula and her family are about to embark on the adventure of a lifetime to Mars.",
+      "aside": "A novel of the red planet by the Hugo and Nebula winner of The Accidental Time Machine.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 292,
+      "tags": [
+        {
+          "text": "Mars",
+          "accent": "rose"
+        },
+        {
+          "text": "family adventure",
+          "accent": "gold"
+        },
+        {
+          "text": "coming of age",
+          "accent": "sage"
+        },
+        {
+          "text": "292 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 9
+    },
+    {
+      "id": "ol14909498w",
+      "title": "Hunter's Run",
+      "author": "George R. R. Martin",
+      "isbn": "9780061839986",
+      "cover": "c5",
+      "blurb": "Ramon Espejo flees poverty and hopelessness in the Third World for a new world aboard a great starship.",
+      "aside": "Like so many others, he joins a host of like-minded workers and dreamers.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 324,
+      "tags": [
+        {
+          "text": "generation ship",
+          "accent": "rose"
+        },
+        {
+          "text": "migrant workers",
+          "accent": "gold"
+        },
+        {
+          "text": "poverty and hope",
+          "accent": "sage"
+        },
+        {
+          "text": "324 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 23
+    },
+    {
+      "id": "ol7923834w",
+      "title": "Learning the World",
+      "author": "Ken MacLeod",
+      "isbn": "9780765313317",
+      "cover": "c1",
+      "blurb": "A ship-born generation nears the end of a four-hundred-year journey toward a new home.",
+      "aside": "Its generation is tense with expectation for the new system that is to be their home.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 345,
+      "tags": [
+        {
+          "text": "generation ship",
+          "accent": "rose"
+        },
+        {
+          "text": "four-hundred-year voyage",
+          "accent": "gold"
+        },
+        {
+          "text": "new home",
+          "accent": "sage"
+        },
+        {
+          "text": "345 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 12
+    },
+    {
+      "id": "ol15538387w",
+      "title": "Up against it",
+      "author": "M. J. Locke",
+      "isbn": "9780765382665",
+      "cover": "c2",
+      "blurb": "Geoff and his friends live in Phocaea, a distant asteroid colony on the Solar System's frontier.",
+      "aside": "They are high-spirited young adults who enjoy hacking matter compilers.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 417,
+      "tags": [
+        {
+          "text": "asteroid colony",
+          "accent": "rose"
+        },
+        {
+          "text": "young adults",
+          "accent": "gold"
+        },
+        {
+          "text": "matter compilers",
+          "accent": "sage"
+        },
+        {
+          "text": "417 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 8
+    },
+    {
+      "id": "ol16654685w",
+      "title": "A stranger in Olondria",
+      "author": "Sofia Samatar",
+      "isbn": "9781522672364",
+      "cover": "c3",
+      "blurb": "Jevick, the pepper merchant's son, grows up on stories of Olondria, a distant land where books are common.",
+      "aside": "Olondria is where books are as common as they are rare at home.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 300,
+      "tags": [
+        {
+          "text": "pepper merchant's son",
+          "accent": "rose"
+        },
+        {
+          "text": "land of books",
+          "accent": "gold"
+        },
+        {
+          "text": "fantasy world",
+          "accent": "sage"
+        },
+        {
+          "text": "300 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy"
+      ],
+      "contentFlags": [],
+      "popularity": 21
+    },
+    {
+      "id": "ol19976661w",
+      "title": "Bird box",
+      "author": "Josh Malerman",
+      "isbn": "9780062352125",
+      "cover": "c4",
+      "blurb": "A mother and her two children make their way down a river blindfolded, to avoid seeing a terrifying entity.",
+      "aside": "The story is set in an apocalyptic near-future world.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 36,
+      "tags": [
+        {
+          "text": "apocalyptic near-future",
+          "accent": "rose"
+        },
+        {
+          "text": "blindfolded journey",
+          "accent": "gold"
+        },
+        {
+          "text": "unseen entity",
+          "accent": "sage"
+        },
+        {
+          "text": "36 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror"
+      ],
+      "contentFlags": [],
+      "popularity": 83
+    },
+    {
+      "id": "ol15414013w",
+      "title": "Haunting Violet",
+      "author": "Alyxandra Harvey",
+      "isbn": "9780802798398",
+      "cover": "c5",
+      "blurb": "Sixteen-year-old Violet Willoughby has been part of her mother's Spiritualist scam since she was nine.",
+      "aside": "In 1872 she is at a house party in Hampshire, England.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 343,
+      "tags": [
+        {
+          "text": "Spiritualist scam",
+          "accent": "rose"
+        },
+        {
+          "text": "Victorian ghosts",
+          "accent": "gold"
+        },
+        {
+          "text": "house party",
+          "accent": "sage"
+        },
+        {
+          "text": "343 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy"
+      ],
+      "contentFlags": [],
+      "popularity": 13
+    },
+    {
+      "id": "ol13771807w",
+      "title": "The ghosts of Belfast",
+      "author": "Stuart Neville",
+      "isbn": "9781569476000",
+      "cover": "c1",
+      "blurb": "A debut in the Irish noir tradition, set in Belfast, from Stuart Neville.",
+      "aside": "Neville joins a select group of Irish writers, including Ken Bruen and Adrian McKinty.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 326,
+      "tags": [
+        {
+          "text": "Belfast noir",
+          "accent": "rose"
+        },
+        {
+          "text": "Irish crime",
+          "accent": "gold"
+        },
+        {
+          "text": "debut novel",
+          "accent": "sage"
+        },
+        {
+          "text": "326 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 14
+    },
+    {
+      "id": "ol20160635w",
+      "title": "At Briarwood School for Girls",
+      "author": "Michael Knight",
+      "isbn": "9780802128423",
+      "cover": "c2",
+      "blurb": "It's 1994, and Lenore Littlefield is a junior at Briarwood School for Girls, where she plays basketball.",
+      "aside": "She hates her roommate, and history is her favourite subject.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 304,
+      "tags": [
+        {
+          "text": "boarding school 1994",
+          "accent": "rose"
+        },
+        {
+          "text": "basketball",
+          "accent": "gold"
+        },
+        {
+          "text": "secret",
+          "accent": "sage"
+        },
+        {
+          "text": "304 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 3
+    },
+    {
+      "id": "ol15974940w",
+      "title": "The dead boys",
+      "author": "Royce Buckingham",
+      "isbn": "9780399252228",
+      "cover": "c3",
+      "blurb": "In Richland, Washington, a giant sycamore tree, mutated by nuclear waste, feeds on the life energy of boys.",
+      "aside": "Horribly mutated by nuclear waste, the tree is the central horror.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 201,
+      "tags": [
+        {
+          "text": "killer tree",
+          "accent": "rose"
+        },
+        {
+          "text": "desert town",
+          "accent": "gold"
+        },
+        {
+          "text": "nuclear waste",
+          "accent": "sage"
+        },
+        {
+          "text": "201 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror"
+      ],
+      "contentFlags": [],
+      "popularity": 8
+    },
+    {
+      "id": "ol17393107w",
+      "title": "Florence Giles",
+      "author": "John Harding",
+      "isbn": "9780007315048",
+      "cover": "c4",
+      "blurb": "In 1891 twelve-year-old orphan Florence Giles lives in a remote and crumbling New England mansion.",
+      "aside": "A gripping, sinister Gothic tale in the tradition of Henry James's The Turn of the Screw.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 252,
+      "tags": [
+        {
+          "text": "Gothic mansion",
+          "accent": "rose"
+        },
+        {
+          "text": "orphan girl",
+          "accent": "gold"
+        },
+        {
+          "text": "New England",
+          "accent": "sage"
+        },
+        {
+          "text": "252 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror"
+      ],
+      "contentFlags": [],
+      "popularity": 19
+    },
+    {
+      "id": "ol18446147w",
+      "title": "The lantern",
+      "author": "Deborah Lawrenson",
+      "isbn": "9780062049698",
+      "cover": "c5",
+      "blurb": "A whirlwind romance with an older man offers Eve a new life in an old house in Provence.",
+      "aside": "The house is Les Genévriers, in a charming hamlet amid fragrant lavender fields.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 386,
+      "tags": [
+        {
+          "text": "whirlwind romance",
+          "accent": "rose"
+        },
+        {
+          "text": "Provence house",
+          "accent": "gold"
+        },
+        {
+          "text": "older man",
+          "accent": "sage"
+        },
+        {
+          "text": "386 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 4
+    },
+    {
+      "id": "ol19712817w",
+      "title": "The witches of New York",
+      "author": "Ami McKay",
+      "isbn": "9781409143512",
+      "cover": "c1",
+      "blurb": "In 1880s New York, Beatrice, unaware of her spiritual gifts, applies for a job at a teashop for female occultists.",
+      "aside": "The teashop is run by Adelaide Thom and Eleanor St. Clair.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 523,
+      "tags": [
+        {
+          "text": "1880s New York",
+          "accent": "rose"
+        },
+        {
+          "text": "occult teashop",
+          "accent": "gold"
+        },
+        {
+          "text": "spiritual gifts",
+          "accent": "sage"
+        },
+        {
+          "text": "523 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 2
+    },
+    {
+      "id": "ol42403294w",
+      "title": "Blood on Her Tongue",
+      "author": "Johanna van Veen",
+      "isbn": "9781464245084",
+      "cover": "c2",
+      "blurb": "In 1887 the Netherlands, Lucy's twin sister Sarah refuses to eat and grows obsessed with a centuries-old corpse.",
+      "aside": "Sarah mumbles nonsensically, and her sister is left to make sense of it.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 352,
+      "tags": [
+        {
+          "text": "Netherlands 1887",
+          "accent": "rose"
+        },
+        {
+          "text": "twin sisters",
+          "accent": "gold"
+        },
+        {
+          "text": "centuries-old corpse",
+          "accent": "sage"
+        },
+        {
+          "text": "352 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror"
+      ],
+      "contentFlags": [],
+      "popularity": 9
     }
   ]
 }
