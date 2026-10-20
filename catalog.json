@@ -1,5 +1,5 @@
 {
-  "version": 59,
+  "version": 60,
   "retired": {
     "ol19661009w": "tattooist",
     "ol20742637w": "guestlist"
@@ -30839,6 +30839,618 @@
       ],
       "contentFlags": [],
       "popularity": 9
+    },
+    {
+      "id": "ol18150464w",
+      "title": "Alena",
+      "author": "Rachel Pastan",
+      "isbn": "9781594632471",
+      "cover": "c1",
+      "blurb": "A contemporary retelling of Daphne du Maurier's Rebecca, in which a bright young curator is haunted by a legacy.",
+      "aside": "It is a retelling of du Maurier's gripping and iconic novel.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 308,
+      "tags": [
+        {
+          "text": "Rebecca retelling",
+          "accent": "rose"
+        },
+        {
+          "text": "museum curator",
+          "accent": "gold"
+        },
+        {
+          "text": "inherited legacy",
+          "accent": "sage"
+        },
+        {
+          "text": "308 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 3
+    },
+    {
+      "id": "ol19754723w",
+      "title": "Dracul",
+      "author": "Dacre Stoker",
+      "isbn": "9780593331194",
+      "cover": "c2",
+      "blurb": "In 1868 a twenty-one-year-old Bram Stoker waits in a desolate tower to face an indescribable evil.",
+      "aside": "He is armed only with crucifixes, holy water and a rifle.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 520,
+      "tags": [
+        {
+          "text": "Dracula prequel",
+          "accent": "rose"
+        },
+        {
+          "text": "Bram Stoker",
+          "accent": "gold"
+        },
+        {
+          "text": "1868 tower",
+          "accent": "sage"
+        },
+        {
+          "text": "520 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror"
+      ],
+      "contentFlags": [],
+      "popularity": 25
+    },
+    {
+      "id": "ol20030829w",
+      "title": "The secret language of stones",
+      "author": "Rose, M. J.",
+      "isbn": "9781683240914",
+      "cover": "c3",
+      "blurb": "In World War I Paris, Opaline Duplessi makes trench watches for soldiers at the front.",
+      "aside": "She works at a famous Paris jewellery store.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 370,
+      "tags": [
+        {
+          "text": "World War I",
+          "accent": "rose"
+        },
+        {
+          "text": "Paris jewelers",
+          "accent": "gold"
+        },
+        {
+          "text": "trench watches",
+          "accent": "sage"
+        },
+        {
+          "text": "370 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 6
+    },
+    {
+      "id": "ol42439464w",
+      "title": "The House Saphir",
+      "author": "Marissa Meyer",
+      "isbn": "9781250320957",
+      "cover": "c4",
+      "blurb": "Mallory Fontaine is a fraud: from a long line of witches, her only magic is seeing ghosts.",
+      "aside": "Seeing ghosts is rarely as useful as one would hope.",
+      "pace": "Fast-paced",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 432,
+      "tags": [
+        {
+          "text": "fraud witch",
+          "accent": "rose"
+        },
+        {
+          "text": "ghost-seeing",
+          "accent": "gold"
+        },
+        {
+          "text": "witch family",
+          "accent": "sage"
+        },
+        {
+          "text": "432 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy"
+      ],
+      "contentFlags": [],
+      "popularity": 4
+    },
+    {
+      "id": "ol21076998w",
+      "title": "Southern Cross the Dog",
+      "author": "Bill Cheng",
+      "isbn": "9780062225023",
+      "cover": "c5",
+      "blurb": "Convinced he is cursed after the Great Mississippi Flood of 1927, twenty-year-old Robert Chatham has lost his will to live.",
+      "aside": "Trouble follows him everywhere.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 362,
+      "tags": [
+        {
+          "text": "Great Mississippi Flood",
+          "accent": "rose"
+        },
+        {
+          "text": "1927",
+          "accent": "gold"
+        },
+        {
+          "text": "curse",
+          "accent": "sage"
+        },
+        {
+          "text": "362 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 1
+    },
+    {
+      "id": "ol17825088w",
+      "title": "Rustication",
+      "author": "Charles Palliser",
+      "isbn": "9780393088724",
+      "cover": "c1",
+      "blurb": "In winter 1863, seventeen-year-old Richard Shenstone is sent down from Cambridge under a cloud of suspicion.",
+      "aside": "He is addicted to opium.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 327,
+      "tags": [
+        {
+          "text": "Victorian Cambridge",
+          "accent": "rose"
+        },
+        {
+          "text": "opium",
+          "accent": "gold"
+        },
+        {
+          "text": "suspicion",
+          "accent": "sage"
+        },
+        {
+          "text": "327 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 2
+    },
+    {
+      "id": "ol20338816w",
+      "title": "The Vines",
+      "author": "Christopher Rice",
+      "isbn": "9780349402864",
+      "cover": "c2",
+      "blurb": "A restored plantation mansion outside New Orleans hides a dark history that has long been forgotten.",
+      "aside": "Something sinister lurks beneath it.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 216,
+      "tags": [
+        {
+          "text": "plantation mansion",
+          "accent": "rose"
+        },
+        {
+          "text": "New Orleans",
+          "accent": "gold"
+        },
+        {
+          "text": "buried history",
+          "accent": "sage"
+        },
+        {
+          "text": "216 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror"
+      ],
+      "contentFlags": [],
+      "popularity": 6
+    },
+    {
+      "id": "ol19995240w",
+      "title": "Inspector of the Dead",
+      "author": "David Morrell",
+      "isbn": "9781444781366",
+      "cover": "c3",
+      "blurb": "Thomas De Quincey, infamous for Confessions of an Opium-Eater, confronts London's harrowing streets to thwart an assassination.",
+      "aside": "The year is 1855.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 355,
+      "tags": [
+        {
+          "text": "Thomas De Quincey",
+          "accent": "rose"
+        },
+        {
+          "text": "assassination plot",
+          "accent": "gold"
+        },
+        {
+          "text": "Victorian London",
+          "accent": "sage"
+        },
+        {
+          "text": "355 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 2
+    },
+    {
+      "id": "ol16646362w",
+      "title": "Ironskin",
+      "author": "Tina Connolly",
+      "isbn": "9780765330598",
+      "cover": "c4",
+      "blurb": "Jane Eliot wears an iron mask to contain the fey curse that scars her cheek.",
+      "aside": "The Great War is five years gone, but its victims remain.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 304,
+      "tags": [
+        {
+          "text": "iron mask",
+          "accent": "rose"
+        },
+        {
+          "text": "fey curse",
+          "accent": "gold"
+        },
+        {
+          "text": "post-war",
+          "accent": "sage"
+        },
+        {
+          "text": "304 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy"
+      ],
+      "contentFlags": [],
+      "popularity": 7
+    },
+    {
+      "id": "ol19764749w",
+      "title": "Daughters of the Lake",
+      "author": "Wendy Webb",
+      "isbn": "9781503901339",
+      "cover": "c5",
+      "blurb": "When a murdered woman and infant wash up on Lake Superior, Kate Granger, who has seen her in dreams, investigates.",
+      "aside": "Kate has seen this woman in her dreams.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 362,
+      "tags": [
+        {
+          "text": "Lake Superior",
+          "accent": "rose"
+        },
+        {
+          "text": "dreams",
+          "accent": "gold"
+        },
+        {
+          "text": "murdered woman",
+          "accent": "sage"
+        },
+        {
+          "text": "362 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 2
+    },
+    {
+      "id": "ol19354261w",
+      "title": "The Asylum",
+      "author": "John Harwood",
+      "isbn": "9780544003477",
+      "cover": "c1",
+      "blurb": "Georgia Ferrars wakes in an English asylum with no memory of recent weeks, and her family calls her an imposter.",
+      "aside": "It is a small asylum, and the gap in her memory covers several weeks.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 270,
+      "tags": [
+        {
+          "text": "asylum",
+          "accent": "rose"
+        },
+        {
+          "text": "lost memory",
+          "accent": "gold"
+        },
+        {
+          "text": "imposter",
+          "accent": "sage"
+        },
+        {
+          "text": "270 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 11
+    },
+    {
+      "id": "ol20746197w",
+      "title": "Catherine House",
+      "author": "Elisabeth Thomas",
+      "isbn": "9780062905659",
+      "cover": "c2",
+      "blurb": "A gothic-infused debut of literary suspense, set within a secluded, elite university.",
+      "aside": "A debut novel of literary suspense.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 320,
+      "tags": [
+        {
+          "text": "secluded elite university",
+          "accent": "rose"
+        },
+        {
+          "text": "gothic suspense",
+          "accent": "gold"
+        },
+        {
+          "text": "curious undergraduate",
+          "accent": "sage"
+        },
+        {
+          "text": "320 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 32
+    },
+    {
+      "id": "ol15182351w",
+      "title": "The Lessons",
+      "author": "Naomi Alderman",
+      "isbn": "9781407456713",
+      "cover": "c3",
+      "blurb": "A crumbling Georgian mansion in an Oxford back street is known only to those with a key.",
+      "aside": "Its owner is described as mercurial.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 288,
+      "tags": [
+        {
+          "text": "Oxford mansion",
+          "accent": "rose"
+        },
+        {
+          "text": "hidden house",
+          "accent": "gold"
+        },
+        {
+          "text": "mysterious owner",
+          "accent": "sage"
+        },
+        {
+          "text": "288 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 8
+    },
+    {
+      "id": "ol246907w",
+      "title": "The Castle of Berry Pomeroy",
+      "author": "Edward Montague",
+      "isbn": "9780979233258",
+      "cover": "c4",
+      "blurb": "A Gothic tale of horror, jealousy and revenge, in which Lady Elinor envies her sister Matilda.",
+      "aside": "The castle's legends are its source.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 292,
+      "tags": [
+        {
+          "text": "Gothic castle",
+          "accent": "rose"
+        },
+        {
+          "text": "jealousy and revenge",
+          "accent": "gold"
+        },
+        {
+          "text": "sisters",
+          "accent": "sage"
+        },
+        {
+          "text": "292 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror"
+      ],
+      "contentFlags": [],
+      "popularity": 0
+    },
+    {
+      "id": "ol15702407w",
+      "title": "All That is Beautiful",
+      "author": "Roxane Tepfer Sanford",
+      "isbn": "9781605944609",
+      "cover": "c5",
+      "blurb": "In 1878 Lillian is a young woman, free from Sutton Hall and the evil grandmother who ruled her.",
+      "aside": "She spent years locked away, far from the world.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 320,
+      "tags": [
+        {
+          "text": "1878",
+          "accent": "rose"
+        },
+        {
+          "text": "escaping a cruel grandmother",
+          "accent": "gold"
+        },
+        {
+          "text": "locked away",
+          "accent": "sage"
+        },
+        {
+          "text": "320 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 0
+    },
+    {
+      "id": "ol8475929w",
+      "title": "The Other Eden",
+      "author": "Sarah Bryant",
+      "isbn": "9780954891312",
+      "cover": "c1",
+      "blurb": "Devastated by her grandfather's death, precocious young pianist Eleanor Rose heeds the words of a woman in her dream.",
+      "aside": "The grandfather who raised her is gone.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 341,
+      "tags": [
+        {
+          "text": "young pianist",
+          "accent": "rose"
+        },
+        {
+          "text": "grief",
+          "accent": "gold"
+        },
+        {
+          "text": "dream",
+          "accent": "sage"
+        },
+        {
+          "text": "341 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 1
+    },
+    {
+      "id": "ol28850182w",
+      "title": "A Long Time Dead",
+      "author": "Samara Breger",
+      "isbn": "9781612942650",
+      "cover": "c2",
+      "blurb": "Poppy wakes one evening in an unfamiliar home far from London, in 1837.",
+      "aside": "She had always loved the night.",
+      "pace": "Slow burn",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 412,
+      "tags": [
+        {
+          "text": "1837",
+          "accent": "rose"
+        },
+        {
+          "text": "waking in strange house",
+          "accent": "gold"
+        },
+        {
+          "text": "mystery",
+          "accent": "sage"
+        },
+        {
+          "text": "412 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 13
     }
   ]
 }
