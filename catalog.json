@@ -1,5 +1,5 @@
 {
-  "version": 55,
+  "version": 56,
   "retired": {
     "ol19661009w": "tattooist",
     "ol20742637w": "guestlist"
@@ -27995,6 +27995,690 @@
       ],
       "contentFlags": [],
       "popularity": 10
+    },
+    {
+      "id": "ol19671594w",
+      "title": "Girl at war",
+      "author": "Sara Nović",
+      "isbn": "9780812996340",
+      "cover": "c1",
+      "blurb": "In 1991 Croatia, civil war shatters ten-year-old Ana Juric's happy life, and she is drawn into guerrilla warfare.",
+      "aside": "Years after her escape to America, she struggles to hide her past.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 320,
+      "tags": [
+        {
+          "text": "civil war",
+          "accent": "rose"
+        },
+        {
+          "text": "child soldier",
+          "accent": "gold"
+        },
+        {
+          "text": "escape to America",
+          "accent": "sage"
+        },
+        {
+          "text": "320 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 18
+    },
+    {
+      "id": "ol13850788w",
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "isbn": "9780330426237",
+      "cover": "c2",
+      "blurb": "A poor Black tobacco farmer's cells, taken without her knowledge in 1951, became one of medicine's most important tools.",
+      "aside": "Her cells were vital for developing the polio vaccine, cloning, gene mapping and in vitro fertilization.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 381,
+      "tags": [
+        {
+          "text": "HeLa cells",
+          "accent": "rose"
+        },
+        {
+          "text": "medical history",
+          "accent": "gold"
+        },
+        {
+          "text": "bioethics",
+          "accent": "sage"
+        },
+        {
+          "text": "381 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 658
+    },
+    {
+      "id": "ol20470196w",
+      "title": "Girl, Woman, Other",
+      "author": "Bernardine Evaristo",
+      "isbn": "9780802157706",
+      "cover": "c3",
+      "blurb": "Twelve very different characters, mostly women, tell the stories of their families, friends and lovers.",
+      "aside": "Joyfully polyphonic and vibrantly contemporary, it moves across the country and through the years.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 458,
+      "tags": [
+        {
+          "text": "ensemble cast",
+          "accent": "rose"
+        },
+        {
+          "text": "Black British women",
+          "accent": "gold"
+        },
+        {
+          "text": "polyphonic",
+          "accent": "sage"
+        },
+        {
+          "text": "458 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 137
+    },
+    {
+      "id": "ol17053083w",
+      "title": "Long Division",
+      "author": "Kiese Laymon",
+      "isbn": "9781982177362",
+      "cover": "c4",
+      "blurb": "A Twain-esque debut about celebrity, authorship, violence and coming of age in post-Katrina Mississippi.",
+      "aside": "Written in a voice that is alternately funny, lacerating and wise.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 304,
+      "tags": [
+        {
+          "text": "post-Katrina Mississippi",
+          "accent": "rose"
+        },
+        {
+          "text": "coming of age",
+          "accent": "gold"
+        },
+        {
+          "text": "two interwoven stories",
+          "accent": "sage"
+        },
+        {
+          "text": "304 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 19
+    },
+    {
+      "id": "ol20026586w",
+      "title": "Born on a Tuesday",
+      "author": "Elnathan John",
+      "isbn": "9780802124821",
+      "cover": "c5",
+      "blurb": "Dantala, a street boy paid to stir election trouble, must run for his life after a plot goes disastrously wrong.",
+      "aside": "He has to leave his best friend behind.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 264,
+      "tags": [
+        {
+          "text": "Nigerian election",
+          "accent": "rose"
+        },
+        {
+          "text": "street boys",
+          "accent": "gold"
+        },
+        {
+          "text": "lost friendship",
+          "accent": "sage"
+        },
+        {
+          "text": "264 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 17
+    },
+    {
+      "id": "ol17939692w",
+      "title": "The ghost bride",
+      "author": "Yangsze Choo",
+      "isbn": "9780062227324",
+      "cover": "c1",
+      "blurb": "In colonial Malaya, Li Lan, daughter of a bankrupt family, is asked whether she will become a ghost bride.",
+      "aside": "In the sleepy port of Malacca, ghosts and superstitions abound.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 362,
+      "tags": [
+        {
+          "text": "ghosts",
+          "accent": "rose"
+        },
+        {
+          "text": "colonial Malaya",
+          "accent": "gold"
+        },
+        {
+          "text": "Chinese customs",
+          "accent": "sage"
+        },
+        {
+          "text": "362 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy"
+      ],
+      "contentFlags": [],
+      "popularity": 33
+    },
+    {
+      "id": "ol221348w",
+      "title": "The Last Samurai",
+      "author": "Helen Dewitt",
+      "isbn": "9780786887002",
+      "cover": "c2",
+      "blurb": "Ludo, a six-year-old prodigy raised alone by his mother, teaches himself Greek so he can read The Odyssey.",
+      "aside": "His mother struggles to make ends meet while trying to keep his voracious intellect satisfied.",
+      "pace": "Slow burn",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 530,
+      "tags": [
+        {
+          "text": "child prodigy",
+          "accent": "rose"
+        },
+        {
+          "text": "single mother",
+          "accent": "gold"
+        },
+        {
+          "text": "The Odyssey",
+          "accent": "sage"
+        },
+        {
+          "text": "530 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 71
+    },
+    {
+      "id": "ol19969030w",
+      "title": "Expecting better",
+      "author": "Emily Oster",
+      "isbn": "9781409142317",
+      "cover": "c3",
+      "blurb": "Pregnancy's many rules, from cold cuts to coffee, are handed down without explanation. Oster checks the evidence.",
+      "aside": "Rules for prenatal testing are hard and fast, and unexplained.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 328,
+      "tags": [
+        {
+          "text": "pregnancy rules",
+          "accent": "rose"
+        },
+        {
+          "text": "evidence",
+          "accent": "gold"
+        },
+        {
+          "text": "economist",
+          "accent": "sage"
+        },
+        {
+          "text": "328 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 81
+    },
+    {
+      "id": "ol16283578w",
+      "title": "To Selena, with love",
+      "author": "Chris Perez",
+      "isbn": "9780451414045",
+      "cover": "c4",
+      "blurb": "Chris Perez's heartfelt tribute tells the story of his relationship with music superstar Selena.",
+      "aside": "One of the most compelling and adored superstars in Latin music history, she shared all of herself with fans.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 320,
+      "tags": [
+        {
+          "text": "Selena",
+          "accent": "rose"
+        },
+        {
+          "text": "Latin music",
+          "accent": "gold"
+        },
+        {
+          "text": "memoir tribute",
+          "accent": "sage"
+        },
+        {
+          "text": "320 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 259
+    },
+    {
+      "id": "ol5823995w",
+      "title": "A Piece of Cake",
+      "author": "Cupcake Brown",
+      "isbn": "9781400052288",
+      "cover": "c5",
+      "blurb": "A heart-wrenching, uplifting memoir about a woman named Cupcake Brown and a life of hardship.",
+      "aside": "A New York Times bestseller, and a confessional memoir that is hard to put down.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 480,
+      "tags": [
+        {
+          "text": "overcoming hardship",
+          "accent": "rose"
+        },
+        {
+          "text": "confessional memoir",
+          "accent": "gold"
+        },
+        {
+          "text": "homelessness",
+          "accent": "sage"
+        },
+        {
+          "text": "480 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 226
+    },
+    {
+      "id": "ol20159758w",
+      "title": "The Making of a Manager",
+      "author": "Julie Zhuo",
+      "isbn": "9780735219564",
+      "cover": "c1",
+      "blurb": "Julie Zhuo recounts the moment she became a rookie manager and realised she didn't really know what she was doing.",
+      "aside": "The champagne is popped, and then the truth descends like a fog.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 312,
+      "tags": [
+        {
+          "text": "first-time manager",
+          "accent": "rose"
+        },
+        {
+          "text": "tech career",
+          "accent": "gold"
+        },
+        {
+          "text": "self-doubt",
+          "accent": "sage"
+        },
+        {
+          "text": "312 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 92
+    },
+    {
+      "id": "ol21177651w",
+      "title": "little scratch",
+      "author": "Rebecca Watson",
+      "isbn": "9780593214817",
+      "cover": "c2",
+      "blurb": "An experimental novel that follows one young woman's every thought across twenty-four hours of ordinary monotony.",
+      "aside": "She wakes up, goes to work, watches the clock and checks her phone, but something is under her skin.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 240,
+      "tags": [
+        {
+          "text": "experimental",
+          "accent": "rose"
+        },
+        {
+          "text": "twenty-four hours",
+          "accent": "gold"
+        },
+        {
+          "text": "one woman's thoughts",
+          "accent": "sage"
+        },
+        {
+          "text": "240 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 8
+    },
+    {
+      "id": "ol20935119w",
+      "title": "The Saturday Night Ghost Club",
+      "author": "Craig Davidson",
+      "isbn": "9780735274846",
+      "cover": "c3",
+      "blurb": "In 1980s Niagara Falls, Jake Baker spends his summers with his uncle, an enthusiast of occult artifacts and conspiracy theories.",
+      "aside": "The summer Jake turns twelve, he befriends a pair of siblings new to town.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 238,
+      "tags": [
+        {
+          "text": "Niagara Falls",
+          "accent": "rose"
+        },
+        {
+          "text": "occult uncle",
+          "accent": "gold"
+        },
+        {
+          "text": "haunted summer",
+          "accent": "sage"
+        },
+        {
+          "text": "238 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy"
+      ],
+      "contentFlags": [],
+      "popularity": 36
+    },
+    {
+      "id": "ol20169038w",
+      "title": "The Darkest Child",
+      "author": "Delores Phillips",
+      "isbn": "9781569473788",
+      "cover": "c4",
+      "blurb": "In 1958 Georgia, thirteen-year-old Tangy Mae Quinn is the sixth of ten fatherless siblings, and the brightest.",
+      "aside": "Rozelle is beautiful, charismatic and light-skinned, and Tangy is the darkest-skinned of the children.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 390,
+      "tags": [
+        {
+          "text": "Georgia 1958",
+          "accent": "rose"
+        },
+        {
+          "text": "sibling rivalry",
+          "accent": "gold"
+        },
+        {
+          "text": "colourism",
+          "accent": "sage"
+        },
+        {
+          "text": "390 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 26
+    },
+    {
+      "id": "ol17576343w",
+      "title": "For Today I Am A Boy",
+      "author": "Kim Fu",
+      "isbn": "9780544538528",
+      "cover": "c5",
+      "blurb": "Peter Huang struggles with his inner desire to be a girl while his father maps out a very masculine future.",
+      "aside": "Peter deals with different people who react to his desires and choices.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 256,
+      "tags": [
+        {
+          "text": "coming out",
+          "accent": "rose"
+        },
+        {
+          "text": "Chinese Canadian family",
+          "accent": "gold"
+        },
+        {
+          "text": "masculine expectations",
+          "accent": "sage"
+        },
+        {
+          "text": "256 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 34
+    },
+    {
+      "id": "ol20021306w",
+      "title": "The association of small bombs",
+      "author": "Karan Mahajan",
+      "isbn": "9780525429630",
+      "cover": "c1",
+      "blurb": "After a 'small' bomb kills two friends in a Delhi marketplace, Mansoor is drawn to a charismatic young activist.",
+      "aside": "The activist's allegiances are more changeable than Mansoor could have imagined.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 288,
+      "tags": [
+        {
+          "text": "Delhi bombing",
+          "accent": "rose"
+        },
+        {
+          "text": "charismatic activist",
+          "accent": "gold"
+        },
+        {
+          "text": "political awakening",
+          "accent": "sage"
+        },
+        {
+          "text": "288 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 10
+    },
+    {
+      "id": "ol19967924w",
+      "title": "Whistling past the graveyard",
+      "author": "Susan Crandall",
+      "isbn": "9781476740041",
+      "cover": "c2",
+      "blurb": "In 1963 nine-year-old Starla runs away from her grandmother's Mississippi home to find her mother in Nashville.",
+      "aside": "She accepts a ride from Eula, a Black woman travelling alone with a white baby.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 320,
+      "tags": [
+        {
+          "text": "1963 road trip",
+          "accent": "rose"
+        },
+        {
+          "text": "Nashville",
+          "accent": "gold"
+        },
+        {
+          "text": "runaway girl",
+          "accent": "sage"
+        },
+        {
+          "text": "320 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 9
+    },
+    {
+      "id": "ol21676895w",
+      "title": "Attachments",
+      "author": "Rainbow Rowell",
+      "isbn": "9781409116295",
+      "cover": "c3",
+      "blurb": "Beth and Jennifer know someone is reading their work email, and he has started to say he loves them.",
+      "aside": "They can't quite bring themselves to take it seriously, even though everyone in the newsroom knows.",
+      "pace": "Steady",
+      "romanceLevel": "Bring it on",
+      "spiceLevel": "Fade to black",
+      "pageCount": 336,
+      "tags": [
+        {
+          "text": "workplace email",
+          "accent": "rose"
+        },
+        {
+          "text": "newsroom",
+          "accent": "gold"
+        },
+        {
+          "text": "anonymous admirer",
+          "accent": "sage"
+        },
+        {
+          "text": "336 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Romance"
+      ],
+      "contentFlags": [],
+      "popularity": 108
+    },
+    {
+      "id": "ol18149682w",
+      "title": "Everything Under",
+      "author": "Daisy Johnson",
+      "isbn": "9781784702113",
+      "cover": "c4",
+      "blurb": "On a canal boat, Gretel and her mother invented a language that was just their own.",
+      "aside": "She has not seen her mother since she was sixteen, and those memories have faded.",
+      "pace": "Slow burn",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 272,
+      "tags": [
+        {
+          "text": "lost mother",
+          "accent": "rose"
+        },
+        {
+          "text": "invented language",
+          "accent": "gold"
+        },
+        {
+          "text": "canal boat childhood",
+          "accent": "sage"
+        },
+        {
+          "text": "272 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 23
     }
   ]
 }
