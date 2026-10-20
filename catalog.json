@@ -1,5 +1,5 @@
 {
-  "version": 60,
+  "version": 61,
   "retired": {
     "ol19661009w": "tattooist",
     "ol20742637w": "guestlist"
@@ -31451,6 +31451,510 @@
       ],
       "contentFlags": [],
       "popularity": 13
+    },
+    {
+      "id": "ol276557w",
+      "title": "Collapse",
+      "author": "Jared Diamond",
+      "isbn": "9780713998627",
+      "cover": "c1",
+      "blurb": "Jared Diamond, author of Guns, Germs, and Steel, looks at how and why some societies collapse.",
+      "aside": "His Pulitzer-winning bestseller examined why Western civilizations developed the technologies they did.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 648,
+      "tags": [
+        {
+          "text": "societal collapse",
+          "accent": "rose"
+        },
+        {
+          "text": "history",
+          "accent": "gold"
+        },
+        {
+          "text": "ecology",
+          "accent": "sage"
+        },
+        {
+          "text": "648 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 302
+    },
+    {
+      "id": "ol8423479w",
+      "title": "Love Is a Mix Tape",
+      "author": "Rob Sheffield",
+      "isbn": "9781400083022",
+      "cover": "c2",
+      "blurb": "In the 1990s 'alternative' suddenly became mainstream, and bands like Pearl Jam, Pavement and Nirvana became huge.",
+      "aside": "Pavement and R.E.M. rode the same wave as Nirvana.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 240,
+      "tags": [
+        {
+          "text": "1990s music",
+          "accent": "rose"
+        },
+        {
+          "text": "mix tapes",
+          "accent": "gold"
+        },
+        {
+          "text": "memoir",
+          "accent": "sage"
+        },
+        {
+          "text": "240 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 60
+    },
+    {
+      "id": "ol3457506w",
+      "title": "How to read literature like a professor",
+      "author": "Thomas C. Foster",
+      "isbn": "9780061259418",
+      "cover": "c3",
+      "blurb": "What does it mean when a fictional hero takes a journey, or gets drenched in a sudden rain shower?",
+      "aside": "Often there is much more going on in the story than meets the eye.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 325,
+      "tags": [
+        {
+          "text": "literary criticism",
+          "accent": "rose"
+        },
+        {
+          "text": "reading guide",
+          "accent": "gold"
+        },
+        {
+          "text": "symbolism",
+          "accent": "sage"
+        },
+        {
+          "text": "325 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 142
+    },
+    {
+      "id": "ol41168w",
+      "title": "Zero",
+      "author": "Charles Seife",
+      "isbn": "9780285635944",
+      "cover": "c4",
+      "blurb": "The Babylonians invented it, the Greeks banned it, and the Church used it to fend off heretics.",
+      "aside": "The number was worshipped by the Hindus.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 256,
+      "tags": [
+        {
+          "text": "mathematics history",
+          "accent": "rose"
+        },
+        {
+          "text": "the number zero",
+          "accent": "gold"
+        },
+        {
+          "text": "science",
+          "accent": "sage"
+        },
+        {
+          "text": "256 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 87
+    },
+    {
+      "id": "ol19974170w",
+      "title": "How to fail at almost everything and still win big",
+      "author": "Scott Adams",
+      "isbn": "9781591846918",
+      "cover": "c5",
+      "blurb": "Dilbert creator Scott Adams offers a funny memoir of his many failures and what they taught him.",
+      "aside": "It is his most personal book ever.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 248,
+      "tags": [
+        {
+          "text": "failure",
+          "accent": "rose"
+        },
+        {
+          "text": "career advice",
+          "accent": "gold"
+        },
+        {
+          "text": "humour",
+          "accent": "sage"
+        },
+        {
+          "text": "248 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 117
+    },
+    {
+      "id": "ol491853w",
+      "title": "Killing Pablo",
+      "author": "Mark Bowden",
+      "isbn": "9780802123787",
+      "cover": "c1",
+      "blurb": "The hunt for Pablo Escobar, the world's greatest outlaw, by the governments of the United States and Colombia.",
+      "aside": "Mark Bowden's book details the efforts of both governments.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 372,
+      "tags": [
+        {
+          "text": "manhunt",
+          "accent": "rose"
+        },
+        {
+          "text": "Colombia",
+          "accent": "gold"
+        },
+        {
+          "text": "drug cartel",
+          "accent": "sage"
+        },
+        {
+          "text": "372 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 94
+    },
+    {
+      "id": "ol18022177w",
+      "title": "Humans Of New York",
+      "author": "Brandon Stanton",
+      "isbn": "9781250058904",
+      "cover": "c2",
+      "blurb": "Photographer Brandon Stanton set out in 2010 to create a photographic census of New York City.",
+      "aside": "A single-handed project, he attempted to create the census alone.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 428,
+      "tags": [
+        {
+          "text": "photography",
+          "accent": "rose"
+        },
+        {
+          "text": "New York City",
+          "accent": "gold"
+        },
+        {
+          "text": "portraits",
+          "accent": "sage"
+        },
+        {
+          "text": "428 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 15
+    },
+    {
+      "id": "ol5874391w",
+      "title": "Stasiland",
+      "author": "Anna Funder",
+      "isbn": "9781862075801",
+      "cover": "c3",
+      "blurb": "Berlin in the 1990s, a city split for forty years by the Wall, is trying to knit itself back together.",
+      "aside": "Former Stasi men and their victims live side by side.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 288,
+      "tags": [
+        {
+          "text": "post-Wall Berlin",
+          "accent": "rose"
+        },
+        {
+          "text": "East Germany",
+          "accent": "gold"
+        },
+        {
+          "text": "Stasi",
+          "accent": "sage"
+        },
+        {
+          "text": "288 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 45
+    },
+    {
+      "id": "ol4300550w",
+      "title": "The Dream Machine",
+      "author": "M. Mitchell Waldrop",
+      "isbn": "9780142001356",
+      "cover": "c4",
+      "blurb": "More than a decade before personal computers emerge from the garages of Silicon Valley, the story begins in 1962.",
+      "aside": "Thirty years before the Web arrives, the book traces the machine's origins.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 528,
+      "tags": [
+        {
+          "text": "computing history",
+          "accent": "rose"
+        },
+        {
+          "text": "Silicon Valley",
+          "accent": "gold"
+        },
+        {
+          "text": "1960s",
+          "accent": "sage"
+        },
+        {
+          "text": "528 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 50
+    },
+    {
+      "id": "ol1345968w",
+      "title": "Strange Angel",
+      "author": "George Pendle",
+      "isbn": "9780156031790",
+      "cover": "c5",
+      "blurb": "A lonely misfit born into a wealthy Pasadena family, Parsons read science fiction and launched rockets in his backyard.",
+      "aside": "The book follows Parsons from a lonely childhood to his rocket experiments.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 368,
+      "tags": [
+        {
+          "text": "rocket pioneer",
+          "accent": "rose"
+        },
+        {
+          "text": "Pasadena",
+          "accent": "gold"
+        },
+        {
+          "text": "lonely misfit",
+          "accent": "sage"
+        },
+        {
+          "text": "368 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 15
+    },
+    {
+      "id": "ol2990495w",
+      "title": "The Last Man Who Knew Everything",
+      "author": "Andrew Robinson",
+      "isbn": "9780131343047",
+      "cover": "c1",
+      "blurb": "Polymath Thomas Young gets the all-round examination he deserves, in a biography by Andrew Robinson.",
+      "aside": "Celebrated biographer Andrew Robinson gives Young the full treatment.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 299,
+      "tags": [
+        {
+          "text": "polymath",
+          "accent": "rose"
+        },
+        {
+          "text": "science history",
+          "accent": "gold"
+        },
+        {
+          "text": "biography",
+          "accent": "sage"
+        },
+        {
+          "text": "299 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 165
+    },
+    {
+      "id": "ol8022521w",
+      "title": "Gang Leader for a Day",
+      "author": "Sudhir Venkatesh",
+      "isbn": "9781594201509",
+      "cover": "c2",
+      "blurb": "A young sociologist studies a Chicago crack-dealing gang from the inside.",
+      "aside": "The story captured the world's attention when it was first described.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 320,
+      "tags": [
+        {
+          "text": "sociology",
+          "accent": "rose"
+        },
+        {
+          "text": "Chicago gang",
+          "accent": "gold"
+        },
+        {
+          "text": "fieldwork",
+          "accent": "sage"
+        },
+        {
+          "text": "320 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 58
+    },
+    {
+      "id": "ol4311885w",
+      "title": "Boyd",
+      "author": "Robert Coram",
+      "isbn": "9780316796880",
+      "cover": "c3",
+      "blurb": "John Boyd may be the most remarkable unsung hero in American military history.",
+      "aside": "Some remember him as the greatest U.S. fighter pilot ever.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 412,
+      "tags": [
+        {
+          "text": "military history",
+          "accent": "rose"
+        },
+        {
+          "text": "fighter pilot",
+          "accent": "gold"
+        },
+        {
+          "text": "strategy",
+          "accent": "sage"
+        },
+        {
+          "text": "412 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 34
+    },
+    {
+      "id": "ol11707625w",
+      "title": "Infidel",
+      "author": "Ayaan Hirsi Ali",
+      "isbn": "9780743289689",
+      "cover": "c4",
+      "blurb": "Hirsi Ali's story tells how a bright little girl grew from dutiful obedience into an outspoken woman.",
+      "aside": "A celebration of triumph over adversity.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 353,
+      "tags": [
+        {
+          "text": "memoir",
+          "accent": "rose"
+        },
+        {
+          "text": "faith and freedom",
+          "accent": "gold"
+        },
+        {
+          "text": "triumph over adversity",
+          "accent": "sage"
+        },
+        {
+          "text": "353 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 71
     }
   ]
 }
