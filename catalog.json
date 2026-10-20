@@ -1,5 +1,5 @@
 {
-  "version": 53,
+  "version": 54,
   "retired": {
     "ol19661009w": "tattooist",
     "ol20742637w": "guestlist"
@@ -26295,6 +26295,913 @@
       ],
       "contentFlags": [],
       "popularity": 46
+    },
+    {
+      "id": "ol17543672w",
+      "title": "Dept of Speculation",
+      "author": "Jenny Offill",
+      "isbn": "9781847088734",
+      "cover": "c1",
+      "blurb": "A portrait of a marriage in fragments, a meditation on trust, faith and the uncertainty that unites us all.",
+      "aside": "Offill's heroine is only ever called 'the wife', and the book circles intimacy and shipwreck with dry wit.",
+      "pace": "Slow burn",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 186,
+      "tags": [
+        {
+          "text": "marriage unravelling",
+          "accent": "rose"
+        },
+        {
+          "text": "fragmented narrative",
+          "accent": "gold"
+        },
+        {
+          "text": "motherhood",
+          "accent": "sage"
+        },
+        {
+          "text": "186 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 52
+    },
+    {
+      "id": "ol19745610w",
+      "title": "Indian horse",
+      "author": "Richard Wagamese",
+      "isbn": "9781571319883",
+      "cover": "c2",
+      "blurb": "Alone at a horrific boarding school after losing his family and home, Saul has to find a way to survive.",
+      "aside": "His family retreats into the woods to reconnect with half-forgotten traditions and hide from the authorities.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 204,
+      "tags": [
+        {
+          "text": "residential school",
+          "accent": "rose"
+        },
+        {
+          "text": "boy alone in the north",
+          "accent": "gold"
+        },
+        {
+          "text": "lost family",
+          "accent": "sage"
+        },
+        {
+          "text": "204 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 90
+    },
+    {
+      "id": "ol20044854w",
+      "title": "This is how it always is",
+      "author": "Laurie Frankel",
+      "isbn": "9781472241610",
+      "cover": "c3",
+      "blurb": "A large, loving family welcomes another baby boy, and the secret they have been keeping starts to unravel.",
+      "aside": "When happily ever after becomes complicated, the family has to decide what it is willing to keep quiet.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 336,
+      "tags": [
+        {
+          "text": "transgender child",
+          "accent": "rose"
+        },
+        {
+          "text": "big loving family",
+          "accent": "gold"
+        },
+        {
+          "text": "parents' secret",
+          "accent": "sage"
+        },
+        {
+          "text": "336 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 56
+    },
+    {
+      "id": "ol16805771w",
+      "title": "The Childhood of Jesus",
+      "author": "J. M. Coetzee",
+      "isbn": "9781922079701",
+      "cover": "c4",
+      "blurb": "A man and a boy are given new names and ages in a new land, and must learn Spanish.",
+      "aside": "Officialdom in the city of Novilla is polite but not necessarily helpful, and Simon finds work on a grain wharf.",
+      "pace": "Slow burn",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 288,
+      "tags": [
+        {
+          "text": "new country",
+          "accent": "rose"
+        },
+        {
+          "text": "boy with a borrowed name",
+          "accent": "gold"
+        },
+        {
+          "text": "search for purpose",
+          "accent": "sage"
+        },
+        {
+          "text": "288 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 12
+    },
+    {
+      "id": "ol20344845w",
+      "title": "How We Fight For Our Lives",
+      "author": "Saeed Jones",
+      "isbn": "9781432875237",
+      "cover": "c5",
+      "blurb": "Poet Saeed Jones's memoir about sex, race and power, winner of the Kirkus Prize and the Stonewall Book Award.",
+      "aside": "The New York Times Book Review called it a 'moving, bracingly honest memoir'.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 208,
+      "tags": [
+        {
+          "text": "memoir",
+          "accent": "rose"
+        },
+        {
+          "text": "race and sexuality",
+          "accent": "gold"
+        },
+        {
+          "text": "race and power",
+          "accent": "sage"
+        },
+        {
+          "text": "208 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 32
+    },
+    {
+      "id": "ol20411060w",
+      "title": "The Forty Rules of Love",
+      "author": "Elif Şafak",
+      "isbn": "9780143118527",
+      "cover": "c1",
+      "blurb": "Two parallel stories: a modern one, and Rumi's encounter in the 13th century with the whirling dervish Shams of Tabriz.",
+      "aside": "Şafak sets out to incarnate Rumi's timeless message of love in a lyrical, exuberant novel.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 368,
+      "tags": [
+        {
+          "text": "Rumi and Shams",
+          "accent": "rose"
+        },
+        {
+          "text": "two timelines",
+          "accent": "gold"
+        },
+        {
+          "text": "13th-century mysticism",
+          "accent": "sage"
+        },
+        {
+          "text": "368 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 680
+    },
+    {
+      "id": "ol24811392w",
+      "title": "Assembly",
+      "author": "Natasha Brown",
+      "isbn": "9780316268264",
+      "cover": "c2",
+      "blurb": "A Black British woman readies for a lavish garden party, doing all the right things and keeping her head down.",
+      "aside": "Come of age in the credit crunch, be civil in a hostile environment, and keep going.",
+      "pace": "Slow burn",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 112,
+      "tags": [
+        {
+          "text": "one day",
+          "accent": "rose"
+        },
+        {
+          "text": "Black British woman",
+          "accent": "gold"
+        },
+        {
+          "text": "garden party",
+          "accent": "sage"
+        },
+        {
+          "text": "112 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 20
+    },
+    {
+      "id": "ol16469956w",
+      "title": "The Sherlockian",
+      "author": "Graham Moore",
+      "isbn": "9780446572590",
+      "cover": "c3",
+      "blurb": "A Sherlock Holmes enthusiast is drawn into the hunt for Arthur Conan Doyle's missing diary after a scholar is murdered.",
+      "aside": "He never imagines that joining the society will thrust him onto the hunt for the diary.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 350,
+      "tags": [
+        {
+          "text": "Sherlock Holmes society",
+          "accent": "rose"
+        },
+        {
+          "text": "missing diary",
+          "accent": "gold"
+        },
+        {
+          "text": "murder",
+          "accent": "sage"
+        },
+        {
+          "text": "350 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 6
+    },
+    {
+      "id": "ol16579451w",
+      "title": "Open city",
+      "author": "Teju Cole",
+      "isbn": "9780571279432",
+      "cover": "c4",
+      "blurb": "A young Nigerian doctor doing his residency wanders Manhattan, using long walks to process his past and a recent breakup.",
+      "aside": "The walks are a release from the tightly regulated mental environment of work.",
+      "pace": "Slow burn",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 320,
+      "tags": [
+        {
+          "text": "walking New York",
+          "accent": "rose"
+        },
+        {
+          "text": "young Nigerian doctor",
+          "accent": "gold"
+        },
+        {
+          "text": "quiet reflection",
+          "accent": "sage"
+        },
+        {
+          "text": "320 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 43
+    },
+    {
+      "id": "ol1054090w",
+      "title": "The Glass Palace",
+      "author": "Amitav Ghosh",
+      "isbn": "9780670082209",
+      "cover": "c5",
+      "blurb": "A poor boy named Rajkumar rises on the chaos of 1885 Burma and builds an empire in the teak forest.",
+      "aside": "When the royal family is driven from the Glass Palace, Rajkumar befriends Dolly, a young woman at the court.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 560,
+      "tags": [
+        {
+          "text": "Burma 1885",
+          "accent": "rose"
+        },
+        {
+          "text": "teak empire",
+          "accent": "gold"
+        },
+        {
+          "text": "exile and loss",
+          "accent": "sage"
+        },
+        {
+          "text": "560 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction",
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 46
+    },
+    {
+      "id": "ol19761907w",
+      "title": "A ladder to the sky",
+      "author": "John Boyne",
+      "isbn": "9780385692915",
+      "cover": "c1",
+      "blurb": "An aspiring writer uses a chance meeting with a celebrated novelist to take the secrets for his first novel.",
+      "aside": "Once he has a taste of literary fame, Maurice knows he can stop at nothing in pursuit of it.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 400,
+      "tags": [
+        {
+          "text": "ambitious writer",
+          "accent": "rose"
+        },
+        {
+          "text": "stolen secrets",
+          "accent": "gold"
+        },
+        {
+          "text": "literary ambition",
+          "accent": "sage"
+        },
+        {
+          "text": "400 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 21
+    },
+    {
+      "id": "ol20111843w",
+      "title": "The Devourers",
+      "author": "Indra Das",
+      "isbn": "9780143424406",
+      "cover": "c2",
+      "blurb": "A Kolkata professor agrees to transcribe a stranger's battered notebooks, and the unfinished tale inside grips him.",
+      "aside": "On a moonlit night in Kolkata, Alok meets a stranger with a bizarre confession and an extraordinary story.",
+      "pace": "Slow burn",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 313,
+      "tags": [
+        {
+          "text": "Kolkata",
+          "accent": "rose"
+        },
+        {
+          "text": "unfinished tale",
+          "accent": "gold"
+        },
+        {
+          "text": "stranger's confession",
+          "accent": "sage"
+        },
+        {
+          "text": "313 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy"
+      ],
+      "contentFlags": [],
+      "popularity": 30
+    },
+    {
+      "id": "ol19349605w",
+      "title": "American War",
+      "author": "Omar El Akkad",
+      "isbn": "9781524779856",
+      "cover": "c3",
+      "blurb": "In a second American Civil War and a devastating plague, one family is caught deep in the middle.",
+      "aside": "Sarat Chestnut is six when the Second American Civil War breaks out in 2074.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 352,
+      "tags": [
+        {
+          "text": "second civil war",
+          "accent": "rose"
+        },
+        {
+          "text": "plague",
+          "accent": "gold"
+        },
+        {
+          "text": "one family in the middle",
+          "accent": "sage"
+        },
+        {
+          "text": "352 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 28
+    },
+    {
+      "id": "ol20191840w",
+      "title": "Who Is Vera Kelly?",
+      "author": "Rosalie Knecht",
+      "isbn": "9781947793019",
+      "cover": "c4",
+      "blurb": "A 1960s CIA agent in Argentina is betrayed and left stranded in the wake of a coup.",
+      "aside": "Her assignment was to infiltrate student radicals and wiretap a congressman.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 272,
+      "tags": [
+        {
+          "text": "CIA in Argentina",
+          "accent": "rose"
+        },
+        {
+          "text": "1960s spy",
+          "accent": "gold"
+        },
+        {
+          "text": "wiretap assignment",
+          "accent": "sage"
+        },
+        {
+          "text": "272 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller",
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 15
+    },
+    {
+      "id": "ol20058525w",
+      "title": "Spoonbenders",
+      "author": "Daryl Gregory",
+      "isbn": "9781786482778",
+      "cover": "c5",
+      "blurb": "Family of psychics must use their powers to escape the CIA, the mafia, and a skeptic out to discredit them.",
+      "aside": "A hilarious, tender, magical novel about the invisible forces that bind us.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 408,
+      "tags": [
+        {
+          "text": "psychic family",
+          "accent": "rose"
+        },
+        {
+          "text": "con artist",
+          "accent": "gold"
+        },
+        {
+          "text": "CIA and mafia",
+          "accent": "sage"
+        },
+        {
+          "text": "408 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy"
+      ],
+      "contentFlags": [],
+      "popularity": 17
+    },
+    {
+      "id": "ol20660554w",
+      "title": "How much of these hills is gold",
+      "author": "C Pam Zhang",
+      "isbn": "9780593171844",
+      "cover": "c1",
+      "blurb": "A haunting adventure story and unforgettable sibling story, blending Chinese symbolism and reimagined history.",
+      "aside": "On a broad level it explores race in an expanding country and where immigrants are allowed to belong.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 336,
+      "tags": [
+        {
+          "text": "sibling story",
+          "accent": "rose"
+        },
+        {
+          "text": "westward expansion",
+          "accent": "gold"
+        },
+        {
+          "text": "immigrant belonging",
+          "accent": "sage"
+        },
+        {
+          "text": "336 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction",
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 41
+    },
+    {
+      "id": "ol17366726w",
+      "title": "The Plover",
+      "author": "Brian Doyle",
+      "isbn": "9781250034779",
+      "cover": "c2",
+      "blurb": "Declan O'Donnell leaves Oregon on his boat, the Plover, to escape his troubles, and finds a crew instead of solitude.",
+      "aside": "A rapturous, heartfelt celebration of life's surprising path, by the author of Mink River.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 311,
+      "tags": [
+        {
+          "text": "sea voyage",
+          "accent": "rose"
+        },
+        {
+          "text": "solitude",
+          "accent": "gold"
+        },
+        {
+          "text": "found crew",
+          "accent": "sage"
+        },
+        {
+          "text": "311 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 4
+    },
+    {
+      "id": "ol20042944w",
+      "title": "How to Survive a Plague",
+      "author": "David France",
+      "isbn": "9781509839391",
+      "cover": "c3",
+      "blurb": "The history of the battle to halt the AIDS epidemic, and the activists who refused to die without a fight.",
+      "aside": "From the creator of the Oscar-nominated documentary of the same name.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 640,
+      "tags": [
+        {
+          "text": "AIDS epidemic",
+          "accent": "rose"
+        },
+        {
+          "text": "activist history",
+          "accent": "gold"
+        },
+        {
+          "text": "medical research",
+          "accent": "sage"
+        },
+        {
+          "text": "640 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 28
+    },
+    {
+      "id": "ol17694089w",
+      "title": "Enon",
+      "author": "Paul Harding",
+      "isbn": "9780099538059",
+      "cover": "c4",
+      "blurb": "Charlie Crosby tries to come to terms with the death of his daughter and the end of his marriage.",
+      "aside": "He is the grandson of George Washington Crosby, the protagonist of Tinkers.",
+      "pace": "Slow burn",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 256,
+      "tags": [
+        {
+          "text": "grief",
+          "accent": "rose"
+        },
+        {
+          "text": "grandfather and grandson",
+          "accent": "gold"
+        },
+        {
+          "text": "divorce",
+          "accent": "sage"
+        },
+        {
+          "text": "256 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 7
+    },
+    {
+      "id": "ol17706140w",
+      "title": "The death of bees",
+      "author": "Lisa O'Donnell",
+      "isbn": "9780062209849",
+      "cover": "c5",
+      "blurb": "Two sisters try to keep their parents' death a secret, on their own in a Glasgow housing estate.",
+      "aside": "Then several residents of the estate begin to suspect that something is not right.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 311,
+      "tags": [
+        {
+          "text": "orphaned sisters",
+          "accent": "rose"
+        },
+        {
+          "text": "Glasgow housing estate",
+          "accent": "gold"
+        },
+        {
+          "text": "a secret kept",
+          "accent": "sage"
+        },
+        {
+          "text": "311 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 6
+    },
+    {
+      "id": "ol20035196w",
+      "title": "Moonstone",
+      "author": "Sjón",
+      "isbn": "9780374536923",
+      "cover": "c1",
+      "blurb": "Reykjavik, 1918: a volcano darkens the sky, and sixteen-year-old Mani lives for the movies and his dreams.",
+      "aside": "Mani's life weaves through a city where the Great War still rages in the outside world.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 152,
+      "tags": [
+        {
+          "text": "Reykjavik 1918",
+          "accent": "rose"
+        },
+        {
+          "text": "volcano and flu",
+          "accent": "gold"
+        },
+        {
+          "text": "a boy who loves movies",
+          "accent": "sage"
+        },
+        {
+          "text": "152 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction",
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 11
+    },
+    {
+      "id": "ol14854120w",
+      "title": "All families are psychotic",
+      "author": "Douglas Coupland",
+      "isbn": "9780679311409",
+      "cover": "c2",
+      "blurb": "In 2001 the Drummond family reunites near Cape Canaveral to watch their daughter launch into space.",
+      "aside": "They stumble into every illicit activity under the tropical sun, from kidnapping to blackmail.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 279,
+      "tags": [
+        {
+          "text": "Florida family reunion",
+          "accent": "rose"
+        },
+        {
+          "text": "space launch",
+          "accent": "gold"
+        },
+        {
+          "text": "black comedy",
+          "accent": "sage"
+        },
+        {
+          "text": "279 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 16
+    },
+    {
+      "id": "ol20134828w",
+      "title": "Night Boat To Tangier",
+      "author": "Kevin Barry",
+      "isbn": "9780385540315",
+      "cover": "c3",
+      "blurb": "Two aging criminals at the end of their damage-filled careers wait in a Spanish ferry terminal.",
+      "aside": "A superbly melancholic novel full of beautiful phrases and terrible men.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 255,
+      "tags": [
+        {
+          "text": "two aging criminals",
+          "accent": "rose"
+        },
+        {
+          "text": "Spanish ferry port",
+          "accent": "gold"
+        },
+        {
+          "text": "damaged careers",
+          "accent": "sage"
+        },
+        {
+          "text": "255 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller",
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 21
+    },
+    {
+      "id": "ol24144565w",
+      "title": "Intimacies",
+      "author": "Katie M. Kitamura",
+      "isbn": "9781529112078",
+      "cover": "c4",
+      "blurb": "An interpreter escapes New York for The Hague, where she is drawn into the tangled life of her married lover.",
+      "aside": "From the author of A Separation, a taut and electrifying story about a woman caught between many truths.",
+      "pace": "Slow burn",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 240,
+      "tags": [
+        {
+          "text": "interpreter",
+          "accent": "rose"
+        },
+        {
+          "text": "The Hague",
+          "accent": "gold"
+        },
+        {
+          "text": "tangled love",
+          "accent": "sage"
+        },
+        {
+          "text": "240 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 18
+    },
+    {
+      "id": "ol19996693w",
+      "title": "Clean slate",
+      "author": "Andrea Bramhall",
+      "isbn": "9781602829435",
+      "cover": "c5",
+      "blurb": "After a vicious attack, Morgan wakes to a world that has moved on, and must start her life over again.",
+      "aside": "John Major is no longer prime minister, and the Millennium has come and gone.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 304,
+      "tags": [
+        {
+          "text": "amnesia after an attack",
+          "accent": "rose"
+        },
+        {
+          "text": "lost years",
+          "accent": "gold"
+        },
+        {
+          "text": "start over",
+          "accent": "sage"
+        },
+        {
+          "text": "304 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 5
     }
   ]
 }
