@@ -1,5 +1,5 @@
 {
-  "version": 61,
+  "version": 62,
   "retired": {
     "ol19661009w": "tattooist",
     "ol20742637w": "guestlist"
@@ -31955,6 +31955,366 @@
       ],
       "contentFlags": [],
       "popularity": 71
+    },
+    {
+      "id": "ol20054877w",
+      "title": "Abigale Hall",
+      "author": "Lauren A. Forry",
+      "isbn": "9781510717268",
+      "cover": "c1",
+      "blurb": "Amid the terror of the Second World War, seventeen-year-old Eliza and her little sister Rebecca face tragedy.",
+      "aside": "The sisters have had their share of tragedy.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 384,
+      "tags": [
+        {
+          "text": "WWII",
+          "accent": "rose"
+        },
+        {
+          "text": "sisters",
+          "accent": "gold"
+        },
+        {
+          "text": "tragedy",
+          "accent": "sage"
+        },
+        {
+          "text": "384 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 0
+    },
+    {
+      "id": "ol2793678w",
+      "title": "Eats, Shoots & Leaves",
+      "author": "Lynne Truss",
+      "isbn": "9780007329069",
+      "cover": "c2",
+      "blurb": "Lynne Truss takes readers on a hilarious tour through the rules of punctuation.",
+      "aside": "Anxious about the apostrophe? Confused by the comma?",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 209,
+      "tags": [
+        {
+          "text": "punctuation",
+          "accent": "rose"
+        },
+        {
+          "text": "grammar",
+          "accent": "gold"
+        },
+        {
+          "text": "humour",
+          "accent": "sage"
+        },
+        {
+          "text": "209 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 117
+    },
+    {
+      "id": "ol3085962w",
+      "title": "Ella Minnow Pea",
+      "author": "Mark Dunn",
+      "isbn": "9780413772473",
+      "cover": "c3",
+      "blurb": "An epistolary novel set on a fictional island off the South Carolina coast, in the hometown of Nevin Nollop.",
+      "aside": "Nollop is the inventor of the pangram that gives the novel its title.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 208,
+      "tags": [
+        {
+          "text": "epistolary novel",
+          "accent": "rose"
+        },
+        {
+          "text": "fictional island",
+          "accent": "gold"
+        },
+        {
+          "text": "letters",
+          "accent": "sage"
+        },
+        {
+          "text": "208 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 296
+    },
+    {
+      "id": "ol5957689w",
+      "title": "Masters of Doom",
+      "author": "David Kushner",
+      "isbn": "9781588362896",
+      "cover": "c4",
+      "blurb": "The story of a maladjusted genius teenage boy who builds video games, told as an American creation myth.",
+      "aside": "The author calls it the greatest American myth of cosmogenesis.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 336,
+      "tags": [
+        {
+          "text": "video game history",
+          "accent": "rose"
+        },
+        {
+          "text": "teenage genius",
+          "accent": "gold"
+        },
+        {
+          "text": "American myth",
+          "accent": "sage"
+        },
+        {
+          "text": "336 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 123
+    },
+    {
+      "id": "ol15683250w",
+      "title": "Capitalist Realism",
+      "author": "Mark Fisher",
+      "isbn": "9781803414300",
+      "cover": "c5",
+      "blurb": "It is easier to imagine the end of the world than the end of capitalism.",
+      "aside": "After 1989, capitalism has presented itself as the only realistic system.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 123,
+      "tags": [
+        {
+          "text": "capitalism",
+          "accent": "rose"
+        },
+        {
+          "text": "political theory",
+          "accent": "gold"
+        },
+        {
+          "text": "ideology",
+          "accent": "sage"
+        },
+        {
+          "text": "123 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 229
+    },
+    {
+      "id": "ol5801795w",
+      "title": "Fast Food Nation",
+      "author": "Eric Schlosser",
+      "isbn": "9780141885292",
+      "cover": "c1",
+      "blurb": "The story of fast food is the story of postwar America, created by a handful of mavericks.",
+      "aside": "To a degree both engrossing and alarming, it is a study of the industry.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 385,
+      "tags": [
+        {
+          "text": "fast food industry",
+          "accent": "rose"
+        },
+        {
+          "text": "postwar America",
+          "accent": "gold"
+        },
+        {
+          "text": "food politics",
+          "accent": "sage"
+        },
+        {
+          "text": "385 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 239
+    },
+    {
+      "id": "ol15858520w",
+      "title": "India after Gandhi",
+      "author": "Ramachandra Guha",
+      "isbn": "9780060958589",
+      "cover": "c2",
+      "blurb": "Divided by caste, class, language and religion, independent India emerged, somehow, as a united democracy.",
+      "aside": "Born in privation and civil war, it survived to become a democratic country.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 893,
+      "tags": [
+        {
+          "text": "Indian history",
+          "accent": "rose"
+        },
+        {
+          "text": "democracy",
+          "accent": "gold"
+        },
+        {
+          "text": "partition",
+          "accent": "sage"
+        },
+        {
+          "text": "893 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 221
+    },
+    {
+      "id": "ol8005105w",
+      "title": "The Undercover Economist",
+      "author": "Tim Harford",
+      "isbn": "9780316732932",
+      "cover": "c3",
+      "blurb": "A 'must-read' for the general public who want to understand economics, by Tim Harford.",
+      "aside": "Critically acclaimed as one of the most successful economy books of all time.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 288,
+      "tags": [
+        {
+          "text": "economics",
+          "accent": "rose"
+        },
+        {
+          "text": "popular science",
+          "accent": "gold"
+        },
+        {
+          "text": "accessible",
+          "accent": "sage"
+        },
+        {
+          "text": "288 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 46
+    },
+    {
+      "id": "ol3257622w",
+      "title": "Nothing to envy",
+      "author": "Barbara Demick",
+      "isbn": "9780385523905",
+      "cover": "c4",
+      "blurb": "The lives of six ordinary North Koreans, followed over the years, offer a remarkable view into the country.",
+      "aside": "A remarkable view into North Korea, seen through six lives.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 316,
+      "tags": [
+        {
+          "text": "North Korea",
+          "accent": "rose"
+        },
+        {
+          "text": "ordinary lives",
+          "accent": "gold"
+        },
+        {
+          "text": "reporting",
+          "accent": "sage"
+        },
+        {
+          "text": "316 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 65
+    },
+    {
+      "id": "ol14928967w",
+      "title": "The Rational Optimist",
+      "author": "Matt Ridley",
+      "isbn": "9780007267118",
+      "cover": "c5",
+      "blurb": "Fewer than 10 million people once lived on the planet; today there are over 6 billion, most better fed.",
+      "aside": "Ridley argues the case for optimism about human progress.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 438,
+      "tags": [
+        {
+          "text": "human progress",
+          "accent": "rose"
+        },
+        {
+          "text": "economics",
+          "accent": "gold"
+        },
+        {
+          "text": "optimism",
+          "accent": "sage"
+        },
+        {
+          "text": "438 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 112
     }
   ]
 }
