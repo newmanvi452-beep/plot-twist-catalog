@@ -1,5 +1,5 @@
 {
-  "version": 68,
+  "version": 70,
   "retired": {
     "ol19661009w": "tattooist",
     "ol20742637w": "guestlist"
@@ -35957,6 +35957,944 @@
       ],
       "contentFlags": [],
       "popularity": 4
+    },
+    {
+      "id": "ol37620147w",
+      "title": "Haunting of Velkwood",
+      "author": "Gwendolyn Kiste",
+      "isbn": "9781982172374",
+      "cover": "c1",
+      "blurb": "A block of homes vanished behind a veil, and one of three survivors finally returns.",
+      "aside": "Talitha has spent years drifting, feeling as trapped by her past as if she never left.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 251,
+      "tags": [
+        {
+          "text": "a vanished neighborhood",
+          "accent": "rose"
+        },
+        {
+          "text": "an occult veil",
+          "accent": "gold"
+        },
+        {
+          "text": "a hometown she escaped",
+          "accent": "sage"
+        },
+        {
+          "text": "251 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror"
+      ],
+      "contentFlags": [],
+      "popularity": 3
+    },
+    {
+      "id": "ol37730241w",
+      "title": "Devils Kill Devils",
+      "author": "Johnny Compton",
+      "isbn": "9781250841698",
+      "cover": "c2",
+      "blurb": "Sarita has been watched over by a guardian angel her whole life, until he murders someone she loves.",
+      "aside": "When all hell breaks loose, you need a devil on your side.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 286,
+      "tags": [
+        {
+          "text": "angels and devils",
+          "accent": "rose"
+        },
+        {
+          "text": "Southern gothic",
+          "accent": "gold"
+        },
+        {
+          "text": "a guardian angel",
+          "accent": "sage"
+        },
+        {
+          "text": "286 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror"
+      ],
+      "contentFlags": [],
+      "popularity": 4
+    },
+    {
+      "id": "ol25073147w",
+      "title": "Slewfoot",
+      "author": "Brom",
+      "isbn": "9781250622006",
+      "cover": "c5",
+      "blurb": "In 1666 Connecticut, an ancient spirit wakes in a dark wood, and a widowed outcast turns to him.",
+      "aside": "Pagan and Puritan clash in a battle that threatens to leave nothing but ashes.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 320,
+      "tags": [
+        {
+          "text": "colonial New England",
+          "accent": "rose"
+        },
+        {
+          "text": "pagan and Puritan",
+          "accent": "gold"
+        },
+        {
+          "text": "a widowed outcast",
+          "accent": "sage"
+        },
+        {
+          "text": "320 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror"
+      ],
+      "contentFlags": [],
+      "popularity": 89
+    },
+    {
+      "id": "ol707449w",
+      "title": "The Merciful Women",
+      "author": "Federico Andahazi",
+      "isbn": "9780385600538",
+      "cover": "c1",
+      "blurb": "In 1816 Switzerland, Byron's physician makes a pact with a mysterious penfriend to outwit them all.",
+      "aside": "Annette will produce the most compelling vampire tale ever written, which he will read aloud.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 192,
+      "tags": [
+        {
+          "text": "Lake Geneva in 1816",
+          "accent": "rose"
+        },
+        {
+          "text": "a Faustian pact",
+          "accent": "gold"
+        },
+        {
+          "text": "a vampire tale",
+          "accent": "sage"
+        },
+        {
+          "text": "192 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 2
+    },
+    {
+      "id": "ol60495w",
+      "title": "The ebony swan",
+      "author": "Phyllis A. Whitney",
+      "isbn": "9780340588758",
+      "cover": "c3",
+      "blurb": "A tour guide at the United Nations wants to escape her father's shadow and find herself.",
+      "aside": "Her father is a famous radio commentator.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 294,
+      "tags": [
+        {
+          "text": "the United Nations",
+          "accent": "rose"
+        },
+        {
+          "text": "a famous father",
+          "accent": "gold"
+        },
+        {
+          "text": "finding herself",
+          "accent": "sage"
+        },
+        {
+          "text": "294 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 14
+    },
+    {
+      "id": "ol265777w",
+      "title": "The Rest Is Noise",
+      "author": "Alex Ross",
+      "isbn": "9781433207938",
+      "cover": "c5",
+      "blurb": "Alex Ross traces the twentieth century through its music, from Vienna before the First World War to today.",
+      "aside": "Winner of the 2007 National Book Critics Circle Award for Criticism.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 624,
+      "tags": [
+        {
+          "text": "twentieth-century music",
+          "accent": "rose"
+        },
+        {
+          "text": "Vienna to New York",
+          "accent": "gold"
+        },
+        {
+          "text": "a music critic",
+          "accent": "sage"
+        },
+        {
+          "text": "624 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 41
+    },
+    {
+      "id": "ol66218w",
+      "title": "Wicked",
+      "author": "Gregory Maguire",
+      "isbn": "9780606311847",
+      "cover": "c1",
+      "blurb": "Where did the Wicked Witch of the West come from, and how did she become so wicked?",
+      "aside": "Animals talk and strive to be treated like first-class citizens.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 461,
+      "tags": [
+        {
+          "text": "Oz",
+          "accent": "rose"
+        },
+        {
+          "text": "the Wicked Witch's origin",
+          "accent": "gold"
+        },
+        {
+          "text": "a moral retelling",
+          "accent": "sage"
+        },
+        {
+          "text": "461 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy"
+      ],
+      "contentFlags": [
+        "talking animals"
+      ],
+      "popularity": 616
+    },
+    {
+      "id": "ol8036957w",
+      "title": "Snow Falling on Cedars",
+      "author": "David Guterson",
+      "isbn": "9780788705854",
+      "cover": "c2",
+      "blurb": "In 1954 a Japanese-American fisherman stands trial for murder on a Puget Sound island.",
+      "aside": "The shadow of World War II hangs over the courtroom.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 416,
+      "tags": [
+        {
+          "text": "1954 Puget Sound",
+          "accent": "rose"
+        },
+        {
+          "text": "a murder trial",
+          "accent": "gold"
+        },
+        {
+          "text": "lost love",
+          "accent": "sage"
+        },
+        {
+          "text": "416 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 345
+    },
+    {
+      "id": "ol8571463w",
+      "title": "I Am America (And So Can You!)",
+      "author": "Stephen Colbert",
+      "isbn": "9780446407793",
+      "cover": "c3",
+      "blurb": "Stephen Colbert's knee-jerk beliefs on family, race, religion and sex, dictated into a microcassette recorder.",
+      "aside": "Congratulations, just by looking at this webpage, you became 25% more patriotic.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 235,
+      "tags": [
+        {
+          "text": "satirical opinions",
+          "accent": "rose"
+        },
+        {
+          "text": "a microcassette",
+          "accent": "gold"
+        },
+        {
+          "text": "American patriotism",
+          "accent": "sage"
+        },
+        {
+          "text": "235 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 50
+    },
+    {
+      "id": "ol19748973w",
+      "title": "Severance",
+      "author": "Ling Ma",
+      "isbn": "9780374261597",
+      "cover": "c4",
+      "blurb": "A millennial office worker in Manhattan keeps her routine as a plague called Shen Fever sweeps New York.",
+      "aside": "Families flee, companies cease operations, and the subways screech to a halt.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 304,
+      "tags": [
+        {
+          "text": "a Manhattan office tower",
+          "accent": "rose"
+        },
+        {
+          "text": "a plague",
+          "accent": "gold"
+        },
+        {
+          "text": "routine",
+          "accent": "sage"
+        },
+        {
+          "text": "304 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 148
+    },
+    {
+      "id": "ol16664755w",
+      "title": "Billy Lynn's Long Halftime Walk",
+      "author": "Ben Fountain",
+      "isbn": "9781471239786",
+      "cover": "c5",
+      "blurb": "Billy Lynn, one of eight surviving soldiers, is asked to join the Dallas Cowboys' halftime show on Thanksgiving.",
+      "aside": "A satire of the gaping national disconnect between the war at home and the war abroad.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 336,
+      "tags": [
+        {
+          "text": "the Iraq war",
+          "accent": "rose"
+        },
+        {
+          "text": "a Victory Tour",
+          "accent": "gold"
+        },
+        {
+          "text": "a Dallas halftime show",
+          "accent": "sage"
+        },
+        {
+          "text": "336 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 22
+    },
+    {
+      "id": "ol2712926w",
+      "title": "What a Carve Up!",
+      "author": "Jonathan Coe",
+      "isbn": "9780679433859",
+      "cover": "c1",
+      "blurb": "A lonely writer is hired to chronicle the Winshaws, a clan with a finger in every pie.",
+      "aside": "A brilliant noir farce, a dystopian vision of Britain, a family history and the story of an obsession.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 512,
+      "tags": [
+        {
+          "text": "a noir farce",
+          "accent": "rose"
+        },
+        {
+          "text": "a British dynasty",
+          "accent": "gold"
+        },
+        {
+          "text": "an obsessive film",
+          "accent": "sage"
+        },
+        {
+          "text": "512 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 25
+    },
+    {
+      "id": "ol23614481w",
+      "title": "Fake Accounts",
+      "author": "Lauren Oyler",
+      "isbn": "9781948226929",
+      "cover": "c2",
+      "blurb": "A young woman snoops through her boyfriend's phone and discovers he is an anonymous conspiracy theorist.",
+      "aside": "A world whose truths are shaped by online lies.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 272,
+      "tags": [
+        {
+          "text": "online conspiracies",
+          "accent": "rose"
+        },
+        {
+          "text": "Trump's inauguration",
+          "accent": "gold"
+        },
+        {
+          "text": "a Women's March trip",
+          "accent": "sage"
+        },
+        {
+          "text": "272 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 15
+    },
+    {
+      "id": "ol19748025w",
+      "title": "A terrible country",
+      "author": "Keith Gessen",
+      "isbn": "9781910695760",
+      "cover": "c3",
+      "blurb": "A New York academic returns to Moscow in 2008 to care for his ailing grandmother.",
+      "aside": "His girlfriend has stopped returning his texts, and his bank account is running low.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 352,
+      "tags": [
+        {
+          "text": "Moscow in 2008",
+          "accent": "rose"
+        },
+        {
+          "text": "a grandmother's illness",
+          "accent": "gold"
+        },
+        {
+          "text": "New York",
+          "accent": "sage"
+        },
+        {
+          "text": "352 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 6
+    },
+    {
+      "id": "ol16547828w",
+      "title": "May we be forgiven",
+      "author": "A. M. Homes",
+      "isbn": "9780670025480",
+      "cover": "c4",
+      "blurb": "After a violent act by his younger brother, Harold becomes a father figure and caregiver.",
+      "aside": "Feeling overshadowed by his more-successful younger brother, Harold is shocked.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 480,
+      "tags": [
+        {
+          "text": "a violent act",
+          "accent": "rose"
+        },
+        {
+          "text": "a brother",
+          "accent": "gold"
+        },
+        {
+          "text": "caregiving",
+          "accent": "sage"
+        },
+        {
+          "text": "480 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 2
+    },
+    {
+      "id": "ol730724w",
+      "title": "Who Let the Dogs In? Incredible Political Animals I Have Known",
+      "author": "Molly Ivins",
+      "isbn": "9781400062850",
+      "cover": "c5",
+      "blurb": "Molly Ivins takes us through two decades of political life, from Ronald Reagan through Bill Clinton to Dubya.",
+      "aside": "She writes hilariously, perceptively, and at times witheringly about the political animals of her day.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 384,
+      "tags": [
+        {
+          "text": "Texas politics",
+          "accent": "rose"
+        },
+        {
+          "text": "political satire",
+          "accent": "gold"
+        },
+        {
+          "text": "two decades of Washington",
+          "accent": "sage"
+        },
+        {
+          "text": "384 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 2
+    },
+    {
+      "id": "ol16490055w",
+      "title": "Potboiler",
+      "author": "Jesse Kellerman",
+      "isbn": "9780399159039",
+      "cover": "c1",
+      "blurb": "A middle-aged professor publishes his late best-selling friend's manuscript as his own.",
+      "aside": "Although the novel brings him great success, his life soon spirals.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 323,
+      "tags": [
+        {
+          "text": "a stolen manuscript",
+          "accent": "rose"
+        },
+        {
+          "text": "a failed writer",
+          "accent": "gold"
+        },
+        {
+          "text": "a late friend",
+          "accent": "sage"
+        },
+        {
+          "text": "323 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 3
+    },
+    {
+      "id": "ol19990205w",
+      "title": "I did not kill my husband",
+      "author": "Zhenyun Liu",
+      "isbn": "9781628724264",
+      "cover": "c2",
+      "blurb": "Pregnant with her second child in China's one-child policy era, Li Xuelian's only option is a divorce.",
+      "aside": "After the divorce, her husband marries another woman who is also expecting.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 216,
+      "tags": [
+        {
+          "text": "China's one-child policy",
+          "accent": "rose"
+        },
+        {
+          "text": "a divorce",
+          "accent": "gold"
+        },
+        {
+          "text": "a court",
+          "accent": "sage"
+        },
+        {
+          "text": "216 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 1
+    },
+    {
+      "id": "ol17356557w",
+      "title": "The Summer Before the War",
+      "author": "Helen Simonson",
+      "isbn": "9780812993103",
+      "cover": "c3",
+      "blurb": "In 1914 East Sussex, a medical student visits his aunt in a coastal town as the Edwardian summer ends.",
+      "aside": "Her husband works in the Foreign Office, and she is certain the Balkans saber-rattling will come to nothing.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 479,
+      "tags": [
+        {
+          "text": "Rye, East Sussex",
+          "accent": "rose"
+        },
+        {
+          "text": "the Foreign Office",
+          "accent": "gold"
+        },
+        {
+          "text": "the last Edwardian summer",
+          "accent": "sage"
+        },
+        {
+          "text": "479 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 7
+    },
+    {
+      "id": "ol19981611w",
+      "title": "The hundred-year house",
+      "author": "Rebecca Makkai",
+      "isbn": "9780434022977",
+      "cover": "c4",
+      "blurb": "Doug needs an old arts colony's files to revive his stalled career and finds more than he bargained for.",
+      "aside": "Makkai leads us on a thrilling journey into the past of this eccentric family.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 352,
+      "tags": [
+        {
+          "text": "an historic estate",
+          "accent": "rose"
+        },
+        {
+          "text": "an arts colony",
+          "accent": "gold"
+        },
+        {
+          "text": "an eccentric family",
+          "accent": "sage"
+        },
+        {
+          "text": "352 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 6
+    },
+    {
+      "id": "ol21913894w",
+      "title": "Black Buck",
+      "author": "Mateo Askaripour",
+      "isbn": "9780358627982",
+      "cover": "c5",
+      "blurb": "A young man becomes the lone Black salesman at a mysterious, cultlike startup where nothing is as it seems.",
+      "aside": "A blazing, satirical debut for fans of Sorry to Bother You and The Wolf of Wall Street.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 400,
+      "tags": [
+        {
+          "text": "a cultlike startup",
+          "accent": "rose"
+        },
+        {
+          "text": "Bed-Stuy",
+          "accent": "gold"
+        },
+        {
+          "text": "sales",
+          "accent": "sage"
+        },
+        {
+          "text": "400 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 10
+    },
+    {
+      "id": "ol17545589w",
+      "title": "Famous Writers I Have Known",
+      "author": "James Magnuson",
+      "isbn": "9780393240887",
+      "cover": "c1",
+      "blurb": "A semiliterate con man poses as a famously reclusive author teaching a college writing course.",
+      "aside": "He exploits a long-simmering feud with a terminally ill, extremely wealthy novelist.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 320,
+      "tags": [
+        {
+          "text": "a con man",
+          "accent": "rose"
+        },
+        {
+          "text": "a reclusive author",
+          "accent": "gold"
+        },
+        {
+          "text": "a college writing course",
+          "accent": "sage"
+        },
+        {
+          "text": "320 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 2
+    },
+    {
+      "id": "ol20909969w",
+      "title": "Antkind",
+      "author": "Charlie Kaufman",
+      "isbn": "9780399589683",
+      "cover": "c1",
+      "blurb": "A neurotic film critic finds a hitherto unseen film by an enigmatic outsider, one he thinks will change cinema.",
+      "aside": "Failed academic, filmmaker, paramour, shoe salesman who sleeps in a sock drawer.",
+      "pace": "Slow burn",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 720,
+      "tags": [
+        {
+          "text": "film criticism",
+          "accent": "rose"
+        },
+        {
+          "text": "a lost stop-motion film",
+          "accent": "gold"
+        },
+        {
+          "text": "an obsessive critic",
+          "accent": "sage"
+        },
+        {
+          "text": "720 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 15
+    },
+    {
+      "id": "ol20049934w",
+      "title": "Amiable with big teeth",
+      "author": "Claude McKay",
+      "isbn": "9780143132219",
+      "cover": "c2",
+      "blurb": "The newly discovered final novel by Harlem Renaissance writer Claude McKay, set in 1930s Harlem.",
+      "aside": "A completed manuscript was found in 2009, celebrated as one of the most significant literary events in recent years.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 335,
+      "tags": [
+        {
+          "text": "1930s Harlem",
+          "accent": "rose"
+        },
+        {
+          "text": "a found manuscript",
+          "accent": "gold"
+        },
+        {
+          "text": "Harlem Renaissance",
+          "accent": "sage"
+        },
+        {
+          "text": "335 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 7
+    },
+    {
+      "id": "ol17887315w",
+      "title": "The happiest people in the world",
+      "author": "Brock Clarke",
+      "isbn": "9781616201111",
+      "cover": "c3",
+      "blurb": "A spy thriller with dark humor, where a Danish cartoonist is relocated to upstate New York.",
+      "aside": "The people of Denmark are \"the happiest people in the world\", theoretically.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 351,
+      "tags": [
+        {
+          "text": "spy thriller satire",
+          "accent": "rose"
+        },
+        {
+          "text": "upstate New York",
+          "accent": "gold"
+        },
+        {
+          "text": "a love rectangle",
+          "accent": "sage"
+        },
+        {
+          "text": "351 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 1
+    },
+    {
+      "id": "ol20656828w",
+      "title": "New waves",
+      "author": "Kevin Nguyen",
+      "isbn": "9781984855237",
+      "cover": "c4",
+      "blurb": "Two tech employees steal their startup's user database for revenge, and the heist takes a sudden turn.",
+      "aside": "Lucas is left reeling, wondering whether her death really was an accident.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 306,
+      "tags": [
+        {
+          "text": "a tech heist",
+          "accent": "rose"
+        },
+        {
+          "text": "a suspicious death",
+          "accent": "gold"
+        },
+        {
+          "text": "Silicon Valley",
+          "accent": "sage"
+        },
+        {
+          "text": "306 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 5
     }
   ]
 }
