@@ -1,5 +1,5 @@
 {
-  "version": 70,
+  "version": 71,
   "retired": {
     "ol19661009w": "tattooist",
     "ol20742637w": "guestlist"
@@ -36895,6 +36895,3606 @@
       ],
       "contentFlags": [],
       "popularity": 5
+    },
+    {
+      "id": "ol477453w",
+      "title": "The garden next door",
+      "author": "José Donoso",
+      "isbn": "9780802112385",
+      "cover": "c1",
+      "blurb": "A Chilean writer and his wife are at a low point, bickering over money, their work and their son.",
+      "aside": "Their son may or may not be plying the oldest profession.",
+      "pace": "Slow burn",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 243,
+      "tags": [
+        {
+          "text": "Chile",
+          "accent": "rose"
+        },
+        {
+          "text": "a marriage under strain",
+          "accent": "gold"
+        },
+        {
+          "text": "a wayward son",
+          "accent": "sage"
+        },
+        {
+          "text": "243 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 4
+    },
+    {
+      "id": "ol21339528w",
+      "title": "Society of Reluctant Dreamers",
+      "author": "Jose Eduardo Agualusa",
+      "isbn": "9781787300552",
+      "cover": "c2",
+      "blurb": "Swimming at a hotel, Daniel finds a waterproof camera belonging to a Mozambican artist who photographs her dreams.",
+      "aside": "The woman in the photographs is one Daniel keeps dreaming about.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 294,
+      "tags": [
+        {
+          "text": "a waterproof camera",
+          "accent": "rose"
+        },
+        {
+          "text": "dreams",
+          "accent": "gold"
+        },
+        {
+          "text": "a hotel pool",
+          "accent": "sage"
+        },
+        {
+          "text": "294 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 3
+    },
+    {
+      "id": "ol24145606w",
+      "title": "Great Circle",
+      "author": "Maggie Shipstead",
+      "isbn": "9780525656982",
+      "cover": "c3",
+      "blurb": "Marian Graves is driven by a need for freedom and danger, from prohibition America to wartime London.",
+      "aside": "She travels to a lonely ice shelf in Antarctica.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 608,
+      "tags": [
+        {
+          "text": "prohibition America",
+          "accent": "rose"
+        },
+        {
+          "text": "wartime London",
+          "accent": "gold"
+        },
+        {
+          "text": "Antarctica",
+          "accent": "sage"
+        },
+        {
+          "text": "608 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 23
+    },
+    {
+      "id": "ol16564557w",
+      "title": "Truth in advertising",
+      "author": "John Kenney",
+      "isbn": "9781451675542",
+      "cover": "c4",
+      "blurb": "An advertising agent with a broken engagement must cancel Christmas plans for a last-minute job.",
+      "aside": "Struggling with encroaching middle age and a broken engagement.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 308,
+      "tags": [
+        {
+          "text": "Christmas",
+          "accent": "rose"
+        },
+        {
+          "text": "a broken engagement",
+          "accent": "gold"
+        },
+        {
+          "text": "a difficult father",
+          "accent": "sage"
+        },
+        {
+          "text": "308 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 2
+    },
+    {
+      "id": "ol499043w",
+      "title": "The Rake",
+      "author": "William F. Buckley",
+      "isbn": "9780061751806",
+      "cover": "c5",
+      "blurb": "An ambitious, roguish young presidential candidate carries a lifetime of inconvenient secrets.",
+      "aside": "A decision to save a candidacy, all at a fatal cost.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 288,
+      "tags": [
+        {
+          "text": "presidential politics",
+          "accent": "rose"
+        },
+        {
+          "text": "buried secrets",
+          "accent": "gold"
+        },
+        {
+          "text": "a candidacy",
+          "accent": "sage"
+        },
+        {
+          "text": "288 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 1
+    },
+    {
+      "id": "ol17883852w",
+      "title": "The global war on Morris",
+      "author": "Steve Israel",
+      "isbn": "9781476772257",
+      "cover": "c1",
+      "blurb": "Meet Morris Feldstein, a pharmaceutical salesman, in a witty political satire ripped from the headlines.",
+      "aside": "Written by Congressman Steve Israel, who has met the characters firsthand.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 297,
+      "tags": [
+        {
+          "text": "political satire",
+          "accent": "rose"
+        },
+        {
+          "text": "Washington",
+          "accent": "gold"
+        },
+        {
+          "text": "a pharmaceutical salesman",
+          "accent": "sage"
+        },
+        {
+          "text": "297 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 2
+    },
+    {
+      "id": "ol1843357w",
+      "title": "Option$",
+      "author": "Daniel Lyons",
+      "isbn": "9787508617725",
+      "cover": "c2",
+      "blurb": "A parody of Silicon Valley culture follows the struggles and triumphs of Fake Steve Jobs in a fictional memoir.",
+      "aside": "Political hobnobbing and counterintuitive management philosophy included.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 248,
+      "tags": [
+        {
+          "text": "Silicon Valley",
+          "accent": "rose"
+        },
+        {
+          "text": "a fictional memoir",
+          "accent": "gold"
+        },
+        {
+          "text": "a parody",
+          "accent": "sage"
+        },
+        {
+          "text": "248 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 2
+    },
+    {
+      "id": "ol20161013w",
+      "title": "The Spectators",
+      "author": "Jennifer duBois",
+      "isbn": "9780812995886",
+      "cover": "c3",
+      "blurb": "A talk show host built his fame exposing society's most bizarre secrets on live television.",
+      "aside": "Exposed in front of millions of gawking viewers.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 352,
+      "tags": [
+        {
+          "text": "a talk show host",
+          "accent": "rose"
+        },
+        {
+          "text": "live television",
+          "accent": "gold"
+        },
+        {
+          "text": "buried secrets",
+          "accent": "sage"
+        },
+        {
+          "text": "352 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 1
+    },
+    {
+      "id": "ol22639896w",
+      "title": "Lionel Asbo",
+      "author": "Martin Amis",
+      "isbn": "9780224096218",
+      "cover": "c4",
+      "blurb": "A violent young criminal learns in prison that he has won the lottery, which is not necessarily good news.",
+      "aside": "A very violent but not very successful young criminal.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 336,
+      "tags": [
+        {
+          "text": "London",
+          "accent": "rose"
+        },
+        {
+          "text": "a lottery win",
+          "accent": "gold"
+        },
+        {
+          "text": "a violent criminal",
+          "accent": "sage"
+        },
+        {
+          "text": "336 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 5
+    },
+    {
+      "id": "ol19704278w",
+      "title": "The time regulation institute",
+      "author": "Ahmet Hamdi Tanpınar",
+      "isbn": "9780143106739",
+      "cover": "c5",
+      "blurb": "Perhaps the greatest Turkish novel of the twentieth century, now in its first English translation.",
+      "aside": "An uproarious tragicomedy of modernization.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 401,
+      "tags": [
+        {
+          "text": "Turkey",
+          "accent": "rose"
+        },
+        {
+          "text": "modernization",
+          "accent": "gold"
+        },
+        {
+          "text": "a first English translation",
+          "accent": "sage"
+        },
+        {
+          "text": "401 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 4
+    },
+    {
+      "id": "ol19801161w",
+      "title": "China Dream",
+      "author": "Ma Jian",
+      "isbn": "9781640092402",
+      "cover": "c1",
+      "blurb": "A poetic fable about tyranny, guilt and the erasure of history, by a banned Chinese writer.",
+      "aside": "Hailed as China's Solzhenitsyn, the author has been banned in China.",
+      "pace": "Slow burn",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 192,
+      "tags": [
+        {
+          "text": "China",
+          "accent": "rose"
+        },
+        {
+          "text": "a fable",
+          "accent": "gold"
+        },
+        {
+          "text": "the erasure of history",
+          "accent": "sage"
+        },
+        {
+          "text": "192 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 8
+    },
+    {
+      "id": "ol20005420w",
+      "title": "Day four",
+      "author": "Sarah Lotz",
+      "isbn": "9781444775365",
+      "cover": "c2",
+      "blurb": "On the fourth day of a Caribbean cruise, smoke roils from the engine room and the ship is stranded.",
+      "aside": "Hundreds of pleasure-seekers stream aboard for five days of cut-price fun in the sun.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 349,
+      "tags": [
+        {
+          "text": "a cruise ship",
+          "accent": "rose"
+        },
+        {
+          "text": "the Caribbean",
+          "accent": "gold"
+        },
+        {
+          "text": "a disaster at sea",
+          "accent": "sage"
+        },
+        {
+          "text": "349 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 9
+    },
+    {
+      "id": "ol20054937w",
+      "title": "Startup",
+      "author": "Doree Shafrir",
+      "isbn": "9780316360364",
+      "cover": "c3",
+      "blurb": "Mack McAllister has a $600 million idea, a mindfulness app called TakeOff that is the hottest thing in tech.",
+      "aside": "A new and improved version promises to bring investors running.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 304,
+      "tags": [
+        {
+          "text": "tech",
+          "accent": "rose"
+        },
+        {
+          "text": "a mindfulness app",
+          "accent": "gold"
+        },
+        {
+          "text": "a start-up",
+          "accent": "sage"
+        },
+        {
+          "text": "304 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 12
+    },
+    {
+      "id": "ol19085042w",
+      "title": "The New Me",
+      "author": "Halle Butler",
+      "isbn": "9780143133605",
+      "cover": "c4",
+      "blurb": "Thirty-year-old Millie can't pull it together, misanthropic and morose, killing time at a thankless temp job.",
+      "aside": "She returns to an empty apartment each night.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 208,
+      "tags": [
+        {
+          "text": "a temp job",
+          "accent": "rose"
+        },
+        {
+          "text": "self-recrimination",
+          "accent": "gold"
+        },
+        {
+          "text": "thirty and adrift",
+          "accent": "sage"
+        },
+        {
+          "text": "208 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 35
+    },
+    {
+      "id": "ol20745055w",
+      "title": "Only Americans Burn in Hell",
+      "author": "Jarett Kobek",
+      "isbn": "9781788162210",
+      "cover": "c5",
+      "blurb": "It's 2019, and America is ruled by a billionaire reality TV star whose media is owned by the shameless.",
+      "aside": "Going to see a superhero movie counts as activism.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 304,
+      "tags": [
+        {
+          "text": "2019 America",
+          "accent": "rose"
+        },
+        {
+          "text": "a billionaire reality star",
+          "accent": "gold"
+        },
+        {
+          "text": "satire",
+          "accent": "sage"
+        },
+        {
+          "text": "304 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 3
+    },
+    {
+      "id": "ol17566565w",
+      "title": "One Hundred Philistine Foreskins",
+      "author": "Tova Reich",
+      "isbn": "9781619021075",
+      "cover": "c1",
+      "blurb": "The life of Temima Ba'alatOv, known as Ima Temima, a charismatic woman rabbi of extraordinary power.",
+      "aside": "She is an utterly original interpreter of her tradition.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 366,
+      "tags": [
+        {
+          "text": "a woman rabbi",
+          "accent": "rose"
+        },
+        {
+          "text": "satire",
+          "accent": "gold"
+        },
+        {
+          "text": "Jewish life",
+          "accent": "sage"
+        },
+        {
+          "text": "366 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 1
+    },
+    {
+      "id": "ol16069792w",
+      "title": "To err is divine",
+      "author": "Ágota Bozai",
+      "isbn": "9781582432779",
+      "cover": "c2",
+      "blurb": "Eight years after the fall of communism in Hungary, a widowed teacher lives on a modest income.",
+      "aside": "A secondary school teacher close to retirement.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 244,
+      "tags": [
+        {
+          "text": "Hungary",
+          "accent": "rose"
+        },
+        {
+          "text": "a winner-take-all economy",
+          "accent": "gold"
+        },
+        {
+          "text": "a widowed teacher",
+          "accent": "sage"
+        },
+        {
+          "text": "244 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 1
+    },
+    {
+      "id": "ol19738201w",
+      "title": "Sociable",
+      "author": "Rebecca Harrington",
+      "isbn": "9780804172172",
+      "cover": "c3",
+      "blurb": "A journalism graduate moves to New York dreaming of witty opinion pieces and glamorous parties.",
+      "aside": "Instead, things do not go as she imagined.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 248,
+      "tags": [
+        {
+          "text": "New York",
+          "accent": "rose"
+        },
+        {
+          "text": "a journalism graduate",
+          "accent": "gold"
+        },
+        {
+          "text": "opinion pieces",
+          "accent": "sage"
+        },
+        {
+          "text": "248 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 3
+    },
+    {
+      "id": "ol20020507w",
+      "title": "The librarian",
+      "author": "Mikhail Elizarov",
+      "isbn": "9781782270270",
+      "cover": "c4",
+      "blurb": "A collection of books by an unpopular Soviet-era novelist has mystical powers, and Alexei inherits them.",
+      "aside": "He has no idea of the power they hold.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 410,
+      "tags": [
+        {
+          "text": "Soviet-era books",
+          "accent": "rose"
+        },
+        {
+          "text": "mystical powers",
+          "accent": "gold"
+        },
+        {
+          "text": "an inheritance",
+          "accent": "sage"
+        },
+        {
+          "text": "410 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 7
+    },
+    {
+      "id": "ol17381662w",
+      "title": "A Great Big Shining Star",
+      "author": "Niall Griffiths",
+      "isbn": "9780099507680",
+      "cover": "c5",
+      "blurb": "A devastating satire on a society fixated on image and celebrity, where innocence is sacrificed for wealth.",
+      "aside": "Written with a raging, lyrical fury.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 139,
+      "tags": [
+        {
+          "text": "celebrity satire",
+          "accent": "rose"
+        },
+        {
+          "text": "a short novel",
+          "accent": "gold"
+        },
+        {
+          "text": "a lyrical voice",
+          "accent": "sage"
+        },
+        {
+          "text": "139 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 1
+    },
+    {
+      "id": "ol17909706w",
+      "title": "In office hours",
+      "author": "Lucy Kellaway",
+      "isbn": "9781443403962",
+      "cover": "c1",
+      "blurb": "Stella and Bella work at a London oil company, where Bella is doomed to be an invisible assistant.",
+      "aside": "A masterclass in office love.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 342,
+      "tags": [
+        {
+          "text": "an oil company",
+          "accent": "rose"
+        },
+        {
+          "text": "office romance",
+          "accent": "gold"
+        },
+        {
+          "text": "single mothers",
+          "accent": "sage"
+        },
+        {
+          "text": "342 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 3
+    },
+    {
+      "id": "ol1884199w",
+      "title": "American savior",
+      "author": "Roland Merullo",
+      "isbn": "9781565126077",
+      "cover": "c2",
+      "blurb": "Jesus appears and announces he is running for president, sending both major party candidates into a last-ditch effort.",
+      "aside": "The American political system is thrown into a tizzy.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 312,
+      "tags": [
+        {
+          "text": "Jesus runs for president",
+          "accent": "rose"
+        },
+        {
+          "text": "satire",
+          "accent": "gold"
+        },
+        {
+          "text": "politics",
+          "accent": "sage"
+        },
+        {
+          "text": "312 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 6
+    },
+    {
+      "id": "ol20045960w",
+      "title": "Savage theories",
+      "author": "Pola Oloixarac",
+      "isbn": "9781616958671",
+      "cover": "c3",
+      "blurb": "A philosophy student in Buenos Aires puts her life in service of a professor's forgotten theories of violence.",
+      "aside": "She plans to popularize and radicalize them.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 298,
+      "tags": [
+        {
+          "text": "Buenos Aires",
+          "accent": "rose"
+        },
+        {
+          "text": "a philosophy student",
+          "accent": "gold"
+        },
+        {
+          "text": "theories of violence",
+          "accent": "sage"
+        },
+        {
+          "text": "298 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 1
+    },
+    {
+      "id": "ol20058930w",
+      "title": "Off to be the wizard",
+      "author": "Scott Meyer",
+      "isbn": "9781612184715",
+      "cover": "c4",
+      "blurb": "Martin Banks can manipulate reality, which is nothing more than a computer program.",
+      "aside": "He is just a normal guy who has made an abnormal discovery.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 373,
+      "tags": [
+        {
+          "text": "a computer simulation",
+          "accent": "rose"
+        },
+        {
+          "text": "a normal guy",
+          "accent": "gold"
+        },
+        {
+          "text": "reality bugs",
+          "accent": "sage"
+        },
+        {
+          "text": "373 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 59
+    },
+    {
+      "id": "ol13805586w",
+      "title": "Born to Run",
+      "author": "Christopher McDougall",
+      "isbn": "9788483069479",
+      "cover": "c5",
+      "blurb": "A 2009 bestseller about a hidden tribe of superathletes and the greatest race the world has never seen.",
+      "aside": "Written by American author and journalist Christopher McDougall.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 287,
+      "tags": [
+        {
+          "text": "ultramarathons",
+          "accent": "rose"
+        },
+        {
+          "text": "a hidden tribe",
+          "accent": "gold"
+        },
+        {
+          "text": "superathletes",
+          "accent": "sage"
+        },
+        {
+          "text": "287 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 173
+    },
+    {
+      "id": "ol1783377w",
+      "title": "Long Walk to Freedom",
+      "author": "Nelson Mandela",
+      "isbn": "9780316323543",
+      "cover": "c1",
+      "blurb": "The memoir of the moral and political leader Nelson Mandela, recreating the experiences that shaped his destiny.",
+      "aside": "Emotive, compelling and uplifting.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 643,
+      "tags": [
+        {
+          "text": "South Africa",
+          "accent": "rose"
+        },
+        {
+          "text": "apartheid",
+          "accent": "gold"
+        },
+        {
+          "text": "a memoir",
+          "accent": "sage"
+        },
+        {
+          "text": "643 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 496
+    },
+    {
+      "id": "ol17078912w",
+      "title": "Creativity, Inc.",
+      "author": "Ed Catmull",
+      "isbn": "9780593070093",
+      "cover": "c2",
+      "blurb": "An all-access trip into the nerve center of Pixar Animation, and a manual for anyone who strives for originality.",
+      "aside": "A book for managers who want to lead their employees to new heights.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 368,
+      "tags": [
+        {
+          "text": "Pixar",
+          "accent": "rose"
+        },
+        {
+          "text": "managers",
+          "accent": "gold"
+        },
+        {
+          "text": "originality",
+          "accent": "sage"
+        },
+        {
+          "text": "368 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 148
+    },
+    {
+      "id": "ol19552275w",
+      "title": "Brief Answers to the Big Questions",
+      "author": "Stephen Hawking",
+      "isbn": "9789000365043",
+      "cover": "c3",
+      "blurb": "Stephen Hawking, who defied his ALS diagnosis at twenty-one, is known for his breakthroughs in theoretical physics.",
+      "aside": "Recognized as one of the greatest minds of our time.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 256,
+      "tags": [
+        {
+          "text": "physics",
+          "accent": "rose"
+        },
+        {
+          "text": "ALS",
+          "accent": "gold"
+        },
+        {
+          "text": "big questions",
+          "accent": "sage"
+        },
+        {
+          "text": "256 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 264
+    },
+    {
+      "id": "ol14921145w",
+      "title": "The Last Lecture",
+      "author": "Randy Pausch",
+      "isbn": "9781401323257",
+      "cover": "c4",
+      "blurb": "A computer science professor diagnosed with terminal cancer explores his life, the lessons he has learned, and his childhood dreams.",
+      "aside": "The effect of his diagnosis on him and his family.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 224,
+      "tags": [
+        {
+          "text": "terminal cancer",
+          "accent": "rose"
+        },
+        {
+          "text": "a professor",
+          "accent": "gold"
+        },
+        {
+          "text": "lessons",
+          "accent": "sage"
+        },
+        {
+          "text": "224 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 86
+    },
+    {
+      "id": "ol3348011w",
+      "title": "Kitchen Confidential",
+      "author": "Anthony Bourdain",
+      "isbn": "9780060934910",
+      "cover": "c5",
+      "blurb": "A celebrity chef shares his journey from dishwasher to a position of fame in the food industry.",
+      "aside": "Anecdotes from the restaurant industry.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 320,
+      "tags": [
+        {
+          "text": "restaurants",
+          "accent": "rose"
+        },
+        {
+          "text": "a chef's memoir",
+          "accent": "gold"
+        },
+        {
+          "text": "dishwasher to fame",
+          "accent": "sage"
+        },
+        {
+          "text": "320 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 346
+    },
+    {
+      "id": "ol16808249w",
+      "title": "The Everything Store",
+      "author": "Brad Stone",
+      "isbn": "9781619690295",
+      "cover": "c1",
+      "blurb": "The definitive story of Amazon and its driven founder, Jeff Bezos, which began by delivering books.",
+      "aside": "Amazon started off delivering books through the mail.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 416,
+      "tags": [
+        {
+          "text": "Amazon",
+          "accent": "rose"
+        },
+        {
+          "text": "Jeff Bezos",
+          "accent": "gold"
+        },
+        {
+          "text": "business history",
+          "accent": "sage"
+        },
+        {
+          "text": "416 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 114
+    },
+    {
+      "id": "ol17323380w",
+      "title": "The Invention of Nature",
+      "author": "Andrea Wulf",
+      "isbn": "9780385350679",
+      "cover": "c2",
+      "blurb": "When nature is perceived as a web, its vulnerability becomes obvious and everything hangs together.",
+      "aside": "If one thread is pulled, the whole tapestry may unravel.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 496,
+      "tags": [
+        {
+          "text": "a naturalist",
+          "accent": "rose"
+        },
+        {
+          "text": "environmental history",
+          "accent": "gold"
+        },
+        {
+          "text": "a web of nature",
+          "accent": "sage"
+        },
+        {
+          "text": "496 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 82
+    },
+    {
+      "id": "ol27634w",
+      "title": "Angela's Ashes",
+      "author": "Frank McCourt",
+      "isbn": "9780684874357",
+      "cover": "c3",
+      "blurb": "A memoir of a miserable Irish childhood, by a man who wonders how he survived it at all.",
+      "aside": "Worse than the ordinary miserable childhood is the miserable Irish one.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 432,
+      "tags": [
+        {
+          "text": "Limerick",
+          "accent": "rose"
+        },
+        {
+          "text": "a miserable childhood",
+          "accent": "gold"
+        },
+        {
+          "text": "Irish memoir",
+          "accent": "sage"
+        },
+        {
+          "text": "432 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 477
+    },
+    {
+      "id": "ol3280817w",
+      "title": "Muhammad",
+      "author": "Karen Armstrong",
+      "isbn": "9780062508867",
+      "cover": "c4",
+      "blurb": "A biography that strips away centuries of distortion and myth to present a balanced view of Muhammad.",
+      "aside": "The man whose religion continues to affect the course of history.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 290,
+      "tags": [
+        {
+          "text": "biography",
+          "accent": "rose"
+        },
+        {
+          "text": "Islam",
+          "accent": "gold"
+        },
+        {
+          "text": "the prophet",
+          "accent": "sage"
+        },
+        {
+          "text": "290 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 155
+    },
+    {
+      "id": "ol19669285w",
+      "title": "The undoing project",
+      "author": "Michael Lewis",
+      "isbn": "9788499927411",
+      "cover": "c5",
+      "blurb": "The history of behavioral economics and the Israeli psychologists whose studies undid assumptions about decisions.",
+      "aside": "The influence it has had on evidence-based regulation.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 362,
+      "tags": [
+        {
+          "text": "behavioral economics",
+          "accent": "rose"
+        },
+        {
+          "text": "Israeli psychologists",
+          "accent": "gold"
+        },
+        {
+          "text": "decision-making",
+          "accent": "sage"
+        },
+        {
+          "text": "362 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 104
+    },
+    {
+      "id": "ol16132451w",
+      "title": "Ghost in the wires",
+      "author": "Kevin D. Mitnick",
+      "isbn": "9780316037709",
+      "cover": "c1",
+      "blurb": "Kevin Mitnick, the most elusive computer break-in artist in history, accessed computers at the world's biggest companies.",
+      "aside": "However fast the authorities were, Mitnick was faster.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 413,
+      "tags": [
+        {
+          "text": "hacking",
+          "accent": "rose"
+        },
+        {
+          "text": "a fugitive",
+          "accent": "gold"
+        },
+        {
+          "text": "Kevin Mitnick",
+          "accent": "sage"
+        },
+        {
+          "text": "413 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 174
+    },
+    {
+      "id": "ol1857638w",
+      "title": "The Man Who Loved Only Numbers",
+      "author": "Paul Hoffman",
+      "isbn": "9783550069789",
+      "cover": "c2",
+      "blurb": "Paul Erdos, the most prolific and eccentric mathematician of his time, gave up all creature comforts to study numbers.",
+      "aside": "He was a man who possessed unimaginable powers of thought.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 309,
+      "tags": [
+        {
+          "text": "mathematics",
+          "accent": "rose"
+        },
+        {
+          "text": "Paul Erdos",
+          "accent": "gold"
+        },
+        {
+          "text": "a wandering genius",
+          "accent": "sage"
+        },
+        {
+          "text": "309 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 77
+    },
+    {
+      "id": "ol15898w",
+      "title": "Genius",
+      "author": "James Gleick",
+      "isbn": "9780679747048",
+      "cover": "c3",
+      "blurb": "The life and mind of one of the most influential and iconoclastic characters in twentieth-century physics.",
+      "aside": "A gem of a book, and a pleasure to read.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 532,
+      "tags": [
+        {
+          "text": "physics",
+          "accent": "rose"
+        },
+        {
+          "text": "a biography",
+          "accent": "gold"
+        },
+        {
+          "text": "twentieth century",
+          "accent": "sage"
+        },
+        {
+          "text": "532 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 82
+    },
+    {
+      "id": "ol3919996w",
+      "title": "We Were Soldiers Once... and Young",
+      "author": "Harold G. Moore",
+      "isbn": "9780345472649",
+      "cover": "c4",
+      "blurb": "The U.S. Marine Corps Commandant chose this book for every Marine in 1993.",
+      "aside": "Both relevant and timeless.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 500,
+      "tags": [
+        {
+          "text": "Vietnam War",
+          "accent": "rose"
+        },
+        {
+          "text": "a Marine Corps choice",
+          "accent": "gold"
+        },
+        {
+          "text": "battle history",
+          "accent": "sage"
+        },
+        {
+          "text": "500 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 68
+    },
+    {
+      "id": "ol98216w",
+      "title": "Mountains Beyond Mountains",
+      "author": "Tracy Kidder",
+      "isbn": "9780812973013",
+      "cover": "c5",
+      "blurb": "At the center of this book stands Paul Farmer: doctor, Harvard professor, MacArthur genius and world-class Robin Hood.",
+      "aside": "A renowned infectious-disease specialist who also works as an anthropologist.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 332,
+      "tags": [
+        {
+          "text": "Haiti",
+          "accent": "rose"
+        },
+        {
+          "text": "global health",
+          "accent": "gold"
+        },
+        {
+          "text": "Paul Farmer",
+          "accent": "sage"
+        },
+        {
+          "text": "332 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 86
+    },
+    {
+      "id": "ol19999600w",
+      "title": "Red Notice",
+      "author": "Bill Browder",
+      "isbn": "9789045026039",
+      "cover": "c1",
+      "blurb": "Bill Browder's journey from Chicago's South Side through Stanford to hedge fund investing and Moscow.",
+      "aside": "The dog-eat-dog world of hedge fund investing in the 1990s.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 410,
+      "tags": [
+        {
+          "text": "Russia",
+          "accent": "rose"
+        },
+        {
+          "text": "hedge funds",
+          "accent": "gold"
+        },
+        {
+          "text": "a memoir",
+          "accent": "sage"
+        },
+        {
+          "text": "410 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 97
+    },
+    {
+      "id": "ol16808575w",
+      "title": "Zealot",
+      "author": "Reza Aslan",
+      "isbn": "9788415732037",
+      "cover": "c2",
+      "blurb": "Two thousand years ago, an itinerant Jewish preacher gathered followers in the Galilee to establish the Kingdom of God.",
+      "aside": "He was tortured and executed as a state criminal.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 336,
+      "tags": [
+        {
+          "text": "Jesus of Nazareth",
+          "accent": "rose"
+        },
+        {
+          "text": "the Galilee",
+          "accent": "gold"
+        },
+        {
+          "text": "history",
+          "accent": "sage"
+        },
+        {
+          "text": "336 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 67
+    },
+    {
+      "id": "ol16637389w",
+      "title": "The Black Count",
+      "author": "Tom Reiss",
+      "isbn": "9780449012673",
+      "cover": "c3",
+      "blurb": "A swashbuckling life that appears in The Three Musketeers and inspired The Count of Monte Cristo.",
+      "aside": "Explores the life and career of a man almost unknown today.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 432,
+      "tags": [
+        {
+          "text": "biography",
+          "accent": "rose"
+        },
+        {
+          "text": "a forgotten general",
+          "accent": "gold"
+        },
+        {
+          "text": "swashbuckling adventure",
+          "accent": "sage"
+        },
+        {
+          "text": "432 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 40
+    },
+    {
+      "id": "ol16816912w",
+      "title": "10% Happier",
+      "author": "Dan Harris",
+      "isbn": "9780062265425",
+      "cover": "c4",
+      "blurb": "Nightline anchor Dan Harris embarks on a hilarious, skeptical odyssey through spirituality and self-help.",
+      "aside": "He discovers a way to get happier that is truly achievable.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 237,
+      "tags": [
+        {
+          "text": "meditation",
+          "accent": "rose"
+        },
+        {
+          "text": "anxiety",
+          "accent": "gold"
+        },
+        {
+          "text": "a TV anchor",
+          "accent": "sage"
+        },
+        {
+          "text": "237 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 117
+    },
+    {
+      "id": "ol18146967w",
+      "title": "A Higher Loyalty",
+      "author": "James Comey",
+      "isbn": "9781250192455",
+      "cover": "c5",
+      "blurb": "The former FBI director shares two decades of experience in American government and explores ethical leadership.",
+      "aside": "How ethical leadership drives sound decision-making.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 320,
+      "tags": [
+        {
+          "text": "the FBI",
+          "accent": "rose"
+        },
+        {
+          "text": "ethical leadership",
+          "accent": "gold"
+        },
+        {
+          "text": "a memoir",
+          "accent": "sage"
+        },
+        {
+          "text": "320 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 34
+    },
+    {
+      "id": "ol15857593w",
+      "title": "Born standing up",
+      "author": "Steve Martin",
+      "isbn": "9781416553649",
+      "cover": "c1",
+      "blurb": "A humorous memoir of the stand-up years, from a first job selling guidebooks at Disneyland to honing a craft.",
+      "aside": "His early magic and comedy act, and years of honing his craft.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 209,
+      "tags": [
+        {
+          "text": "stand-up",
+          "accent": "rose"
+        },
+        {
+          "text": "Disneyland",
+          "accent": "gold"
+        },
+        {
+          "text": "memoir",
+          "accent": "sage"
+        },
+        {
+          "text": "209 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 58
+    },
+    {
+      "id": "ol8868108w",
+      "title": "H Is for Hawk",
+      "author": "Helen Macdonald",
+      "isbn": "9783548376721",
+      "cover": "c2",
+      "blurb": "After her father's sudden death, a falconer trains a goshawk, one of the most vicious predators.",
+      "aside": "An experienced falconer who had never been tempted to train one before.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 349,
+      "tags": [
+        {
+          "text": "falconry",
+          "accent": "rose"
+        },
+        {
+          "text": "grief",
+          "accent": "gold"
+        },
+        {
+          "text": "a goshawk",
+          "accent": "sage"
+        },
+        {
+          "text": "349 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 77
+    },
+    {
+      "id": "ol478578w",
+      "title": "Undaunted Courage",
+      "author": "Stephen E. Ambrose",
+      "isbn": "9781847397638",
+      "cover": "c3",
+      "blurb": "In 1803 Thomas Jefferson sent his secretary, Meriwether Lewis, up the Missouri River to the Pacific.",
+      "aside": "Over the mountains and down the Columbia River, and back.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 521,
+      "tags": [
+        {
+          "text": "Lewis and Clark",
+          "accent": "rose"
+        },
+        {
+          "text": "exploration",
+          "accent": "gold"
+        },
+        {
+          "text": "Jefferson",
+          "accent": "sage"
+        },
+        {
+          "text": "521 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 60
+    },
+    {
+      "id": "ol17881333w",
+      "title": "Becoming Steve Jobs",
+      "author": "Brent Schlender",
+      "isbn": "9781444762013",
+      "cover": "c4",
+      "blurb": "The behind-the-scenes account of how Steve Jobs became the most famous and visionary CEO in history.",
+      "aside": "Based on a hugely popular Fast Company cover story from May 2012.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 448,
+      "tags": [
+        {
+          "text": "Apple",
+          "accent": "rose"
+        },
+        {
+          "text": "Steve Jobs",
+          "accent": "gold"
+        },
+        {
+          "text": "behind the scenes",
+          "accent": "sage"
+        },
+        {
+          "text": "448 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 32
+    },
+    {
+      "id": "ol18147912w",
+      "title": "Fear: Trump in the White House",
+      "author": "Bob Woodward",
+      "isbn": "9781501175510",
+      "cover": "c5",
+      "blurb": "Bob Woodward reveals in unprecedented detail the harrowing life inside President Trump's White House.",
+      "aside": "Reporting honed through eight presidencies, from Nixon to Obama.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 448,
+      "tags": [
+        {
+          "text": "the White House",
+          "accent": "rose"
+        },
+        {
+          "text": "Trump",
+          "accent": "gold"
+        },
+        {
+          "text": "political reporting",
+          "accent": "sage"
+        },
+        {
+          "text": "448 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 44
+    },
+    {
+      "id": "ol16028960w",
+      "title": "Let my people go surfing",
+      "author": "Yvon Chouinard",
+      "isbn": "9780143037835",
+      "cover": "c1",
+      "blurb": "The long-awaited memoir and manifesto from climber, businessman and environmentalist Yvon Chouinard.",
+      "aside": "The founder of one of the world's most inspiring companies.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 260,
+      "tags": [
+        {
+          "text": "Patagonia",
+          "accent": "rose"
+        },
+        {
+          "text": "business",
+          "accent": "gold"
+        },
+        {
+          "text": "environmentalism",
+          "accent": "sage"
+        },
+        {
+          "text": "260 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 83
+    },
+    {
+      "id": "ol13850862w",
+      "title": "Tattoos on the heart",
+      "author": "Greg Boyle",
+      "isbn": "9781439171776",
+      "cover": "c2",
+      "blurb": "Father Boyle, who started Homeboy Industries, shares parables about kinship and the sacredness of life.",
+      "aside": "Homeboy Industries has served members of more than half the gangs in Los Angeles.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 217,
+      "tags": [
+        {
+          "text": "Los Angeles",
+          "accent": "rose"
+        },
+        {
+          "text": "gangs",
+          "accent": "gold"
+        },
+        {
+          "text": "Homeboy Industries",
+          "accent": "sage"
+        },
+        {
+          "text": "217 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 111
+    },
+    {
+      "id": "ol2668651w",
+      "title": "The Ghost Map",
+      "author": "Steven Johnson",
+      "isbn": "9781400132980",
+      "cover": "c3",
+      "blurb": "A thrilling account of the worst cholera outbreak in Victorian London, and Dr. John Snow's solution.",
+      "aside": "A brilliant exploration of how it revolutionized the way we think about disease and cities.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 299,
+      "tags": [
+        {
+          "text": "Victorian London",
+          "accent": "rose"
+        },
+        {
+          "text": "cholera",
+          "accent": "gold"
+        },
+        {
+          "text": "Dr. John Snow",
+          "accent": "sage"
+        },
+        {
+          "text": "299 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 85
+    },
+    {
+      "id": "ol15233916w",
+      "title": "Empire of the summer moon",
+      "author": "S. C. Gwynne",
+      "isbn": "9781416591061",
+      "cover": "c4",
+      "blurb": "A 40-year war over territory between whites and Comanches, begun with the kidnapping of a white girl.",
+      "aside": "The girl grew up to marry a Comanche chief and have a son, Quanah.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 386,
+      "tags": [
+        {
+          "text": "the Comanches",
+          "accent": "rose"
+        },
+        {
+          "text": "Quanah Parker",
+          "accent": "gold"
+        },
+        {
+          "text": "the Texas frontier",
+          "accent": "sage"
+        },
+        {
+          "text": "386 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 180
+    },
+    {
+      "id": "ol8162628w",
+      "title": "Genghis Khan and the Making of the Modern World",
+      "author": "Jack Weatherford",
+      "isbn": "9780307237811",
+      "cover": "c5",
+      "blurb": "The name Genghis Khan often conjures a bloodthirsty barbarian, but the surprising truth is different.",
+      "aside": "A relentless barbarian on horseback leading nomadic warriors.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 352,
+      "tags": [
+        {
+          "text": "the Mongol empire",
+          "accent": "rose"
+        },
+        {
+          "text": "history",
+          "accent": "gold"
+        },
+        {
+          "text": "a biography",
+          "accent": "sage"
+        },
+        {
+          "text": "352 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 210
+    },
+    {
+      "id": "ol2619663w",
+      "title": "Churchill",
+      "author": "Roy Jenkins",
+      "isbn": "9781405001175",
+      "cover": "c1",
+      "blurb": "A biography of Winston Churchill, who was at the forefront of British politics for almost sixty years.",
+      "aside": "Winston Churchill is an icon of modern history.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 1020,
+      "tags": [
+        {
+          "text": "British politics",
+          "accent": "rose"
+        },
+        {
+          "text": "Winston Churchill",
+          "accent": "gold"
+        },
+        {
+          "text": "a biography",
+          "accent": "sage"
+        },
+        {
+          "text": "1020 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 46
+    },
+    {
+      "id": "ol1856010w",
+      "title": "Team of Rivals",
+      "author": "Doris Kearns Goodwin",
+      "isbn": "9780141043722",
+      "cover": "c2",
+      "blurb": "A biographical portrait of U.S. President Abraham Lincoln by Pulitzer Prize-winning historian Doris Kearns Goodwin.",
+      "aside": "A 2005 book, published by Simon & Schuster.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 916,
+      "tags": [
+        {
+          "text": "Abraham Lincoln",
+          "accent": "rose"
+        },
+        {
+          "text": "the Civil War",
+          "accent": "gold"
+        },
+        {
+          "text": "political rivals",
+          "accent": "sage"
+        },
+        {
+          "text": "916 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 181
+    },
+    {
+      "id": "ol9247039w",
+      "title": "Lone Survivor",
+      "author": "Marcus Luttrell",
+      "isbn": "9780316067607",
+      "cover": "c3",
+      "blurb": "Four U.S. Navy SEALs left their base in northern Afghanistan in June 2005 to capture or kill a leader.",
+      "aside": "On a clear night in late June 2005, four SEALs left for the Pakistani border.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 416,
+      "tags": [
+        {
+          "text": "Navy SEALs",
+          "accent": "rose"
+        },
+        {
+          "text": "Afghanistan",
+          "accent": "gold"
+        },
+        {
+          "text": "a true story",
+          "accent": "sage"
+        },
+        {
+          "text": "416 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 48
+    },
+    {
+      "id": "ol20050125w",
+      "title": "Word by word",
+      "author": "Kory Stamper",
+      "isbn": "9781101970263",
+      "cover": "c4",
+      "blurb": "A vastly entertaining account of how dictionaries are made, full of intelligence and personality.",
+      "aside": "Have you ever tried to define the word \"is\"?",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 296,
+      "tags": [
+        {
+          "text": "lexicography",
+          "accent": "rose"
+        },
+        {
+          "text": "dictionaries",
+          "accent": "gold"
+        },
+        {
+          "text": "language",
+          "accent": "sage"
+        },
+        {
+          "text": "296 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 30
+    },
+    {
+      "id": "ol17952085w",
+      "title": "The disaster artist",
+      "author": "Greg Sestero",
+      "isbn": "9781451661194",
+      "cover": "c5",
+      "blurb": "In 2003 an independent film called The Room made a disastrous debut in Los Angeles.",
+      "aside": "Tommy Wiseau, a mysteriously wealthy social misfit of indeterminate age and origin.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 279,
+      "tags": [
+        {
+          "text": "The Room",
+          "accent": "rose"
+        },
+        {
+          "text": "Hollywood",
+          "accent": "gold"
+        },
+        {
+          "text": "a cult film",
+          "accent": "sage"
+        },
+        {
+          "text": "279 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 33
+    },
+    {
+      "id": "ol4083172w",
+      "title": "Will in the World",
+      "author": "Stephen Greenblatt",
+      "isbn": "9780393327373",
+      "cover": "c1",
+      "blurb": "How did Shakespeare become Shakespeare? Stephen Greenblatt shows us a sensitive, talented boy in Elizabethan life.",
+      "aside": "Elizabethan life is full of drama and pageantry.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 430,
+      "tags": [
+        {
+          "text": "Shakespeare",
+          "accent": "rose"
+        },
+        {
+          "text": "Elizabethan England",
+          "accent": "gold"
+        },
+        {
+          "text": "biography",
+          "accent": "sage"
+        },
+        {
+          "text": "430 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 33
+    },
+    {
+      "id": "ol20032373w",
+      "title": "Chaos monkeys",
+      "author": "Antonio Garcia Martinez",
+      "isbn": "9781785034558",
+      "cover": "c2",
+      "blurb": "An irreverent exposé of life inside the tech bubble, by the provocateur behind Twitter and a nascent Facebook.",
+      "aside": "It traces a hedonist lifestyle against early social media.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 320,
+      "tags": [
+        {
+          "text": "the tech bubble",
+          "accent": "rose"
+        },
+        {
+          "text": "Facebook",
+          "accent": "gold"
+        },
+        {
+          "text": "memoir",
+          "accent": "sage"
+        },
+        {
+          "text": "320 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 42
+    },
+    {
+      "id": "ol61803w",
+      "title": "Ludwig Wittgenstein",
+      "author": "Ray Monk",
+      "isbn": "9780099883708",
+      "cover": "c3",
+      "blurb": "Perhaps the greatest philosopher of the twentieth century, and certainly one of the most original.",
+      "aside": "Given the inaccessibility of his work, it is remarkable that he has inspired so much.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 654,
+      "tags": [
+        {
+          "text": "philosophy",
+          "accent": "rose"
+        },
+        {
+          "text": "a biography",
+          "accent": "gold"
+        },
+        {
+          "text": "twentieth century",
+          "accent": "sage"
+        },
+        {
+          "text": "654 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 36
+    },
+    {
+      "id": "ol3268119w",
+      "title": "Buffett",
+      "author": "Roger Lowenstein",
+      "isbn": "9780385484916",
+      "cover": "c4",
+      "blurb": "Starting from scratch by picking stocks, Warren Buffett amassed one of the epochal fortunes of the twentieth century.",
+      "aside": "A net worth of $10 billion, and counting.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 479,
+      "tags": [
+        {
+          "text": "investing",
+          "accent": "rose"
+        },
+        {
+          "text": "Warren Buffett",
+          "accent": "gold"
+        },
+        {
+          "text": "a biography",
+          "accent": "sage"
+        },
+        {
+          "text": "479 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 43
+    },
+    {
+      "id": "ol17196751w",
+      "title": "On the Move",
+      "author": "Oliver Sacks",
+      "isbn": "9781447264057",
+      "cover": "c5",
+      "blurb": "An impassioned, tender, and joyous memoir by the author of Musicophilia.",
+      "aside": "A perceptive schoolmaster wrote in his report that Sacks would go far.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 416,
+      "tags": [
+        {
+          "text": "neurology",
+          "accent": "rose"
+        },
+        {
+          "text": "a memoir",
+          "accent": "gold"
+        },
+        {
+          "text": "Oliver Sacks",
+          "accent": "sage"
+        },
+        {
+          "text": "416 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 48
+    },
+    {
+      "id": "ol17021685w",
+      "title": "Jony Ive",
+      "author": "Leander Kahney",
+      "isbn": "9781591846178",
+      "cover": "c1",
+      "blurb": "The bestselling author of Inside Steve's Brain profiles Apple's legendary chief designer, Jonathan Ive.",
+      "aside": "Ive's designs have made Apple one of the most valuable companies in the world.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 321,
+      "tags": [
+        {
+          "text": "Apple",
+          "accent": "rose"
+        },
+        {
+          "text": "design",
+          "accent": "gold"
+        },
+        {
+          "text": "Jonathan Ive",
+          "accent": "sage"
+        },
+        {
+          "text": "321 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 37
+    },
+    {
+      "id": "ol3497270w",
+      "title": "Beautiful Boy",
+      "author": "David Sheff",
+      "isbn": "9781602852945",
+      "cover": "c2",
+      "blurb": "David Sheff's journey through his son Nic's addiction to drugs and tentative steps toward recovery.",
+      "aside": "What did I do wrong? Those are the wrenching questions that haunted every moment.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 346,
+      "tags": [
+        {
+          "text": "addiction",
+          "accent": "rose"
+        },
+        {
+          "text": "a father's memoir",
+          "accent": "gold"
+        },
+        {
+          "text": "recovery",
+          "accent": "sage"
+        },
+        {
+          "text": "346 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 263
+    },
+    {
+      "id": "ol18147675w",
+      "title": "Principles",
+      "author": "Ray Dalio",
+      "isbn": "9781501124051",
+      "cover": "c3",
+      "blurb": "Bridgewater founder Ray Dalio offers a five-step process to getting what you want out of life.",
+      "aside": "Systemizing everything to run like a machine, which can then be fine-tuned.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 592,
+      "tags": [
+        {
+          "text": "Bridgewater",
+          "accent": "rose"
+        },
+        {
+          "text": "decision-making",
+          "accent": "gold"
+        },
+        {
+          "text": "business",
+          "accent": "sage"
+        },
+        {
+          "text": "592 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 331
+    },
+    {
+      "id": "ol16175517w",
+      "title": "The destiny of the republic",
+      "author": "Candice Millard",
+      "isbn": "9780525492849",
+      "cover": "c4",
+      "blurb": "Born into abject poverty, James Garfield rose to become a scholar, Civil War hero and reformist congressman.",
+      "aside": "One of the most extraordinary men ever elected president.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 366,
+      "tags": [
+        {
+          "text": "James Garfield",
+          "accent": "rose"
+        },
+        {
+          "text": "the presidency",
+          "accent": "gold"
+        },
+        {
+          "text": "history",
+          "accent": "sage"
+        },
+        {
+          "text": "366 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 42
+    },
+    {
+      "id": "ol17335904w",
+      "title": "What I know for sure",
+      "author": "Oprah Winfrey",
+      "isbn": "9781250054074",
+      "cover": "c5",
+      "blurb": "Oprah Winfrey shares the What I Know For Sure column she began after Gene Siskel asked her the question.",
+      "aside": "The question offered her a way to take stock of her life.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 228,
+      "tags": [
+        {
+          "text": "Oprah",
+          "accent": "rose"
+        },
+        {
+          "text": "essays",
+          "accent": "gold"
+        },
+        {
+          "text": "memoir",
+          "accent": "sage"
+        },
+        {
+          "text": "228 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 135
+    },
+    {
+      "id": "ol20140592w",
+      "title": "The Ride of a Lifetime",
+      "author": "Robert Iger",
+      "isbn": "9780593170984",
+      "cover": "c1",
+      "blurb": "Robert Iger shares the lessons he learned running Disney and leading its 200,000 employees.",
+      "aside": "Iger became CEO of the Walt Disney Company in 2005.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 288,
+      "tags": [
+        {
+          "text": "Disney",
+          "accent": "rose"
+        },
+        {
+          "text": "leadership",
+          "accent": "gold"
+        },
+        {
+          "text": "business",
+          "accent": "sage"
+        },
+        {
+          "text": "288 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 114
+    },
+    {
+      "id": "ol3457531w",
+      "title": "The Noonday Demon",
+      "author": "Andrew Solomon",
+      "isbn": "9788466606837",
+      "cover": "c2",
+      "blurb": "Drawing on his own struggles and interviews with fellow sufferers, Andrew Solomon examines depression.",
+      "aside": "Depression in personal, cultural, and scientific terms.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 576,
+      "tags": [
+        {
+          "text": "depression",
+          "accent": "rose"
+        },
+        {
+          "text": "a personal history",
+          "accent": "gold"
+        },
+        {
+          "text": "medicine",
+          "accent": "sage"
+        },
+        {
+          "text": "576 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 278
+    },
+    {
+      "id": "ol17762160w",
+      "title": "But What If We're Wrong?",
+      "author": "Chuck Klosterman",
+      "isbn": "9780399184123",
+      "cover": "c3",
+      "blurb": "We live in a culture of casual certitude, where every generation assumes it has got things right.",
+      "aside": "Though no generation believes there's nothing left to learn.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 272,
+      "tags": [
+        {
+          "text": "essays",
+          "accent": "rose"
+        },
+        {
+          "text": "certainty",
+          "accent": "gold"
+        },
+        {
+          "text": "culture",
+          "accent": "sage"
+        },
+        {
+          "text": "272 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 31
+    },
+    {
+      "id": "ol18144320w",
+      "title": "Small Fry",
+      "author": "Lisa Brennan-Jobs",
+      "isbn": "9780802147219",
+      "cover": "c4",
+      "blurb": "Born on a farm and named in a field by her parents, Lisa Brennan-Jobs grew up in changing Silicon Valley.",
+      "aside": "When she was young, her father was a mythical figure.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 384,
+      "tags": [
+        {
+          "text": "a memoir",
+          "accent": "rose"
+        },
+        {
+          "text": "Steve Jobs's daughter",
+          "accent": "gold"
+        },
+        {
+          "text": "Silicon Valley",
+          "accent": "sage"
+        },
+        {
+          "text": "384 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 37
+    },
+    {
+      "id": "ol8945256w",
+      "title": "Jesus Land",
+      "author": "Julia Scheeres",
+      "isbn": "9781582433387",
+      "cover": "c5",
+      "blurb": "A gritty, heart-wrenching memoir in which the sibling bond is at the core of the story.",
+      "aside": "A page turner.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 384,
+      "tags": [
+        {
+          "text": "Texas",
+          "accent": "rose"
+        },
+        {
+          "text": "a sibling bond",
+          "accent": "gold"
+        },
+        {
+          "text": "faith",
+          "accent": "sage"
+        },
+        {
+          "text": "384 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 81
+    },
+    {
+      "id": "ol20128026w",
+      "title": "The Education Of An Idealist",
+      "author": "Samantha Power",
+      "isbn": "9780008274924",
+      "cover": "c1",
+      "blurb": "Samantha Power's memoir offers an urgent response to the question, \"What can one person do?\"",
+      "aside": "A call for a clearer eye, a kinder heart, and a more open and civil hand in our politics.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 580,
+      "tags": [
+        {
+          "text": "a memoir",
+          "accent": "rose"
+        },
+        {
+          "text": "diplomacy",
+          "accent": "gold"
+        },
+        {
+          "text": "human rights",
+          "accent": "sage"
+        },
+        {
+          "text": "580 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 23
+    },
+    {
+      "id": "ol17192923w",
+      "title": "My beloved world",
+      "author": "Sonia Sotomayor",
+      "isbn": "9780307594884",
+      "cover": "c2",
+      "blurb": "The first Hispanic on the U.S. Supreme Court tells the story of her life before becoming a judge.",
+      "aside": "She is the third woman to sit on the Court.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 315,
+      "tags": [
+        {
+          "text": "the Bronx",
+          "accent": "rose"
+        },
+        {
+          "text": "the Supreme Court",
+          "accent": "gold"
+        },
+        {
+          "text": "a memoir",
+          "accent": "sage"
+        },
+        {
+          "text": "315 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 10
+    },
+    {
+      "id": "ol20022327w",
+      "title": "The lightless sky",
+      "author": "Gulwali Passarlay",
+      "isbn": "9780062443878",
+      "cover": "c3",
+      "blurb": "A twelve-year-old boy's traumatic flight from Afghanistan to the West, a gripping memoir of fortitude and survival.",
+      "aside": "It puts a face to one of the most shocking humanitarian crises of our time.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 361,
+      "tags": [
+        {
+          "text": "Afghanistan",
+          "accent": "rose"
+        },
+        {
+          "text": "a refugee",
+          "accent": "gold"
+        },
+        {
+          "text": "a twelve-year-old's journey",
+          "accent": "sage"
+        },
+        {
+          "text": "361 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 8
+    },
+    {
+      "id": "ol522472w",
+      "title": "Wisecracker",
+      "author": "William J. Mann",
+      "isbn": "9780670871551",
+      "cover": "c4",
+      "blurb": "In 1930 William Haines was Hollywood's number-one box-office draw, and offscreen he was openly gay.",
+      "aside": "The rich gay subculture of Hollywood before the Production Code.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 462,
+      "tags": [
+        {
+          "text": "Hollywood",
+          "accent": "rose"
+        },
+        {
+          "text": "a biography",
+          "accent": "gold"
+        },
+        {
+          "text": "the Production Code",
+          "accent": "sage"
+        },
+        {
+          "text": "462 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 15
+    },
+    {
+      "id": "ol19997018w",
+      "title": "Spinster",
+      "author": "Kate Bolick",
+      "isbn": "9781472152077",
+      "cover": "c5",
+      "blurb": "A single woman considers her life and the bold single ladies who have gone before her.",
+      "aside": "The long arc of slowly changing attitudes toward women.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 308,
+      "tags": [
+        {
+          "text": "single women",
+          "accent": "rose"
+        },
+        {
+          "text": "essays",
+          "accent": "gold"
+        },
+        {
+          "text": "history",
+          "accent": "sage"
+        },
+        {
+          "text": "308 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 20
+    },
+    {
+      "id": "ol19984609w",
+      "title": "The wild truth",
+      "author": "Carine McCandless",
+      "isbn": "9780062325150",
+      "cover": "c1",
+      "blurb": "Chris McCandless gave away his savings, hitchhiked to Alaska, and starved in the wilderness alone in 1992.",
+      "aside": "A story that fascinated not just Jon Krakauer but the rest of the nation.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 339,
+      "tags": [
+        {
+          "text": "Alaska",
+          "accent": "rose"
+        },
+        {
+          "text": "Chris McCandless",
+          "accent": "gold"
+        },
+        {
+          "text": "a family memoir",
+          "accent": "sage"
+        },
+        {
+          "text": "339 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 32
+    },
+    {
+      "id": "ol9253098w",
+      "title": "Leaving Mother Lake",
+      "author": "Yang Erche Namu",
+      "isbn": "9780316124713",
+      "cover": "c2",
+      "blurb": "The haunting memoir of a girl growing up in the Moso country, a unique matrilineal society in the Himalayas.",
+      "aside": "Even in this land of women, familial tension is eternal.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 299,
+      "tags": [
+        {
+          "text": "the Himalayas",
+          "accent": "rose"
+        },
+        {
+          "text": "a matrilineal society",
+          "accent": "gold"
+        },
+        {
+          "text": "a memoir",
+          "accent": "sage"
+        },
+        {
+          "text": "299 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 7
+    },
+    {
+      "id": "ol193645w",
+      "title": "The Looming Tower",
+      "author": "Lawrence Wright",
+      "isbn": "9781400153053",
+      "cover": "c3",
+      "blurb": "A gripping narrative that spans five decades.",
+      "aside": "A National Book Award finalist.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 550,
+      "tags": [
+        {
+          "text": "al Qaeda",
+          "accent": "rose"
+        },
+        {
+          "text": "the FBI and CIA",
+          "accent": "gold"
+        },
+        {
+          "text": "history",
+          "accent": "sage"
+        },
+        {
+          "text": "550 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 197
+    },
+    {
+      "id": "ol16700318w",
+      "title": "The Signal and the Noise",
+      "author": "Nate Silver",
+      "isbn": "9780606368056",
+      "cover": "c4",
+      "blurb": "Nate Silver built a baseball prediction system, then predicted the 2008 election within a hair's breadth.",
+      "aside": "He became a national sensation as a blogger by the time he was thirty.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 552,
+      "tags": [
+        {
+          "text": "prediction",
+          "accent": "rose"
+        },
+        {
+          "text": "statistics",
+          "accent": "gold"
+        },
+        {
+          "text": "politics",
+          "accent": "sage"
+        },
+        {
+          "text": "552 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 183
+    },
+    {
+      "id": "ol5749849w",
+      "title": "Blink",
+      "author": "Malcolm Gladwell",
+      "isbn": "9780316172325",
+      "cover": "c5",
+      "blurb": "Intuition is not some magical property. It is a product of long hours and intelligent design.",
+      "aside": "Of meaningful work environments and particular rules and principles.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 295,
+      "tags": [
+        {
+          "text": "intuition",
+          "accent": "rose"
+        },
+        {
+          "text": "decision-making",
+          "accent": "gold"
+        },
+        {
+          "text": "psychology",
+          "accent": "sage"
+        },
+        {
+          "text": "295 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 791
+    },
+    {
+      "id": "ol15368067w",
+      "title": "The Disappearing Spoon",
+      "author": "Sam Kean",
+      "isbn": "9786056355929",
+      "cover": "c1",
+      "blurb": "Carbon, neon, silicon and gold play out their parts in human history, finance, war, the arts and poison.",
+      "aside": "Infectious tales and astounding details.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 391,
+      "tags": [
+        {
+          "text": "chemistry",
+          "accent": "rose"
+        },
+        {
+          "text": "the periodic table",
+          "accent": "gold"
+        },
+        {
+          "text": "history",
+          "accent": "sage"
+        },
+        {
+          "text": "391 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 149
+    },
+    {
+      "id": "ol800722w",
+      "title": "In the Heart of the Sea",
+      "author": "Nathaniel Philbrick",
+      "isbn": "9780001055506",
+      "cover": "c2",
+      "blurb": "In 1819 the 238-ton Essex set sail from Nantucket to hunt whales, and was sunk by an enraged sperm whale.",
+      "aside": "Fifteen months later, the Essex was rammed and sunk.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 320,
+      "tags": [
+        {
+          "text": "whaling",
+          "accent": "rose"
+        },
+        {
+          "text": "the Essex",
+          "accent": "gold"
+        },
+        {
+          "text": "true survival",
+          "accent": "sage"
+        },
+        {
+          "text": "320 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 141
+    },
+    {
+      "id": "ol7989229w",
+      "title": "The Great Influenza",
+      "author": "John M. Barry",
+      "isbn": "9781429501927",
+      "cover": "c3",
+      "blurb": "The most lethal influenza virus in history erupted in a Kansas army camp during WWI.",
+      "aside": "It killed as many as 100 million people worldwide.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 590,
+      "tags": [
+        {
+          "text": "1918 flu",
+          "accent": "rose"
+        },
+        {
+          "text": "WWI",
+          "accent": "gold"
+        },
+        {
+          "text": "pandemic history",
+          "accent": "sage"
+        },
+        {
+          "text": "590 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 177
+    },
+    {
+      "id": "ol15188988w",
+      "title": "Too Big to Fail",
+      "author": "Andrew Ross Sorkin",
+      "isbn": "9780141931777",
+      "cover": "c4",
+      "blurb": "A real-life thriller about the most tumultuous period in America's financial history, by a New York Times reporter.",
+      "aside": "The first true behind-the-scenes, moment-by-moment account.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 600,
+      "tags": [
+        {
+          "text": "financial crisis",
+          "accent": "rose"
+        },
+        {
+          "text": "2008",
+          "accent": "gold"
+        },
+        {
+          "text": "Wall Street",
+          "accent": "sage"
+        },
+        {
+          "text": "600 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 201
+    },
+    {
+      "id": "ol2950942w",
+      "title": "The Demon-Haunted World",
+      "author": "Carl Sagan",
+      "isbn": "9780345409461",
+      "cover": "c5",
+      "blurb": "A prescient warning of a future where fake news and internet conspiracy theories play to a disaffected populace.",
+      "aside": "A spirited defense of science.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 472,
+      "tags": [
+        {
+          "text": "science",
+          "accent": "rose"
+        },
+        {
+          "text": "skepticism",
+          "accent": "gold"
+        },
+        {
+          "text": "critical thinking",
+          "accent": "sage"
+        },
+        {
+          "text": "472 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 492
+    },
+    {
+      "id": "ol18147687w",
+      "title": "The Body Keeps the Score",
+      "author": "Bessel van der Kolk",
+      "isbn": "9782266300728",
+      "cover": "c1",
+      "blurb": "Trauma is a fact of life, and one in five Americans has been molested.",
+      "aside": "One in four grew up with alcoholics; one in three couples have engaged in physical violence.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 520,
+      "tags": [
+        {
+          "text": "trauma",
+          "accent": "rose"
+        },
+        {
+          "text": "psychology",
+          "accent": "gold"
+        },
+        {
+          "text": "PTSD",
+          "accent": "sage"
+        },
+        {
+          "text": "520 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 1773
+    },
+    {
+      "id": "ol16814401w",
+      "title": "Redefining realness",
+      "author": "Janet Mock",
+      "isbn": "9781476709147",
+      "cover": "c2",
+      "blurb": "Janet Mock relays her experiences of growing up young, multiracial, poor and trans in America.",
+      "aside": "Vital insight about the unique challenges she faced.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 288,
+      "tags": [
+        {
+          "text": "trans",
+          "accent": "rose"
+        },
+        {
+          "text": "a memoir",
+          "accent": "gold"
+        },
+        {
+          "text": "identity",
+          "accent": "sage"
+        },
+        {
+          "text": "288 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 55
+    },
+    {
+      "id": "ol5846775w",
+      "title": "Covering",
+      "author": "Kenji Yoshino",
+      "isbn": "9780375508202",
+      "cover": "c3",
+      "blurb": "Everyone covers: to downplay a disfavored trait so as to blend into the mainstream.",
+      "aside": "Racial minorities are pressed to cover.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 282,
+      "tags": [
+        {
+          "text": "identity",
+          "accent": "rose"
+        },
+        {
+          "text": "covering",
+          "accent": "gold"
+        },
+        {
+          "text": "civil rights",
+          "accent": "sage"
+        },
+        {
+          "text": "282 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 12
+    },
+    {
+      "id": "ol19729677w",
+      "title": "Why I'm No Longer Talking to White People About Race",
+      "author": "Reni Eddo-Lodge",
+      "isbn": "9783608504583",
+      "cover": "c4",
+      "blurb": "In 2014 award-winning journalist Reni Eddo-Lodge wrote on her blog about her frustrations.",
+      "aside": "A conversation about race that began on her blog.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 256,
+      "tags": [
+        {
+          "text": "race",
+          "accent": "rose"
+        },
+        {
+          "text": "essays",
+          "accent": "gold"
+        },
+        {
+          "text": "Britain",
+          "accent": "sage"
+        },
+        {
+          "text": "256 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 155
+    },
+    {
+      "id": "ol17778974w",
+      "title": "Stuff Matters",
+      "author": "Mark Miodownik",
+      "isbn": "9780544236042",
+      "cover": "c5",
+      "blurb": "Why is glass see-through? What makes elastic stretchy? Why does a paperclip bend?",
+      "aside": "The materials around us.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 272,
+      "tags": [
+        {
+          "text": "materials science",
+          "accent": "rose"
+        },
+        {
+          "text": "everyday objects",
+          "accent": "gold"
+        },
+        {
+          "text": "curiosity",
+          "accent": "sage"
+        },
+        {
+          "text": "272 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 75
+    },
+    {
+      "id": "ol1972516w",
+      "title": "Code",
+      "author": "Charles Petzold",
+      "isbn": "9780735605053",
+      "cover": "c1",
+      "blurb": "What do flashlights, the British invasion, black cats and seesaws have to do with computers?",
+      "aside": "The British invasion and seesaws are part of the answer.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 393,
+      "tags": [
+        {
+          "text": "computing",
+          "accent": "rose"
+        },
+        {
+          "text": "code",
+          "accent": "gold"
+        },
+        {
+          "text": "how computers work",
+          "accent": "sage"
+        },
+        {
+          "text": "393 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 255
+    },
+    {
+      "id": "ol2709370w",
+      "title": "Are Prisons Obsolete?",
+      "author": "Angela Y. Davis",
+      "isbn": "9788833893273",
+      "cover": "c2",
+      "blurb": "Amid rising public concern about the proliferation and privatization of prisons, Angela Davis asks a hard question.",
+      "aside": "Angela Y. Davis asks whether prisons can be replaced.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 165,
+      "tags": [
+        {
+          "text": "prisons",
+          "accent": "rose"
+        },
+        {
+          "text": "reform",
+          "accent": "gold"
+        },
+        {
+          "text": "social justice",
+          "accent": "sage"
+        },
+        {
+          "text": "165 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 135
+    },
+    {
+      "id": "ol17778664w",
+      "title": "We are Never Meeting in Real Life",
+      "author": "Samantha Irby",
+      "isbn": "9781101912195",
+      "cover": "c3",
+      "blurb": "With heartfelt candor and her usual side-splitting bite, humorist Samantha Irby writes about her life.",
+      "aside": "Her usual side-splitting bite.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 282,
+      "tags": [
+        {
+          "text": "essays",
+          "accent": "rose"
+        },
+        {
+          "text": "humor",
+          "accent": "gold"
+        },
+        {
+          "text": "a memoir",
+          "accent": "sage"
+        },
+        {
+          "text": "282 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 39
+    },
+    {
+      "id": "ol19983235w",
+      "title": "Working stiff",
+      "author": "Judy Melinek",
+      "isbn": "9781476727257",
+      "cover": "c4",
+      "blurb": "The fearless memoir of a young forensic pathologist's rookie season as a New York City medical examiner.",
+      "aside": "A rookie season in forensic pathology.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 265,
+      "tags": [
+        {
+          "text": "forensic pathology",
+          "accent": "rose"
+        },
+        {
+          "text": "New York City",
+          "accent": "gold"
+        },
+        {
+          "text": "a memoir",
+          "accent": "sage"
+        },
+        {
+          "text": "265 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 33
+    },
+    {
+      "id": "ol24207673w",
+      "title": "Let's Talk About Hard Things",
+      "author": "Anna Sale",
+      "isbn": "9781501190247",
+      "cover": "c5",
+      "blurb": "Anna Sale wants you to have that conversation. You know the one.",
+      "aside": "The conversation people tend to avoid.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 290,
+      "tags": [
+        {
+          "text": "honest conversations",
+          "accent": "rose"
+        },
+        {
+          "text": "relationships",
+          "accent": "gold"
+        },
+        {
+          "text": "self-help",
+          "accent": "sage"
+        },
+        {
+          "text": "290 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 8
     }
   ]
 }
