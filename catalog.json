@@ -1,5 +1,5 @@
 {
-  "version": 62,
+  "version": 68,
   "retired": {
     "ol19661009w": "tattooist",
     "ol20742637w": "guestlist"
@@ -32315,6 +32315,3648 @@
       ],
       "contentFlags": [],
       "popularity": 112
+    },
+    {
+      "id": "ol2980902w",
+      "title": "A Fine Balance",
+      "author": "Rohinton Mistry",
+      "isbn": "9780679776451",
+      "cover": "c1",
+      "blurb": "Set in India in the mid-1970s, four unlikely people's lives become entwined after a State of Internal Emergency is declared.",
+      "aside": "Large in scope, it sweeps the reader into a flat in the city where four unlikely people come together.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 719,
+      "tags": [
+        {
+          "text": "India 1970s",
+          "accent": "rose"
+        },
+        {
+          "text": "State of Emergency",
+          "accent": "gold"
+        },
+        {
+          "text": "four lives entwined",
+          "accent": "sage"
+        },
+        {
+          "text": "719 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 138
+    },
+    {
+      "id": "ol30838w",
+      "title": "The hours",
+      "author": "Michael Cunningham",
+      "isbn": "9780374172893",
+      "cover": "c2",
+      "blurb": "Virginia Woolf's last days before her suicide counterpoint the lives of contemporary characters struggling with love, inheritance and despair.",
+      "aside": "Cunningham draws inventively on the life and work of Virginia Woolf.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 230,
+      "tags": [
+        {
+          "text": "Virginia Woolf",
+          "accent": "rose"
+        },
+        {
+          "text": "three lives",
+          "accent": "gold"
+        },
+        {
+          "text": "love and despair",
+          "accent": "sage"
+        },
+        {
+          "text": "230 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 140
+    },
+    {
+      "id": "ol1052133w",
+      "title": "The God of Small Things",
+      "author": "Arundhati Roy",
+      "isbn": "9783442448388",
+      "cover": "c3",
+      "blurb": "Fraternal twins in India whose lives are destroyed by the 'Love Laws' that dictate who should be loved, and how.",
+      "aside": "The book reflects its irony against casteism, and won the Booker Prize in 1997.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 357,
+      "tags": [
+        {
+          "text": "fraternal twins",
+          "accent": "rose"
+        },
+        {
+          "text": "caste and love laws",
+          "accent": "gold"
+        },
+        {
+          "text": "childhood",
+          "accent": "sage"
+        },
+        {
+          "text": "357 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 1437
+    },
+    {
+      "id": "ol15821869w",
+      "title": "The Kitchen God's Wife",
+      "author": "Amy Tan",
+      "isbn": "9780679748083",
+      "cover": "c4",
+      "blurb": "Winnie and Helen have kept each other's worst secrets for fifty years, and now Helen wants to expose everything.",
+      "aside": "Winnie decides she must be the one to tell her daughter Pearl about the past.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 467,
+      "tags": [
+        {
+          "text": "mother and daughter",
+          "accent": "rose"
+        },
+        {
+          "text": "buried secrets",
+          "accent": "gold"
+        },
+        {
+          "text": "1920s China",
+          "accent": "sage"
+        },
+        {
+          "text": "467 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 125
+    },
+    {
+      "id": "ol18343w",
+      "title": "The Stone Diaries",
+      "author": "Carol Shields",
+      "isbn": "9780007666232",
+      "cover": "c5",
+      "blurb": "The story of Daisy Goodwill, from her calamitous birth in Canada to her death in a Florida nursing home.",
+      "aside": "She listens and observes, becoming a witness to her own life and death.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 361,
+      "tags": [
+        {
+          "text": "Daisy Goodwill",
+          "accent": "rose"
+        },
+        {
+          "text": "twentieth century",
+          "accent": "gold"
+        },
+        {
+          "text": "a whole life",
+          "accent": "sage"
+        },
+        {
+          "text": "361 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 59
+    },
+    {
+      "id": "ol940076w",
+      "title": "The door",
+      "author": "Magda Szabó",
+      "isbn": "9781843431930",
+      "cover": "c1",
+      "blurb": "A writer hires a housekeeper, and gradually uncovers the secrets of a woman whose past is horrifying and astounding.",
+      "aside": "Yet there is genuine humour too, as the two women interact and adopt a dog.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 272,
+      "tags": [
+        {
+          "text": "housekeeper",
+          "accent": "rose"
+        },
+        {
+          "text": "two women",
+          "accent": "gold"
+        },
+        {
+          "text": "Hungary",
+          "accent": "sage"
+        },
+        {
+          "text": "272 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 52
+    },
+    {
+      "id": "ol17355881w",
+      "title": "Before the Fall",
+      "author": "Noah Hawley",
+      "isbn": "9781444779752",
+      "cover": "c2",
+      "blurb": "A plane crashes into the sea sixteen minutes into its flight, and only a painter and a four-year-old boy survive.",
+      "aside": "Both men on board have secrets that could ruin their lives.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 416,
+      "tags": [
+        {
+          "text": "plane crash",
+          "accent": "rose"
+        },
+        {
+          "text": "sole survivors",
+          "accent": "gold"
+        },
+        {
+          "text": "buried secrets",
+          "accent": "sage"
+        },
+        {
+          "text": "416 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 37
+    },
+    {
+      "id": "ol18020313w",
+      "title": "The Immortalists",
+      "author": "Chloe Benjamin",
+      "isbn": "9780735213180",
+      "cover": "c3",
+      "blurb": "Four siblings visit a psychic in 1969, and the prophecies she gives them shape the next five decades.",
+      "aside": "Golden-boy Simon escapes to San Francisco, while Klara becomes a Las Vegas magician.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 407,
+      "tags": [
+        {
+          "text": "four siblings",
+          "accent": "rose"
+        },
+        {
+          "text": "a psychic's prophecy",
+          "accent": "gold"
+        },
+        {
+          "text": "fate",
+          "accent": "sage"
+        },
+        {
+          "text": "407 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 60
+    },
+    {
+      "id": "ol1916893w",
+      "title": "About a Boy",
+      "author": "Nick Hornby",
+      "isbn": "9783464371640",
+      "cover": "c4",
+      "blurb": "Will is thirty-six and child-free, and he's found a clever way to meet women: single-parent groups.",
+      "aside": "Marcus, twelve and a little nerdish, may help him, and both can start to act their age.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 307,
+      "tags": [
+        {
+          "text": "single dad",
+          "accent": "rose"
+        },
+        {
+          "text": "a twelve-year-old boy",
+          "accent": "gold"
+        },
+        {
+          "text": "meeting women",
+          "accent": "sage"
+        },
+        {
+          "text": "307 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Contemporary"
+      ],
+      "contentFlags": [],
+      "popularity": 129
+    },
+    {
+      "id": "ol272454w",
+      "title": "Always Running",
+      "author": "Luis J. Rodriguez",
+      "isbn": "9781880684061",
+      "cover": "c5",
+      "blurb": "Luis J. Rodriguez recounts his days as a member of a street gang in East Los Angeles.",
+      "aside": "A 1993 autobiographical book about gang days in the city's eastern suburbs.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 260,
+      "tags": [
+        {
+          "text": "gang life",
+          "accent": "rose"
+        },
+        {
+          "text": "East Los Angeles",
+          "accent": "gold"
+        },
+        {
+          "text": "memoir",
+          "accent": "sage"
+        },
+        {
+          "text": "260 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 108
+    },
+    {
+      "id": "ol5845214w",
+      "title": "Little Bee",
+      "author": "Chris Cleave",
+      "isbn": "9780385665308",
+      "cover": "c1",
+      "blurb": "An illegal Nigerian refugee and a recent widow from suburban London form a tenuous friendship.",
+      "aside": "A haunting novel about the friendship that blooms between two disparate strangers.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 296,
+      "tags": [
+        {
+          "text": "refugee",
+          "accent": "rose"
+        },
+        {
+          "text": "friendship",
+          "accent": "gold"
+        },
+        {
+          "text": "two strangers",
+          "accent": "sage"
+        },
+        {
+          "text": "296 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 48
+    },
+    {
+      "id": "ol18143930w",
+      "title": "There There",
+      "author": "Tommy Orange",
+      "isbn": "9780525436140",
+      "cover": "c2",
+      "blurb": "Lives tied to Native American heritage converge at a powwow, and at the moment the gunshots start, everything changes.",
+      "aside": "Not since Sherman Alexie has such a powerful new Native American voice emerged.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 304,
+      "tags": [
+        {
+          "text": "Native American voices",
+          "accent": "rose"
+        },
+        {
+          "text": "powwow",
+          "accent": "gold"
+        },
+        {
+          "text": "interconnected lives",
+          "accent": "sage"
+        },
+        {
+          "text": "304 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 202
+    },
+    {
+      "id": "ol19710839w",
+      "title": "What we lose",
+      "author": "Zinzi Clemmons",
+      "isbn": "9780735221734",
+      "cover": "c3",
+      "blurb": "Thandi, raised in Pennsylvania, is an outsider everywhere as her mother succumbs to cancer.",
+      "aside": "She searches for an anchor, someone or something to love.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 219,
+      "tags": [
+        {
+          "text": "mother's illness",
+          "accent": "rose"
+        },
+        {
+          "text": "coming of age",
+          "accent": "gold"
+        },
+        {
+          "text": "Johannesburg",
+          "accent": "sage"
+        },
+        {
+          "text": "219 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 18
+    },
+    {
+      "id": "ol18144316w",
+      "title": "The Mars Room",
+      "author": "Rachel Kushner",
+      "isbn": "9781476756554",
+      "cover": "c1",
+      "blurb": "Romy Hall starts two life sentences at a California women's prison, severed from the world and from her young son.",
+      "aside": "Kushner evokes the deadpan absurdities of institutional living.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 352,
+      "tags": [
+        {
+          "text": "women's prison",
+          "accent": "rose"
+        },
+        {
+          "text": "San Francisco",
+          "accent": "gold"
+        },
+        {
+          "text": "a mother's sentence",
+          "accent": "sage"
+        },
+        {
+          "text": "352 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 20
+    },
+    {
+      "id": "ol17356847w",
+      "title": "My Name is Lucy Barton",
+      "author": "Elizabeth Strout",
+      "isbn": "9788416261918",
+      "cover": "c2",
+      "blurb": "Lucy Barton is recovering from a simple operation when her estranged mother comes to visit her hospital bed.",
+      "aside": "A simple hospital visit becomes a portal to the most tender relationship of all.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 208,
+      "tags": [
+        {
+          "text": "mother and daughter",
+          "accent": "rose"
+        },
+        {
+          "text": "hospital visit",
+          "accent": "gold"
+        },
+        {
+          "text": "memory",
+          "accent": "sage"
+        },
+        {
+          "text": "208 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 33
+    },
+    {
+      "id": "ol456089w",
+      "title": "The Shipping News",
+      "author": "Annie Proulx",
+      "isbn": "9780684193373",
+      "cover": "c3",
+      "blurb": "A third-rate newspaperman retreats with his two daughters to his ancestral home on the Newfoundland coast.",
+      "aside": "There he confronts his private demons and the unpredictable forces of nature.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 345,
+      "tags": [
+        {
+          "text": "Newfoundland",
+          "accent": "rose"
+        },
+        {
+          "text": "new beginnings",
+          "accent": "gold"
+        },
+        {
+          "text": "a family's struggle",
+          "accent": "sage"
+        },
+        {
+          "text": "345 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 162
+    },
+    {
+      "id": "ol456231w",
+      "title": "Girl with a Pearl Earring",
+      "author": "Tracy Chevalier",
+      "isbn": "9788466317092",
+      "cover": "c4",
+      "blurb": "A quiet servant girl in Vermeer's Delft household becomes his assistant and, finally, his model.",
+      "aside": "Her arrival throws the household into turmoil as Vermeer and Griet grow intimate.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 271,
+      "tags": [
+        {
+          "text": "Vermeer",
+          "accent": "rose"
+        },
+        {
+          "text": "Delft in the 1660s",
+          "accent": "gold"
+        },
+        {
+          "text": "a servant girl",
+          "accent": "sage"
+        },
+        {
+          "text": "271 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 225
+    },
+    {
+      "id": "ol1875009w",
+      "title": "Gilead",
+      "author": "Marilynne Robinson",
+      "isbn": "9788389779618",
+      "cover": "c5",
+      "blurb": "In 1956 an elderly preacher begins a letter to his young son, an account of himself and his forebears.",
+      "aside": "Winner of the 2005 Pulitzer Prize for Fiction.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 257,
+      "tags": [
+        {
+          "text": "letter to a son",
+          "accent": "rose"
+        },
+        {
+          "text": "1956 Iowa",
+          "accent": "gold"
+        },
+        {
+          "text": "faith and memory",
+          "accent": "sage"
+        },
+        {
+          "text": "257 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 149
+    },
+    {
+      "id": "ol17163917w",
+      "title": "Go Set A Watchman",
+      "author": "Harper Lee",
+      "isbn": "9780062409867",
+      "cover": "c1",
+      "blurb": "Twenty-six-year-old Jean Louise Finch returns home to Alabama and learns disturbing truths about her family and town.",
+      "aside": "Memories of her childhood flood back, and her values are thrown into doubt.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 304,
+      "tags": [
+        {
+          "text": "Maycomb",
+          "accent": "rose"
+        },
+        {
+          "text": "civil rights",
+          "accent": "gold"
+        },
+        {
+          "text": "homecoming",
+          "accent": "sage"
+        },
+        {
+          "text": "304 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 159
+    },
+    {
+      "id": "ol22431w",
+      "title": "In the Lake of the Woods",
+      "author": "Tim O'Brien",
+      "isbn": "9780618709861",
+      "cover": "c2",
+      "blurb": "On a Minnesota lake, Kathy Wade vanishes, and her husband, a political star just defeated, is left with questions.",
+      "aside": "Their boat is gone, and it's unclear whether she drowned or fled.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 320,
+      "tags": [
+        {
+          "text": "a vanished wife",
+          "accent": "rose"
+        },
+        {
+          "text": "Minnesota lake",
+          "accent": "gold"
+        },
+        {
+          "text": "political defeat",
+          "accent": "sage"
+        },
+        {
+          "text": "320 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 84
+    },
+    {
+      "id": "ol2011279w",
+      "title": "March",
+      "author": "Geraldine Brooks",
+      "isbn": "9781101079218",
+      "cover": "c3",
+      "blurb": "The absent father of Little Women leaves his family to aid the Union in the Civil War.",
+      "aside": "Sue Monk Kidd calls it filled with the ache of love and marriage.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 304,
+      "tags": [
+        {
+          "text": "Little Women",
+          "accent": "rose"
+        },
+        {
+          "text": "Civil War",
+          "accent": "gold"
+        },
+        {
+          "text": "an absent father",
+          "accent": "sage"
+        },
+        {
+          "text": "304 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 40
+    },
+    {
+      "id": "ol15732005w",
+      "title": "The house at Riverton",
+      "author": "Kate Morton",
+      "isbn": "9781602852044",
+      "cover": "c4",
+      "blurb": "In 1924 a young poet takes his life at a society party, and the only witnesses are two sisters.",
+      "aside": "Decades later, a former housemaid is visited about the poet's suicide, and old secrets begin to surface.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 192,
+      "tags": [
+        {
+          "text": "1924 summer",
+          "accent": "rose"
+        },
+        {
+          "text": "a poet's death",
+          "accent": "gold"
+        },
+        {
+          "text": "buried secrets",
+          "accent": "sage"
+        },
+        {
+          "text": "192 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 19
+    },
+    {
+      "id": "ol15835579w",
+      "title": "Crossing the River",
+      "author": "Caryl Phillips",
+      "isbn": "9780394280356",
+      "cover": "c5",
+      "blurb": "A father sells his three children into slavery in a year of failing crops, and their lives scatter across continents.",
+      "aside": "Caryl Phillips employs a brilliant range of voices to follow these exiles across the river.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 237,
+      "tags": [
+        {
+          "text": "slavery",
+          "accent": "rose"
+        },
+        {
+          "text": "Africa and America",
+          "accent": "gold"
+        },
+        {
+          "text": "scattered offspring",
+          "accent": "sage"
+        },
+        {
+          "text": "237 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 15
+    },
+    {
+      "id": "ol50561w",
+      "title": "Paradise",
+      "author": "Toni Morrison",
+      "isbn": "9788466300919",
+      "cover": "c1",
+      "blurb": "Rumours whisper through a small town, and outrages accumulate until they take shape as evidence.",
+      "aside": "A mother is knocked down the stairs by her cold-eyed daughter, and the town collects proof.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 349,
+      "tags": [
+        {
+          "text": "a secluded town",
+          "accent": "rose"
+        },
+        {
+          "text": "rumours and outrage",
+          "accent": "gold"
+        },
+        {
+          "text": "women",
+          "accent": "sage"
+        },
+        {
+          "text": "349 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 96
+    },
+    {
+      "id": "ol2698669w",
+      "title": "Caucasia",
+      "author": "Danzy Senna",
+      "isbn": "9781573227162",
+      "cover": "c2",
+      "blurb": "Sisters from a black father and a white mother, in 1970s Boston, who look different enough to be treated differently.",
+      "aside": "The sisters have created a private language, and then their parents' marriage falls apart.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 413,
+      "tags": [
+        {
+          "text": "sisters",
+          "accent": "rose"
+        },
+        {
+          "text": "identity",
+          "accent": "gold"
+        },
+        {
+          "text": "Boston in the 1970s",
+          "accent": "sage"
+        },
+        {
+          "text": "413 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 50
+    },
+    {
+      "id": "ol1806966w",
+      "title": "The farming of bones",
+      "author": "Edwidge Danticat",
+      "isbn": "9780786217328",
+      "cover": "c3",
+      "blurb": "In 1937, an orphaned maid on the Dominican side of the Haitian border hears rumours of Haitians being persecuted.",
+      "aside": "Amabelle loves Sebastien, a sugarcane cutter, and both are useful to the Dominicans but not welcome.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 312,
+      "tags": [
+        {
+          "text": "1937 Haiti border",
+          "accent": "rose"
+        },
+        {
+          "text": "a maid's story",
+          "accent": "gold"
+        },
+        {
+          "text": "rumours of violence",
+          "accent": "sage"
+        },
+        {
+          "text": "312 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 145
+    },
+    {
+      "id": "ol2423771w",
+      "title": "Man and boy",
+      "author": "Tony Parsons",
+      "isbn": "9781841971469",
+      "cover": "c4",
+      "blurb": "Harry Silver has it all until one night throws it away, and he must raise his small son alone.",
+      "aside": "How do you wash a four-year-old's hair? Harry is about to learn.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 353,
+      "tags": [
+        {
+          "text": "suddenly single dad",
+          "accent": "rose"
+        },
+        {
+          "text": "a four-year-old son",
+          "accent": "gold"
+        },
+        {
+          "text": "a wrecked life",
+          "accent": "sage"
+        },
+        {
+          "text": "353 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Contemporary"
+      ],
+      "contentFlags": [],
+      "popularity": 12
+    },
+    {
+      "id": "ol16557973w",
+      "title": "Shine shine shine",
+      "author": "Lydia Netzer",
+      "isbn": "9781444815931",
+      "cover": "c5",
+      "blurb": "Sunny's husband is on a NASA mission to the moon, and their marriage is on the brink of imploding.",
+      "aside": "Once two outcasts who found love in each other, now they're parents to an autistic son.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 312,
+      "tags": [
+        {
+          "text": "a NASA mission",
+          "accent": "rose"
+        },
+        {
+          "text": "an autistic son",
+          "accent": "gold"
+        },
+        {
+          "text": "a marriage on the brink",
+          "accent": "sage"
+        },
+        {
+          "text": "312 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Contemporary"
+      ],
+      "contentFlags": [],
+      "popularity": 5
+    },
+    {
+      "id": "ol15855900w",
+      "title": "The longest memory",
+      "author": "Fred D'Aguiar",
+      "isbn": "9780701162344",
+      "cover": "c1",
+      "blurb": "A rebellious young slave on a Virginian plantation learns to read and falls for the owner's daughter.",
+      "aside": "The brutal event at its centre is the pivot of the whole story.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 137,
+      "tags": [
+        {
+          "text": "19th-century plantation",
+          "accent": "rose"
+        },
+        {
+          "text": "learning to read",
+          "accent": "gold"
+        },
+        {
+          "text": "a rebellious young slave",
+          "accent": "sage"
+        },
+        {
+          "text": "137 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 125
+    },
+    {
+      "id": "ol17873642w",
+      "title": "Outline",
+      "author": "Rachel Cusk",
+      "isbn": "9781250081544",
+      "cover": "c2",
+      "blurb": "A novelist teaching a creative writing course in an oppressively hot Athens summer hears others speak about themselves.",
+      "aside": "A novel in ten conversations, spare and stark.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 256,
+      "tags": [
+        {
+          "text": "ten conversations",
+          "accent": "rose"
+        },
+        {
+          "text": "a novelist in Athens",
+          "accent": "gold"
+        },
+        {
+          "text": "a writing course",
+          "accent": "sage"
+        },
+        {
+          "text": "256 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 47
+    },
+    {
+      "id": "ol31133w",
+      "title": "Reef",
+      "author": "Romesh Gunesekera",
+      "isbn": "9780140142174",
+      "cover": "c3",
+      "blurb": "A young chef works for a marine biologist obsessed with swamps, sea movements and a disappearing reef in Sri Lanka.",
+      "aside": "Political unrest threatens to have a devastating influence on them both.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 192,
+      "tags": [
+        {
+          "text": "Sri Lanka",
+          "accent": "rose"
+        },
+        {
+          "text": "a young chef",
+          "accent": "gold"
+        },
+        {
+          "text": "political unrest",
+          "accent": "sage"
+        },
+        {
+          "text": "192 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 143
+    },
+    {
+      "id": "ol1072445w",
+      "title": "The better man",
+      "author": "Anita Nair",
+      "isbn": "9780140293203",
+      "cover": "c4",
+      "blurb": "A middle-aged bachelor returns to his Indian village, haunted by his failures and his guilt over his dead mother.",
+      "aside": "He hires an outcast painter with a unique style of healing to restore his childhood home.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 361,
+      "tags": [
+        {
+          "text": "returns to his village",
+          "accent": "rose"
+        },
+        {
+          "text": "haunted by failure",
+          "accent": "gold"
+        },
+        {
+          "text": "a restored home",
+          "accent": "sage"
+        },
+        {
+          "text": "361 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 9
+    },
+    {
+      "id": "ol5727017w",
+      "title": "The Gift",
+      "author": "Cecelia Ahern",
+      "isbn": "9780007284979",
+      "cover": "c5",
+      "blurb": "Lou Suffern is an overstretched executive who barely sees his family, and is immune to the holiday spirit.",
+      "aside": "A witty, warm, and wise modern-day fable of love, regret and second chances.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 305,
+      "tags": [
+        {
+          "text": "Christmas fable",
+          "accent": "rose"
+        },
+        {
+          "text": "a workaholic executive",
+          "accent": "gold"
+        },
+        {
+          "text": "second chances",
+          "accent": "sage"
+        },
+        {
+          "text": "305 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Contemporary"
+      ],
+      "contentFlags": [],
+      "popularity": 14
+    },
+    {
+      "id": "ol3286745w",
+      "title": "Hunger Point",
+      "author": "Jillian Medoff",
+      "isbn": "9780694517909",
+      "cover": "c1",
+      "blurb": "Twenty-six-year-old Frannie Hunter moves back home, where her family is unravelling around her.",
+      "aside": "Her sister is anorexic, her mother is having an affair, and her father is obsessed with the Food Network.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 384,
+      "tags": [
+        {
+          "text": "moved back home",
+          "accent": "rose"
+        },
+        {
+          "text": "a family unravelling",
+          "accent": "gold"
+        },
+        {
+          "text": "a wry narrator",
+          "accent": "sage"
+        },
+        {
+          "text": "384 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Contemporary"
+      ],
+      "contentFlags": [],
+      "popularity": 13
+    },
+    {
+      "id": "ol2705557w",
+      "title": "A Map of the World",
+      "author": "Jane Hamilton",
+      "isbn": "9783499139949",
+      "cover": "c2",
+      "blurb": "One unremarkable June morning, a mother's single mistake changes the lives of everyone involved.",
+      "aside": "The Goodwins take over the last dairy farm in a small Midwestern town.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 415,
+      "tags": [
+        {
+          "text": "Midwestern dairy farm",
+          "accent": "rose"
+        },
+        {
+          "text": "a single mistake",
+          "accent": "gold"
+        },
+        {
+          "text": "family",
+          "accent": "sage"
+        },
+        {
+          "text": "415 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 22
+    },
+    {
+      "id": "ol483502w",
+      "title": "House of Sand and Fog",
+      "author": "Andre Dubus III",
+      "isbn": "9780393338119",
+      "cover": "c3",
+      "blurb": "A former colonel yearns to restore his family's dignity, and a recovering addict struggles to keep what she has left.",
+      "aside": "A masterpiece of American realism and Shakespearean consequence.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 367,
+      "tags": [
+        {
+          "text": "a disputed house",
+          "accent": "rose"
+        },
+        {
+          "text": "an exiled colonel",
+          "accent": "gold"
+        },
+        {
+          "text": "a recovering addict",
+          "accent": "sage"
+        },
+        {
+          "text": "367 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 169
+    },
+    {
+      "id": "ol1980228w",
+      "title": "To the wedding",
+      "author": "John Berger",
+      "isbn": "9780747525745",
+      "cover": "c4",
+      "blurb": "When Ninon learns she has the AIDS virus, Gino still proposes, and they marry knowing what lies ahead.",
+      "aside": "A love story set in Verona, from the author of Corker's Freedom.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 202,
+      "tags": [
+        {
+          "text": "Verona",
+          "accent": "rose"
+        },
+        {
+          "text": "a love story",
+          "accent": "gold"
+        },
+        {
+          "text": "AIDS",
+          "accent": "sage"
+        },
+        {
+          "text": "202 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 8
+    },
+    {
+      "id": "ol15981099w",
+      "title": "Only Time Will Tell",
+      "author": "Jeffrey Archer",
+      "isbn": "9780330535670",
+      "cover": "c5",
+      "blurb": "Harry Clifton's life begins in 1920 with the words 'I was told that my father was killed in the war.'",
+      "aside": "A dock worker in Bristol, Harry wins a scholarship to an exclusive school.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 446,
+      "tags": [
+        {
+          "text": "Bristol",
+          "accent": "rose"
+        },
+        {
+          "text": "one family across generations",
+          "accent": "gold"
+        },
+        {
+          "text": "a dock worker's son",
+          "accent": "sage"
+        },
+        {
+          "text": "446 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 81
+    },
+    {
+      "id": "ol15655722w",
+      "title": "These Things Hidden",
+      "author": "Heather Gudenkauf",
+      "isbn": "9780778315520",
+      "cover": "c1",
+      "blurb": "Teenager Allison Glenn is sent to prison, and her sister Brynn carries the burden of what really happened.",
+      "aside": "Allison's golden-girl reputation is gone forever.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 347,
+      "tags": [
+        {
+          "text": "a teen prison sentence",
+          "accent": "rose"
+        },
+        {
+          "text": "a sister's secret",
+          "accent": "gold"
+        },
+        {
+          "text": "a small Iowa town",
+          "accent": "sage"
+        },
+        {
+          "text": "347 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 22
+    },
+    {
+      "id": "ol1893842w",
+      "title": "The deep end of the ocean",
+      "author": "Jacquelyn Mitchard",
+      "isbn": "9780613371841",
+      "cover": "c1",
+      "blurb": "Three-year-old Ben vanishes during a mother's five-minute check-in at her high school reunion.",
+      "aside": "It's the moment every mother dreads.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 441,
+      "tags": [
+        {
+          "text": "a missing toddler",
+          "accent": "rose"
+        },
+        {
+          "text": "a mother's guilt",
+          "accent": "gold"
+        },
+        {
+          "text": "a long search",
+          "accent": "sage"
+        },
+        {
+          "text": "441 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 19
+    },
+    {
+      "id": "ol17875175w",
+      "title": "In paradise",
+      "author": "Peter Matthiessen",
+      "isbn": "9781594633171",
+      "cover": "c2",
+      "blurb": "An American professor of Holocaust Studies, on a weeklong retreat at Auschwitz, must confront his past and a family secret.",
+      "aside": "A short, powerful novel from the two-time National Book Award winner.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 246,
+      "tags": [
+        {
+          "text": "Holocaust studies",
+          "accent": "rose"
+        },
+        {
+          "text": "a spiritual retreat",
+          "accent": "gold"
+        },
+        {
+          "text": "a family secret",
+          "accent": "sage"
+        },
+        {
+          "text": "246 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 2
+    },
+    {
+      "id": "ol14852850w",
+      "title": "Eucalyptus",
+      "author": "Murray Bail",
+      "isbn": "9780676971774",
+      "cover": "c3",
+      "blurb": "A man plants hundreds of eucalyptus trees, and his daughter may marry only the man who can name every species.",
+      "aside": "On a property in western New South Wales, the trees become a virtual outdoor museum.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 255,
+      "tags": [
+        {
+          "text": "western New South Wales",
+          "accent": "rose"
+        },
+        {
+          "text": "a father's rule",
+          "accent": "gold"
+        },
+        {
+          "text": "a daughter's suitor",
+          "accent": "sage"
+        },
+        {
+          "text": "255 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 6
+    },
+    {
+      "id": "ol1970222w",
+      "title": "The rapture of Canaan",
+      "author": "Sheri Reynolds",
+      "isbn": "9780783882703",
+      "cover": "c4",
+      "blurb": "In a fundamentalist church where Grandpa Herman makes the rules, Ninah finds herself pregnant and fears God's wrath.",
+      "aside": "Ninah learns that God's ways are more mysterious than even Grandpa Herman's rules.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 328,
+      "tags": [
+        {
+          "text": "a fundamentalist church",
+          "accent": "rose"
+        },
+        {
+          "text": "a teenage pregnancy",
+          "accent": "gold"
+        },
+        {
+          "text": "family rules",
+          "accent": "sage"
+        },
+        {
+          "text": "328 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 8
+    },
+    {
+      "id": "ol2943602w",
+      "title": "Infinite Jest",
+      "author": "David Foster Wallace",
+      "isbn": "9788806178727",
+      "cover": "c5",
+      "blurb": "A gargantuan, mind-altering comedy set in an addicts' halfway house and a tennis academy.",
+      "aside": "It explores what entertainment is, and why it dominates our lives.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 1104,
+      "tags": [
+        {
+          "text": "addicts' halfway house",
+          "accent": "rose"
+        },
+        {
+          "text": "a tennis academy",
+          "accent": "gold"
+        },
+        {
+          "text": "entertainment",
+          "accent": "sage"
+        },
+        {
+          "text": "1104 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 388
+    },
+    {
+      "id": "ol2680436w",
+      "title": "When Nietzsche Wept",
+      "author": "Irvin D. Yalom",
+      "isbn": "9789576934636",
+      "cover": "c1",
+      "blurb": "In nineteenth-century Vienna, the psychoanalyst Josef Breuer agrees to treat Friedrich Nietzsche, who is on the brink of despair.",
+      "aside": "Breuer, one of the founding fathers of psychoanalysis, is at the height of his career.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 320,
+      "tags": [
+        {
+          "text": "Vienna in the 1880s",
+          "accent": "rose"
+        },
+        {
+          "text": "Nietzsche and Breuer",
+          "accent": "gold"
+        },
+        {
+          "text": "psychoanalysis",
+          "accent": "sage"
+        },
+        {
+          "text": "320 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 139
+    },
+    {
+      "id": "ol1864135w",
+      "title": "Who Moved My Cheese?",
+      "author": "Spencer Johnson",
+      "isbn": "9780939173457",
+      "cover": "c2",
+      "blurb": "A simple parable about four characters who live in a maze and look for cheese to make them happy.",
+      "aside": "It reveals profound truths about change.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 96,
+      "tags": [
+        {
+          "text": "change",
+          "accent": "rose"
+        },
+        {
+          "text": "a parable",
+          "accent": "gold"
+        },
+        {
+          "text": "four characters",
+          "accent": "sage"
+        },
+        {
+          "text": "96 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 1778
+    },
+    {
+      "id": "ol16726829w",
+      "title": "Antifragile",
+      "author": "Nassim Nicholas Taleb",
+      "isbn": "9781846141577",
+      "cover": "c3",
+      "blurb": "People, systems and institutions that are antifragile don't just withstand shocks; they benefit from them.",
+      "aside": "From the acclaimed author of The Black Swan.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 639,
+      "tags": [
+        {
+          "text": "uncertainty",
+          "accent": "rose"
+        },
+        {
+          "text": "systems",
+          "accent": "gold"
+        },
+        {
+          "text": "risk",
+          "accent": "sage"
+        },
+        {
+          "text": "639 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 465
+    },
+    {
+      "id": "ol500171w",
+      "title": "Year of Magical Thinking, The",
+      "author": "Joan Didion",
+      "isbn": "9780739327791",
+      "cover": "c4",
+      "blurb": "Joan Didion transforms the sudden and unexpected loss of her husband and their only daughter into a portrait of grief.",
+      "aside": "Michiko Kakutani called it an indelible portrait of loss and grief.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 227,
+      "tags": [
+        {
+          "text": "grief",
+          "accent": "rose"
+        },
+        {
+          "text": "a husband's death",
+          "accent": "gold"
+        },
+        {
+          "text": "a daughter's illness",
+          "accent": "sage"
+        },
+        {
+          "text": "227 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 148
+    },
+    {
+      "id": "ol2937539w",
+      "title": "Einstein's dreams",
+      "author": "Alan P. Lightman",
+      "isbn": "9780340589250",
+      "cover": "c5",
+      "blurb": "A twenty-six-year-old Einstein imagines possible worlds in which time works differently as he formulates relativity.",
+      "aside": "He works in a patent office in Switzerland.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 179,
+      "tags": [
+        {
+          "text": "Einstein",
+          "accent": "rose"
+        },
+        {
+          "text": "time",
+          "accent": "gold"
+        },
+        {
+          "text": "Switzerland",
+          "accent": "sage"
+        },
+        {
+          "text": "179 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 88
+    },
+    {
+      "id": "ol1889678w",
+      "title": "The Spirit Catches You and You Fall Down",
+      "author": "Anne Fadiman",
+      "isbn": "9780895175311",
+      "cover": "c1",
+      "blurb": "When baby Lia Lee reached a California ER, a chain of events began that no one would recover from.",
+      "aside": "Parents and doctors both wanted the best for Lia, but their ideas about the causes of her illness clashed.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 341,
+      "tags": [
+        {
+          "text": "medicine and culture",
+          "accent": "rose"
+        },
+        {
+          "text": "a Hmong family",
+          "accent": "gold"
+        },
+        {
+          "text": "a child's illness",
+          "accent": "sage"
+        },
+        {
+          "text": "341 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 230
+    },
+    {
+      "id": "ol1822318w",
+      "title": "For One More Day",
+      "author": "Mitch Albom",
+      "isbn": "9781401303631",
+      "cover": "c2",
+      "blurb": "Grieving his mother's death, a man uses alcohol as a crutch until an encounter with her ghost changes him.",
+      "aside": "The author of Tuesdays with Morrie writes an inspirational debut.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 214,
+      "tags": [
+        {
+          "text": "grief",
+          "accent": "rose"
+        },
+        {
+          "text": "a mother's ghost",
+          "accent": "gold"
+        },
+        {
+          "text": "alcohol",
+          "accent": "sage"
+        },
+        {
+          "text": "214 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 173
+    },
+    {
+      "id": "ol15092855w",
+      "title": "Crooked letter, crooked letter",
+      "author": "Tom Franklin",
+      "isbn": "9781410435019",
+      "cover": "c3",
+      "blurb": "Two boys from different worlds share a bond in the late 1970s until one takes a girl to a drive-in.",
+      "aside": "Larry, the child of lower-middle-class white parents, and Silas, the son of a poor single black mother.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 304,
+      "tags": [
+        {
+          "text": "boyhood friends",
+          "accent": "rose"
+        },
+        {
+          "text": "a missing girl",
+          "accent": "gold"
+        },
+        {
+          "text": "Mississippi",
+          "accent": "sage"
+        },
+        {
+          "text": "304 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 21
+    },
+    {
+      "id": "ol16805559w",
+      "title": "Night Film",
+      "author": "Marisha Pessl",
+      "isbn": "9781448165834",
+      "cover": "c4",
+      "blurb": "Ashley Cordova is dead, and veteran journalist Scott McGrath wants to know why, because of who her father is.",
+      "aside": "Her father is the director of strange cult horror films, not seen publicly in thirty years.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 624,
+      "tags": [
+        {
+          "text": "a dead girl",
+          "accent": "rose"
+        },
+        {
+          "text": "a cult horror director",
+          "accent": "gold"
+        },
+        {
+          "text": "investigative journalist",
+          "accent": "sage"
+        },
+        {
+          "text": "624 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 77
+    },
+    {
+      "id": "ol9475257w",
+      "title": "Still Alice",
+      "author": "Lisa Genova",
+      "isbn": "9781439152751",
+      "cover": "c5",
+      "blurb": "A celebrated Harvard professor notices forgetfulness creeping into her life, and receives a devastating diagnosis.",
+      "aside": "Early onset Alzheimer's disease, at the height of her career.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 319,
+      "tags": [
+        {
+          "text": "early-onset Alzheimer's",
+          "accent": "rose"
+        },
+        {
+          "text": "a Harvard professor",
+          "accent": "gold"
+        },
+        {
+          "text": "memory",
+          "accent": "sage"
+        },
+        {
+          "text": "319 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 137
+    },
+    {
+      "id": "ol13267281w",
+      "title": "The Shack",
+      "author": "William P. Young",
+      "isbn": "9780964729230",
+      "cover": "c1",
+      "blurb": "A book that changes the way you think about a higher power, and why He makes the decisions He does.",
+      "aside": "It will make you think of God, Jesus and the Holy Spirit in a whole new way.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 252,
+      "tags": [
+        {
+          "text": "faith",
+          "accent": "rose"
+        },
+        {
+          "text": "grief",
+          "accent": "gold"
+        },
+        {
+          "text": "a father's loss",
+          "accent": "sage"
+        },
+        {
+          "text": "252 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 34
+    },
+    {
+      "id": "ol25340338w",
+      "title": "Wrong Place Wrong Time",
+      "author": "Gillian McAllister",
+      "isbn": "9780063316508",
+      "cover": "c2",
+      "blurb": "At midnight on Halloween, a mother watches her son stab a stranger, and she has to decide what to do.",
+      "aside": "Can you stop a murder after it's already happened?",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 416,
+      "tags": [
+        {
+          "text": "a stabbing",
+          "accent": "rose"
+        },
+        {
+          "text": "a mother's choice",
+          "accent": "gold"
+        },
+        {
+          "text": "Halloween night",
+          "accent": "sage"
+        },
+        {
+          "text": "416 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 124
+    },
+    {
+      "id": "ol1682233w",
+      "title": "Oracle Night",
+      "author": "Paul Auster",
+      "isbn": "9788433970442",
+      "cover": "c3",
+      "blurb": "A novelist recovers from an accident and begins to write again after buying a blue notebook.",
+      "aside": "Fiction and reality get mixed up, and the stationery shop disappears overnight.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 247,
+      "tags": [
+        {
+          "text": "a novelist's accident",
+          "accent": "rose"
+        },
+        {
+          "text": "a blue notebook",
+          "accent": "gold"
+        },
+        {
+          "text": "strange events",
+          "accent": "sage"
+        },
+        {
+          "text": "247 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 26
+    },
+    {
+      "id": "ol1856675w",
+      "title": "Memoirs of a Geisha",
+      "author": "Arthur Golden",
+      "isbn": "9780099498186",
+      "cover": "c4",
+      "blurb": "A girl from a poor fishing village in 1929 grows into one of Japan's most celebrated geisha.",
+      "aside": "Told with the wisdom of age, Nitta Sayuri tells the story of her life as a geisha.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 512,
+      "tags": [
+        {
+          "text": "Japan in 1929",
+          "accent": "rose"
+        },
+        {
+          "text": "a geisha's life",
+          "accent": "gold"
+        },
+        {
+          "text": "a fishing village",
+          "accent": "sage"
+        },
+        {
+          "text": "512 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 484
+    },
+    {
+      "id": "ol15474046w",
+      "title": "Just Kids",
+      "author": "Patti Smith",
+      "isbn": "9781526615008",
+      "cover": "c5",
+      "blurb": "Patti Smith shares tales of New York and her new life with Robert Mapplethorpe.",
+      "aside": "The man who changed her life with his love, friendship, and genius.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 320,
+      "tags": [
+        {
+          "text": "memoir",
+          "accent": "rose"
+        },
+        {
+          "text": "New York in the 1970s",
+          "accent": "gold"
+        },
+        {
+          "text": "Robert Mapplethorpe",
+          "accent": "sage"
+        },
+        {
+          "text": "320 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 394
+    },
+    {
+      "id": "ol3954921w",
+      "title": "Girl, interrupted",
+      "author": "Susanna Kaysen",
+      "isbn": "9780786225958",
+      "cover": "c1",
+      "blurb": "In 1967 eighteen-year-old Susanna Kaysen is put in a taxi and sent to McLean Hospital, a psychiatric ward.",
+      "aside": "Her ward is renowned for its famous clientele, including Sylvia Plath.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 168,
+      "tags": [
+        {
+          "text": "memoir",
+          "accent": "rose"
+        },
+        {
+          "text": "a psychiatric hospital",
+          "accent": "gold"
+        },
+        {
+          "text": "1967",
+          "accent": "sage"
+        },
+        {
+          "text": "168 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 461
+    },
+    {
+      "id": "ol263458w",
+      "title": "Men are From Mars, Women are From Venus",
+      "author": "John Gray",
+      "isbn": "9780060168483",
+      "cover": "c2",
+      "blurb": "Martians and Venusians fall in love, then forget they come from different planets.",
+      "aside": "Based on years of counseling couples, it has helped millions transform their relationships.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 321,
+      "tags": [
+        {
+          "text": "relationships",
+          "accent": "rose"
+        },
+        {
+          "text": "communication",
+          "accent": "gold"
+        },
+        {
+          "text": "self-help",
+          "accent": "sage"
+        },
+        {
+          "text": "321 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 2045
+    },
+    {
+      "id": "ol121492w",
+      "title": "Chinese Cinderella",
+      "author": "Adeline Yen Mah",
+      "isbn": "9780606330527",
+      "cover": "c1",
+      "blurb": "After her mother dies in childbirth, a girl in a wealthy 1940s Chinese family is treated as bad luck.",
+      "aside": "A memoir of her painful childhood and her ultimate triumph and courage.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 224,
+      "tags": [
+        {
+          "text": "a memoir",
+          "accent": "rose"
+        },
+        {
+          "text": "1940s China",
+          "accent": "gold"
+        },
+        {
+          "text": "a painful childhood",
+          "accent": "sage"
+        },
+        {
+          "text": "224 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 159
+    },
+    {
+      "id": "ol20028150w",
+      "title": "Shrill",
+      "author": "Lindy West",
+      "isbn": "9781784295530",
+      "cover": "c2",
+      "blurb": "Lindy West, a writer and humorist, shares a coming-of-age that refused to be small, quiet and compliant.",
+      "aside": "From a painfully shy childhood to her public war with stand-up comedians.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 266,
+      "tags": [
+        {
+          "text": "a memoir",
+          "accent": "rose"
+        },
+        {
+          "text": "fat acceptance",
+          "accent": "gold"
+        },
+        {
+          "text": "comedy writing",
+          "accent": "sage"
+        },
+        {
+          "text": "266 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 48
+    },
+    {
+      "id": "ol17630208w",
+      "title": "Lab Girl",
+      "author": "Hope Jahren",
+      "isbn": "9781101874936",
+      "cover": "c3",
+      "blurb": "Scientist Hope Jahren recounts her work with trees, flowers, seeds and soil, and a longtime friendship.",
+      "aside": "An illuminating debut memoir of a woman in science.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 316,
+      "tags": [
+        {
+          "text": "botany",
+          "accent": "rose"
+        },
+        {
+          "text": "a memoir",
+          "accent": "gold"
+        },
+        {
+          "text": "a lifelong friendship",
+          "accent": "sage"
+        },
+        {
+          "text": "316 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 117
+    },
+    {
+      "id": "ol5732697w",
+      "title": "First They Killed My Father",
+      "author": "Loung Ung",
+      "isbn": "9781840184150",
+      "cover": "c4",
+      "blurb": "A childhood survivor of the Cambodian genocide recounts war crimes, desperate actions and her family's triumph of spirit.",
+      "aside": "She lived a privileged life in Phnom Penh until the age of five.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 256,
+      "tags": [
+        {
+          "text": "Cambodia",
+          "accent": "rose"
+        },
+        {
+          "text": "the Khmer Rouge",
+          "accent": "gold"
+        },
+        {
+          "text": "a childhood survivor",
+          "accent": "sage"
+        },
+        {
+          "text": "256 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 157
+    },
+    {
+      "id": "ol3348658w",
+      "title": "The beauty myth",
+      "author": "Naomi Wolf",
+      "isbn": "9780688085100",
+      "cover": "c5",
+      "blurb": "Naomi Wolf argues that an obsession with physical perfection may prove as restrictive as the old image of the homemaker.",
+      "aside": "Women have more power than ever, yet a different kind of social control persists.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 348,
+      "tags": [
+        {
+          "text": "feminism",
+          "accent": "rose"
+        },
+        {
+          "text": "beauty standards",
+          "accent": "gold"
+        },
+        {
+          "text": "social control",
+          "accent": "sage"
+        },
+        {
+          "text": "348 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 345
+    },
+    {
+      "id": "ol2745581w",
+      "title": "The Liars' Club",
+      "author": "Mary Karr",
+      "isbn": "9780143035749",
+      "cover": "c1",
+      "blurb": "In a Texas refinery town, a handful of oil workers gather to spin long, improbable tales.",
+      "aside": "They call themselves the Liars' Club, and the girl who listens is the author.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 320,
+      "tags": [
+        {
+          "text": "a Texas childhood",
+          "accent": "rose"
+        },
+        {
+          "text": "a memoir",
+          "accent": "gold"
+        },
+        {
+          "text": "a colourful town",
+          "accent": "sage"
+        },
+        {
+          "text": "320 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 116
+    },
+    {
+      "id": "ol20709672w",
+      "title": "The Deficit Myth",
+      "author": "Stephanie Kelton",
+      "isbn": "9781541736184",
+      "cover": "c2",
+      "blurb": "The leading advocate of modern monetary theory offers a bold new understanding of how to build a just society.",
+      "aside": "Her exploration dramatically changes how we think about crucial issues of economics.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 336,
+      "tags": [
+        {
+          "text": "economics",
+          "accent": "rose"
+        },
+        {
+          "text": "modern monetary theory",
+          "accent": "gold"
+        },
+        {
+          "text": "public policy",
+          "accent": "sage"
+        },
+        {
+          "text": "336 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 53
+    },
+    {
+      "id": "ol16637328w",
+      "title": "A Constellation of Vital Phenomena",
+      "author": "Anthony Marra",
+      "isbn": "9780770436421",
+      "cover": "c3",
+      "blurb": "A failed doctor in Chechnya shelters an eight-year-old girl whose father was abducted by Russian forces.",
+      "aside": "He treats a series of wounded rebels and refugees while exploring the past that binds him to the child.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 416,
+      "tags": [
+        {
+          "text": "Chechnya",
+          "accent": "rose"
+        },
+        {
+          "text": "a failed doctor",
+          "accent": "gold"
+        },
+        {
+          "text": "a traumatized child",
+          "accent": "sage"
+        },
+        {
+          "text": "416 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 33
+    },
+    {
+      "id": "ol2547242w",
+      "title": "A Lesson Before Dying",
+      "author": "Ernest J. Gaines",
+      "isbn": "9780679414773",
+      "cover": "c4",
+      "blurb": "A wrenching story of death and identity in a small Cajun Louisiana community in the late 1940s.",
+      "aside": "A young Black man is a reluctant party to a liquor store shoot-out in which the other men are killed.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 256,
+      "tags": [
+        {
+          "text": "Louisiana in the 1940s",
+          "accent": "rose"
+        },
+        {
+          "text": "a shoot-out",
+          "accent": "gold"
+        },
+        {
+          "text": "identity",
+          "accent": "sage"
+        },
+        {
+          "text": "256 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 180
+    },
+    {
+      "id": "ol5819456w",
+      "title": "The Book Thief",
+      "author": "Markus Zusak",
+      "isbn": "9786053483250",
+      "cover": "c5",
+      "blurb": "In 1939 Nazi Germany, a foster girl steals books, and finds they can feed the soul.",
+      "aside": "When Death has a story to tell, you listen.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 559,
+      "tags": [
+        {
+          "text": "Nazi Germany",
+          "accent": "rose"
+        },
+        {
+          "text": "books",
+          "accent": "gold"
+        },
+        {
+          "text": "a foster girl",
+          "accent": "sage"
+        },
+        {
+          "text": "559 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 2974
+    },
+    {
+      "id": "ol2732491w",
+      "title": "The Sparrow",
+      "author": "Mary Doria Russell",
+      "isbn": "9781501247064",
+      "cover": "c1",
+      "blurb": "A Jesuit priest undergoes a harrowing first contact that makes him question God.",
+      "aside": "It begins with a small mistake and ends in a horrible catastrophe.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 428,
+      "tags": [
+        {
+          "text": "first contact",
+          "accent": "rose"
+        },
+        {
+          "text": "a Jesuit priest",
+          "accent": "gold"
+        },
+        {
+          "text": "faith",
+          "accent": "sage"
+        },
+        {
+          "text": "428 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 166
+    },
+    {
+      "id": "ol2671485w",
+      "title": "The Alienist",
+      "author": "Caleb Carr",
+      "isbn": "9788496581364",
+      "cover": "c2",
+      "blurb": "In 1896 New York, a reporter is summoned to view a mutilated body on the unfinished Williamsburg Bridge.",
+      "aside": "The reporter's friend is Dr. Laszlo Kreizler, a psychologist, or 'alienist'.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 588,
+      "tags": [
+        {
+          "text": "1896 New York",
+          "accent": "rose"
+        },
+        {
+          "text": "a serial killer",
+          "accent": "gold"
+        },
+        {
+          "text": "an alienist",
+          "accent": "sage"
+        },
+        {
+          "text": "588 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 153
+    },
+    {
+      "id": "ol804974w",
+      "title": "Arcadia",
+      "author": "Tom Stoppard",
+      "isbn": "9780802126993",
+      "cover": "c1",
+      "blurb": "A play moving between 1809 and today at an English estate, where a thirteen-year-old girl explores big ideas.",
+      "aside": "Thomasina and her tutor delve into intellectual and romantic issues as the landscape changes.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 104,
+      "tags": [
+        {
+          "text": "1809 and today",
+          "accent": "rose"
+        },
+        {
+          "text": "an English estate",
+          "accent": "gold"
+        },
+        {
+          "text": "a thirteen-year-old genius",
+          "accent": "sage"
+        },
+        {
+          "text": "104 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 77
+    },
+    {
+      "id": "ol1988292w",
+      "title": "A song for Arbonne",
+      "author": "Guy Gavriel Kay",
+      "isbn": "9780517145128",
+      "cover": "c2",
+      "blurb": "In a matriarchal land inspired by Provence, two powerful dukes feud over the woman they both loved.",
+      "aside": "A panoramic, absorbing novel that recreates the troubadour culture of the High Middle Ages.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 513,
+      "tags": [
+        {
+          "text": "a Provence-inspired land",
+          "accent": "rose"
+        },
+        {
+          "text": "troubadours",
+          "accent": "gold"
+        },
+        {
+          "text": "a feud",
+          "accent": "sage"
+        },
+        {
+          "text": "513 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy"
+      ],
+      "contentFlags": [],
+      "popularity": 30
+    },
+    {
+      "id": "ol32195w",
+      "title": "House of Leaves",
+      "author": "Mark Z. Danielewski",
+      "isbn": "9781862301108",
+      "cover": "c3",
+      "blurb": "A family moves onto Ash Tree Lane and finds their house is bigger on the inside than the outside.",
+      "aside": "The day their two little children wander off changes everything.",
+      "pace": "Slow burn",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 736,
+      "tags": [
+        {
+          "text": "a house bigger inside",
+          "accent": "rose"
+        },
+        {
+          "text": "a family",
+          "accent": "gold"
+        },
+        {
+          "text": "a found manuscript",
+          "accent": "sage"
+        },
+        {
+          "text": "736 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror"
+      ],
+      "contentFlags": [],
+      "popularity": 1105
+    },
+    {
+      "id": "ol157040w",
+      "title": "Forbidden knowledge",
+      "author": "Roger Shattuck",
+      "isbn": "9780156005517",
+      "cover": "c4",
+      "blurb": "Roger Shattuck traces Western culture's tragic arc through the notion of forbidden knowledge.",
+      "aside": "From the innocence of Adam and Eve to the atomic bomb and recombinant DNA.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 369,
+      "tags": [
+        {
+          "text": "Western culture",
+          "accent": "rose"
+        },
+        {
+          "text": "forbidden knowledge",
+          "accent": "gold"
+        },
+        {
+          "text": "science and ethics",
+          "accent": "sage"
+        },
+        {
+          "text": "369 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Nonfiction"
+      ],
+      "contentFlags": [],
+      "popularity": 1083
+    },
+    {
+      "id": "ol894071w",
+      "title": "Fatherland",
+      "author": "Robert Harris",
+      "isbn": "9788804374640",
+      "cover": "c5",
+      "blurb": "In 1964 Berlin, a detective investigates a discovery a week before Hitler's seventy-fifth birthday.",
+      "aside": "It is the Berlin Albert Speer planned, the hub of a victorious Third Reich.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 386,
+      "tags": [
+        {
+          "text": "alternate history",
+          "accent": "rose"
+        },
+        {
+          "text": "1964 Berlin",
+          "accent": "gold"
+        },
+        {
+          "text": "a detective",
+          "accent": "sage"
+        },
+        {
+          "text": "386 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 154
+    },
+    {
+      "id": "ol553752w",
+      "title": "American Tabloid",
+      "author": "James Ellroy",
+      "isbn": "9782743602673",
+      "cover": "c1",
+      "blurb": "Behind the scenes of JFK's election, the CIA, the mob and loose cannons conspire.",
+      "aside": "The right drugs, the right amount of cash and the right murder buy a man's way.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 592,
+      "tags": [
+        {
+          "text": "1960s conspiracy",
+          "accent": "rose"
+        },
+        {
+          "text": "the mob and the CIA",
+          "accent": "gold"
+        },
+        {
+          "text": "the Kennedy era",
+          "accent": "sage"
+        },
+        {
+          "text": "592 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 52
+    },
+    {
+      "id": "ol17094387w",
+      "title": "Bleeding Edge",
+      "author": "Thomas Pynchon",
+      "isbn": "9788483839485",
+      "cover": "c2",
+      "blurb": "In New York in 2001, a fraud investigator looks into a computer-security firm and its billionaire geek CEO.",
+      "aside": "She discovers there's no shortage of swindlers grabbing what's left of the tech bubble.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 496,
+      "tags": [
+        {
+          "text": "2001 New York",
+          "accent": "rose"
+        },
+        {
+          "text": "fraud",
+          "accent": "gold"
+        },
+        {
+          "text": "the tech bubble",
+          "accent": "sage"
+        },
+        {
+          "text": "496 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 51
+    },
+    {
+      "id": "ol111696w",
+      "title": "Rum Punch",
+      "author": "Elmore Leonard",
+      "isbn": "9788440644572",
+      "cover": "c3",
+      "blurb": "A flight attendant who couriers a gun dealer's profits must choose between prison and playing ball.",
+      "aside": "Jackie, however, has other ideas, and the dealer's loose end is a prime target.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 327,
+      "tags": [
+        {
+          "text": "gun dealing",
+          "accent": "rose"
+        },
+        {
+          "text": "a flight attendant",
+          "accent": "gold"
+        },
+        {
+          "text": "Florida",
+          "accent": "sage"
+        },
+        {
+          "text": "327 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 67
+    },
+    {
+      "id": "ol17702031w",
+      "title": "Bad monkey",
+      "author": "Carl Hiaasen",
+      "isbn": "9780751543346",
+      "cover": "c4",
+      "blurb": "A former cop finds a human arm in his freezer and sets out to prove murder.",
+      "aside": "The boating-accident and shark-luncheon explanation is full of holes.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 336,
+      "tags": [
+        {
+          "text": "Key West",
+          "accent": "rose"
+        },
+        {
+          "text": "a human arm",
+          "accent": "gold"
+        },
+        {
+          "text": "a former cop",
+          "accent": "sage"
+        },
+        {
+          "text": "336 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 33
+    },
+    {
+      "id": "ol14951012w",
+      "title": "Spin",
+      "author": "Robert Charles Wilson",
+      "isbn": "9782207258040",
+      "cover": "c1",
+      "blurb": "One night in October, a ten-year-old watches the stars go out, and the sun becomes a featureless disk.",
+      "aside": "He and his best friends had seen what became known as the Big Blackout. It would shape their lives.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 492,
+      "tags": [
+        {
+          "text": "a worldwide blackout",
+          "accent": "rose"
+        },
+        {
+          "text": "three childhood friends",
+          "accent": "gold"
+        },
+        {
+          "text": "a sun turned featureless",
+          "accent": "sage"
+        },
+        {
+          "text": "492 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 120
+    },
+    {
+      "id": "ol11825095w",
+      "title": "Genesis",
+      "author": "Bernard Beckett",
+      "isbn": "9781847249302",
+      "cover": "c2",
+      "blurb": "On a remote island in a plague-ridden world, a bold thriller questions what it means to be human.",
+      "aside": "Philosophical questions collide with technology in this short, ingenious novel.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 173,
+      "tags": [
+        {
+          "text": "a remote island",
+          "accent": "rose"
+        },
+        {
+          "text": "a plague-ridden world",
+          "accent": "gold"
+        },
+        {
+          "text": "a philosophical thriller",
+          "accent": "sage"
+        },
+        {
+          "text": "173 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 30
+    },
+    {
+      "id": "ol3909677w",
+      "title": "Boy's life",
+      "author": "Robert R. McCammon",
+      "isbn": "9781416577782",
+      "cover": "c3",
+      "blurb": "In 1964 Zephyr, Alabama, eleven-year-old Cory sees a car plunge into a lake some say is bottomless.",
+      "aside": "A place where monsters swim in the belly of the river, and friends are forever.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 544,
+      "tags": [
+        {
+          "text": "monsters in the river",
+          "accent": "rose"
+        },
+        {
+          "text": "1964 Alabama",
+          "accent": "gold"
+        },
+        {
+          "text": "a coming-of-age",
+          "accent": "sage"
+        },
+        {
+          "text": "544 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror"
+      ],
+      "contentFlags": [],
+      "popularity": 46
+    },
+    {
+      "id": "ol1838872w",
+      "title": "House Of Echoes",
+      "author": "Barbara Erskine",
+      "isbn": "9781561007042",
+      "cover": "c4",
+      "blurb": "A woman inherits an English manor where her two young brothers died, and a centuries-old malevolence threatens her sons.",
+      "aside": "The locals whisper of a dire curse on both the house and her family.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 427,
+      "tags": [
+        {
+          "text": "an English manor",
+          "accent": "rose"
+        },
+        {
+          "text": "a family curse",
+          "accent": "gold"
+        },
+        {
+          "text": "a woman's inheritance",
+          "accent": "sage"
+        },
+        {
+          "text": "427 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror"
+      ],
+      "contentFlags": [],
+      "popularity": 26
+    },
+    {
+      "id": "ol5720869w",
+      "title": "Bloodline",
+      "author": "Kate Cary",
+      "isbn": "9781595140128",
+      "cover": "c5",
+      "blurb": "A British soldier in World War I discovers his regiment commander is descended from Count Dracula.",
+      "aside": "The story is told primarily through journal entries.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 324,
+      "tags": [
+        {
+          "text": "WWI trenches",
+          "accent": "rose"
+        },
+        {
+          "text": "Dracula's descendant",
+          "accent": "gold"
+        },
+        {
+          "text": "journal entries",
+          "accent": "sage"
+        },
+        {
+          "text": "324 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror"
+      ],
+      "contentFlags": [],
+      "popularity": 9
+    },
+    {
+      "id": "ol213262w",
+      "title": "Stormy Petrel",
+      "author": "Mary Stewart",
+      "isbn": "9780345468987",
+      "cover": "c1",
+      "blurb": "On an island off Scotland, a quiet holiday is shattered when two men seek shelter one night.",
+      "aside": "Her brother's arrival is delayed, and things do not turn out so idyllically.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 232,
+      "tags": [
+        {
+          "text": "a Scottish island",
+          "accent": "rose"
+        },
+        {
+          "text": "two men seeking shelter",
+          "accent": "gold"
+        },
+        {
+          "text": "a missing brother",
+          "accent": "sage"
+        },
+        {
+          "text": "232 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 44
+    },
+    {
+      "id": "ol44772520w",
+      "title": "When Devils Sing",
+      "author": "Xan Kaur",
+      "isbn": "9781250357175",
+      "cover": "c2",
+      "blurb": "When a local teen vanishes from a debt-ridden motel, four unlikely allies uncover something ancient in their town.",
+      "aside": "Pitched to fans of Mexican Gothic and Midsommar.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 388,
+      "tags": [
+        {
+          "text": "a debt-ridden motel",
+          "accent": "rose"
+        },
+        {
+          "text": "a missing teen",
+          "accent": "gold"
+        },
+        {
+          "text": "a sinister town",
+          "accent": "sage"
+        },
+        {
+          "text": "388 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror"
+      ],
+      "contentFlags": [],
+      "popularity": 3
+    },
+    {
+      "id": "ol45358717w",
+      "title": "Japanese Gothic",
+      "author": "Kylie Lee Baker",
+      "isbn": "9781335001559",
+      "cover": "c3",
+      "blurb": "Lee Turner flees New York to his father's new house in Japan, where something is terribly wrong.",
+      "aside": "No animals will come near the house, and the bedroom window isn't always a window.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 344,
+      "tags": [
+        {
+          "text": "a house in Japan",
+          "accent": "rose"
+        },
+        {
+          "text": "a bedroom window",
+          "accent": "gold"
+        },
+        {
+          "text": "a dark secret",
+          "accent": "sage"
+        },
+        {
+          "text": "344 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror"
+      ],
+      "contentFlags": [],
+      "popularity": 4
+    },
+    {
+      "id": "ol27557566w",
+      "title": "The Hangman Feeds the Jackal",
+      "author": "Coy Hall",
+      "isbn": "9781944286248",
+      "cover": "c4",
+      "blurb": "A gunfighter haunted by hallucinations of the Hangman mistakenly kills innocents and hides in a monastery.",
+      "aside": "Once there, he encounters far greater dangers than the imaginary Hangman.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 290,
+      "tags": [
+        {
+          "text": "a gunfighter's hallucinations",
+          "accent": "rose"
+        },
+        {
+          "text": "an abandoned monastery",
+          "accent": "gold"
+        },
+        {
+          "text": "a Western",
+          "accent": "sage"
+        },
+        {
+          "text": "290 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 1
+    },
+    {
+      "id": "ol66718w",
+      "title": "The Pirate's Daughter",
+      "author": "Robert Girardi",
+      "isbn": "9780385314855",
+      "cover": "c5",
+      "blurb": "Wilson Lander, who fears any risk, meets Cricket Page, a sea-hardened woman with a hidden existence.",
+      "aside": "Wilson suffers from The Dread, the sense that something terrible is always lurking.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 336,
+      "tags": [
+        {
+          "text": "a fear of risk",
+          "accent": "rose"
+        },
+        {
+          "text": "a sea-hardened woman",
+          "accent": "gold"
+        },
+        {
+          "text": "a hidden existence",
+          "accent": "sage"
+        },
+        {
+          "text": "336 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 2
+    },
+    {
+      "id": "ol15662861w",
+      "title": "Instruments of Darkness",
+      "author": "Imogen Robertson",
+      "isbn": "9780670022427",
+      "cover": "c1",
+      "blurb": "A dead man with a ring from Thornleigh Hall pulls a willful Sussex mistress into a murder hunt.",
+      "aside": "She recruits a reclusive local anatomist named Gabriel Crowther to help.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 373,
+      "tags": [
+        {
+          "text": "Sussex in 1780",
+          "accent": "rose"
+        },
+        {
+          "text": "a reclusive anatomist",
+          "accent": "gold"
+        },
+        {
+          "text": "a murder hunt",
+          "accent": "sage"
+        },
+        {
+          "text": "373 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 3
+    },
+    {
+      "id": "ol35760378w",
+      "title": "Glutton",
+      "author": "A. K. Blakemore",
+      "isbn": "9781668030622",
+      "cover": "c2",
+      "blurb": "In 1798 a young nun keeps watch over a dying man who, they say, ate a golden fork.",
+      "aside": "He is rumored to have done monstrous things to sate an insatiable hunger.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 320,
+      "tags": [
+        {
+          "text": "Versailles hospital",
+          "accent": "rose"
+        },
+        {
+          "text": "a golden fork",
+          "accent": "gold"
+        },
+        {
+          "text": "1798 France",
+          "accent": "sage"
+        },
+        {
+          "text": "320 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Historical Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 3
+    },
+    {
+      "id": "ol16564552w",
+      "title": "American ghost",
+      "author": "Janis Owens",
+      "isbn": "9781451674675",
+      "cover": "c3",
+      "blurb": "Unresolved family history and racial tensions threaten a love affair between two young Floridians.",
+      "aside": "A richly woven story from a unique southern storyteller.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 278,
+      "tags": [
+        {
+          "text": "Florida",
+          "accent": "rose"
+        },
+        {
+          "text": "family secrets",
+          "accent": "gold"
+        },
+        {
+          "text": "a love affair",
+          "accent": "sage"
+        },
+        {
+          "text": "278 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 7
+    },
+    {
+      "id": "ol19994408w",
+      "title": "Fiercombe Manor",
+      "author": "Kate Riordan",
+      "isbn": "9781410479679",
+      "cover": "c4",
+      "blurb": "Two women from very different eras are united by secrets hidden within the walls of an English manor house.",
+      "aside": "For fans of Rebecca and The Little Stranger.",
+      "pace": "Slow burn",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 416,
+      "tags": [
+        {
+          "text": "dual timelines",
+          "accent": "rose"
+        },
+        {
+          "text": "an English manor",
+          "accent": "gold"
+        },
+        {
+          "text": "hidden secrets",
+          "accent": "sage"
+        },
+        {
+          "text": "416 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Historical Fiction"
+      ],
+      "contentFlags": [
+        "multiple POVs"
+      ],
+      "popularity": 4
+    },
+    {
+      "id": "ol19974091w",
+      "title": "Arcanum",
+      "author": "Simon Morden",
+      "isbn": "9781405516778",
+      "cover": "c5",
+      "blurb": "Alaric the Goth's horde of spell-casting shamans sacked Rome and carved the empire into bickering states.",
+      "aside": "The states were never more than an insult away from war.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 750,
+      "tags": [
+        {
+          "text": "a fallen Rome",
+          "accent": "rose"
+        },
+        {
+          "text": "spell-casting shamans",
+          "accent": "gold"
+        },
+        {
+          "text": "barbarian tribes",
+          "accent": "sage"
+        },
+        {
+          "text": "750 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy"
+      ],
+      "contentFlags": [],
+      "popularity": 2
+    },
+    {
+      "id": "ol1840323w",
+      "title": "Pact of the fathers",
+      "author": "Ramsey Campbell",
+      "isbn": "9780312878696",
+      "cover": "c1",
+      "blurb": "Daniella Logan finds robed men performing a ritual above her father's newly turned grave.",
+      "aside": "Teddy Logan is killed in a drunk-driving accident, and his daughter is stunned.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 414,
+      "tags": [
+        {
+          "text": "a secret ritual",
+          "accent": "rose"
+        },
+        {
+          "text": "a drunk-driving death",
+          "accent": "gold"
+        },
+        {
+          "text": "robed men",
+          "accent": "sage"
+        },
+        {
+          "text": "414 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror"
+      ],
+      "contentFlags": [],
+      "popularity": 4
+    },
+    {
+      "id": "ol3524585w",
+      "title": "Night magic",
+      "author": "Thomas Tryon",
+      "isbn": "9780684803937",
+      "cover": "c2",
+      "blurb": "A mime artist volunteers to become a magician's assistant, and his life takes a sinister turn.",
+      "aside": "He will need all his wits to avoid losing his soul.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 286,
+      "tags": [
+        {
+          "text": "a mime artist",
+          "accent": "rose"
+        },
+        {
+          "text": "a magician",
+          "accent": "gold"
+        },
+        {
+          "text": "New York",
+          "accent": "sage"
+        },
+        {
+          "text": "286 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror"
+      ],
+      "contentFlags": [],
+      "popularity": 4
+    },
+    {
+      "id": "ol19660187w",
+      "title": "The Clairvoyants: A Novel",
+      "author": "Karen Brown",
+      "isbn": "9781627797061",
+      "cover": "c3",
+      "blurb": "Martha Mary saw ghosts on the family homestead by the sea; now she hopes to leave them behind.",
+      "aside": "She is absorbed by a budding romance at an inland college.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 348,
+      "tags": [
+        {
+          "text": "a young woman with a gift",
+          "accent": "rose"
+        },
+        {
+          "text": "a college town",
+          "accent": "gold"
+        },
+        {
+          "text": "a budding romance",
+          "accent": "sage"
+        },
+        {
+          "text": "348 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 2
+    },
+    {
+      "id": "ol42395096w",
+      "title": "The Hounding",
+      "author": "Xenobe Purvis",
+      "isbn": "9781529154511",
+      "cover": "c4",
+      "blurb": "In Little Nettlebed, villagers hear barking, and one claims to see the Mansfield sisters transform.",
+      "aside": "Strange creatures wash up on the riverbed, and ravens gather on the roofs of people about to die.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 272,
+      "tags": [
+        {
+          "text": "a village steeped in the uncanny",
+          "accent": "rose"
+        },
+        {
+          "text": "the Mansfield sisters",
+          "accent": "gold"
+        },
+        {
+          "text": "ravens on the roofs",
+          "accent": "sage"
+        },
+        {
+          "text": "272 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror"
+      ],
+      "contentFlags": [],
+      "popularity": 4
     }
   ]
 }
