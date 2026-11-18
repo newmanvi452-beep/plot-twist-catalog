@@ -1,5 +1,5 @@
 {
-  "version": 78,
+  "version": 79,
   "retired": {
     "ol19661009w": "tattooist",
     "ol20742637w": "guestlist"
@@ -50256,6 +50256,80 @@
       ],
       "contentFlags": [],
       "popularity": 29
+    },
+    {
+      "id": "ol28954802w",
+      "title": "The Locked Door",
+      "author": "Freida McFadden",
+      "isbn": "9781464221354",
+      "cover": "c2",
+      "blurb": "A surgeon with a serial-killer father finds a patient murdered exactly the way his victims died.",
+      "aside": "Nora has spent decades keeping her family's basement secret, and a dead patient is about to make that very hard.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 312,
+      "tags": [
+        {
+          "text": "killer's daughter",
+          "accent": "rose"
+        },
+        {
+          "text": "surgeon heroine",
+          "accent": "gold"
+        },
+        {
+          "text": "psychological thriller",
+          "accent": "sage"
+        },
+        {
+          "text": "312 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller",
+        "Contemporary"
+      ],
+      "contentFlags": [],
+      "popularity": 668
+    },
+    {
+      "id": "ol20925485w",
+      "title": "The Girl Who Wasn't There",
+      "author": "Ferdinand von Schirach",
+      "isbn": "9780349140469",
+      "cover": "c4",
+      "blurb": "A lawyer defends a provocative Berlin artist accused of murder, only to find nothing about the case adds up.",
+      "aside": "Anyone who enjoys a courtroom thriller that refuses to tell you what is real will find plenty to chew on here.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 224,
+      "tags": [
+        {
+          "text": "courtroom thriller",
+          "accent": "rose"
+        },
+        {
+          "text": "artist under suspicion",
+          "accent": "gold"
+        },
+        {
+          "text": "berlin setting",
+          "accent": "sage"
+        },
+        {
+          "text": "224 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Mystery & Thriller",
+        "Contemporary"
+      ],
+      "contentFlags": [],
+      "popularity": 33
     }
   ]
 }
