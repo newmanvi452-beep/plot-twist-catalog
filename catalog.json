@@ -1,5 +1,5 @@
 {
-  "version": 79,
+  "version": 80,
   "retired": {
     "ol19661009w": "tattooist",
     "ol20742637w": "guestlist"
@@ -50330,6 +50330,231 @@
       ],
       "contentFlags": [],
       "popularity": 33
+    },
+    {
+      "id": "ol20038336w",
+      "title": "The Family Plot",
+      "author": "Cherie Priest",
+      "isbn": "9780765396075",
+      "cover": "c4",
+      "blurb": "A salvage crew clearing a Chattanooga estate finds the empty house still harbouring something angry and lost.",
+      "aside": "Anyone who has ever wanted a haunted house with a sharp-tongued salvage crew and a cemetery nobody remembered to list will feel at home.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 365,
+      "tags": [
+        {
+          "text": "haunted estate",
+          "accent": "rose"
+        },
+        {
+          "text": "salvage crew",
+          "accent": "gold"
+        },
+        {
+          "text": "southern gothic",
+          "accent": "sage"
+        },
+        {
+          "text": "365 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Contemporary"
+      ],
+      "contentFlags": [],
+      "popularity": 12
+    },
+    {
+      "id": "ol20032791w",
+      "title": "Grief Is the Thing with Feathers",
+      "author": "Max Porter",
+      "isbn": "9780571323760",
+      "cover": "c1",
+      "blurb": "A grieving family is visited by Crow, a trickster who refuses to leave until they no longer need him.",
+      "aside": "Short, strange and quietly devastating: the sort of book you finish in one sitting and then carry around for a week.",
+      "pace": "Slow burn",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 121,
+      "tags": [
+        {
+          "text": "grief fable",
+          "accent": "rose"
+        },
+        {
+          "text": "trickster crow",
+          "accent": "gold"
+        },
+        {
+          "text": "motherless boys",
+          "accent": "sage"
+        },
+        {
+          "text": "121 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction",
+        "Contemporary"
+      ],
+      "contentFlags": [
+        "talking animals",
+        "multiple POVs"
+      ],
+      "popularity": 78
+    },
+    {
+      "id": "ol20871850w",
+      "title": "While You Sleep",
+      "author": "Stephanie Merritt",
+      "isbn": "9780008248208",
+      "cover": "c2",
+      "blurb": "An American woman flees a failing marriage to a remote Scottish island, where the house holds more than ghosts.",
+      "aside": "Everyone on the island insists the house is only remembering its dead, and Zoe is not convinced.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 389,
+      "tags": [
+        {
+          "text": "remote island",
+          "accent": "rose"
+        },
+        {
+          "text": "haunted house",
+          "accent": "gold"
+        },
+        {
+          "text": "missing boy",
+          "accent": "sage"
+        },
+        {
+          "text": "389 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 1
+    },
+    {
+      "id": "ol20114219w",
+      "title": "The Upstairs Room",
+      "author": "Kate Murray-Browne",
+      "isbn": "9781509837588",
+      "cover": "c1",
+      "blurb": "Eleanor, newly moved into a Victorian townhouse, becomes fixated on the name Emily scrawled across the upstairs walls.",
+      "aside": "Every crack in this dream house is worth a second look, and the upstairs room is the one you will want to open.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 320,
+      "tags": [
+        {
+          "text": "haunted townhouse",
+          "accent": "rose"
+        },
+        {
+          "text": "strained marriage",
+          "accent": "gold"
+        },
+        {
+          "text": "house history",
+          "accent": "sage"
+        },
+        {
+          "text": "320 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Contemporary"
+      ],
+      "contentFlags": [],
+      "popularity": 1
+    },
+    {
+      "id": "ol20005705w",
+      "title": "Loving Day",
+      "author": "Mat Johnson",
+      "isbn": "9780812983661",
+      "cover": "c2",
+      "blurb": "Warren Duffy inherits a ruined Philadelphia mansion and meets a teenage girl whose face carries his dead parents.",
+      "aside": "Ghosts, comics, a failed marriage and a father who will not stay buried: a sharp book that refuses to pick one kind of haunting.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 296,
+      "tags": [
+        {
+          "text": "inherited mansion",
+          "accent": "rose"
+        },
+        {
+          "text": "mixed-race identity",
+          "accent": "gold"
+        },
+        {
+          "text": "ghost story",
+          "accent": "sage"
+        },
+        {
+          "text": "296 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction",
+        "Contemporary"
+      ],
+      "contentFlags": [],
+      "popularity": 6
+    },
+    {
+      "id": "ol19662285w",
+      "title": "Past Perfect",
+      "author": "Danielle Steel",
+      "isbn": "9781509881352",
+      "cover": "c4",
+      "blurb": "A Manhattan family moves into a San Francisco mansion and finds its former owners still in residence.",
+      "aside": "Anyone who wanted a haunted house with a very polite ghost family will find exactly what they ordered here.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 320,
+      "tags": [
+        {
+          "text": "polite ghosts",
+          "accent": "rose"
+        },
+        {
+          "text": "san francisco",
+          "accent": "gold"
+        },
+        {
+          "text": "family saga",
+          "accent": "sage"
+        },
+        {
+          "text": "320 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Contemporary",
+        "Fantasy"
+      ],
+      "contentFlags": [],
+      "popularity": 15
     }
   ]
 }
