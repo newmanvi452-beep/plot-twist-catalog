@@ -1,5 +1,5 @@
 {
-  "version": 80,
+  "version": 81,
   "retired": {
     "ol19661009w": "tattooist",
     "ol20742637w": "guestlist"
@@ -50555,6 +50555,190 @@
       ],
       "contentFlags": [],
       "popularity": 15
+    },
+    {
+      "id": "ol20100482w",
+      "title": "Mongrels",
+      "author": "Stephen Graham Jones",
+      "isbn": "9780062412706",
+      "cover": "c5",
+      "blurb": "An outsider boy must choose between the road with his aunt and uncle or the town across the tracks.",
+      "aside": "Darkly funny and quietly sad, this coming-of-age story asks what it costs to belong to a family the world won't accept.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 320,
+      "tags": [
+        {
+          "text": "outsider family",
+          "accent": "rose"
+        },
+        {
+          "text": "coming of age",
+          "accent": "gold"
+        },
+        {
+          "text": "darkly funny",
+          "accent": "sage"
+        },
+        {
+          "text": "320 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Literary Fiction",
+        "Fantasy"
+      ],
+      "contentFlags": [],
+      "popularity": 5
+    },
+    {
+      "id": "ol20917658w",
+      "title": "Empire of Wild",
+      "author": "Cherie Dimaline",
+      "isbn": "9780062975959",
+      "cover": "c3",
+      "blurb": "A woman searching for her missing husband turns to an elderly card shark who knows the old ways of her Metis people.",
+      "aside": "Part missing-person mystery and part supernatural rescue, and hard to put down once the old ways start to matter.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 320,
+      "tags": [
+        {
+          "text": "missing husband",
+          "accent": "rose"
+        },
+        {
+          "text": "indigenous folklore",
+          "accent": "gold"
+        },
+        {
+          "text": "card shark elder",
+          "accent": "sage"
+        },
+        {
+          "text": "320 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 33
+    },
+    {
+      "id": "ol19541804w",
+      "title": "The Changeling",
+      "author": "Victor D. LaValle",
+      "isbn": "9780812985870",
+      "cover": "c5",
+      "blurb": "A man searches an enchanted world for his wife, who vanished after an act of violence.",
+      "aside": "A bookseller's odyssey through a fairy-tale world that is less whimsical than it sounds, and all the more gripping for it.",
+      "pace": "Steady",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 440,
+      "tags": [
+        {
+          "text": "enchanted world",
+          "accent": "rose"
+        },
+        {
+          "text": "missing wife",
+          "accent": "gold"
+        },
+        {
+          "text": "fairy-tale odyssey",
+          "accent": "sage"
+        },
+        {
+          "text": "440 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy",
+        "Literary Fiction"
+      ],
+      "contentFlags": [],
+      "popularity": 51
+    },
+    {
+      "id": "ol19145737w",
+      "title": "Spinning Silver",
+      "author": "Naomi Novik",
+      "isbn": "9780399180989",
+      "cover": "c5",
+      "blurb": "A moneylender's daughter who can turn silver into gold draws the attention of the cold creatures who haunt the wood.",
+      "aside": "A Rumpelstiltskin retelling with a debt collector at its heart and a wood far more dangerous than it looks.",
+      "pace": "Steady",
+      "romanceLevel": "A little is nice",
+      "spiceLevel": "Closed door",
+      "pageCount": 473,
+      "tags": [
+        {
+          "text": "fairy-tale retelling",
+          "accent": "rose"
+        },
+        {
+          "text": "moneylender heroine",
+          "accent": "gold"
+        },
+        {
+          "text": "cold creatures",
+          "accent": "sage"
+        },
+        {
+          "text": "473 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Fantasy"
+      ],
+      "contentFlags": [],
+      "popularity": 79
+    },
+    {
+      "id": "ol19718518w",
+      "title": "After the Flare",
+      "author": "Deji Bryce Olukotun",
+      "isbn": "9781944700188",
+      "cover": "c4",
+      "blurb": "A solar flare cripples the world's communications, and a former NASA employee must launch a rescue from Nigeria.",
+      "aside": "Imagine the world going dark, with the only working space program in Nigeria. Nobody saw that coming.",
+      "pace": "Fast-paced",
+      "romanceLevel": "Not really my thing",
+      "spiceLevel": "Closed door",
+      "pageCount": 301,
+      "tags": [
+        {
+          "text": "solar flare",
+          "accent": "rose"
+        },
+        {
+          "text": "near-future thriller",
+          "accent": "gold"
+        },
+        {
+          "text": "nigerian space program",
+          "accent": "sage"
+        },
+        {
+          "text": "301 pages",
+          "accent": "textSoft"
+        }
+      ],
+      "genres": [
+        "Science Fiction",
+        "Mystery & Thriller"
+      ],
+      "contentFlags": [],
+      "popularity": 10
     }
   ]
 }
